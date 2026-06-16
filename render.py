@@ -7,13 +7,22 @@ index.html (Bloomberg-terminal theme) and feed.xml (RSS 2.0).
 
 The Cowork publish task must ONLY update items.json and then run this script,
 committing items.json + index.html + feed.xml. It must never hand-write the HTML
-template — that is what previously reverted the design.
+template - that is what previously reverted the design.
 
-Usage:  python3 render.py           # reads ./items.json, writes ./index.html and ./feed.xml
+PUBLIC-SAFE FIELDS ONLY. items.json in THIS (public) repo must never contain the
+gated layer (severity, operator_exposure, why_it_matters, watchlist_implication,
+etc.) - the repo is world-readable, so anything here is public even if not
+rendered. Gated analysis lives in the private repo and reaches subscribers via
+Beehiiv. Public-safe per-item fields this renderer reads:
+  id, date, published, issuing_body, title, facts, source_url, source_label,
+  tags[], source_type, primary_source_status, relevant_to
+
+Usage:  python3 render.py
 Stdlib only. No dependencies, no network.
 """
 import json, html, sys, os
 from datetime import datetime, timezone
+from urllib.parse import urlparse
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 ITEMS = os.path.join(ROOT, "items.json")
@@ -22,6 +31,15 @@ ITEMS = os.path.join(ROOT, "items.json")
 BEEHIIV_URL = "https://regriskradar.beehiiv.com/"
 X_URL = "https://x.com/0xTG3"
 X_HANDLE = "@0xTG3"
+CTA_RSS = "Subscribe for the weekly operator-impact rundown — " + BEEHIIV_URL
+
+# source_type -> (public chip label, css class, RSS prefix)
+SRC_LABELS = {
+    "primary_source": ("PRIMARY SOURCE", "primary", "Primary source"),
+    "coverage_reporting_filing": ("COVERAGE · reporting filing", "coverage", "Coverage (reporting filing)"),
+    "media_coverage": ("COVERAGE", "coverage", "Coverage"),
+    "mixed": ("MIXED SOURCES", "coverage", "Sources"),
+}
 
 
 def esc(s):
@@ -31,6 +49,16 @@ def esc(s):
 def rfc822(iso):
     dt = datetime.strptime(iso, "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc)
     return dt.strftime("%a, %d %b %Y %H:%M:%S +0000")
+
+
+def source_type_of(it):
+    """Explicit source_type wins; otherwise fall back conservatively (never
+    claim primary unless the host is a .gov). Keeps old items honest."""
+    st = it.get("source_type")
+    if not st:
+        host = (urlparse(it.get("source_url", "")).hostname or "").lower()
+        st = "primary_source" if host.endswith(".gov") else "media_coverage"
+    return st if st in SRC_LABELS else "media_coverage"
 
 
 def load():
@@ -110,8 +138,13 @@ STYLE = """  :root{
   .item h2{font-size:17px; line-height:1.4; margin:.55em 0 .5em; color:#fff; font-weight:700; letter-spacing:-.005em}
   .item p{margin:.5em 0; color:var(--ink)}
   .src{font-size:12.5px; color:var(--mut)}
-  .src::before{content:"SOURCE ▸ "; color:var(--amber-dim); letter-spacing:.08em}
+  .srctype{font-size:10.5px; letter-spacing:.1em; text-transform:uppercase; margin-right:7px}
+  .srctype::before{content:"▸ "; color:var(--mut)}
+  .srctype-primary{color:var(--green)}
+  .srctype-coverage{color:var(--amber-dim)}
   .src a{color:var(--cyan)}
+  .relto{font-size:11px; color:var(--mut); margin-top:8px; letter-spacing:.03em}
+  .relto::before{content:"RELEVANT TO ▸ "; color:var(--amber-dim); letter-spacing:.08em}
   .tags{margin-top:12px; display:flex; flex-wrap:wrap; gap:6px}
   .tag{
     font-size:10.5px; letter-spacing:.08em; text-transform:uppercase; color:var(--mut);
@@ -143,18 +176,22 @@ CLOCK_JS = """    (function(){
 
 def render_item(it):
     tags = " ".join('<span class="tag">%s</span>' % esc(t) for t in it.get("tags", []))
+    chip_label, chip_cls, _ = SRC_LABELS[source_type_of(it)]
+    relto = it.get("relevant_to")
+    relto_html = ('\n        <p class="relto">%s</p>' % esc(relto)) if relto else ""
     return (
         '      <article class="item" id="%(id)s">\n'
         '        <div class="meta"><time datetime="%(pub)s">%(date)s</time> · <span class="body">%(body)s</span></div>\n'
         '        <h2>%(title)s</h2>\n'
         '        <p>%(facts)s</p>\n'
-        '        <p class="src"><a href="%(url)s" rel="noopener">%(label)s</a></p>\n'
+        '        <p class="src"><span class="srctype srctype-%(cls)s">%(chip)s</span><a href="%(url)s" rel="noopener">%(label)s</a></p>%(relto)s\n'
         '        <div class="tags">%(tags)s</div>\n'
         '      </article>'
     ) % {
         "id": esc(it["id"]), "pub": esc(it["published"]), "date": esc(it["date"]),
         "body": esc(it["issuing_body"]), "title": esc(it["title"]), "facts": esc(it["facts"]),
         "url": esc(it["source_url"]), "label": esc(it["source_label"]), "tags": tags,
+        "cls": chip_cls, "chip": chip_label, "relto": relto_html,
     }
 
 
@@ -183,7 +220,7 @@ def render_index(site, items):
   <div class="legend">
     <span>Regulatory radar</span><span class="sep">//</span>
     <span>Crypto · Gaming · Payments · Fintech</span><span class="sep">//</span>
-    <span class="amber">Primary-source verified</span><span class="sep">//</span>
+    <span class="amber">Sourced &amp; labeled</span><span class="sep">//</span>
     <span>Curated by <a href="%(xurl)s" rel="noopener">%(xhandle)s</a></span>
   </div>
 
@@ -229,8 +266,9 @@ def render_feed(site, items):
         '    <atom:link href="%sfeed.xml" rel="self" type="application/rss+xml" />' % esc(site["url"]),
     ]
     for it in items:
-        desc = "%s\n\nPrimary source: %s — %s\n\n%s" % (
-            it["facts"], it["source_label"], it["source_url"], site["disclaimer"])
+        prefix = SRC_LABELS[source_type_of(it)][2]
+        desc = "%s\n\n%s: %s — %s\n\n%s\n\n%s" % (
+            it["facts"], prefix, it["source_label"], it["source_url"], CTA_RSS, site["disclaimer"])
         parts += [
             '    <item>',
             '      <title>%s</title>' % esc(it["title"]),
