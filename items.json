@@ -22,7 +22,10 @@
         "preemption",
         "gaming",
         "crypto"
-      ]
+      ],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction-market platforms, sportsbooks, exchanges, CFTC registrants"
     },
     {
       "id": "2026-06-15-nevada-gcb-contempt-kalshi",
@@ -41,7 +44,10 @@
         "geofencing",
         "gaming",
         "crypto"
-      ]
+      ],
+      "source_type": "coverage_reporting_filing",
+      "primary_source_status": "cited_by_coverage_not_retrieved",
+      "relevant_to": "prediction-market platforms, geolocation/compliance vendors, sportsbooks"
     },
     {
       "id": "2026-06-15-coalition-v-kentucky-tax",
@@ -60,7 +66,10 @@
         "preemption",
         "gaming",
         "crypto"
-      ]
+      ],
+      "source_type": "coverage_reporting_filing",
+      "primary_source_status": "cited_by_coverage_not_retrieved",
+      "relevant_to": "prediction-market platforms, licensed gaming operators, payment processors"
     },
     {
       "id": "2026-06-16-wisconsin-pi-event-contracts",
@@ -79,7 +88,10 @@
         "preemption",
         "gaming",
         "crypto"
-      ]
+      ],
+      "source_type": "coverage_reporting_filing",
+      "primary_source_status": "cited_by_coverage_not_retrieved",
+      "relevant_to": "prediction-market platforms, crypto exchanges, brokerages"
     },
     {
       "id": "2026-06-16-gensler-amicus-sixth-circuit",
@@ -100,7 +112,10 @@
         "Sixth-Circuit",
         "gaming",
         "crypto"
-      ]
+      ],
+      "source_type": "coverage_reporting_filing",
+      "primary_source_status": "cited_by_coverage_not_retrieved",
+      "relevant_to": "prediction-market platforms, derivatives exchanges, crypto exchanges"
     },
     {
       "id": "2026-06-16-delaware-new-jersey-crypto-atm-ban",
@@ -121,7 +136,10 @@
         "fraud",
         "Delaware",
         "New-Jersey"
-      ]
+      ],
+      "source_type": "coverage_reporting_filing",
+      "primary_source_status": "cited_by_coverage_not_retrieved",
+      "relevant_to": "crypto-ATM/kiosk operators, payment processors, compliance vendors"
     },
     {
       "id": "2026-06-16-fta-v-tennessee-remittance-tax",
@@ -142,7 +160,10 @@
         "litigation",
         "Tennessee",
         "HB2502"
-      ]
+      ],
+      "source_type": "coverage_reporting_filing",
+      "primary_source_status": "cited_by_coverage_not_retrieved",
+      "relevant_to": "money transmitters, remittance providers, payment processors, fintechs"
     }
   ]
 }
