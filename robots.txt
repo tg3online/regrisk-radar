@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tg3online.github.io/regrisk-radar/sitemap.xml
