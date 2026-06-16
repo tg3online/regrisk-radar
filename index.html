@@ -7,57 +7,155 @@
 <meta name="description" content="Daily facts-only regulatory radar — crypto, gaming, payments &amp; fintech. Verified against primary sources.">
 <link rel="alternate" type="application/rss+xml" title="RegRisk Radar RSS" href="feed.xml">
 <style>
-  :root{--bg:#0d1117;--card:#161b22;--ink:#e6edf3;--mut:#8b949e;--acc:#2f81f7;--line:#21262d}
+  :root{
+    --bg:#06080a; --panel:#0b0e12; --panel2:#0f1419; --ink:#d7dde4; --mut:#6b7682;
+    --amber:#ffb000; --amber-dim:#b8841f; --cyan:#46c8c3; --green:#46d160; --line:#1a212a;
+    --mono:"SFMono-Regular","JetBrains Mono","IBM Plex Mono",Menlo,Consolas,"Liberation Mono",monospace;
+  }
   *{box-sizing:border-box}
-  body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.6 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
-  .wrap{max-width:760px;margin:0 auto;padding:32px 20px 64px}
-  header h1{margin:0;font-size:28px;letter-spacing:-.02em}
-  header p{color:var(--mut);margin:.4em 0 0}
-  .sub{display:flex;gap:14px;align-items:center;margin-top:14px;font-size:14px}
-  .sub a{color:var(--acc);text-decoration:none}
-  .item{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:20px 22px;margin:18px 0}
-  .item h2{font-size:19px;margin:.2em 0 .5em;line-height:1.35}
-  .meta{color:var(--mut);font-size:13px;text-transform:uppercase;letter-spacing:.04em}
-  .src a{color:var(--acc);text-decoration:none}
-  .src{font-size:14px}
-  .tags{margin-top:10px;display:flex;flex-wrap:wrap;gap:6px}
-  .tag{font-size:12px;color:var(--mut);border:1px solid var(--line);border-radius:20px;padding:2px 10px}
-  footer{margin-top:40px;padding-top:20px;border-top:1px solid var(--line);color:var(--mut);font-size:13px}
+  html,body{margin:0}
+  body{
+    background:var(--bg); color:var(--ink); font:14px/1.65 var(--mono);
+    -webkit-font-smoothing:antialiased;
+    background-image:linear-gradient(rgba(255,255,255,.014) 1px,transparent 1px);
+    background-size:100% 3px;
+  }
+  a{color:var(--amber); text-decoration:none}
+  a:hover{text-decoration:underline}
+  .topbar{
+    position:sticky; top:0; z-index:5; display:flex; align-items:center; gap:16px;
+    padding:10px 18px; background:rgba(8,10,13,.92); backdrop-filter:blur(4px);
+    border-bottom:1px solid var(--amber-dim);
+  }
+  .brand{font-weight:700; letter-spacing:.06em; font-size:15px}
+  .brand .amber{color:var(--amber)}
+  .cursor{color:var(--amber); animation:blink 1.1s step-end infinite}
+  @keyframes blink{50%{opacity:0}}
+  .spacer{flex:1}
+  .clock{font-size:12px; color:var(--mut); letter-spacing:.08em; font-variant-numeric:tabular-nums}
+  .rss{font-size:11px; letter-spacing:.12em; border:1px solid var(--line); padding:3px 9px; color:var(--amber)}
+  .rss:hover{border-color:var(--amber-dim); text-decoration:none}
+  .legend{
+    display:flex; flex-wrap:wrap; gap:10px; align-items:center;
+    padding:8px 18px; font-size:11px; letter-spacing:.12em; text-transform:uppercase;
+    color:var(--mut); border-bottom:1px solid var(--line); background:var(--panel);
+  }
+  .legend .sep{color:#2a3340}
+  .legend .amber{color:var(--amber-dim)}
+  .legend a{color:var(--mut)}
+  .legend a:hover{color:var(--amber); text-decoration:none}
+  .subscribe{
+    display:flex; flex-wrap:wrap; gap:12px; align-items:center;
+    padding:11px 18px; border-bottom:1px solid var(--line); background:var(--panel2);
+  }
+  .subscribe .lbl{color:var(--amber); font-size:11px; letter-spacing:.12em; font-weight:700}
+  .subscribe .desc{color:var(--mut); font-size:12px; flex:1; min-width:200px}
+  .btn{
+    display:inline-block; font:inherit; font-size:11.5px; letter-spacing:.1em; text-transform:uppercase;
+    padding:6px 14px; border:1px solid var(--amber-dim); color:var(--amber); white-space:nowrap;
+  }
+  .btn:hover{background:var(--amber); color:var(--bg); border-color:var(--amber); text-decoration:none}
+  .btn-solid{background:var(--amber); color:var(--bg); border-color:var(--amber); font-weight:700}
+  .btn-solid:hover{background:#ffc333; color:var(--bg)}
+  .wrap{max-width:980px; margin:0 auto; padding:6px 18px 70px}
+  main{margin-top:6px}
+  .item{
+    border:1px solid var(--line); border-left:2px solid var(--amber-dim);
+    background:var(--panel); padding:16px 20px; margin:14px 0; position:relative;
+    transition:border-color .12s, background .12s;
+  }
+  .item:hover{border-color:#2c3744; border-left-color:var(--amber); background:var(--panel2)}
+  .meta{
+    display:flex; flex-wrap:wrap; gap:10px; align-items:center;
+    font-size:11px; letter-spacing:.1em; text-transform:uppercase; color:var(--mut);
+  }
+  .meta time{color:var(--amber-dim)}
+  .meta time::before{content:"▸ "; color:var(--mut)}
+  .meta .body{color:var(--bg); background:var(--amber); padding:1px 8px; font-weight:700; letter-spacing:.08em}
+  .item h2{font-size:17px; line-height:1.4; margin:.55em 0 .5em; color:#fff; font-weight:700; letter-spacing:-.005em}
+  .item p{margin:.5em 0; color:var(--ink)}
+  .src{font-size:12.5px; color:var(--mut)}
+  .src::before{content:"SOURCE ▸ "; color:var(--amber-dim); letter-spacing:.08em}
+  .src a{color:var(--cyan)}
+  .tags{margin-top:12px; display:flex; flex-wrap:wrap; gap:6px}
+  .tag{
+    font-size:10.5px; letter-spacing:.08em; text-transform:uppercase; color:var(--mut);
+    border:1px solid var(--line); padding:2px 8px;
+  }
+  .tag::before{content:"["; color:#2a3340}
+  .tag::after{content:"]"; color:#2a3340}
+  footer{
+    max-width:980px; margin:34px auto 0; padding:16px 18px 0; border-top:1px solid var(--line);
+    color:var(--mut); font-size:11.5px; line-height:1.7;
+  }
+  .disc-h{display:block; color:var(--amber-dim); letter-spacing:.14em; margin-bottom:6px}
+  @media(max-width:560px){
+    .legend{display:none}
+    .clock{display:none}
+    .item{padding:14px 15px}
+    .subscribe .desc{display:none}
+  }
 </style>
 </head>
 <body>
+  <header class="topbar">
+    <div class="brand"><span class="amber">REGRISK</span> RADAR<span class="cursor">_</span></div>
+    <div class="spacer"></div>
+    <div class="clock" id="clock">--:--:-- UTC</div>
+    <a class="rss" href="feed.xml">RSS ▸</a>
+  </header>
+
+  <div class="legend">
+    <span>Regulatory radar</span><span class="sep">//</span>
+    <span>Crypto · Gaming · Payments · Fintech</span><span class="sep">//</span>
+    <span class="amber">Primary-source verified</span><span class="sep">//</span>
+    <span>Curated by <a href="https://x.com/0xTG3" rel="noopener">@0xTG3</a></span>
+  </div>
+
+  <div class="subscribe">
+    <span class="lbl">▸ WEEKLY DIGEST</span>
+    <span class="desc">Enforcement, regulator moves &amp; operator risk signals — facts + primary sources. No spam.</span>
+    <a class="btn btn-solid" href="https://regriskradar.beehiiv.com/" rel="noopener">Subscribe →</a>
+  </div>
+
   <div class="wrap">
-    <header>
-      <h1>RegRisk Radar</h1>
-      <p>Daily facts-only regulatory radar — crypto, gaming, payments &amp; fintech. Verified against primary sources.</p>
-      <div class="sub"><a href="feed.xml">RSS feed</a> · <span class="body">Facts + primary source. Analysis in the weekly digest.</span></div>
-    </header>
     <main>
       <article class="item" id="2026-06-15-coalition-v-kentucky-tax">
         <div class="meta"><time datetime="2026-06-15T09:10:00Z">2026-06-15</time> · <span class="body">Coalition for Fair Markets (NADEX, Kalshi, Polymarket/QCX)</span></div>
         <h2>Prediction-market coalition sues Kentucky over 14.25% tax on event-contract trading</h2>
         <p>As reported by SBC Americas (first reported by the Associated Press and corroborated by Gambling Insider), on 2026-06-12 the Coalition for Fair Markets — comprising Crypto.com&#x27;s North American Derivatives Exchange (NADEX), Kalshi, and Polymarket&#x27;s U.S. exchange QCX — filed suit in Franklin Circuit Court to block Kentucky from implementing a 14.25% tax on prediction-market transaction fees set to take effect Jan. 1, 2027, arguing the measure unlawfully targets federally regulated event-contract exchanges and is preempted by federal derivatives law. The enacted package (HB 757 and HB 904) also bars state-licensed gaming operators from doing business with platforms offering sports event-contract trading in Kentucky, a prohibition due to take effect next month. Kentucky Attorney General Russell Coleman, a named defendant, said his office &#x27;will defend these statutes.&#x27;</p>
-        <p class="src">Primary source: <a href="https://sbcamericas.com/2026/06/15/kentucky-prediction-markets-lawsuit/" rel="noopener">SBC Americas (reporting the Coalition for Fair Markets filing; first reported by the Associated Press)</a></p>
+        <p class="src"><a href="https://sbcamericas.com/2026/06/15/kentucky-prediction-markets-lawsuit/" rel="noopener">SBC Americas (reporting the Coalition for Fair Markets filing; first reported by the Associated Press)</a></p>
         <div class="tags"><span class="tag">Kentucky</span> <span class="tag">prediction-markets</span> <span class="tag">event-contracts</span> <span class="tag">state-tax</span> <span class="tag">preemption</span> <span class="tag">gaming</span> <span class="tag">crypto</span></div>
       </article>
       <article class="item" id="2026-06-15-nevada-gcb-contempt-kalshi">
         <div class="meta"><time datetime="2026-06-15T09:05:00Z">2026-06-15</time> · <span class="body">Nevada Gaming Control Board</span></div>
         <h2>Nevada gaming regulator seeks to hold Kalshi in contempt over prediction-market geofencing</h2>
         <p>As reported by the Las Vegas Review-Journal (and corroborated by InterGame and Gambling Insider), on 2026-06-12 the Nevada Gaming Control Board petitioned the First Judicial District Court in Carson City to find KalshiEx LLC in contempt for allegedly not complying with a May 18 order requiring it to geofence its website so it cannot offer sports-, election-, or entertainment-related event contracts to anyone located in Nevada. The Board asked the court to impose sanctions, including disgorgement of profits from Nevada transactions or daily penalties until compliance. A Kalshi spokesperson said the company has complied, attributed the issue to a technology glitch, and called the filing a &#x27;PR stunt.&#x27;</p>
-        <p class="src">Primary source: <a href="https://www.reviewjournal.com/business/casinos-gaming/nevada-gaming-regulators-ask-judge-to-find-kalshi-in-contempt-of-court-3838501/" rel="noopener">Las Vegas Review-Journal (reporting the Nevada GCB court filing)</a></p>
+        <p class="src"><a href="https://www.reviewjournal.com/business/casinos-gaming/nevada-gaming-regulators-ask-judge-to-find-kalshi-in-contempt-of-court-3838501/" rel="noopener">Las Vegas Review-Journal (reporting the Nevada GCB court filing)</a></p>
         <div class="tags"><span class="tag">Nevada</span> <span class="tag">prediction-markets</span> <span class="tag">event-contracts</span> <span class="tag">enforcement</span> <span class="tag">geofencing</span> <span class="tag">gaming</span> <span class="tag">crypto</span></div>
       </article>
       <article class="item" id="2026-06-15-cftc-v-new-mexico">
         <div class="meta"><time datetime="2026-06-15T09:00:00Z">2026-06-15</time> · <span class="body">CFTC</span></div>
         <h2>CFTC sues New Mexico over prediction-market preemption (8th state)</h2>
         <p>On 2026-06-12 the CFTC filed suit in federal court against the State of New Mexico, seeking a declaratory judgment that federal law grants it exclusive authority over event contracts and a permanent injunction barring the state from enforcing preempted gaming laws against CFTC registrants. The action follows New Mexico&#x27;s state-court suit against CFTC-registrant KalshiEX LLC alleging its prediction-market offerings are unlawful online sports betting. The release states New Mexico joins AZ, CT, IL, NY, MN, RI, and WI.</p>
-        <p class="src">Primary source: <a href="https://www.cftc.gov/PressRoom/PressReleases/9251-26" rel="noopener">CFTC Press Release 9251-26</a></p>
+        <p class="src"><a href="https://www.cftc.gov/PressRoom/PressReleases/9251-26" rel="noopener">CFTC Press Release 9251-26</a></p>
         <div class="tags"><span class="tag">CFTC</span> <span class="tag">prediction-markets</span> <span class="tag">preemption</span> <span class="tag">gaming</span> <span class="tag">crypto</span></div>
       </article>
     </main>
     <footer>
-      <p>RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</p>
+      <p><span class="disc-h">// DISCLAIMER</span>RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</p>
     </footer>
   </div>
+
+  <script>
+    (function(){
+      var el=document.getElementById('clock');
+      function tick(){
+        var d=new Date(), p=function(n){return String(n).padStart(2,'0')};
+        el.textContent=p(d.getUTCHours())+':'+p(d.getUTCMinutes())+':'+p(d.getUTCSeconds())+' UTC';
+      }
+      tick(); setInterval(tick,1000);
+    })();
+  </script>
 </body>
 </html>
