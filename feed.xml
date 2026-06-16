@@ -5,7 +5,7 @@
     <link>https://tg3online.github.io/regrisk-radar/</link>
     <description>Daily facts-only regulatory radar — crypto, gaming, payments &amp; fintech. Verified against primary sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Jun 2026 20:13:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 21:00:01 +0000</lastBuildDate>
     <atom:link href="https://tg3online.github.io/regrisk-radar/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pennsylvania Supreme Court rules skill games are slot machines; 120-day enforcement stay issued</title>
@@ -16,6 +16,8 @@
       <description>On June 15, 2026, the Pennsylvania Supreme Court issued its majority opinion in J-97-2025 (Pace-O-Matic v. Pennsylvania), ruling that skill game machines &#x27;are subject to both the Gaming Act and the Crimes Code,&#x27; overturning a Commonwealth Court ruling the Justices called &#x27;deeply flawed.&#x27; Justice David Wecht wrote that the POM device is &#x27;several times over&#x27; a slot machine and the legal definition &#x27;describes the POM device with precision.&#x27; The Court issued a 120-day enforcement stay during which law enforcement cannot take action against owners and operators, and noted the General Assembly &#x27;remains free at any time to take whatever legislative action it may deem appropriate.&#x27; Pace-O-Matic stated it is &#x27;disappointed,&#x27; said the impact on 10,000+ small businesses and fraternal clubs presents an &#x27;impossible choice,&#x27; and will pursue a legislative solution; bipartisan bills SB 1079 (Sen. Yaw) and HB 2213 (Rep. Burgos) are cited. Pennsylvania AG Dave Sunday called the ruling &#x27;a significant victory for consumers, taxpayers, and the rule of law.&#x27; An estimated 70,000+ skill game machines operate in bars, VFWs, restaurants, and fraternal clubs statewide.
 
 Primary source: Pennsylvania Supreme Court Opinion J-97-2025 (majority opinion) — https://www.pacourts.us/assets/opinions/Supreme/out/J-97-2025mo.pdf
+
+Relevant to: skill game operators, gaming venues (bars, VFWs, fraternal clubs), payment processors, PA legislators
 
 For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
 
@@ -31,6 +33,8 @@ RegRisk Radar is regulatory-risk intelligence provided for general informational
 
 Coverage (reporting filing): The Center Square (reporting the FTA v. Tennessee filing) — https://www.thecentersquare.com/tennessee/article_8ba6c1a3-e3a1-4021-99cd-f70b237c3727.html
 
+Relevant to: money transmitters, remittance providers, payment processors, fintechs
+
 For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
 
 RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
@@ -44,6 +48,8 @@ RegRisk Radar is regulatory-risk intelligence provided for general informational
       <description>As reported by The Defiant (and corroborated by Cointelegraph, CryptoNews, and Grafa), Delaware and New Jersey have each advanced legislation to ban cryptocurrency ATMs statewide, citing fraud losses. Delaware&#x27;s House Bill 441 cleared the House Economic Development Committee and passed the House; it would require existing kiosks to go dark upon enactment and be physically removed within 90 days, bar cashier-assisted workarounds, and expose operators to unlawful-trade-practice charges plus victim-refund and forfeiture obligations. New Jersey&#x27;s Senate Bill S-2141 cleared the Senate Commerce Committee unanimously and heads to the full chamber. Sponsors cited FBI Internet Crime Complaint Center data of 13,400 crypto-ATM-scam complaints in 2025 and more than $388 million in losses (a 58% year-over-year increase), with more than half of complaints involving victims over 60; operator CoinFlip urged regulation with transaction monitoring instead of prohibition. Tennessee, Indiana, and Minnesota already have statewide bans.
 
 Coverage (reporting filing): The Defiant (reporting the Delaware and New Jersey crypto-ATM ban bills) — https://thedefiant.io/news/regulation/delaware-new-jersey-ban-crypto-atms-fraud
+
+Relevant to: crypto-ATM/kiosk operators, payment processors, compliance vendors
 
 For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
 
@@ -59,6 +65,8 @@ RegRisk Radar is regulatory-risk intelligence provided for general informational
 
 Coverage (reporting filing): The Defiant (reporting the Gensler Sixth Circuit amicus brief) — https://thedefiant.io/news/regulation/gensler-amicus-brief-sports-prediction-markets-cftc-swap-rules
 
+Relevant to: prediction-market platforms, derivatives exchanges, crypto exchanges
+
 For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
 
 RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
@@ -72,6 +80,8 @@ RegRisk Radar is regulatory-risk intelligence provided for general informational
       <description>As reported by DeFi Rate (and corroborated by Gambling Insider and Bettors Insider), on 2026-06-09 the State of Wisconsin filed a motion for a preliminary injunction in the U.S. District Court for the Western District of Wisconsin seeking to block KalshiEX, Coinbase, and Robinhood from offering sports event-contract trading to people in the state until the court rules on the merits of its underlying lawsuit (State of Wisconsin v. Kalshi et al., filed April 2026). The brief characterizes the trading as &#x27;open, repeated, ongoing criminal violations&#x27; of state law and a public-nuisance violation, argues the state&#x27;s residents suffer irreparable harm from unregulated gambling, and contends the Commodity Exchange Act does not preempt Wisconsin&#x27;s sports-wagering laws. The defendants have not yet responded.
 
 Coverage (reporting filing): DeFi Rate (reporting the Wisconsin preliminary-injunction motion) — https://defirate.com/news/wisconsin-block-trading-sports-contracts-kalshi/
+
+Relevant to: prediction-market platforms, crypto exchanges, brokerages
 
 For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
 
@@ -87,6 +97,8 @@ RegRisk Radar is regulatory-risk intelligence provided for general informational
 
 Coverage (reporting filing): SBC Americas (reporting the Coalition for Fair Markets filing; first reported by the Associated Press) — https://sbcamericas.com/2026/06/15/kentucky-prediction-markets-lawsuit/
 
+Relevant to: prediction-market platforms, licensed gaming operators, payment processors
+
 For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
 
 RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
@@ -101,6 +113,8 @@ RegRisk Radar is regulatory-risk intelligence provided for general informational
 
 Coverage (reporting filing): Las Vegas Review-Journal (reporting the Nevada GCB court filing) — https://www.reviewjournal.com/business/casinos-gaming/nevada-gaming-regulators-ask-judge-to-find-kalshi-in-contempt-of-court-3838501/
 
+Relevant to: prediction-market platforms, geolocation/compliance vendors, sportsbooks
+
 For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
 
 RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
@@ -114,6 +128,8 @@ RegRisk Radar is regulatory-risk intelligence provided for general informational
       <description>On 2026-06-12 the CFTC filed suit in federal court against the State of New Mexico, seeking a declaratory judgment that federal law grants it exclusive authority over event contracts and a permanent injunction barring the state from enforcing preempted gaming laws against CFTC registrants. The action follows New Mexico&#x27;s state-court suit against CFTC-registrant KalshiEX LLC alleging its prediction-market offerings are unlawful online sports betting. The release states New Mexico joins AZ, CT, IL, NY, MN, RI, and WI.
 
 Primary source: CFTC Press Release 9251-26 — https://www.cftc.gov/PressRoom/PressReleases/9251-26
+
+Relevant to: prediction-market platforms, sportsbooks, exchanges, CFTC registrants
 
 For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
 
