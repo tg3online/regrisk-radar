@@ -16,7 +16,51 @@
       "facts": "On 2026-06-12 the CFTC filed suit in federal court against the State of New Mexico, seeking a declaratory judgment that federal law grants it exclusive authority over event contracts and a permanent injunction barring the state from enforcing preempted gaming laws against CFTC registrants. The action follows New Mexico's state-court suit against CFTC-registrant KalshiEX LLC alleging its prediction-market offerings are unlawful online sports betting. The release states New Mexico joins AZ, CT, IL, NY, MN, RI, and WI.",
       "source_url": "https://www.cftc.gov/PressRoom/PressReleases/9251-26",
       "source_label": "CFTC Press Release 9251-26",
-      "tags": ["CFTC", "prediction-markets", "preemption", "gaming", "crypto"]
+      "tags": [
+        "CFTC",
+        "prediction-markets",
+        "preemption",
+        "gaming",
+        "crypto"
+      ]
+    },
+    {
+      "id": "2026-06-15-nevada-gcb-contempt-kalshi",
+      "date": "2026-06-15",
+      "published": "2026-06-15T09:05:00Z",
+      "issuing_body": "Nevada Gaming Control Board",
+      "title": "Nevada gaming regulator seeks to hold Kalshi in contempt over prediction-market geofencing",
+      "facts": "As reported by the Las Vegas Review-Journal (and corroborated by InterGame and Gambling Insider), on 2026-06-12 the Nevada Gaming Control Board petitioned the First Judicial District Court in Carson City to find KalshiEx LLC in contempt for allegedly not complying with a May 18 order requiring it to geofence its website so it cannot offer sports-, election-, or entertainment-related event contracts to anyone located in Nevada. The Board asked the court to impose sanctions, including disgorgement of profits from Nevada transactions or daily penalties until compliance. A Kalshi spokesperson said the company has complied, attributed the issue to a technology glitch, and called the filing a 'PR stunt.'",
+      "source_url": "https://www.reviewjournal.com/business/casinos-gaming/nevada-gaming-regulators-ask-judge-to-find-kalshi-in-contempt-of-court-3838501/",
+      "source_label": "Las Vegas Review-Journal (reporting the Nevada GCB court filing)",
+      "tags": [
+        "Nevada",
+        "prediction-markets",
+        "event-contracts",
+        "enforcement",
+        "geofencing",
+        "gaming",
+        "crypto"
+      ]
+    },
+    {
+      "id": "2026-06-15-coalition-v-kentucky-tax",
+      "date": "2026-06-15",
+      "published": "2026-06-15T09:10:00Z",
+      "issuing_body": "Coalition for Fair Markets (NADEX, Kalshi, Polymarket/QCX)",
+      "title": "Prediction-market coalition sues Kentucky over 14.25% tax on event-contract trading",
+      "facts": "As reported by SBC Americas (first reported by the Associated Press and corroborated by Gambling Insider), on 2026-06-12 the Coalition for Fair Markets — comprising Crypto.com's North American Derivatives Exchange (NADEX), Kalshi, and Polymarket's U.S. exchange QCX — filed suit in Franklin Circuit Court to block Kentucky from implementing a 14.25% tax on prediction-market transaction fees set to take effect Jan. 1, 2027, arguing the measure unlawfully targets federally regulated event-contract exchanges and is preempted by federal derivatives law. The enacted package (HB 757 and HB 904) also bars state-licensed gaming operators from doing business with platforms offering sports event-contract trading in Kentucky, a prohibition due to take effect next month. Kentucky Attorney General Russell Coleman, a named defendant, said his office 'will defend these statutes.'",
+      "source_url": "https://sbcamericas.com/2026/06/15/kentucky-prediction-markets-lawsuit/",
+      "source_label": "SBC Americas (reporting the Coalition for Fair Markets filing; first reported by the Associated Press)",
+      "tags": [
+        "Kentucky",
+        "prediction-markets",
+        "event-contracts",
+        "state-tax",
+        "preemption",
+        "gaming",
+        "crypto"
+      ]
     }
   ]
 }

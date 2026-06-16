@@ -5,8 +5,32 @@
     <link>https://tg3online.github.io/regrisk-radar/</link>
     <description>Daily facts-only regulatory radar — crypto, gaming, payments &amp; fintech. Verified against primary sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Jun 2026 01:01:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 02:36:46 +0000</lastBuildDate>
     <atom:link href="https://tg3online.github.io/regrisk-radar/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Prediction-market coalition sues Kentucky over 14.25% tax on event-contract trading</title>
+      <link>https://sbcamericas.com/2026/06/15/kentucky-prediction-markets-lawsuit/</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-06-15-coalition-v-kentucky-tax</guid>
+      <pubDate>Mon, 15 Jun 2026 09:10:00 +0000</pubDate>
+      <category>Coalition for Fair Markets (NADEX, Kalshi, Polymarket/QCX)</category>
+      <description>As reported by SBC Americas (first reported by the Associated Press and corroborated by Gambling Insider), on 2026-06-12 the Coalition for Fair Markets — comprising Crypto.com&#x27;s North American Derivatives Exchange (NADEX), Kalshi, and Polymarket&#x27;s U.S. exchange QCX — filed suit in Franklin Circuit Court to block Kentucky from implementing a 14.25% tax on prediction-market transaction fees set to take effect Jan. 1, 2027, arguing the measure unlawfully targets federally regulated event-contract exchanges and is preempted by federal derivatives law. The enacted package (HB 757 and HB 904) also bars state-licensed gaming operators from doing business with platforms offering sports event-contract trading in Kentucky, a prohibition due to take effect next month. Kentucky Attorney General Russell Coleman, a named defendant, said his office &#x27;will defend these statutes.&#x27;
+
+Primary source: SBC Americas (reporting the Coalition for Fair Markets filing; first reported by the Associated Press) — https://sbcamericas.com/2026/06/15/kentucky-prediction-markets-lawsuit/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+    <item>
+      <title>Nevada gaming regulator seeks to hold Kalshi in contempt over prediction-market geofencing</title>
+      <link>https://www.reviewjournal.com/business/casinos-gaming/nevada-gaming-regulators-ask-judge-to-find-kalshi-in-contempt-of-court-3838501/</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-06-15-nevada-gcb-contempt-kalshi</guid>
+      <pubDate>Mon, 15 Jun 2026 09:05:00 +0000</pubDate>
+      <category>Nevada Gaming Control Board</category>
+      <description>As reported by the Las Vegas Review-Journal (and corroborated by InterGame and Gambling Insider), on 2026-06-12 the Nevada Gaming Control Board petitioned the First Judicial District Court in Carson City to find KalshiEx LLC in contempt for allegedly not complying with a May 18 order requiring it to geofence its website so it cannot offer sports-, election-, or entertainment-related event contracts to anyone located in Nevada. The Board asked the court to impose sanctions, including disgorgement of profits from Nevada transactions or daily penalties until compliance. A Kalshi spokesperson said the company has complied, attributed the issue to a technology glitch, and called the filing a &#x27;PR stunt.&#x27;
+
+Primary source: Las Vegas Review-Journal (reporting the Nevada GCB court filing) — https://www.reviewjournal.com/business/casinos-gaming/nevada-gaming-regulators-ask-judge-to-find-kalshi-in-contempt-of-court-3838501/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
     <item>
       <title>CFTC sues New Mexico over prediction-market preemption (8th state)</title>
       <link>https://www.cftc.gov/PressRoom/PressReleases/9251-26</link>
