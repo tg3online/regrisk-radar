@@ -5,7 +5,7 @@
     <link>https://tg3online.github.io/regrisk-radar/</link>
     <description>Daily facts-only regulatory radar — crypto, gaming, payments &amp; fintech. Verified against primary sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Jun 2026 17:56:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 17:57:49 +0000</lastBuildDate>
     <atom:link href="https://tg3online.github.io/regrisk-radar/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fintech trade group sues Tennessee to block remittance tax (HB2502)</title>
@@ -15,7 +15,7 @@
       <category>Financial Technology Association v. Tennessee — Davidson County Chancery Court</category>
       <description>As reported by The Center Square (and corroborated by Law360, CU Today, and Fintech Business Weekly), the Financial Technology Association filed suit in Davidson County (Tennessee) Chancery Court seeking an injunction to block HB2502, a law signed by Gov. Bill Lee in May 2026 that adds a $10 fee on monetary wire transfers to another country plus a 2% tax on transfers over $500 (effective Jan. 1, 2027; projected to raise more than $91 million in FY2026-27). The FTA argues the law is unconstitutional under the dormant Commerce Clause because it singles out international payments for special taxation, and its complaint states members will have to modify transaction-processing systems, compliance software, and customer-facing interfaces, incurring nonrecoverable compliance costs before year-end or risk penalties. FTA president and CEO Penny Lee said, &#x27;when a state singles out international payments for special taxation, that is unconstitutional, plain and simple.&#x27;
 
-Coverage: The Center Square (reporting the FTA v. Tennessee filing) — https://www.thecentersquare.com/tennessee/article_8ba6c1a3-e3a1-4021-99cd-f70b237c3727.html
+Coverage (reporting filing): The Center Square (reporting the FTA v. Tennessee filing) — https://www.thecentersquare.com/tennessee/article_8ba6c1a3-e3a1-4021-99cd-f70b237c3727.html
 
 Subscribe for the weekly operator-impact rundown — https://regriskradar.beehiiv.com/
 
@@ -29,7 +29,7 @@ RegRisk Radar is regulatory-risk intelligence provided for general informational
       <category>Delaware General Assembly (HB 441) / New Jersey Legislature (S-2141)</category>
       <description>As reported by The Defiant (and corroborated by Cointelegraph, CryptoNews, and Grafa), Delaware and New Jersey have each advanced legislation to ban cryptocurrency ATMs statewide, citing fraud losses. Delaware&#x27;s House Bill 441 cleared the House Economic Development Committee and, per coverage, passed the House; it would require existing kiosks to go dark upon enactment and be physically removed within 90 days, bar cashier-assisted workarounds, and expose operators to unlawful-trade-practice charges plus victim-refund and forfeiture obligations. New Jersey&#x27;s Senate Bill S-2141 cleared the Senate Commerce Committee unanimously and heads to the full chamber. Sponsors cited FBI Internet Crime Complaint Center data of 13,400 crypto-ATM-scam complaints in 2025 and more than $388 million in losses (a 58% year-over-year increase), with more than half of complaints involving victims over 60; operator CoinFlip urged regulation with transaction monitoring instead of prohibition. Tennessee, Indiana, and Minnesota already have statewide bans.
 
-Coverage: The Defiant (reporting the Delaware and New Jersey crypto-ATM ban bills) — https://thedefiant.io/news/regulation/delaware-new-jersey-ban-crypto-atms-fraud
+Coverage (reporting filing): The Defiant (reporting the Delaware and New Jersey crypto-ATM ban bills) — https://thedefiant.io/news/regulation/delaware-new-jersey-ban-crypto-atms-fraud
 
 Subscribe for the weekly operator-impact rundown — https://regriskradar.beehiiv.com/
 
@@ -43,7 +43,7 @@ RegRisk Radar is regulatory-risk intelligence provided for general informational
       <category>Gary Gensler (amicus) — U.S. Court of Appeals for the Sixth Circuit</category>
       <description>As reported by The Defiant (and corroborated by DeFi Rate), on 2026-06-11 former CFTC and SEC chair Gary Gensler filed an amicus brief with the U.S. Court of Appeals for the Sixth Circuit in KalshiEX LLC v. Schuler — Kalshi&#x27;s appeal of an Ohio district court&#x27;s denial of a preliminary injunction — arguing that sports-event prediction-market contracts fall outside the statutory definition of a &#x27;swap&#x27; under Dodd-Frank and are therefore not within the CFTC&#x27;s exclusive jurisdiction. The brief contends the swap definition centers on hedging economic risk and that reading it to cover sports bets would imply every off-exchange wager since October 2012 had been illegal. The position contradicts the CFTC&#x27;s own May 12, 2026 amicus asserting exclusive jurisdiction.
 
-Coverage: The Defiant (reporting the Gensler Sixth Circuit amicus brief) — https://thedefiant.io/news/regulation/gensler-amicus-brief-sports-prediction-markets-cftc-swap-rules
+Coverage (reporting filing): The Defiant (reporting the Gensler Sixth Circuit amicus brief) — https://thedefiant.io/news/regulation/gensler-amicus-brief-sports-prediction-markets-cftc-swap-rules
 
 Subscribe for the weekly operator-impact rundown — https://regriskradar.beehiiv.com/
 
@@ -57,7 +57,7 @@ RegRisk Radar is regulatory-risk intelligence provided for general informational
       <category>State of Wisconsin (Attorney General) — U.S. District Court, W.D. Wis.</category>
       <description>As reported by DeFi Rate (and corroborated by Gambling Insider and Bettors Insider), on 2026-06-09 the State of Wisconsin filed a motion for a preliminary injunction in the U.S. District Court for the Western District of Wisconsin seeking to block KalshiEX, Coinbase, and Robinhood from offering sports event-contract trading to people in the state until the court rules on the merits of its underlying lawsuit (State of Wisconsin v. Kalshi et al., filed April 2026). The brief characterizes the trading as &#x27;open, repeated, ongoing criminal violations&#x27; of state law and a public-nuisance violation, argues the state&#x27;s residents suffer irreparable harm from unregulated gambling, and contends the Commodity Exchange Act does not preempt Wisconsin&#x27;s sports-wagering laws. The defendants have not yet responded.
 
-Coverage: DeFi Rate (reporting the Wisconsin preliminary-injunction motion) — https://defirate.com/news/wisconsin-block-trading-sports-contracts-kalshi/
+Coverage (reporting filing): DeFi Rate (reporting the Wisconsin preliminary-injunction motion) — https://defirate.com/news/wisconsin-block-trading-sports-contracts-kalshi/
 
 Subscribe for the weekly operator-impact rundown — https://regriskradar.beehiiv.com/
 
@@ -71,7 +71,7 @@ RegRisk Radar is regulatory-risk intelligence provided for general informational
       <category>Coalition for Fair Markets (NADEX, Kalshi, Polymarket/QCX)</category>
       <description>As reported by SBC Americas (first reported by the Associated Press and corroborated by Gambling Insider), on 2026-06-12 the Coalition for Fair Markets — comprising Crypto.com&#x27;s North American Derivatives Exchange (NADEX), Kalshi, and Polymarket&#x27;s U.S. exchange QCX — filed suit in Franklin Circuit Court to block Kentucky from implementing a 14.25% tax on prediction-market transaction fees set to take effect Jan. 1, 2027, arguing the measure unlawfully targets federally regulated event-contract exchanges and is preempted by federal derivatives law. The enacted package (HB 757 and HB 904) also bars state-licensed gaming operators from doing business with platforms offering sports event-contract trading in Kentucky, a prohibition due to take effect next month. Kentucky Attorney General Russell Coleman, a named defendant, said his office &#x27;will defend these statutes.&#x27;
 
-Coverage: SBC Americas (reporting the Coalition for Fair Markets filing; first reported by the Associated Press) — https://sbcamericas.com/2026/06/15/kentucky-prediction-markets-lawsuit/
+Coverage (reporting filing): SBC Americas (reporting the Coalition for Fair Markets filing; first reported by the Associated Press) — https://sbcamericas.com/2026/06/15/kentucky-prediction-markets-lawsuit/
 
 Subscribe for the weekly operator-impact rundown — https://regriskradar.beehiiv.com/
 
@@ -85,7 +85,7 @@ RegRisk Radar is regulatory-risk intelligence provided for general informational
       <category>Nevada Gaming Control Board</category>
       <description>As reported by the Las Vegas Review-Journal (and corroborated by InterGame and Gambling Insider), on 2026-06-12 the Nevada Gaming Control Board petitioned the First Judicial District Court in Carson City to find KalshiEx LLC in contempt for allegedly not complying with a May 18 order requiring it to geofence its website so it cannot offer sports-, election-, or entertainment-related event contracts to anyone located in Nevada. The Board asked the court to impose sanctions, including disgorgement of profits from Nevada transactions or daily penalties until compliance. A Kalshi spokesperson said the company has complied, attributed the issue to a technology glitch, and called the filing a &#x27;PR stunt.&#x27;
 
-Coverage: Las Vegas Review-Journal (reporting the Nevada GCB court filing) — https://www.reviewjournal.com/business/casinos-gaming/nevada-gaming-regulators-ask-judge-to-find-kalshi-in-contempt-of-court-3838501/
+Coverage (reporting filing): Las Vegas Review-Journal (reporting the Nevada GCB court filing) — https://www.reviewjournal.com/business/casinos-gaming/nevada-gaming-regulators-ask-judge-to-find-kalshi-in-contempt-of-court-3838501/
 
 Subscribe for the weekly operator-impact rundown — https://regriskradar.beehiiv.com/
 
