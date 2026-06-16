@@ -4,12 +4,6 @@
   "home_page_url": "https://tg3online.github.io/regrisk-radar/",
   "feed_url": "https://tg3online.github.io/regrisk-radar/feed.json",
   "description": "Daily facts-only regulatory radar — crypto, gaming, payments & fintech. Verified against primary sources.",
-  "authors": [
-    {
-      "name": "RegRisk Radar (@0xTG3)",
-      "url": "https://x.com/0xTG3"
-    }
-  ],
   "items": [
     {
       "id": "https://tg3online.github.io/regrisk-radar/#2026-06-16-fta-v-tennessee-remittance-tax",
@@ -27,15 +21,7 @@
         "litigation",
         "Tennessee",
         "HB2502"
-      ],
-      "_regrisk": {
-        "issuing_body": "Financial Technology Association v. Tennessee — Davidson County Chancery Court",
-        "source_type": "coverage_reporting_filing",
-        "primary_source_status": "cited_by_coverage_not_retrieved",
-        "source_url": "https://www.thecentersquare.com/tennessee/article_8ba6c1a3-e3a1-4021-99cd-f70b237c3727.html",
-        "source_label": "The Center Square (reporting the FTA v. Tennessee filing)",
-        "relevant_to": "money transmitters, remittance providers, payment processors, fintechs"
-      }
+      ]
     },
     {
       "id": "https://tg3online.github.io/regrisk-radar/#2026-06-16-delaware-new-jersey-crypto-atm-ban",
@@ -53,15 +39,7 @@
         "fraud",
         "Delaware",
         "New-Jersey"
-      ],
-      "_regrisk": {
-        "issuing_body": "Delaware General Assembly (HB 441) / New Jersey Legislature (S-2141)",
-        "source_type": "coverage_reporting_filing",
-        "primary_source_status": "cited_by_coverage_not_retrieved",
-        "source_url": "https://thedefiant.io/news/regulation/delaware-new-jersey-ban-crypto-atms-fraud",
-        "source_label": "The Defiant (reporting the Delaware and New Jersey crypto-ATM ban bills)",
-        "relevant_to": "crypto-ATM/kiosk operators, payment processors, compliance vendors"
-      }
+      ]
     },
     {
       "id": "https://tg3online.github.io/regrisk-radar/#2026-06-16-gensler-amicus-sixth-circuit",
@@ -79,15 +57,7 @@
         "Sixth-Circuit",
         "gaming",
         "crypto"
-      ],
-      "_regrisk": {
-        "issuing_body": "Gary Gensler (amicus) — U.S. Court of Appeals for the Sixth Circuit",
-        "source_type": "coverage_reporting_filing",
-        "primary_source_status": "cited_by_coverage_not_retrieved",
-        "source_url": "https://thedefiant.io/news/regulation/gensler-amicus-brief-sports-prediction-markets-cftc-swap-rules",
-        "source_label": "The Defiant (reporting the Gensler Sixth Circuit amicus brief)",
-        "relevant_to": "prediction-market platforms, derivatives exchanges, crypto exchanges"
-      }
+      ]
     },
     {
       "id": "https://tg3online.github.io/regrisk-radar/#2026-06-16-wisconsin-pi-event-contracts",
@@ -103,15 +73,7 @@
         "preemption",
         "gaming",
         "crypto"
-      ],
-      "_regrisk": {
-        "issuing_body": "State of Wisconsin (Attorney General) — U.S. District Court, W.D. Wis.",
-        "source_type": "coverage_reporting_filing",
-        "primary_source_status": "cited_by_coverage_not_retrieved",
-        "source_url": "https://defirate.com/news/wisconsin-block-trading-sports-contracts-kalshi/",
-        "source_label": "DeFi Rate (reporting the Wisconsin preliminary-injunction motion)",
-        "relevant_to": "prediction-market platforms, crypto exchanges, brokerages"
-      }
+      ]
     },
     {
       "id": "https://tg3online.github.io/regrisk-radar/#2026-06-15-coalition-v-kentucky-tax",
@@ -127,15 +89,7 @@
         "preemption",
         "gaming",
         "crypto"
-      ],
-      "_regrisk": {
-        "issuing_body": "Coalition for Fair Markets (NADEX, Kalshi, Polymarket/QCX)",
-        "source_type": "coverage_reporting_filing",
-        "primary_source_status": "cited_by_coverage_not_retrieved",
-        "source_url": "https://sbcamericas.com/2026/06/15/kentucky-prediction-markets-lawsuit/",
-        "source_label": "SBC Americas (reporting the Coalition for Fair Markets filing; first reported by the Associated Press)",
-        "relevant_to": "prediction-market platforms, licensed gaming operators, payment processors"
-      }
+      ]
     },
     {
       "id": "https://tg3online.github.io/regrisk-radar/#2026-06-15-nevada-gcb-contempt-kalshi",
@@ -151,15 +105,7 @@
         "geofencing",
         "gaming",
         "crypto"
-      ],
-      "_regrisk": {
-        "issuing_body": "Nevada Gaming Control Board",
-        "source_type": "coverage_reporting_filing",
-        "primary_source_status": "cited_by_coverage_not_retrieved",
-        "source_url": "https://www.reviewjournal.com/business/casinos-gaming/nevada-gaming-regulators-ask-judge-to-find-kalshi-in-contempt-of-court-3838501/",
-        "source_label": "Las Vegas Review-Journal (reporting the Nevada GCB court filing)",
-        "relevant_to": "prediction-market platforms, geolocation/compliance vendors, sportsbooks"
-      }
+      ]
     },
     {
       "id": "https://tg3online.github.io/regrisk-radar/#2026-06-15-cftc-v-new-mexico",
@@ -173,15 +119,7 @@
         "preemption",
         "gaming",
         "crypto"
-      ],
-      "_regrisk": {
-        "issuing_body": "CFTC",
-        "source_type": "primary_source",
-        "primary_source_status": "retrieved",
-        "source_url": "https://www.cftc.gov/PressRoom/PressReleases/9251-26",
-        "source_label": "CFTC Press Release 9251-26",
-        "relevant_to": "prediction-market platforms, sportsbooks, exchanges, CFTC registrants"
-      }
+      ]
     }
   ]
 }
