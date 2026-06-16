@@ -1,8 +1,30 @@
 {
-  "generated": "2026-06-16T20:09:45Z",
+  "generated": "2026-06-16T20:28:04Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 7,
+  "count": 8,
   "items": [
+    {
+      "id": "2026-06-16-pennsylvania-sc-skill-games-slot-machines",
+      "date": "2026-06-16",
+      "published": "2026-06-16T19:17:37Z",
+      "title": "Pennsylvania Supreme Court rules skill games are slot machines; 120-day enforcement stay issued",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-06-16-pennsylvania-sc-skill-games-slot-machines",
+      "issuing_body": "Pennsylvania Supreme Court",
+      "source_url": "https://www.pacourts.us/assets/opinions/Supreme/out/J-97-2025mo.pdf",
+      "source_label": "Pennsylvania Supreme Court Opinion J-97-2025 (majority opinion)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "skill game operators, gaming venues (bars, VFWs, fraternal clubs), payment processors, PA legislators",
+      "tags": [
+        "gaming",
+        "skill-games",
+        "Pennsylvania",
+        "state-court",
+        "enforcement-stay",
+        "slot-machines",
+        "Pace-O-Matic"
+      ]
+    },
     {
       "id": "2026-06-16-fta-v-tennessee-remittance-tax",
       "date": "2026-06-16",
