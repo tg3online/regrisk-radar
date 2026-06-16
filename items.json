@@ -8,6 +8,20 @@
   },
   "items": [
     {
+      "id": "2026-06-16-pennsylvania-sc-skill-games-slot-machines",
+      "date": "2026-06-16",
+      "published": "2026-06-16T19:17:37Z",
+      "issuing_body": "Pennsylvania Supreme Court",
+      "title": "Pennsylvania Supreme Court rules skill games are slot machines; 120-day enforcement stay issued",
+      "facts": "On June 15, 2026, the Pennsylvania Supreme Court issued its majority opinion in J-97-2025 (Pace-O-Matic v. Pennsylvania), ruling that skill game machines 'are subject to both the Gaming Act and the Crimes Code,' overturning a Commonwealth Court ruling the Justices called 'deeply flawed.' Justice David Wecht wrote that the POM device is 'several times over' a slot machine and the legal definition 'describes the POM device with precision.' The Court issued a 120-day enforcement stay during which law enforcement cannot take action against owners and operators, and noted the General Assembly 'remains free at any time to take whatever legislative action it may deem appropriate.' Pace-O-Matic stated it is 'disappointed,' said the impact on 10,000+ small businesses and fraternal clubs presents an 'impossible choice,' and will pursue a legislative solution; bipartisan bills SB 1079 (Sen. Yaw) and HB 2213 (Rep. Burgos) are cited. Pennsylvania AG Dave Sunday called the ruling 'a significant victory for consumers, taxpayers, and the rule of law.' An estimated 70,000+ skill game machines operate in bars, VFWs, restaurants, and fraternal clubs statewide.",
+      "source_url": "https://www.pacourts.us/assets/opinions/Supreme/out/J-97-2025mo.pdf",
+      "source_label": "Pennsylvania Supreme Court Opinion J-97-2025 (majority opinion)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "skill game operators, gaming venues (bars, VFWs, fraternal clubs), payment processors, PA legislators",
+      "tags": ["gaming", "skill-games", "Pennsylvania", "state-court", "enforcement-stay", "slot-machines", "Pace-O-Matic"]
+    },
+    {
       "id": "2026-06-15-cftc-v-new-mexico",
       "date": "2026-06-15",
       "published": "2026-06-15T09:00:00Z",
@@ -16,13 +30,7 @@
       "facts": "On 2026-06-12 the CFTC filed suit in federal court against the State of New Mexico, seeking a declaratory judgment that federal law grants it exclusive authority over event contracts and a permanent injunction barring the state from enforcing preempted gaming laws against CFTC registrants. The action follows New Mexico's state-court suit against CFTC-registrant KalshiEX LLC alleging its prediction-market offerings are unlawful online sports betting. The release states New Mexico joins AZ, CT, IL, NY, MN, RI, and WI.",
       "source_url": "https://www.cftc.gov/PressRoom/PressReleases/9251-26",
       "source_label": "CFTC Press Release 9251-26",
-      "tags": [
-        "CFTC",
-        "prediction-markets",
-        "preemption",
-        "gaming",
-        "crypto"
-      ],
+      "tags": ["CFTC", "prediction-markets", "preemption", "gaming", "crypto"],
       "source_type": "primary_source",
       "primary_source_status": "retrieved",
       "relevant_to": "prediction-market platforms, sportsbooks, exchanges, CFTC registrants"
@@ -36,15 +44,7 @@
       "facts": "As reported by the Las Vegas Review-Journal (and corroborated by InterGame and Gambling Insider), on 2026-06-12 the Nevada Gaming Control Board petitioned the First Judicial District Court in Carson City to find KalshiEx LLC in contempt for allegedly not complying with a May 18 order requiring it to geofence its website so it cannot offer sports-, election-, or entertainment-related event contracts to anyone located in Nevada. The Board asked the court to impose sanctions, including disgorgement of profits from Nevada transactions or daily penalties until compliance. A Kalshi spokesperson said the company has complied, attributed the issue to a technology glitch, and called the filing a 'PR stunt.'",
       "source_url": "https://www.reviewjournal.com/business/casinos-gaming/nevada-gaming-regulators-ask-judge-to-find-kalshi-in-contempt-of-court-3838501/",
       "source_label": "Las Vegas Review-Journal (reporting the Nevada GCB court filing)",
-      "tags": [
-        "Nevada",
-        "prediction-markets",
-        "event-contracts",
-        "enforcement",
-        "geofencing",
-        "gaming",
-        "crypto"
-      ],
+      "tags": ["Nevada", "prediction-markets", "event-contracts", "enforcement", "geofencing", "gaming", "crypto"],
       "source_type": "coverage_reporting_filing",
       "primary_source_status": "cited_by_coverage_not_retrieved",
       "relevant_to": "prediction-market platforms, geolocation/compliance vendors, sportsbooks"
@@ -58,15 +58,7 @@
       "facts": "As reported by SBC Americas (first reported by the Associated Press and corroborated by Gambling Insider), on 2026-06-12 the Coalition for Fair Markets — comprising Crypto.com's North American Derivatives Exchange (NADEX), Kalshi, and Polymarket's U.S. exchange QCX — filed suit in Franklin Circuit Court to block Kentucky from implementing a 14.25% tax on prediction-market transaction fees set to take effect Jan. 1, 2027, arguing the measure unlawfully targets federally regulated event-contract exchanges and is preempted by federal derivatives law. The enacted package (HB 757 and HB 904) also bars state-licensed gaming operators from doing business with platforms offering sports event-contract trading in Kentucky, a prohibition due to take effect next month. Kentucky Attorney General Russell Coleman, a named defendant, said his office 'will defend these statutes.'",
       "source_url": "https://sbcamericas.com/2026/06/15/kentucky-prediction-markets-lawsuit/",
       "source_label": "SBC Americas (reporting the Coalition for Fair Markets filing; first reported by the Associated Press)",
-      "tags": [
-        "Kentucky",
-        "prediction-markets",
-        "event-contracts",
-        "state-tax",
-        "preemption",
-        "gaming",
-        "crypto"
-      ],
+      "tags": ["Kentucky", "prediction-markets", "event-contracts", "state-tax", "preemption", "gaming", "crypto"],
       "source_type": "coverage_reporting_filing",
       "primary_source_status": "cited_by_coverage_not_retrieved",
       "relevant_to": "prediction-market platforms, licensed gaming operators, payment processors"
@@ -80,15 +72,7 @@
       "facts": "As reported by DeFi Rate (and corroborated by Gambling Insider and Bettors Insider), on 2026-06-09 the State of Wisconsin filed a motion for a preliminary injunction in the U.S. District Court for the Western District of Wisconsin seeking to block KalshiEX, Coinbase, and Robinhood from offering sports event-contract trading to people in the state until the court rules on the merits of its underlying lawsuit (State of Wisconsin v. Kalshi et al., filed April 2026). The brief characterizes the trading as 'open, repeated, ongoing criminal violations' of state law and a public-nuisance violation, argues the state's residents suffer irreparable harm from unregulated gambling, and contends the Commodity Exchange Act does not preempt Wisconsin's sports-wagering laws. The defendants have not yet responded.",
       "source_url": "https://defirate.com/news/wisconsin-block-trading-sports-contracts-kalshi/",
       "source_label": "DeFi Rate (reporting the Wisconsin preliminary-injunction motion)",
-      "tags": [
-        "Wisconsin",
-        "prediction-markets",
-        "event-contracts",
-        "preliminary-injunction",
-        "preemption",
-        "gaming",
-        "crypto"
-      ],
+      "tags": ["Wisconsin", "prediction-markets", "event-contracts", "preliminary-injunction", "preemption", "gaming", "crypto"],
       "source_type": "coverage_reporting_filing",
       "primary_source_status": "cited_by_coverage_not_retrieved",
       "relevant_to": "prediction-market platforms, crypto exchanges, brokerages"
@@ -102,17 +86,7 @@
       "facts": "As reported by The Defiant (and corroborated by DeFi Rate), on 2026-06-11 former CFTC and SEC chair Gary Gensler filed an amicus brief with the U.S. Court of Appeals for the Sixth Circuit in KalshiEX LLC v. Schuler — Kalshi's appeal of an Ohio district court's denial of a preliminary injunction — arguing that sports-event prediction-market contracts fall outside the statutory definition of a 'swap' under Dodd-Frank and are therefore not within the CFTC's exclusive jurisdiction. The brief contends the swap definition centers on hedging economic risk and that reading it to cover sports bets would imply every off-exchange wager since October 2012 had been illegal. The position contradicts the CFTC's own May 12, 2026 amicus asserting exclusive jurisdiction.",
       "source_url": "https://thedefiant.io/news/regulation/gensler-amicus-brief-sports-prediction-markets-cftc-swap-rules",
       "source_label": "The Defiant (reporting the Gensler Sixth Circuit amicus brief)",
-      "tags": [
-        "prediction-markets",
-        "event-contracts",
-        "swaps",
-        "Dodd-Frank",
-        "preemption",
-        "amicus",
-        "Sixth-Circuit",
-        "gaming",
-        "crypto"
-      ],
+      "tags": ["prediction-markets", "event-contracts", "swaps", "Dodd-Frank", "preemption", "amicus", "Sixth-Circuit", "gaming", "crypto"],
       "source_type": "coverage_reporting_filing",
       "primary_source_status": "cited_by_coverage_not_retrieved",
       "relevant_to": "prediction-market platforms, derivatives exchanges, crypto exchanges"
@@ -123,20 +97,10 @@
       "published": "2026-06-16T09:10:00Z",
       "issuing_body": "Delaware General Assembly (HB 441) / New Jersey Legislature (S-2141)",
       "title": "Delaware (HB 441) and New Jersey (S-2141) advance statewide crypto-ATM bans",
-      "facts": "As reported by The Defiant (and corroborated by Cointelegraph, CryptoNews, and Grafa), Delaware and New Jersey have each advanced legislation to ban cryptocurrency ATMs statewide, citing fraud losses. Delaware's House Bill 441 cleared the House Economic Development Committee and, per coverage, passed the House; it would require existing kiosks to go dark upon enactment and be physically removed within 90 days, bar cashier-assisted workarounds, and expose operators to unlawful-trade-practice charges plus victim-refund and forfeiture obligations. New Jersey's Senate Bill S-2141 cleared the Senate Commerce Committee unanimously and heads to the full chamber. Sponsors cited FBI Internet Crime Complaint Center data of 13,400 crypto-ATM-scam complaints in 2025 and more than $388 million in losses (a 58% year-over-year increase), with more than half of complaints involving victims over 60; operator CoinFlip urged regulation with transaction monitoring instead of prohibition. Tennessee, Indiana, and Minnesota already have statewide bans.",
+      "facts": "As reported by The Defiant (and corroborated by Cointelegraph, CryptoNews, and Grafa), Delaware and New Jersey have each advanced legislation to ban cryptocurrency ATMs statewide, citing fraud losses. Delaware's House Bill 441 cleared the House Economic Development Committee and passed the House; it would require existing kiosks to go dark upon enactment and be physically removed within 90 days, bar cashier-assisted workarounds, and expose operators to unlawful-trade-practice charges plus victim-refund and forfeiture obligations. New Jersey's Senate Bill S-2141 cleared the Senate Commerce Committee unanimously and heads to the full chamber. Sponsors cited FBI Internet Crime Complaint Center data of 13,400 crypto-ATM-scam complaints in 2025 and more than $388 million in losses (a 58% year-over-year increase), with more than half of complaints involving victims over 60; operator CoinFlip urged regulation with transaction monitoring instead of prohibition. Tennessee, Indiana, and Minnesota already have statewide bans.",
       "source_url": "https://thedefiant.io/news/regulation/delaware-new-jersey-ban-crypto-atms-fraud",
       "source_label": "The Defiant (reporting the Delaware and New Jersey crypto-ATM ban bills)",
-      "tags": [
-        "crypto",
-        "payments",
-        "crypto-atm",
-        "kiosk",
-        "state-legislation",
-        "consumer-protection",
-        "fraud",
-        "Delaware",
-        "New-Jersey"
-      ],
+      "tags": ["crypto", "payments", "crypto-atm", "kiosk", "state-legislation", "consumer-protection", "fraud", "Delaware", "New-Jersey"],
       "source_type": "coverage_reporting_filing",
       "primary_source_status": "cited_by_coverage_not_retrieved",
       "relevant_to": "crypto-ATM/kiosk operators, payment processors, compliance vendors"
@@ -150,17 +114,7 @@
       "facts": "As reported by The Center Square (and corroborated by Law360, CU Today, and Fintech Business Weekly), the Financial Technology Association filed suit in Davidson County (Tennessee) Chancery Court seeking an injunction to block HB2502, a law signed by Gov. Bill Lee in May 2026 that adds a $10 fee on monetary wire transfers to another country plus a 2% tax on transfers over $500 (effective Jan. 1, 2027; projected to raise more than $91 million in FY2026-27). The FTA argues the law is unconstitutional under the dormant Commerce Clause because it singles out international payments for special taxation, and its complaint states members will have to modify transaction-processing systems, compliance software, and customer-facing interfaces, incurring nonrecoverable compliance costs before year-end or risk penalties. FTA president and CEO Penny Lee said, 'when a state singles out international payments for special taxation, that is unconstitutional, plain and simple.'",
       "source_url": "https://www.thecentersquare.com/tennessee/article_8ba6c1a3-e3a1-4021-99cd-f70b237c3727.html",
       "source_label": "The Center Square (reporting the FTA v. Tennessee filing)",
-      "tags": [
-        "payments",
-        "fintech",
-        "remittances",
-        "money-transmission",
-        "state-tax",
-        "dormant-commerce-clause",
-        "litigation",
-        "Tennessee",
-        "HB2502"
-      ],
+      "tags": ["payments", "fintech", "remittances", "money-transmission", "state-tax", "dormant-commerce-clause", "litigation", "Tennessee", "HB2502"],
       "source_type": "coverage_reporting_filing",
       "primary_source_status": "cited_by_coverage_not_retrieved",
       "relevant_to": "money transmitters, remittance providers, payment processors, fintechs"
