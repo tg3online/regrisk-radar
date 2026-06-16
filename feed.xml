@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RegRisk Radar</title>
+    <link>https://tg3online.github.io/regrisk-radar/</link>
+    <description>Daily facts-only regulatory radar — crypto, gaming, payments &amp; fintech. Verified against primary sources.</description>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 Jun 2026 01:01:54 +0000</lastBuildDate>
+    <atom:link href="https://tg3online.github.io/regrisk-radar/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CFTC sues New Mexico over prediction-market preemption (8th state)</title>
+      <link>https://www.cftc.gov/PressRoom/PressReleases/9251-26</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-06-15-cftc-v-new-mexico</guid>
+      <pubDate>Mon, 15 Jun 2026 09:00:00 +0000</pubDate>
+      <category>CFTC</category>
+      <description>On 2026-06-12 the CFTC filed suit in federal court against the State of New Mexico, seeking a declaratory judgment that federal law grants it exclusive authority over event contracts and a permanent injunction barring the state from enforcing preempted gaming laws against CFTC registrants. The action follows New Mexico&#x27;s state-court suit against CFTC-registrant KalshiEX LLC alleging its prediction-market offerings are unlawful online sports betting. The release states New Mexico joins AZ, CT, IL, NY, MN, RI, and WI.
+
+Primary source: CFTC Press Release 9251-26 — https://www.cftc.gov/PressRoom/PressReleases/9251-26
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+  </channel>
+</rss>
