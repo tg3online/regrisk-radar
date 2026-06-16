@@ -2,25 +2,36 @@
 """
 RegRisk Radar site renderer.
 
-Single source of truth for the public site design. Reads items.json and writes
-index.html (Bloomberg-terminal theme) and feed.xml (RSS 2.0).
+Single source of truth for the public site design + distribution endpoints.
+Reads items.json and writes:
+  - index.html   (Bloomberg-terminal theme)
+  - feed.xml     (RSS 2.0)
+  - atom.xml     (Atom 1.0)
+  - feed.json    (JSON Feed 1.1)
+  - latest.json  (machine endpoint for our own automations: Hermes/Telegram/social)
+  - sitemap.xml  (SEO)
+  - robots.txt   (SEO; points at sitemap)
 
 The Cowork publish task must ONLY update items.json and then run this script,
-committing items.json + index.html + feed.xml. It must never hand-write the HTML
-template - that is what previously reverted the design.
+committing items.json + every generated file. It must never hand-write the HTML
+or any feed - that is what previously reverted the design.
 
-PUBLIC-SAFE FIELDS ONLY. items.json in THIS (public) repo must never contain the
-gated layer (severity, operator_exposure, why_it_matters, watchlist_implication,
-etc.) - the repo is world-readable, so anything here is public even if not
-rendered. Gated analysis lives in the private repo and reaches subscribers via
-Beehiiv. Public-safe per-item fields this renderer reads:
+Distribution rules baked in here (do not move into the task prompt):
+  - Every feed <link>/guid/url points to the RegRisk Radar PERMALINK anchor
+    (https://.../#<id>), never the external source. The source/coverage URL is
+    kept inside the item body for attribution.
+  - One CTA per item, identical wording, on the page and in every feed body.
+
+PUBLIC-SAFE FIELDS ONLY. items.json is world-readable (public repo / pushed
+verbatim), so never add the gated layer (severity, operator_exposure,
+why_it_matters, watchlist_implication, etc.). Public-safe per-item fields:
   id, date, published, issuing_body, title, facts, source_url, source_label,
   tags[], source_type, primary_source_status, relevant_to
 
 Usage:  python3 render.py
 Stdlib only. No dependencies, no network.
 """
-import json, html, sys, os
+import json, html, os
 from datetime import datetime, timezone
 from urllib.parse import urlparse
 
@@ -31,9 +42,10 @@ ITEMS = os.path.join(ROOT, "items.json")
 BEEHIIV_URL = "https://regriskradar.beehiiv.com/"
 X_URL = "https://x.com/0xTG3"
 X_HANDLE = "@0xTG3"
-CTA_RSS = "Subscribe for the weekly operator-impact rundown — " + BEEHIIV_URL
+CTA_TEXT = "For operator-impact analysis and watchlist implications, join RegRisk Radar."
+CTA_FEED = CTA_TEXT + " " + BEEHIIV_URL  # one CTA per item in text feeds
 
-# source_type -> (public chip label, css class, RSS prefix)
+# source_type -> (public chip label, css class, feed source prefix)
 SRC_LABELS = {
     "primary_source": ("PRIMARY SOURCE", "primary", "Primary source"),
     "coverage_reporting_filing": ("COVERAGE · reporting filing", "coverage", "Coverage (reporting filing)"),
@@ -51,6 +63,14 @@ def rfc822(iso):
     return dt.strftime("%a, %d %b %Y %H:%M:%S +0000")
 
 
+def now_rfc822():
+    return datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S +0000")
+
+
+def now_iso():
+    return datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+
+
 def source_type_of(it):
     """Explicit source_type wins; otherwise fall back conservatively (never
     claim primary unless the host is a .gov). Keeps old items honest."""
@@ -59,6 +79,25 @@ def source_type_of(it):
         host = (urlparse(it.get("source_url", "")).hostname or "").lower()
         st = "primary_source" if host.endswith(".gov") else "media_coverage"
     return st if st in SRC_LABELS else "media_coverage"
+
+
+def base_url(site):
+    return site["url"].rstrip("/")
+
+
+def permalink(site, it):
+    return "%s/#%s" % (base_url(site), it["id"])
+
+
+def source_line(it):
+    prefix = SRC_LABELS[source_type_of(it)][2]
+    return "%s: %s — %s" % (prefix, it["source_label"], it["source_url"])
+
+
+def item_body_text(site, it):
+    """Plain-text body shared by RSS / Atom / JSON Feed: facts, attributed
+    source, the single CTA, then the disclaimer."""
+    return "%s\n\n%s\n\n%s\n\n%s" % (it["facts"], source_line(it), CTA_FEED, site["disclaimer"])
 
 
 def load():
@@ -136,6 +175,8 @@ STYLE = """  :root{
   .meta time::before{content:"▸ "; color:var(--mut)}
   .meta .body{color:var(--bg); background:var(--amber); padding:1px 8px; font-weight:700; letter-spacing:.08em}
   .item h2{font-size:17px; line-height:1.4; margin:.55em 0 .5em; color:#fff; font-weight:700; letter-spacing:-.005em}
+  .item h2 a{color:#fff}
+  .item h2 a:hover{color:var(--amber); text-decoration:none}
   .item p{margin:.5em 0; color:var(--ink)}
   .src{font-size:12.5px; color:var(--mut)}
   .srctype{font-size:10.5px; letter-spacing:.1em; text-transform:uppercase; margin-right:7px}
@@ -152,6 +193,10 @@ STYLE = """  :root{
   }
   .tag::before{content:"["; color:#2a3340}
   .tag::after{content:"]"; color:#2a3340}
+  .cta{margin-top:12px; padding-top:10px; border-top:1px dotted var(--line); font-size:11px; letter-spacing:.03em}
+  .cta a{color:var(--amber-dim)}
+  .cta a:hover{color:var(--amber); text-decoration:none}
+  .cta::before{content:"▸ "; color:var(--mut)}
   footer{
     max-width:980px; margin:34px auto 0; padding:16px 18px 0; border-top:1px solid var(--line);
     color:var(--mut); font-size:11.5px; line-height:1.7;
@@ -174,29 +219,32 @@ CLOCK_JS = """    (function(){
     })();"""
 
 
-def render_item(it):
+def render_item(site, it):
     tags = " ".join('<span class="tag">%s</span>' % esc(t) for t in it.get("tags", []))
     chip_label, chip_cls, _ = SRC_LABELS[source_type_of(it)]
+    pl = permalink(site, it)
     relto = it.get("relevant_to")
     relto_html = ('\n        <p class="relto">%s</p>' % esc(relto)) if relto else ""
     return (
         '      <article class="item" id="%(id)s">\n'
         '        <div class="meta"><time datetime="%(pub)s">%(date)s</time> · <span class="body">%(body)s</span></div>\n'
-        '        <h2>%(title)s</h2>\n'
+        '        <h2><a href="%(pl)s">%(title)s</a></h2>\n'
         '        <p>%(facts)s</p>\n'
         '        <p class="src"><span class="srctype srctype-%(cls)s">%(chip)s</span><a href="%(url)s" rel="noopener">%(label)s</a></p>%(relto)s\n'
         '        <div class="tags">%(tags)s</div>\n'
+        '        <p class="cta"><a href="%(beehiiv)s" rel="noopener">%(cta)s →</a></p>\n'
         '      </article>'
     ) % {
         "id": esc(it["id"]), "pub": esc(it["published"]), "date": esc(it["date"]),
         "body": esc(it["issuing_body"]), "title": esc(it["title"]), "facts": esc(it["facts"]),
         "url": esc(it["source_url"]), "label": esc(it["source_label"]), "tags": tags,
         "cls": chip_cls, "chip": chip_label, "relto": relto_html,
+        "pl": esc(pl), "beehiiv": BEEHIIV_URL, "cta": esc(CTA_TEXT),
     }
 
 
 def render_index(site, items):
-    items_html = "\n".join(render_item(i) for i in items)
+    items_html = "\n".join(render_item(site, i) for i in items)
     return """<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -205,6 +253,9 @@ def render_index(site, items):
 <title>%(title)s — regulatory radar for crypto, gaming, payments &amp; fintech</title>
 <meta name="description" content="%(desc)s">
 <link rel="alternate" type="application/rss+xml" title="RegRisk Radar RSS" href="feed.xml">
+<link rel="alternate" type="application/atom+xml" title="RegRisk Radar Atom" href="atom.xml">
+<link rel="alternate" type="application/feed+json" title="RegRisk Radar JSON Feed" href="feed.json">
+<link rel="sitemap" type="application/xml" href="sitemap.xml">
 <style>
 %(style)s
 </style>
@@ -251,45 +302,158 @@ def render_index(site, items):
     }
 
 
-# ---------------------------------------------------------------- feed.xml
-def render_feed(site, items):
-    now = datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S +0000")
+# ---------------------------------------------------------------- feed.xml (RSS 2.0)
+def render_rss(site, items):
+    home = base_url(site) + "/"
     parts = [
         '<?xml version="1.0" encoding="UTF-8"?>',
         '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">',
         '  <channel>',
         '    <title>%s</title>' % esc(site["title"]),
-        '    <link>%s</link>' % esc(site["url"]),
+        '    <link>%s</link>' % esc(home),
         '    <description>%s</description>' % esc(site["tagline"]),
         '    <language>%s</language>' % esc(site.get("language", "en-us")),
-        '    <lastBuildDate>%s</lastBuildDate>' % now,
-        '    <atom:link href="%sfeed.xml" rel="self" type="application/rss+xml" />' % esc(site["url"]),
+        '    <lastBuildDate>%s</lastBuildDate>' % now_rfc822(),
+        '    <atom:link href="%sfeed.xml" rel="self" type="application/rss+xml" />' % esc(home),
     ]
     for it in items:
-        prefix = SRC_LABELS[source_type_of(it)][2]
-        desc = "%s\n\n%s: %s — %s\n\n%s\n\n%s" % (
-            it["facts"], prefix, it["source_label"], it["source_url"], CTA_RSS, site["disclaimer"])
+        pl = permalink(site, it)
         parts += [
             '    <item>',
             '      <title>%s</title>' % esc(it["title"]),
-            '      <link>%s</link>' % esc(it["source_url"]),
-            '      <guid isPermaLink="false">%s#%s</guid>' % (esc(site["url"]), esc(it["id"])),
+            '      <link>%s</link>' % esc(pl),
+            '      <guid isPermaLink="false">%s</guid>' % esc(pl),
             '      <pubDate>%s</pubDate>' % rfc822(it["published"]),
             '      <category>%s</category>' % esc(it["issuing_body"]),
-            '      <description>%s</description>' % esc(desc),
+            '      <description>%s</description>' % esc(item_body_text(site, it)),
             '    </item>',
         ]
     parts += ['  </channel>', '</rss>', '']
     return "\n".join(parts)
 
 
+# ---------------------------------------------------------------- atom.xml (Atom 1.0)
+def render_atom(site, items):
+    home = base_url(site) + "/"
+    parts = [
+        '<?xml version="1.0" encoding="UTF-8"?>',
+        '<feed xmlns="http://www.w3.org/2005/Atom">',
+        '  <title>%s</title>' % esc(site["title"]),
+        '  <subtitle>%s</subtitle>' % esc(site["tagline"]),
+        '  <id>%s</id>' % esc(home),
+        '  <link href="%s" />' % esc(home),
+        '  <link href="%satom.xml" rel="self" type="application/atom+xml" />' % esc(home),
+        '  <updated>%s</updated>' % now_iso(),
+    ]
+    for it in items:
+        pl = permalink(site, it)
+        parts += [
+            '  <entry>',
+            '    <title>%s</title>' % esc(it["title"]),
+            '    <id>%s</id>' % esc(pl),
+            '    <link href="%s" rel="alternate" />' % esc(pl),
+            '    <updated>%s</updated>' % esc(it["published"]),
+            '    <published>%s</published>' % esc(it["published"]),
+            '    <category term="%s" />' % esc(it["issuing_body"]),
+            '    <content type="text">%s</content>' % esc(item_body_text(site, it)),
+            '  </entry>',
+        ]
+    parts += ['</feed>', '']
+    return "\n".join(parts)
+
+
+# ---------------------------------------------------------------- feed.json (JSON Feed 1.1)
+def render_jsonfeed(site, items):
+    home = base_url(site) + "/"
+    feed = {
+        "version": "https://jsonfeed.org/version/1.1",
+        "title": site["title"],
+        "home_page_url": home,
+        "feed_url": home + "feed.json",
+        "description": site["tagline"],
+        "items": [
+            {
+                "id": permalink(site, it),
+                "url": permalink(site, it),
+                "title": it["title"],
+                "content_text": item_body_text(site, it),
+                "date_published": it["published"],
+                "tags": it.get("tags", []),
+            }
+            for it in items
+        ],
+    }
+    return json.dumps(feed, indent=2, ensure_ascii=False) + "\n"
+
+
+# ---------------------------------------------------------------- latest.json (our own automations)
+def render_latest(site, items):
+    payload = {
+        "generated": now_iso(),
+        "site": base_url(site) + "/",
+        "count": len(items),
+        "items": [
+            {
+                "id": it["id"],
+                "date": it["date"],
+                "published": it["published"],
+                "title": it["title"],
+                "permalink": permalink(site, it),
+                "issuing_body": it["issuing_body"],
+                "source_url": it["source_url"],
+                "source_label": it["source_label"],
+                "source_type": source_type_of(it),
+                "primary_source_status": it.get("primary_source_status"),
+                "relevant_to": it.get("relevant_to"),
+                "tags": it.get("tags", []),
+            }
+            for it in items
+        ],
+    }
+    return json.dumps(payload, indent=2, ensure_ascii=False) + "\n"
+
+
+# ---------------------------------------------------------------- sitemap.xml + robots.txt
+def render_sitemap(site, items):
+    home = base_url(site) + "/"
+    lastmod = max((it["date"] for it in items), default=now_iso()[:10])
+    return (
+        '<?xml version="1.0" encoding="UTF-8"?>\n'
+        '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+        '  <url>\n'
+        '    <loc>%s</loc>\n'
+        '    <lastmod>%s</lastmod>\n'
+        '    <changefreq>daily</changefreq>\n'
+        '  </url>\n'
+        '</urlset>\n'
+    ) % (esc(home), esc(lastmod))
+
+
+def render_robots(site):
+    home = base_url(site) + "/"
+    return (
+        "User-agent: *\n"
+        "Allow: /\n\n"
+        "Sitemap: %ssitemap.xml\n"
+    ) % home
+
+
 def main():
     site, items = load()
-    with open(os.path.join(ROOT, "index.html"), "w", encoding="utf-8") as f:
-        f.write(render_index(site, items))
-    with open(os.path.join(ROOT, "feed.xml"), "w", encoding="utf-8") as f:
-        f.write(render_feed(site, items))
-    print("rendered index.html + feed.xml from items.json (%d items)" % len(items))
+    outputs = {
+        "index.html": render_index(site, items),
+        "feed.xml": render_rss(site, items),
+        "atom.xml": render_atom(site, items),
+        "feed.json": render_jsonfeed(site, items),
+        "latest.json": render_latest(site, items),
+        "sitemap.xml": render_sitemap(site, items),
+        "robots.txt": render_robots(site),
+    }
+    for name, text in outputs.items():
+        with open(os.path.join(ROOT, name), "w", encoding="utf-8") as f:
+            f.write(text)
+    print("rendered %d files from items.json (%d items): %s"
+          % (len(outputs), len(items), ", ".join(outputs)))
 
 
 if __name__ == "__main__":
