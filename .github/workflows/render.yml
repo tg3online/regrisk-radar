@@ -19,9 +19,9 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.x'
-      - name: Render index.html + feed.xml from items.json
+      - name: Render all outputs from items.json
         run: python3 render.py
-     - name: Commit rendered files if they changed
+      - name: Commit rendered files if they changed
         run: |
           FILES="index.html feed.xml atom.xml feed.json latest.json sitemap.xml robots.txt"
           if [ -n "$(git status --porcelain $FILES)" ]; then
