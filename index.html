@@ -46,6 +46,25 @@
   }
   .legend .sep{color:#2a3340}
   .legend .amber{color:var(--amber-dim)}
+  .legend a{color:var(--mut)}
+  .legend a:hover{color:var(--amber); text-decoration:none}
+
+  /* subscribe bar */
+  .subscribe{
+    display:flex; flex-wrap:wrap; gap:12px; align-items:center;
+    padding:11px 18px; border-bottom:1px solid var(--line); background:var(--panel2);
+  }
+  .subscribe .lbl{color:var(--amber); font-size:11px; letter-spacing:.12em; font-weight:700}
+  .subscribe .desc{color:var(--mut); font-size:12px; flex:1; min-width:200px}
+
+  /* buttons */
+  .btn{
+    display:inline-block; font:inherit; font-size:11.5px; letter-spacing:.1em; text-transform:uppercase;
+    padding:6px 14px; border:1px solid var(--amber-dim); color:var(--amber); white-space:nowrap;
+  }
+  .btn:hover{background:var(--amber); color:var(--bg); border-color:var(--amber); text-decoration:none}
+  .btn-solid{background:var(--amber); color:var(--bg); border-color:var(--amber); font-weight:700}
+  .btn-solid:hover{background:#ffc333; color:var(--bg)}
 
   .wrap{max-width:980px; margin:0 auto; padding:6px 18px 70px}
   main{margin-top:6px}
@@ -81,12 +100,13 @@
     max-width:980px; margin:34px auto 0; padding:16px 18px 0; border-top:1px solid var(--line);
     color:var(--mut); font-size:11.5px; line-height:1.7;
   }
-  footer::before{content:"// DISCLAIMER"; display:block; color:var(--amber-dim); letter-spacing:.14em; margin-bottom:6px}
+  .disc-h{display:block; color:var(--amber-dim); letter-spacing:.14em; margin-bottom:6px}
 
   @media(max-width:560px){
     .legend{display:none}
     .clock{display:none}
     .item{padding:14px 15px}
+    .subscribe .desc{display:none}
   }
 </style>
 </head>
@@ -102,7 +122,13 @@
     <span>Regulatory radar</span><span class="sep">//</span>
     <span>Crypto · Gaming · Payments · Fintech</span><span class="sep">//</span>
     <span class="amber">Primary-source verified</span><span class="sep">//</span>
-    <span>Analysis in the weekly digest</span>
+    <span>Curated by <a href="https://x.com/0xTG3" rel="noopener">@0xTG3</a></span>
+  </div>
+
+  <div class="subscribe">
+    <span class="lbl">▸ WEEKLY DIGEST</span>
+    <span class="desc">Enforcement, regulator moves &amp; operator risk signals — facts + primary sources. No spam.</span>
+    <a class="btn btn-solid" href="https://regriskradar.beehiiv.com/" rel="noopener">Subscribe →</a>
   </div>
 
   <div class="wrap">
@@ -115,8 +141,9 @@
         <div class="tags"><span class="tag">CFTC</span> <span class="tag">prediction-markets</span> <span class="tag">preemption</span> <span class="tag">gaming</span> <span class="tag">crypto</span></div>
       </article>
     </main>
+
     <footer>
-      <p>RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</p>
+      <p><span class="disc-h">// DISCLAIMER</span>RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</p>
     </footer>
   </div>
 
