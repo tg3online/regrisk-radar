@@ -61,6 +61,88 @@
         "gaming",
         "crypto"
       ]
+    },
+    {
+      "id": "2026-06-16-wisconsin-pi-event-contracts",
+      "date": "2026-06-16",
+      "published": "2026-06-16T09:00:00Z",
+      "issuing_body": "State of Wisconsin (Attorney General) — U.S. District Court, W.D. Wis.",
+      "title": "Wisconsin moves to block sports event-contract trading on Coinbase, Kalshi, and Robinhood",
+      "facts": "As reported by DeFi Rate (and corroborated by Gambling Insider and Bettors Insider), on 2026-06-09 the State of Wisconsin filed a motion for a preliminary injunction in the U.S. District Court for the Western District of Wisconsin seeking to block KalshiEX, Coinbase, and Robinhood from offering sports event-contract trading to people in the state until the court rules on the merits of its underlying lawsuit (State of Wisconsin v. Kalshi et al., filed April 2026). The brief characterizes the trading as 'open, repeated, ongoing criminal violations' of state law and a public-nuisance violation, argues the state's residents suffer irreparable harm from unregulated gambling, and contends the Commodity Exchange Act does not preempt Wisconsin's sports-wagering laws. The defendants have not yet responded.",
+      "source_url": "https://defirate.com/news/wisconsin-block-trading-sports-contracts-kalshi/",
+      "source_label": "DeFi Rate (reporting the Wisconsin preliminary-injunction motion)",
+      "tags": [
+        "Wisconsin",
+        "prediction-markets",
+        "event-contracts",
+        "preliminary-injunction",
+        "preemption",
+        "gaming",
+        "crypto"
+      ]
+    },
+    {
+      "id": "2026-06-16-gensler-amicus-sixth-circuit",
+      "date": "2026-06-16",
+      "published": "2026-06-16T09:05:00Z",
+      "issuing_body": "Gary Gensler (amicus) — U.S. Court of Appeals for the Sixth Circuit",
+      "title": "Gensler files Sixth Circuit amicus arguing sports prediction markets are not 'swaps'",
+      "facts": "As reported by The Defiant (and corroborated by DeFi Rate), on 2026-06-11 former CFTC and SEC chair Gary Gensler filed an amicus brief with the U.S. Court of Appeals for the Sixth Circuit in KalshiEX LLC v. Schuler — Kalshi's appeal of an Ohio district court's denial of a preliminary injunction — arguing that sports-event prediction-market contracts fall outside the statutory definition of a 'swap' under Dodd-Frank and are therefore not within the CFTC's exclusive jurisdiction. The brief contends the swap definition centers on hedging economic risk and that reading it to cover sports bets would imply every off-exchange wager since October 2012 had been illegal. The position contradicts the CFTC's own May 12, 2026 amicus asserting exclusive jurisdiction.",
+      "source_url": "https://thedefiant.io/news/regulation/gensler-amicus-brief-sports-prediction-markets-cftc-swap-rules",
+      "source_label": "The Defiant (reporting the Gensler Sixth Circuit amicus brief)",
+      "tags": [
+        "prediction-markets",
+        "event-contracts",
+        "swaps",
+        "Dodd-Frank",
+        "preemption",
+        "amicus",
+        "Sixth-Circuit",
+        "gaming",
+        "crypto"
+      ]
+    },
+    {
+      "id": "2026-06-16-delaware-new-jersey-crypto-atm-ban",
+      "date": "2026-06-16",
+      "published": "2026-06-16T09:10:00Z",
+      "issuing_body": "Delaware General Assembly (HB 441) / New Jersey Legislature (S-2141)",
+      "title": "Delaware (HB 441) and New Jersey (S-2141) advance statewide crypto-ATM bans",
+      "facts": "As reported by The Defiant (and corroborated by Cointelegraph, CryptoNews, and Grafa), Delaware and New Jersey have each advanced legislation to ban cryptocurrency ATMs statewide, citing fraud losses. Delaware's House Bill 441 cleared the House Economic Development Committee and, per coverage, passed the House; it would require existing kiosks to go dark upon enactment and be physically removed within 90 days, bar cashier-assisted workarounds, and expose operators to unlawful-trade-practice charges plus victim-refund and forfeiture obligations. New Jersey's Senate Bill S-2141 cleared the Senate Commerce Committee unanimously and heads to the full chamber. Sponsors cited FBI Internet Crime Complaint Center data of 13,400 crypto-ATM-scam complaints in 2025 and more than $388 million in losses (a 58% year-over-year increase), with more than half of complaints involving victims over 60; operator CoinFlip urged regulation with transaction monitoring instead of prohibition. Tennessee, Indiana, and Minnesota already have statewide bans.",
+      "source_url": "https://thedefiant.io/news/regulation/delaware-new-jersey-ban-crypto-atms-fraud",
+      "source_label": "The Defiant (reporting the Delaware and New Jersey crypto-ATM ban bills)",
+      "tags": [
+        "crypto",
+        "payments",
+        "crypto-atm",
+        "kiosk",
+        "state-legislation",
+        "consumer-protection",
+        "fraud",
+        "Delaware",
+        "New-Jersey"
+      ]
+    },
+    {
+      "id": "2026-06-16-fta-v-tennessee-remittance-tax",
+      "date": "2026-06-16",
+      "published": "2026-06-16T09:15:00Z",
+      "issuing_body": "Financial Technology Association v. Tennessee — Davidson County Chancery Court",
+      "title": "Fintech trade group sues Tennessee to block remittance tax (HB2502)",
+      "facts": "As reported by The Center Square (and corroborated by Law360, CU Today, and Fintech Business Weekly), the Financial Technology Association filed suit in Davidson County (Tennessee) Chancery Court seeking an injunction to block HB2502, a law signed by Gov. Bill Lee in May 2026 that adds a $10 fee on monetary wire transfers to another country plus a 2% tax on transfers over $500 (effective Jan. 1, 2027; projected to raise more than $91 million in FY2026-27). The FTA argues the law is unconstitutional under the dormant Commerce Clause because it singles out international payments for special taxation, and its complaint states members will have to modify transaction-processing systems, compliance software, and customer-facing interfaces, incurring nonrecoverable compliance costs before year-end or risk penalties. FTA president and CEO Penny Lee said, 'when a state singles out international payments for special taxation, that is unconstitutional, plain and simple.'",
+      "source_url": "https://www.thecentersquare.com/tennessee/article_8ba6c1a3-e3a1-4021-99cd-f70b237c3727.html",
+      "source_label": "The Center Square (reporting the FTA v. Tennessee filing)",
+      "tags": [
+        "payments",
+        "fintech",
+        "remittances",
+        "money-transmission",
+        "state-tax",
+        "dormant-commerce-clause",
+        "litigation",
+        "Tennessee",
+        "HB2502"
+      ]
     }
   ]
 }
