@@ -12,9 +12,13 @@ Reads items.json and writes:
   - sitemap.xml  (SEO)
   - robots.txt   (SEO; points at sitemap)
 
-The Cowork publish task must ONLY update items.json and then run this script,
-committing items.json + every generated file. It must never hand-write the HTML
-or any feed - that is what previously reverted the design.
+The publish task must ONLY edit items.json. On every push to items.json (or to
+this renderer), the GitHub Action runs this script and commits ALL generated
+files (index.html + every feed/endpoint). Do NOT hand-write the HTML or any
+feed, and do NOT run-and-commit outputs from a local checkout: rendering from a
+stale local items.json is what makes the feeds drift out of sync with the page.
+Edit items.json; let the Action render. Hand-writing the HTML is also what
+previously reverted the design.
 
 Distribution rules baked in here (do not move into the task prompt):
   - Every feed <link>/guid/url points to the RegRisk Radar PERMALINK anchor
@@ -96,8 +100,14 @@ def source_line(it):
 
 def item_body_text(site, it):
     """Plain-text body shared by RSS / Atom / JSON Feed: facts, attributed
-    source, the single CTA, then the disclaimer."""
-    return "%s\n\n%s\n\n%s\n\n%s" % (it["facts"], source_line(it), CTA_FEED, site["disclaimer"])
+    source, the 'relevant to' teaser (if set), the single CTA, then the
+    disclaimer."""
+    parts = [it["facts"], source_line(it)]
+    relto = it.get("relevant_to")
+    if relto:
+        parts.append("Relevant to: %s" % relto)
+    parts += [CTA_FEED, site["disclaimer"]]
+    return "\n\n".join(parts)
 
 
 def load():
