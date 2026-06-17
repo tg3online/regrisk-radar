@@ -118,6 +118,20 @@
       "source_type": "coverage_reporting_filing",
       "primary_source_status": "cited_by_coverage_not_retrieved",
       "relevant_to": "money transmitters, remittance providers, payment processors, fintechs"
+    },
+    {
+      "id": "2026-06-17-nydfs-stablecoin-genius-act",
+      "date": "2026-06-17",
+      "published": "2026-06-17T07:36:19Z",
+      "issuing_body": "NYDFS",
+      "title": "NYDFS proposes stablecoin regulation aligning New York's framework with the federal GENIUS Act",
+      "facts": "On June 9, 2026, the New York State Department of Financial Services, under Acting Superintendent Kaitlin Asrow, proposed a regulation to build on New York's existing stablecoin framework and align it with the federal GENIUS Act. The proposal carries forward DFS's prior requirements for U.S. dollar-backed stablecoins issued under its oversight — backing and redeemability, permissible reserves, and independent audits — and adds new federal provisions, including setting maximum amounts of reserves that can be held at any one custodian and requiring issuers to adopt risk-management programs covering internal controls, information security, internal audit, asset growth, earnings, insider and affiliate transactions, and service-provider arrangements. The proposed regulation is subject to a 10-day preproposal comment period beginning June 9, 2026, followed by a 60-day comment period upon publication in the State Register; the final regulation would take effect at the same time as the GENIUS Act becomes effective, with a one-year transition period for existing New York-licensed issuers. The Department's June 2022 stablecoin guidance remains in effect until then.",
+      "source_url": "https://www.dfs.ny.gov/reports_and_publications/press_releases/pr20260609",
+      "source_label": "NYDFS Press Release (June 9, 2026)",
+      "tags": ["NYDFS", "stablecoins", "GENIUS-Act", "reserves", "risk-management", "New-York", "crypto", "payments", "fintech"],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "stablecoin issuers, virtual-currency (BitLicense) licensees, custodians, payment-stablecoin platforms"
     }
   ]
 }
