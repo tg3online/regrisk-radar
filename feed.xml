@@ -5,8 +5,24 @@
     <link>https://tg3online.github.io/regrisk-radar/</link>
     <description>Daily facts-only regulatory radar — crypto, gaming, payments &amp; fintech. Verified against primary sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Jun 2026 21:16:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 07:43:33 +0000</lastBuildDate>
     <atom:link href="https://tg3online.github.io/regrisk-radar/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NYDFS proposes stablecoin regulation aligning New York&#x27;s framework with the federal GENIUS Act</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-06-17-nydfs-stablecoin-genius-act</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-06-17-nydfs-stablecoin-genius-act</guid>
+      <pubDate>Wed, 17 Jun 2026 07:36:19 +0000</pubDate>
+      <category>NYDFS</category>
+      <description>On June 9, 2026, the New York State Department of Financial Services, under Acting Superintendent Kaitlin Asrow, proposed a regulation to build on New York&#x27;s existing stablecoin framework and align it with the federal GENIUS Act. The proposal carries forward DFS&#x27;s prior requirements for U.S. dollar-backed stablecoins issued under its oversight — backing and redeemability, permissible reserves, and independent audits — and adds new federal provisions, including setting maximum amounts of reserves that can be held at any one custodian and requiring issuers to adopt risk-management programs covering internal controls, information security, internal audit, asset growth, earnings, insider and affiliate transactions, and service-provider arrangements. The proposed regulation is subject to a 10-day preproposal comment period beginning June 9, 2026, followed by a 60-day comment period upon publication in the State Register; the final regulation would take effect at the same time as the GENIUS Act becomes effective, with a one-year transition period for existing New York-licensed issuers. The Department&#x27;s June 2022 stablecoin guidance remains in effect until then.
+
+Primary source: NYDFS Press Release (June 9, 2026) — https://www.dfs.ny.gov/reports_and_publications/press_releases/pr20260609
+
+Relevant to: stablecoin issuers, virtual-currency (BitLicense) licensees, custodians, payment-stablecoin platforms
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
     <item>
       <title>Pennsylvania Supreme Court rules skill games are slot machines; 120-day enforcement stay issued</title>
       <link>https://tg3online.github.io/regrisk-radar/#2026-06-16-pennsylvania-sc-skill-games-slot-machines</link>

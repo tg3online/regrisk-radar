@@ -1,8 +1,32 @@
 {
-  "generated": "2026-06-16T21:16:16Z",
+  "generated": "2026-06-17T07:43:33Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 8,
+  "count": 9,
   "items": [
+    {
+      "id": "2026-06-17-nydfs-stablecoin-genius-act",
+      "date": "2026-06-17",
+      "published": "2026-06-17T07:36:19Z",
+      "title": "NYDFS proposes stablecoin regulation aligning New York's framework with the federal GENIUS Act",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-06-17-nydfs-stablecoin-genius-act",
+      "issuing_body": "NYDFS",
+      "source_url": "https://www.dfs.ny.gov/reports_and_publications/press_releases/pr20260609",
+      "source_label": "NYDFS Press Release (June 9, 2026)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "stablecoin issuers, virtual-currency (BitLicense) licensees, custodians, payment-stablecoin platforms",
+      "tags": [
+        "NYDFS",
+        "stablecoins",
+        "GENIUS-Act",
+        "reserves",
+        "risk-management",
+        "New-York",
+        "crypto",
+        "payments",
+        "fintech"
+      ]
+    },
     {
       "id": "2026-06-16-pennsylvania-sc-skill-games-slot-machines",
       "date": "2026-06-16",
