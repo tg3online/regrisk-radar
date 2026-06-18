@@ -5,10 +5,62 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>RegRisk Radar — regulatory radar for crypto, gaming, payments &amp; fintech</title>
 <meta name="description" content="Daily facts-only regulatory radar — crypto, gaming, payments &amp; fintech. Verified against primary sources.">
-<link rel="alternate" type="application/rss+xml" title="RegRisk Radar RSS" href="feed.xml">
-<link rel="alternate" type="application/atom+xml" title="RegRisk Radar Atom" href="atom.xml">
-<link rel="alternate" type="application/feed+json" title="RegRisk Radar JSON Feed" href="feed.json">
-<link rel="sitemap" type="application/xml" href="sitemap.xml">
+<meta name="author" content="TG / RegRisk Radar">
+<link rel="canonical" href="https://tg3online.github.io/regrisk-radar/">
+<link rel="me" href="https://x.com/0xTG3">
+
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="RegRisk Radar">
+<meta property="og:title" content="RegRisk Radar — regulatory radar for crypto, gaming, payments &amp; fintech">
+<meta property="og:description" content="Daily facts-only regulatory radar — crypto, gaming, payments &amp; fintech. Verified against primary sources.">
+<meta property="og:url" content="https://tg3online.github.io/regrisk-radar/">
+<meta property="og:image" content="https://tg3online.github.io/regrisk-radar/social-card.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="RegRisk Radar — daily facts-only regulatory radar for crypto, gaming, payments &amp; fintech">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@0xTG3">
+<meta name="twitter:creator" content="@0xTG3">
+<meta name="twitter:title" content="RegRisk Radar — regulatory radar for crypto, gaming, payments &amp; fintech">
+<meta name="twitter:description" content="Daily facts-only regulatory radar — crypto, gaming, payments &amp; fintech. Verified against primary sources.">
+<meta name="twitter:image" content="https://tg3online.github.io/regrisk-radar/social-card.png">
+<meta name="twitter:image:alt" content="RegRisk Radar — daily facts-only regulatory radar for crypto, gaming, payments &amp; fintech">
+
+<link rel="icon" href="https://tg3online.github.io/regrisk-radar/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="https://tg3online.github.io/regrisk-radar/favicon-32x32.png" sizes="32x32" type="image/png">
+<link rel="icon" href="https://tg3online.github.io/regrisk-radar/favicon.ico" sizes="any">
+<link rel="apple-touch-icon" href="https://tg3online.github.io/regrisk-radar/apple-touch-icon.png">
+
+<link rel="alternate" type="application/rss+xml" title="RegRisk Radar RSS" href="https://tg3online.github.io/regrisk-radar/feed.xml">
+<link rel="alternate" type="application/atom+xml" title="RegRisk Radar Atom" href="https://tg3online.github.io/regrisk-radar/atom.xml">
+<link rel="alternate" type="application/feed+json" title="RegRisk Radar JSON Feed" href="https://tg3online.github.io/regrisk-radar/feed.json">
+<link rel="sitemap" type="application/xml" href="https://tg3online.github.io/regrisk-radar/sitemap.xml">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "RegRisk Radar",
+  "url": "https://tg3online.github.io/regrisk-radar/",
+  "description": "Daily facts-only regulatory radar — crypto, gaming, payments & fintech. Verified against primary sources.",
+  "inLanguage": "en-us",
+  "author": {
+    "@type": "Person",
+    "name": "TG",
+    "url": "https://x.com/0xTG3",
+    "sameAs": [
+      "https://x.com/0xTG3"
+    ]
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "RegRisk Radar",
+    "url": "https://tg3online.github.io/regrisk-radar/",
+    "logo": "https://tg3online.github.io/regrisk-radar/social-card.png"
+  }
+}
+</script>
 <style>
   :root{
     --bg:#06080a; --panel:#0b0e12; --panel2:#0f1419; --ink:#d7dde4; --mut:#6b7682;
@@ -94,10 +146,12 @@
   }
   .tag::before{content:"["; color:#2a3340}
   .tag::after{content:"]"; color:#2a3340}
-  .cta{margin-top:12px; padding-top:10px; border-top:1px dotted var(--line); font-size:11px; letter-spacing:.03em}
+  .cta{margin-top:12px; padding-top:10px; border-top:1px dotted var(--line); font-size:11px; letter-spacing:.03em; display:flex; flex-wrap:wrap; gap:14px; align-items:center}
   .cta a{color:var(--amber-dim)}
   .cta a:hover{color:var(--amber); text-decoration:none}
-  .cta::before{content:"▸ "; color:var(--mut)}
+  .cta .join::before{content:"▸ "; color:var(--mut)}
+  .share{color:var(--mut)}
+  .share::before{content:"⤤ "; color:var(--mut)}
   footer{
     max-width:980px; margin:34px auto 0; padding:16px 18px 0; border-top:1px solid var(--line);
     color:var(--mut); font-size:11.5px; line-height:1.7;
@@ -129,7 +183,7 @@
   <div class="subscribe">
     <span class="lbl">▸ WEEKLY DIGEST</span>
     <span class="desc">Enforcement, regulator moves &amp; operator risk signals — facts + primary sources. No spam.</span>
-    <a class="btn btn-solid" href="https://regriskradar.beehiiv.com/" rel="noopener">Subscribe →</a>
+    <a class="btn btn-solid" href="https://regriskradar.beehiiv.com/?utm_source=radar&amp;utm_medium=site&amp;utm_campaign=public_ticker" rel="noopener">Subscribe →</a>
   </div>
 
   <div class="wrap">
@@ -141,7 +195,7 @@
         <p class="src"><span class="srctype srctype-primary">PRIMARY SOURCE</span><a href="https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260618a.htm" rel="noopener">Federal Reserve Board — Press Release (June 18, 2026): Joint NPRM for CIP requirements on permitted payment stablecoin issuers</a></p>
         <p class="relto">stablecoin issuers, permitted payment stablecoin issuers under the GENIUS Act, banking partners of stablecoin issuers, compliance and KYC teams</p>
         <div class="tags"><span class="tag">nprm</span> <span class="tag">stablecoin</span> <span class="tag">genius-act</span> <span class="tag">cip</span> <span class="tag">bsa</span> <span class="tag">aml</span> <span class="tag">kyc</span> <span class="tag">federal-reserve</span> <span class="tag">occ</span> <span class="tag">fdic</span> <span class="tag">ncua</span> <span class="tag">treasury</span> <span class="tag">comment-period</span> <span class="tag">payments</span> <span class="tag">crypto</span> <span class="tag">fintech</span></div>
-        <p class="cta"><a href="https://regriskradar.beehiiv.com/" rel="noopener">For operator-impact analysis and watchlist implications, join RegRisk Radar. →</a></p>
+        <p class="cta"><a class="join" href="https://regriskradar.beehiiv.com/?utm_source=radar_item&amp;utm_medium=site&amp;utm_campaign=operator_impact" rel="noopener">For operator-impact analysis and watchlist implications, join RegRisk Radar. →</a><a class="share" href="https://x.com/intent/tweet?text=Joint%20Fed/OCC/FDIC/NCUA/Treasury%20NPRM%20proposes%20customer%20identification%20program%20requirements%20for%20permitted%20payment%20stablecoin%20issuers&amp;url=https%3A//tg3online.github.io/regrisk-radar/%232026-06-18-genius-act-cip-nprm-joint-agencies" rel="noopener" target="_blank">Share on X</a></p>
       </article>
       <article class="item" id="2026-06-18-illinois-digital-asset-privilege-tax-sb3019">
         <div class="meta"><time datetime="2026-06-18T07:40:00Z">2026-06-18</time> · <span class="body">State of Illinois (Gov. JB Pritzker)</span></div>
@@ -150,7 +204,7 @@
         <p class="src"><span class="srctype srctype-coverage">COVERAGE · reporting filing</span><a href="https://cryptobriefing.com/illinois-digital-asset-trading-tax/" rel="noopener">Crypto Briefing (reporting Illinois SB 3019 / Digital Asset Tax Act; signing also reported by Yahoo Finance, Bitcoin Magazine, The Defiant, and others)</a></p>
         <p class="relto">crypto exchanges, brokers, custodians and wallet providers with Illinois nexus; payment processors; tax/compliance teams</p>
         <div class="tags"><span class="tag">crypto</span> <span class="tag">payments</span> <span class="tag">fintech</span> <span class="tag">state-tax</span> <span class="tag">digital-asset-tax</span> <span class="tag">SB3019</span> <span class="tag">DATA</span> <span class="tag">Illinois</span> <span class="tag">first-in-nation</span></div>
-        <p class="cta"><a href="https://regriskradar.beehiiv.com/" rel="noopener">For operator-impact analysis and watchlist implications, join RegRisk Radar. →</a></p>
+        <p class="cta"><a class="join" href="https://regriskradar.beehiiv.com/?utm_source=radar_item&amp;utm_medium=site&amp;utm_campaign=operator_impact" rel="noopener">For operator-impact analysis and watchlist implications, join RegRisk Radar. →</a><a class="share" href="https://x.com/intent/tweet?text=Illinois%20enacts%20first-in-nation%20digital-asset%20transaction%20tax%20%28SB%203019%20/%20Digital%20Asset%20Tax%20Act%29&amp;url=https%3A//tg3online.github.io/regrisk-radar/%232026-06-18-illinois-digital-asset-privilege-tax-sb3019" rel="noopener" target="_blank">Share on X</a></p>
       </article>
       <article class="item" id="2026-06-18-congress-cbdc-ban-road-to-housing-act">
         <div class="meta"><time datetime="2026-06-18T07:38:00Z">2026-06-18</time> · <span class="body">U.S. Senate Banking Committee (Congress)</span></div>
@@ -159,7 +213,7 @@
         <p class="src"><span class="srctype srctype-primary">PRIMARY SOURCE</span><a href="https://www.banking.senate.gov/newsroom/majority/scott-warren-hill-waters-release-updated-bill-text-on-senate-consideration-of-the-21st-century-road-to-housing-act" rel="noopener">U.S. Senate Banking Committee Press Release (June 16, 2026)</a></p>
         <p class="relto">stablecoin issuers, payment and fintech platforms, banks, digital-dollar infrastructure providers</p>
         <div class="tags"><span class="tag">crypto</span> <span class="tag">payments</span> <span class="tag">fintech</span> <span class="tag">CBDC</span> <span class="tag">stablecoins</span> <span class="tag">federal-legislation</span> <span class="tag">HR6644</span> <span class="tag">Federal-Reserve</span></div>
-        <p class="cta"><a href="https://regriskradar.beehiiv.com/" rel="noopener">For operator-impact analysis and watchlist implications, join RegRisk Radar. →</a></p>
+        <p class="cta"><a class="join" href="https://regriskradar.beehiiv.com/?utm_source=radar_item&amp;utm_medium=site&amp;utm_campaign=operator_impact" rel="noopener">For operator-impact analysis and watchlist implications, join RegRisk Radar. →</a><a class="share" href="https://x.com/intent/tweet?text=Congress%20folds%20a%20statutory%20Fed%20CBDC%20ban%20%28through%202030%29%20into%20the%2021st%20Century%20ROAD%20to%20Housing%20Act%20%28H.R.%206644%29&amp;url=https%3A//tg3online.github.io/regrisk-radar/%232026-06-18-congress-cbdc-ban-road-to-housing-act" rel="noopener" target="_blank">Share on X</a></p>
       </article>
       <article class="item" id="2026-06-18-tribal-coalition-amicus-prediction-markets">
         <div class="meta"><time datetime="2026-06-18T07:36:00Z">2026-06-18</time> · <span class="body">Tribal Amici (coalition of federally recognized tribes)</span></div>
@@ -168,7 +222,7 @@
         <p class="src"><span class="srctype srctype-coverage">COVERAGE · reporting filing</span><a href="https://thedefiant.io/converge/regulation/tribal-coalition-amicus-briefs-prediction-markets-native-land" rel="noopener">The Defiant (reporting the Tribal Amici amicus briefs; links the CourtListener docket and the S.D.N.Y. filing; corroborated by Protos)</a></p>
         <p class="relto">prediction-market / event-contract platforms, tribal gaming operators, sportsbooks, exchanges</p>
         <div class="tags"><span class="tag">crypto</span> <span class="tag">gaming</span> <span class="tag">prediction-markets</span> <span class="tag">event-contracts</span> <span class="tag">preemption</span> <span class="tag">amicus</span> <span class="tag">tribal-gaming</span> <span class="tag">IGRA</span> <span class="tag">Sixth-Circuit</span></div>
-        <p class="cta"><a href="https://regriskradar.beehiiv.com/" rel="noopener">For operator-impact analysis and watchlist implications, join RegRisk Radar. →</a></p>
+        <p class="cta"><a class="join" href="https://regriskradar.beehiiv.com/?utm_source=radar_item&amp;utm_medium=site&amp;utm_campaign=operator_impact" rel="noopener">For operator-impact analysis and watchlist implications, join RegRisk Radar. →</a><a class="share" href="https://x.com/intent/tweet?text=Tribal%20coalition%20files%20amicus%20briefs%20opposing%20CFTC/Kalshi%20preemption%20of%20tribal%20gaming%20laws&amp;url=https%3A//tg3online.github.io/regrisk-radar/%232026-06-18-tribal-coalition-amicus-prediction-markets" rel="noopener" target="_blank">Share on X</a></p>
       </article>
       <article class="item" id="2026-06-17-kentucky-ag-kalshi-polymarket-vgw">
         <div class="meta"><time datetime="2026-06-17T21:00:00Z">2026-06-17</time> · <span class="body">Kentucky Attorney General (Russell Coleman)</span></div>
@@ -177,7 +231,7 @@
         <p class="src"><span class="srctype srctype-primary">PRIMARY SOURCE</span><a href="https://www.kentucky.gov/Pages/Activity-stream.aspx?n=AttorneyGeneral&amp;prId=1944" rel="noopener">Kentucky Attorney General — Press Release (June 17, 2026)</a></p>
         <p class="relto">prediction-market platforms, sweepstakes casino operators, crypto exchanges and brokerages enabling prediction market access, gaming operators with Kentucky user exposure</p>
         <div class="tags"><span class="tag">enforcement</span> <span class="tag">prediction-markets</span> <span class="tag">sweepstakes</span> <span class="tag">gaming</span> <span class="tag">state-ag</span> <span class="tag">kalshi</span> <span class="tag">polymarket</span> <span class="tag">vgw</span> <span class="tag">consumer-protection</span> <span class="tag">kentucky</span></div>
-        <p class="cta"><a href="https://regriskradar.beehiiv.com/" rel="noopener">For operator-impact analysis and watchlist implications, join RegRisk Radar. →</a></p>
+        <p class="cta"><a class="join" href="https://regriskradar.beehiiv.com/?utm_source=radar_item&amp;utm_medium=site&amp;utm_campaign=operator_impact" rel="noopener">For operator-impact analysis and watchlist implications, join RegRisk Radar. →</a><a class="share" href="https://x.com/intent/tweet?text=Kentucky%20AG%20Coleman%20files%20three%20lawsuits%20against%20Kalshi/Coinbase/Robinhood/Webull%2C%20Polymarket%2C%20and%20VGW%20sweepstakes%20casinos&amp;url=https%3A//tg3online.github.io/regrisk-radar/%232026-06-17-kentucky-ag-kalshi-polymarket-vgw" rel="noopener" target="_blank">Share on X</a></p>
       </article>
       <article class="item" id="2026-06-17-nydfs-stablecoin-genius-act">
         <div class="meta"><time datetime="2026-06-17T07:36:19Z">2026-06-17</time> · <span class="body">NYDFS</span></div>
@@ -186,7 +240,7 @@
         <p class="src"><span class="srctype srctype-primary">PRIMARY SOURCE</span><a href="https://www.dfs.ny.gov/reports_and_publications/press_releases/pr20260609" rel="noopener">NYDFS Press Release (June 9, 2026)</a></p>
         <p class="relto">stablecoin issuers, virtual-currency (BitLicense) licensees, custodians, payment-stablecoin platforms</p>
         <div class="tags"><span class="tag">NYDFS</span> <span class="tag">stablecoins</span> <span class="tag">GENIUS-Act</span> <span class="tag">reserves</span> <span class="tag">risk-management</span> <span class="tag">New-York</span> <span class="tag">crypto</span> <span class="tag">payments</span> <span class="tag">fintech</span></div>
-        <p class="cta"><a href="https://regriskradar.beehiiv.com/" rel="noopener">For operator-impact analysis and watchlist implications, join RegRisk Radar. →</a></p>
+        <p class="cta"><a class="join" href="https://regriskradar.beehiiv.com/?utm_source=radar_item&amp;utm_medium=site&amp;utm_campaign=operator_impact" rel="noopener">For operator-impact analysis and watchlist implications, join RegRisk Radar. →</a><a class="share" href="https://x.com/intent/tweet?text=NYDFS%20proposes%20stablecoin%20regulation%20aligning%20New%20York%27s%20framework%20with%20the%20federal%20GENIUS%20Act&amp;url=https%3A//tg3online.github.io/regrisk-radar/%232026-06-17-nydfs-stablecoin-genius-act" rel="noopener" target="_blank">Share on X</a></p>
       </article>
       <article class="item" id="2026-06-16-pennsylvania-sc-skill-games-slot-machines">
         <div class="meta"><time datetime="2026-06-16T19:17:37Z">2026-06-16</time> · <span class="body">Pennsylvania Supreme Court</span></div>
@@ -195,7 +249,7 @@
         <p class="src"><span class="srctype srctype-primary">PRIMARY SOURCE</span><a href="https://www.pacourts.us/assets/opinions/Supreme/out/J-97-2025mo.pdf" rel="noopener">Pennsylvania Supreme Court Opinion J-97-2025 (majority opinion)</a></p>
         <p class="relto">skill game operators, gaming venues (bars, VFWs, fraternal clubs), payment processors, PA legislators</p>
         <div class="tags"><span class="tag">gaming</span> <span class="tag">skill-games</span> <span class="tag">Pennsylvania</span> <span class="tag">state-court</span> <span class="tag">enforcement-stay</span> <span class="tag">slot-machines</span> <span class="tag">Pace-O-Matic</span></div>
-        <p class="cta"><a href="https://regriskradar.beehiiv.com/" rel="noopener">For operator-impact analysis and watchlist implications, join RegRisk Radar. →</a></p>
+        <p class="cta"><a class="join" href="https://regriskradar.beehiiv.com/?utm_source=radar_item&amp;utm_medium=site&amp;utm_campaign=operator_impact" rel="noopener">For operator-impact analysis and watchlist implications, join RegRisk Radar. →</a><a class="share" href="https://x.com/intent/tweet?text=Pennsylvania%20Supreme%20Court%20rules%20skill%20games%20are%20slot%20machines%3B%20120-day%20enforcement%20stay%20issued&amp;url=https%3A//tg3online.github.io/regrisk-radar/%232026-06-16-pennsylvania-sc-skill-games-slot-machines" rel="noopener" target="_blank">Share on X</a></p>
       </article>
       <article class="item" id="2026-06-16-fta-v-tennessee-remittance-tax">
         <div class="meta"><time datetime="2026-06-16T09:15:00Z">2026-06-16</time> · <span class="body">Financial Technology Association v. Tennessee — Davidson County Chancery Court</span></div>
@@ -204,7 +258,7 @@
         <p class="src"><span class="srctype srctype-coverage">COVERAGE · reporting filing</span><a href="https://www.thecentersquare.com/tennessee/article_8ba6c1a3-e3a1-4021-99cd-f70b237c3727.html" rel="noopener">The Center Square (reporting the FTA v. Tennessee filing)</a></p>
         <p class="relto">money transmitters, remittance providers, payment processors, fintechs</p>
         <div class="tags"><span class="tag">payments</span> <span class="tag">fintech</span> <span class="tag">remittances</span> <span class="tag">money-transmission</span> <span class="tag">state-tax</span> <span class="tag">dormant-commerce-clause</span> <span class="tag">litigation</span> <span class="tag">Tennessee</span> <span class="tag">HB2502</span></div>
-        <p class="cta"><a href="https://regriskradar.beehiiv.com/" rel="noopener">For operator-impact analysis and watchlist implications, join RegRisk Radar. →</a></p>
+        <p class="cta"><a class="join" href="https://regriskradar.beehiiv.com/?utm_source=radar_item&amp;utm_medium=site&amp;utm_campaign=operator_impact" rel="noopener">For operator-impact analysis and watchlist implications, join RegRisk Radar. →</a><a class="share" href="https://x.com/intent/tweet?text=Fintech%20trade%20group%20sues%20Tennessee%20to%20block%20remittance%20tax%20%28HB2502%29&amp;url=https%3A//tg3online.github.io/regrisk-radar/%232026-06-16-fta-v-tennessee-remittance-tax" rel="noopener" target="_blank">Share on X</a></p>
       </article>
       <article class="item" id="2026-06-16-delaware-new-jersey-crypto-atm-ban">
         <div class="meta"><time datetime="2026-06-16T09:10:00Z">2026-06-16</time> · <span class="body">Delaware General Assembly (HB 441) / New Jersey Legislature (S-2141)</span></div>
@@ -213,7 +267,7 @@
         <p class="src"><span class="srctype srctype-coverage">COVERAGE · reporting filing</span><a href="https://thedefiant.io/news/regulation/delaware-new-jersey-ban-crypto-atms-fraud" rel="noopener">The Defiant (reporting the Delaware and New Jersey crypto-ATM ban bills)</a></p>
         <p class="relto">crypto-ATM/kiosk operators, payment processors, compliance vendors</p>
         <div class="tags"><span class="tag">crypto</span> <span class="tag">payments</span> <span class="tag">crypto-atm</span> <span class="tag">kiosk</span> <span class="tag">state-legislation</span> <span class="tag">consumer-protection</span> <span class="tag">fraud</span> <span class="tag">Delaware</span> <span class="tag">New-Jersey</span></div>
-        <p class="cta"><a href="https://regriskradar.beehiiv.com/" rel="noopener">For operator-impact analysis and watchlist implications, join RegRisk Radar. →</a></p>
+        <p class="cta"><a class="join" href="https://regriskradar.beehiiv.com/?utm_source=radar_item&amp;utm_medium=site&amp;utm_campaign=operator_impact" rel="noopener">For operator-impact analysis and watchlist implications, join RegRisk Radar. →</a><a class="share" href="https://x.com/intent/tweet?text=Delaware%20%28HB%20441%29%20and%20New%20Jersey%20%28S-2141%29%20advance%20statewide%20crypto-ATM%20bans&amp;url=https%3A//tg3online.github.io/regrisk-radar/%232026-06-16-delaware-new-jersey-crypto-atm-ban" rel="noopener" target="_blank">Share on X</a></p>
       </article>
       <article class="item" id="2026-06-16-gensler-amicus-sixth-circuit">
         <div class="meta"><time datetime="2026-06-16T09:05:00Z">2026-06-16</time> · <span class="body">Gary Gensler (amicus) — U.S. Court of Appeals for the Sixth Circuit</span></div>
@@ -222,7 +276,7 @@
         <p class="src"><span class="srctype srctype-coverage">COVERAGE · reporting filing</span><a href="https://thedefiant.io/news/regulation/gensler-amicus-brief-sports-prediction-markets-cftc-swap-rules" rel="noopener">The Defiant (reporting the Gensler Sixth Circuit amicus brief)</a></p>
         <p class="relto">prediction-market platforms, derivatives exchanges, crypto exchanges</p>
         <div class="tags"><span class="tag">prediction-markets</span> <span class="tag">event-contracts</span> <span class="tag">swaps</span> <span class="tag">Dodd-Frank</span> <span class="tag">preemption</span> <span class="tag">amicus</span> <span class="tag">Sixth-Circuit</span> <span class="tag">gaming</span> <span class="tag">crypto</span></div>
-        <p class="cta"><a href="https://regriskradar.beehiiv.com/" rel="noopener">For operator-impact analysis and watchlist implications, join RegRisk Radar. →</a></p>
+        <p class="cta"><a class="join" href="https://regriskradar.beehiiv.com/?utm_source=radar_item&amp;utm_medium=site&amp;utm_campaign=operator_impact" rel="noopener">For operator-impact analysis and watchlist implications, join RegRisk Radar. →</a><a class="share" href="https://x.com/intent/tweet?text=Gensler%20files%20Sixth%20Circuit%20amicus%20arguing%20sports%20prediction%20markets%20are%20not%20%27swaps%27&amp;url=https%3A//tg3online.github.io/regrisk-radar/%232026-06-16-gensler-amicus-sixth-circuit" rel="noopener" target="_blank">Share on X</a></p>
       </article>
       <article class="item" id="2026-06-16-wisconsin-pi-event-contracts">
         <div class="meta"><time datetime="2026-06-16T09:00:00Z">2026-06-16</time> · <span class="body">State of Wisconsin (Attorney General) — U.S. District Court, W.D. Wis.</span></div>
@@ -231,7 +285,7 @@
         <p class="src"><span class="srctype srctype-coverage">COVERAGE · reporting filing</span><a href="https://defirate.com/news/wisconsin-block-trading-sports-contracts-kalshi/" rel="noopener">DeFi Rate (reporting the Wisconsin preliminary-injunction motion)</a></p>
         <p class="relto">prediction-market platforms, crypto exchanges, brokerages</p>
         <div class="tags"><span class="tag">Wisconsin</span> <span class="tag">prediction-markets</span> <span class="tag">event-contracts</span> <span class="tag">preliminary-injunction</span> <span class="tag">preemption</span> <span class="tag">gaming</span> <span class="tag">crypto</span></div>
-        <p class="cta"><a href="https://regriskradar.beehiiv.com/" rel="noopener">For operator-impact analysis and watchlist implications, join RegRisk Radar. →</a></p>
+        <p class="cta"><a class="join" href="https://regriskradar.beehiiv.com/?utm_source=radar_item&amp;utm_medium=site&amp;utm_campaign=operator_impact" rel="noopener">For operator-impact analysis and watchlist implications, join RegRisk Radar. →</a><a class="share" href="https://x.com/intent/tweet?text=Wisconsin%20moves%20to%20block%20sports%20event-contract%20trading%20on%20Coinbase%2C%20Kalshi%2C%20and%20Robinhood&amp;url=https%3A//tg3online.github.io/regrisk-radar/%232026-06-16-wisconsin-pi-event-contracts" rel="noopener" target="_blank">Share on X</a></p>
       </article>
       <article class="item" id="2026-06-15-coalition-v-kentucky-tax">
         <div class="meta"><time datetime="2026-06-15T09:10:00Z">2026-06-15</time> · <span class="body">Coalition for Fair Markets (NADEX, Kalshi, Polymarket/QCX)</span></div>
@@ -240,7 +294,7 @@
         <p class="src"><span class="srctype srctype-coverage">COVERAGE · reporting filing</span><a href="https://sbcamericas.com/2026/06/15/kentucky-prediction-markets-lawsuit/" rel="noopener">SBC Americas (reporting the Coalition for Fair Markets filing; first reported by the Associated Press)</a></p>
         <p class="relto">prediction-market platforms, licensed gaming operators, payment processors</p>
         <div class="tags"><span class="tag">Kentucky</span> <span class="tag">prediction-markets</span> <span class="tag">event-contracts</span> <span class="tag">state-tax</span> <span class="tag">preemption</span> <span class="tag">gaming</span> <span class="tag">crypto</span></div>
-        <p class="cta"><a href="https://regriskradar.beehiiv.com/" rel="noopener">For operator-impact analysis and watchlist implications, join RegRisk Radar. →</a></p>
+        <p class="cta"><a class="join" href="https://regriskradar.beehiiv.com/?utm_source=radar_item&amp;utm_medium=site&amp;utm_campaign=operator_impact" rel="noopener">For operator-impact analysis and watchlist implications, join RegRisk Radar. →</a><a class="share" href="https://x.com/intent/tweet?text=Prediction-market%20coalition%20sues%20Kentucky%20over%2014.25%25%20tax%20on%20event-contract%20trading&amp;url=https%3A//tg3online.github.io/regrisk-radar/%232026-06-15-coalition-v-kentucky-tax" rel="noopener" target="_blank">Share on X</a></p>
       </article>
       <article class="item" id="2026-06-15-nevada-gcb-contempt-kalshi">
         <div class="meta"><time datetime="2026-06-15T09:05:00Z">2026-06-15</time> · <span class="body">Nevada Gaming Control Board</span></div>
@@ -249,7 +303,7 @@
         <p class="src"><span class="srctype srctype-coverage">COVERAGE · reporting filing</span><a href="https://www.reviewjournal.com/business/casinos-gaming/nevada-gaming-regulators-ask-judge-to-find-kalshi-in-contempt-of-court-3838501/" rel="noopener">Las Vegas Review-Journal (reporting the Nevada GCB court filing)</a></p>
         <p class="relto">prediction-market platforms, geolocation/compliance vendors, sportsbooks</p>
         <div class="tags"><span class="tag">Nevada</span> <span class="tag">prediction-markets</span> <span class="tag">event-contracts</span> <span class="tag">enforcement</span> <span class="tag">geofencing</span> <span class="tag">gaming</span> <span class="tag">crypto</span></div>
-        <p class="cta"><a href="https://regriskradar.beehiiv.com/" rel="noopener">For operator-impact analysis and watchlist implications, join RegRisk Radar. →</a></p>
+        <p class="cta"><a class="join" href="https://regriskradar.beehiiv.com/?utm_source=radar_item&amp;utm_medium=site&amp;utm_campaign=operator_impact" rel="noopener">For operator-impact analysis and watchlist implications, join RegRisk Radar. →</a><a class="share" href="https://x.com/intent/tweet?text=Nevada%20gaming%20regulator%20seeks%20to%20hold%20Kalshi%20in%20contempt%20over%20prediction-market%20geofencing&amp;url=https%3A//tg3online.github.io/regrisk-radar/%232026-06-15-nevada-gcb-contempt-kalshi" rel="noopener" target="_blank">Share on X</a></p>
       </article>
       <article class="item" id="2026-06-15-cftc-v-new-mexico">
         <div class="meta"><time datetime="2026-06-15T09:00:00Z">2026-06-15</time> · <span class="body">CFTC</span></div>
@@ -258,11 +312,12 @@
         <p class="src"><span class="srctype srctype-primary">PRIMARY SOURCE</span><a href="https://www.cftc.gov/PressRoom/PressReleases/9251-26" rel="noopener">CFTC Press Release 9251-26</a></p>
         <p class="relto">prediction-market platforms, sportsbooks, exchanges, CFTC registrants</p>
         <div class="tags"><span class="tag">CFTC</span> <span class="tag">prediction-markets</span> <span class="tag">preemption</span> <span class="tag">gaming</span> <span class="tag">crypto</span></div>
-        <p class="cta"><a href="https://regriskradar.beehiiv.com/" rel="noopener">For operator-impact analysis and watchlist implications, join RegRisk Radar. →</a></p>
+        <p class="cta"><a class="join" href="https://regriskradar.beehiiv.com/?utm_source=radar_item&amp;utm_medium=site&amp;utm_campaign=operator_impact" rel="noopener">For operator-impact analysis and watchlist implications, join RegRisk Radar. →</a><a class="share" href="https://x.com/intent/tweet?text=CFTC%20sues%20New%20Mexico%20over%20prediction-market%20preemption%20%288th%20state%29&amp;url=https%3A//tg3online.github.io/regrisk-radar/%232026-06-15-cftc-v-new-mexico" rel="noopener" target="_blank">Share on X</a></p>
       </article>
     </main>
     <footer>
       <p><span class="disc-h">// DISCLAIMER</span>RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</p>
+      <p>Subscribe via <a href="https://tg3online.github.io/regrisk-radar/feed.xml">RSS</a>, <a href="https://tg3online.github.io/regrisk-radar/atom.xml">Atom</a>, or <a href="https://tg3online.github.io/regrisk-radar/feed.json">JSON Feed</a> for source-labeled regulatory risk signals.</p>
     </footer>
   </div>
 
