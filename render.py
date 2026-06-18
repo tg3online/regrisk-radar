@@ -26,6 +26,12 @@ Distribution rules baked in here (do not move into the task prompt):
     kept inside the item body for attribution.
   - One CTA per item, identical wording, on the page and in every feed body.
 
+Social / link-preview metadata (added): the homepage carries Open Graph +
+Twitter Card tags, canonical URL, author + rel=me, schema.org WebSite JSON-LD,
+favicon links, and absolute feed-discovery links. The og/twitter image is
+/social-card.png (1200x630) committed at the repo root (a static binary asset,
+not rendered here).
+
 PUBLIC-SAFE FIELDS ONLY. items.json is world-readable (public repo / pushed
 verbatim), so never add the gated layer (severity, operator_exposure,
 why_it_matters, watchlist_implication, etc.). Public-safe per-item fields:
@@ -48,6 +54,11 @@ X_URL = "https://x.com/0xTG3"
 X_HANDLE = "@0xTG3"
 CTA_TEXT = "For operator-impact analysis and watchlist implications, join RegRisk Radar."
 CTA_FEED = CTA_TEXT + " " + BEEHIIV_URL  # one CTA per item in text feeds
+# UTM-tagged on-site CTA targets (site links only; text feeds keep the clean URL)
+BEEHIIV_SUBSCRIBE = BEEHIIV_URL + "?utm_source=radar&utm_medium=site&utm_campaign=public_ticker"
+BEEHIIV_ITEM = BEEHIIV_URL + "?utm_source=radar_item&utm_medium=site&utm_campaign=operator_impact"
+SOCIAL_CARD = "social-card.png"  # 1200x630 static asset at repo root
+CARD_ALT = "RegRisk Radar — daily facts-only regulatory radar for crypto, gaming, payments & fintech"
 
 # source_type -> (public chip label, css class, feed source prefix)
 SRC_LABELS = {
@@ -203,10 +214,12 @@ STYLE = """  :root{
   }
   .tag::before{content:"["; color:#2a3340}
   .tag::after{content:"]"; color:#2a3340}
-  .cta{margin-top:12px; padding-top:10px; border-top:1px dotted var(--line); font-size:11px; letter-spacing:.03em}
+  .cta{margin-top:12px; padding-top:10px; border-top:1px dotted var(--line); font-size:11px; letter-spacing:.03em; display:flex; flex-wrap:wrap; gap:14px; align-items:center}
   .cta a{color:var(--amber-dim)}
   .cta a:hover{color:var(--amber); text-decoration:none}
-  .cta::before{content:"▸ "; color:var(--mut)}
+  .cta .join::before{content:"▸ "; color:var(--mut)}
+  .share{color:var(--mut)}
+  .share::before{content:"⤤ "; color:var(--mut)}
   footer{
     max-width:980px; margin:34px auto 0; padding:16px 18px 0; border-top:1px solid var(--line);
     color:var(--mut); font-size:11.5px; line-height:1.7;
@@ -229,6 +242,12 @@ CLOCK_JS = """    (function(){
     })();"""
 
 
+def tweet_intent(site, it):
+    from urllib.parse import quote
+    return "https://x.com/intent/tweet?text=%s&url=%s" % (
+        quote(it["title"]), quote(permalink(site, it)))
+
+
 def render_item(site, it):
     tags = " ".join('<span class="tag">%s</span>' % esc(t) for t in it.get("tags", []))
     chip_label, chip_cls, _ = SRC_LABELS[source_type_of(it)]
@@ -242,30 +261,75 @@ def render_item(site, it):
         '        <p>%(facts)s</p>\n'
         '        <p class="src"><span class="srctype srctype-%(cls)s">%(chip)s</span><a href="%(url)s" rel="noopener">%(label)s</a></p>%(relto)s\n'
         '        <div class="tags">%(tags)s</div>\n'
-        '        <p class="cta"><a href="%(beehiiv)s" rel="noopener">%(cta)s →</a></p>\n'
+        '        <p class="cta"><a class="join" href="%(beehiiv)s" rel="noopener">%(cta)s →</a><a class="share" href="%(tweet)s" rel="noopener" target="_blank">Share on X</a></p>\n'
         '      </article>'
     ) % {
         "id": esc(it["id"]), "pub": esc(it["published"]), "date": esc(it["date"]),
         "body": esc(it["issuing_body"]), "title": esc(it["title"]), "facts": esc(it["facts"]),
         "url": esc(it["source_url"]), "label": esc(it["source_label"]), "tags": tags,
         "cls": chip_cls, "chip": chip_label, "relto": relto_html,
-        "pl": esc(pl), "beehiiv": BEEHIIV_URL, "cta": esc(CTA_TEXT),
+        "pl": esc(pl), "beehiiv": esc(BEEHIIV_ITEM), "cta": esc(CTA_TEXT),
+        "tweet": esc(tweet_intent(site, it)),
     }
 
 
 def render_index(site, items):
     items_html = "\n".join(render_item(site, i) for i in items)
+    home = base_url(site) + "/"
+    card = base_url(site) + "/" + SOCIAL_CARD
+    ogtitle = site["title"] + " — regulatory radar for crypto, gaming, payments & fintech"
+    jsonld = json.dumps({
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": site["title"],
+        "url": home,
+        "description": site["tagline"],
+        "inLanguage": site.get("language", "en-us"),
+        "author": {"@type": "Person", "name": "TG", "url": X_URL, "sameAs": [X_URL]},
+        "publisher": {"@type": "Organization", "name": site["title"], "url": home, "logo": card},
+    }, indent=2, ensure_ascii=False)
     return """<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>%(title)s — regulatory radar for crypto, gaming, payments &amp; fintech</title>
+<title>%(ogtitle)s</title>
 <meta name="description" content="%(desc)s">
-<link rel="alternate" type="application/rss+xml" title="RegRisk Radar RSS" href="feed.xml">
-<link rel="alternate" type="application/atom+xml" title="RegRisk Radar Atom" href="atom.xml">
-<link rel="alternate" type="application/feed+json" title="RegRisk Radar JSON Feed" href="feed.json">
-<link rel="sitemap" type="application/xml" href="sitemap.xml">
+<meta name="author" content="TG / RegRisk Radar">
+<link rel="canonical" href="%(home)s">
+<link rel="me" href="%(xurl)s">
+
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="RegRisk Radar">
+<meta property="og:title" content="%(ogtitle)s">
+<meta property="og:description" content="%(desc)s">
+<meta property="og:url" content="%(home)s">
+<meta property="og:image" content="%(card)s">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="%(cardalt)s">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="%(xhandle)s">
+<meta name="twitter:creator" content="%(xhandle)s">
+<meta name="twitter:title" content="%(ogtitle)s">
+<meta name="twitter:description" content="%(desc)s">
+<meta name="twitter:image" content="%(card)s">
+<meta name="twitter:image:alt" content="%(cardalt)s">
+
+<link rel="icon" href="%(home)sfavicon.svg" type="image/svg+xml">
+<link rel="icon" href="%(home)sfavicon-32x32.png" sizes="32x32" type="image/png">
+<link rel="icon" href="%(home)sfavicon.ico" sizes="any">
+<link rel="apple-touch-icon" href="%(home)sapple-touch-icon.png">
+
+<link rel="alternate" type="application/rss+xml" title="RegRisk Radar RSS" href="%(home)sfeed.xml">
+<link rel="alternate" type="application/atom+xml" title="RegRisk Radar Atom" href="%(home)satom.xml">
+<link rel="alternate" type="application/feed+json" title="RegRisk Radar JSON Feed" href="%(home)sfeed.json">
+<link rel="sitemap" type="application/xml" href="%(home)ssitemap.xml">
+
+<script type="application/ld+json">
+%(jsonld)s
+</script>
 <style>
 %(style)s
 </style>
@@ -297,6 +361,7 @@ def render_index(site, items):
     </main>
     <footer>
       <p><span class="disc-h">// DISCLAIMER</span>%(disclaimer)s</p>
+      <p>Subscribe via <a href="%(home)sfeed.xml">RSS</a>, <a href="%(home)satom.xml">Atom</a>, or <a href="%(home)sfeed.json">JSON Feed</a> for source-labeled regulatory risk signals.</p>
     </footer>
   </div>
 
@@ -307,8 +372,10 @@ def render_index(site, items):
 </html>
 """ % {
         "title": esc(site["title"]), "desc": esc(site["tagline"]), "style": STYLE,
-        "xurl": X_URL, "xhandle": esc(X_HANDLE), "beehiiv": BEEHIIV_URL,
+        "xurl": X_URL, "xhandle": esc(X_HANDLE), "beehiiv": esc(BEEHIIV_SUBSCRIBE),
         "items": items_html, "disclaimer": esc(site["disclaimer"]), "clock": CLOCK_JS,
+        "ogtitle": esc(ogtitle), "home": esc(home), "card": esc(card),
+        "cardalt": esc(CARD_ALT), "jsonld": jsonld,
     }
 
 
