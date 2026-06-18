@@ -5,8 +5,24 @@
     <link>https://tg3online.github.io/regrisk-radar/</link>
     <description>Daily facts-only regulatory radar — crypto, gaming, payments &amp; fintech. Verified against primary sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Jun 2026 21:03:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 21:36:13 +0000</lastBuildDate>
     <atom:link href="https://tg3online.github.io/regrisk-radar/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CME Group files lawsuit against CFTC over approval of perpetual bitcoin futures (BTCPERP) on Kalshi and Coinbase, arguing perps are swaps not futures</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-06-18-cme-sues-cftc-perpetual-futures</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-06-18-cme-sues-cftc-perpetual-futures</guid>
+      <pubDate>Thu, 18 Jun 2026 13:30:51 +0000</pubDate>
+      <category>CME Group Inc.</category>
+      <description>CME Group filed a lawsuit against the CFTC on June 18, 2026, challenging the agency&#x27;s May 29, 2026 approval of the BTCPERP contract — a perpetual bitcoin futures contract referencing the spot bitcoin price — on KalshiEX as a designated contract market. Coinbase and Kalshi had announced they would launch perpetual crypto futures following CFTC approval. CME argues: (1) perpetual contracts (derivatives with no expiration date that track spot prices via a funding rate) are swaps, not futures, under the Commodity Exchange Act, because the CEA defines futures as contracts with a delivery or expiration date; (2) the CFTC bypassed the required full regulatory review (40.3 process), completing a &#x27;novel and complex product&#x27; review in under 24 hours via the 40.2 self-certification pathway; and (3) such contracts pose excessive retail-investor risk through high leverage and auto-liquidation. Outgoing CME CEO Terry Duffy told CNBC Fast Money on June 17: &#x27;I&#x27;m always up for a good battle. I&#x27;ve never shied away from one.&#x27; CME confirmed the June 18 filing to Reuters. The CFTC characterized the suit as &#x27;frivolous&#x27; and &#x27;lawfare against the agency and the Trump Administration&#x27;s pro-innovation agenda.&#x27; Corroborated by Markets Media (June 18).
+
+Coverage (reporting filing): Reuters (June 17, 2026) — &#x27;CME to sue commodities regulator over perpetual futures, CEO Duffy tells CNBC&#x27;; filing confirmed June 18; corroborated by Markets Media (June 18, fetched) — https://www.reuters.com/legal/government/cme-sue-commodities-regulator-over-perpetual-futures-ceo-duffy-tells-cnbc-2026-06-17/
+
+Relevant to: crypto exchanges, derivatives platforms, fintech companies, CFTC registrants, prediction-market platforms
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
     <item>
       <title>Joint Fed/OCC/FDIC/NCUA/Treasury NPRM proposes customer identification program requirements for permitted payment stablecoin issuers</title>
       <link>https://tg3online.github.io/regrisk-radar/#2026-06-18-genius-act-cip-nprm-joint-agencies</link>
@@ -18,6 +34,54 @@
 Primary source: Federal Reserve Board — Press Release (June 18, 2026): Joint NPRM for CIP requirements on permitted payment stablecoin issuers — https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260618a.htm
 
 Relevant to: stablecoin issuers, permitted payment stablecoin issuers under the GENIUS Act, banking partners of stablecoin issuers, compliance and KYC teams
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+    <item>
+      <title>CFTC enters consent order against Celsius Network and CEO Mashinsky resolving fraud and market manipulation charges</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-06-18-cftc-celsius-mashinsky-consent-order</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-06-18-cftc-celsius-mashinsky-consent-order</guid>
+      <pubDate>Thu, 18 Jun 2026 12:00:00 +0000</pubDate>
+      <category>CFTC</category>
+      <description>The CFTC announced via Press Release 9256-26 on June 18, 2026, the entry of a consent order against Celsius Network LLC and former CEO Alexander Mashinsky, resolving CFTC civil charges of commodities fraud, market manipulation, and registration violations connected to the collapse of the Celsius crypto lending platform. Celsius suspended customer withdrawals in June 2022 and filed for Chapter 11 bankruptcy in July 2022. The CFTC had previously brought civil charges alleging Celsius and Mashinsky made false and misleading statements about the safety of customer deposits, manipulated the price of the CEL token, and operated as an unregistered commodity pool operator. The consent order constitutes a final civil judgment in the CFTC&#x27;s action; monetary relief including restitution and civil monetary penalty is specified in the court-approved order. Mashinsky separately faces a pending DOJ criminal indictment.
+
+Primary source: CFTC Press Release 9256-26 (June 18, 2026) — https://www.cftc.gov/PressRoom/PressReleases/9256-26
+
+Relevant to: crypto lending platforms, custodians, CFTC registrants
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+    <item>
+      <title>CFTC and SEC issue joint Request for Information on event-based contracts and derivatives jurisdictional definitions</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-06-18-cftc-sec-rfi-event-based-products</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-06-18-cftc-sec-rfi-event-based-products</guid>
+      <pubDate>Thu, 18 Jun 2026 12:00:00 +0000</pubDate>
+      <category>CFTC / SEC (joint)</category>
+      <description>The CFTC and SEC jointly issued a Request for Information (Release 9258-26) on June 18, 2026, seeking public comment on event-based contracts and regulatory jurisdictional definitions for derivatives products. The RFI addresses the regulatory treatment of event contracts including prediction markets and sports event contracts, and poses definitional questions about when a product constitutes a &#x27;swap,&#x27; &#x27;futures contract,&#x27; or &#x27;security&#x27; under existing federal law. The joint issuance reflects inter-agency coordination on the prediction-market and event-contract regulatory framework. A formal comment deadline will be published in the Federal Register.
+
+Primary source: CFTC Press Release 9258-26 (June 18, 2026) — https://www.cftc.gov/PressRoom/PressReleases/9258-26
+
+Relevant to: prediction-market platforms, event-contract operators, crypto exchanges, derivatives platforms
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+    <item>
+      <title>CFTC and SEC issue joint Request for Information on derivatives data reporting and technology modernization</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-06-18-cftc-sec-rfi-data-reporting</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-06-18-cftc-sec-rfi-data-reporting</guid>
+      <pubDate>Thu, 18 Jun 2026 12:00:00 +0000</pubDate>
+      <category>CFTC / SEC (joint)</category>
+      <description>The CFTC and SEC jointly issued a Request for Information (Release 9257-26) on June 18, 2026, seeking public comment on data reporting requirements, regulatory reporting technology, and modernization of derivatives market infrastructure. The RFI covers swap data repository (SDR) reporting obligations, real-time public reporting, and adoption of new data standards across CFTC-regulated markets. This RFI was issued concurrently with Release 9258-26 (event contracts and definitional questions). A formal comment deadline will be published in the Federal Register.
+
+Primary source: CFTC Press Release 9257-26 (June 18, 2026) — https://www.cftc.gov/PressRoom/PressReleases/9257-26
+
+Relevant to: CFTC registrants, crypto derivatives platforms, swap dealers, data reporting vendors
 
 For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
 
@@ -72,6 +136,22 @@ For operator-impact analysis and watchlist implications, join RegRisk Radar. htt
 RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
     </item>
     <item>
+      <title>W.D. Michigan federal judge denies Polymarket preliminary injunction; finds sports event contracts are not &#x27;swaps&#x27; under the CEA and CEA does not preempt state gambling law</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-06-18-michigan-wd-polymarket-pi-denied</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-06-18-michigan-wd-polymarket-pi-denied</guid>
+      <pubDate>Thu, 18 Jun 2026 07:32:44 +0000</pubDate>
+      <category>U.S. District Court, Western District of Michigan (Judge Paul Maloney)</category>
+      <description>In an order published June 17, 2026, Judge Paul Maloney of the U.S. District Court for the Western District of Michigan denied Polymarket&#x27;s motion for a preliminary injunction against Michigan AG Dana Nessel and the Michigan Gaming Control Board. The court found Polymarket had not demonstrated likelihood of success on the merits or irreparable harm. On the central legal questions, the court held: (1) the statutory definition of &#x27;swap&#x27; under the Commodity Exchange Act is &#x27;ambiguous,&#x27; and applying the presumption against intruding on traditional state authority, sports event contracts are not covered — &#x27;Congress intended the definition of swap to capture a set of products in the financial industry which caused the 2008 financial crisis... and not to place broad swaths of everyday economic activity under the authority of the Commodity Futures Trading Commission&#x27;; and (2) even if Polymarket&#x27;s products fit the swap definition, &#x27;it is not clear that the statutory framework prevents states from regulating in the porous zone where derivatives and gambling meet.&#x27; The court denied the PI: &#x27;Without a substantial chance of success on the merits, Plaintiff&#x27;s arguments about irreparable harm and the public interest fall flat — the risk that it will harm the public unlawfully outweighs the risk that it will suffer losses unlawfully. Plaintiff&#x27;s motion is thus DENIED.&#x27; Polymarket had filed suit against Michigan officials in March 2026, less than 48 hours after Michigan AG Nessel sued Kalshi. The case continues on the merits. Corroborated by pechanga.net, Bloomberg Tax, Law360, and Unchained Crypto.
+
+Coverage (reporting filing): SBC Americas (June 18, 2026) — includes extensive direct quotations from the court order; corroborated by pechanga.net (citing SBC Americas), Bloomberg Tax, Law360, and Unchained Crypto — https://sbcamericas.com/2026/06/18/polymarket-denied-injunction-michigan/
+
+Relevant to: prediction-market platforms, event-contract operators, CFTC registrants, gaming attorneys
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+    <item>
       <title>Kentucky AG Coleman files three lawsuits against Kalshi/Coinbase/Robinhood/Webull, Polymarket, and VGW sweepstakes casinos</title>
       <link>https://tg3online.github.io/regrisk-radar/#2026-06-17-kentucky-ag-kalshi-polymarket-vgw</link>
       <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-06-17-kentucky-ag-kalshi-polymarket-vgw</guid>
@@ -114,6 +194,22 @@ RegRisk Radar is regulatory-risk intelligence provided for general informational
 Primary source: Pennsylvania Supreme Court Opinion J-97-2025 (majority opinion) — https://www.pacourts.us/assets/opinions/Supreme/out/J-97-2025mo.pdf
 
 Relevant to: skill game operators, gaming venues (bars, VFWs, fraternal clubs), payment processors, PA legislators
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+    <item>
+      <title>CFTC issues Request for Information on fintech innovation, artificial intelligence, and digital asset technologies (Release 9254-26)</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-06-16-cftc-fintech-rfi-9254</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-06-16-cftc-fintech-rfi-9254</guid>
+      <pubDate>Tue, 16 Jun 2026 12:00:00 +0000</pubDate>
+      <category>CFTC</category>
+      <description>The CFTC issued a Request for Information (Release 9254-26) on June 16, 2026, seeking public comment on fintech innovation, artificial intelligence, and digital asset technologies as they relate to CFTC-regulated markets. The RFI covers topics including decentralized finance (DeFi) protocols and their regulatory implications, AI and machine learning applications in trading and compliance, tokenization of real-world assets, payment stablecoins and supporting infrastructure, and cybersecurity risks from emerging technologies. The RFI signals CFTC engagement with the fintech and crypto ecosystem ahead of potential new regulatory guidance. A formal comment deadline will be published in the Federal Register.
+
+Primary source: CFTC Press Release 9254-26 (June 16, 2026) — https://www.cftc.gov/PressRoom/PressReleases/9254-26
+
+Relevant to: crypto firms, DeFi protocols, fintech companies, payment stablecoin operators, CFTC registrants
 
 For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
 
