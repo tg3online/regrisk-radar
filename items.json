@@ -8,6 +8,34 @@
   },
   "items": [
     {
+      "id": "2026-06-18-genius-act-cip-nprm-joint-agencies",
+      "date": "2026-06-18",
+      "published": "2026-06-18T13:00:00Z",
+      "issuing_body": "Federal Reserve / OCC / FDIC / NCUA / Treasury (joint)",
+      "title": "Joint Fed/OCC/FDIC/NCUA/Treasury NPRM proposes customer identification program requirements for permitted payment stablecoin issuers",
+      "facts": "Five federal agencies — the Federal Reserve Board, OCC, FDIC, NCUA, and Treasury — jointly issued a proposed rule on June 18, 2026 that would require permitted payment stablecoin issuers (PPSIs), as defined under the GENIUS Act, to maintain customer identification programs (CIP) comparable to those required of banks and credit unions. The proposal is titled 'Permitted Payment Stablecoin Issuer Customer Identification Program.' A 60-day public comment period opens upon publication in the Federal Register (date of Federal Register publication not confirmed as of this entry). Federal Reserve Governor Michael Barr issued a separate statement noting concern about scope gaps for secondary market transactions. The proposed rule is distinct from the April 2026 FinCEN GENIUS Act AML/CFT proposed rule, which addressed anti-money laundering programs broadly; this rule addresses the specific customer identification element of Bank Secrecy Act compliance.",
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260618a.htm",
+      "source_label": "Federal Reserve Board — Press Release (June 18, 2026): Joint NPRM for CIP requirements on permitted payment stablecoin issuers",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "stablecoin issuers, permitted payment stablecoin issuers under the GENIUS Act, banking partners of stablecoin issuers, compliance and KYC teams",
+      "tags": ["nprm", "stablecoin", "genius-act", "cip", "bsa", "aml", "kyc", "federal-reserve", "occ", "fdic", "ncua", "treasury", "comment-period", "payments", "crypto", "fintech"]
+    },
+    {
+      "id": "2026-06-17-kentucky-ag-kalshi-polymarket-vgw",
+      "date": "2026-06-17",
+      "published": "2026-06-17T21:00:00Z",
+      "issuing_body": "Kentucky Attorney General (Russell Coleman)",
+      "title": "Kentucky AG Coleman files three lawsuits against Kalshi/Coinbase/Robinhood/Webull, Polymarket, and VGW sweepstakes casinos",
+      "facts": "Kentucky Attorney General Russell Coleman (Republican) filed three separate lawsuits in Franklin Circuit Court on June 17, 2026, targeting prediction market and sweepstakes operators simultaneously. Suit 1 names Kalshi Inc. with Coinbase Financial Markets, Robinhood Markets, Robinhood Derivatives, and Webull as co-defendants, alleging approximately $23 billion in contract volume during 2025 with approximately 89% tied to sporting events. Suit 2 names Polymarket (Catnip Inc.) and affiliated entities. Suit 3 names VGW Holdings Pty. Ltd. and affiliates including Chumba Casino, LuckyLand Slots, LuckyLand Casino, and Global Poker, targeting the dual-currency sweepstakes model under Kentucky gambling and consumer protection laws. All three complaints allege violations of the Kentucky Consumer Protection Act, the Loss Recovery Act, and Kentucky gambling statutes; relief sought includes injunctive relief and restitution. Kentucky HB 904 (Wagering Consumer Protection Act), which bans licensed sportsbooks from partnering with prediction market operators, takes effect July 15, 2026.",
+      "source_url": "https://www.kentucky.gov/Pages/Activity-stream.aspx?n=AttorneyGeneral&prId=1944",
+      "source_label": "Kentucky Attorney General — Press Release (June 17, 2026)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction-market platforms, sweepstakes casino operators, crypto exchanges and brokerages enabling prediction market access, gaming operators with Kentucky user exposure",
+      "tags": ["enforcement", "prediction-markets", "sweepstakes", "gaming", "state-ag", "kalshi", "polymarket", "vgw", "consumer-protection", "kentucky"]
+    },
+    {
       "id": "2026-06-18-illinois-digital-asset-privilege-tax-sb3019",
       "date": "2026-06-18",
       "published": "2026-06-18T07:40:00Z",
