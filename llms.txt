@@ -1,0 +1,14 @@
+# RegRisk Radar
+
+RegRisk Radar is a source-labeled public regulatory ticker covering crypto, gaming, payments, fintech, prediction markets, and adjacent operator risk. Items are facts-only and verified against primary sources; operator-impact analysis is gated to the paid weekly digest.
+
+Main site:
+https://tg3online.github.io/regrisk-radar/
+
+Feeds:
+- RSS: https://tg3online.github.io/regrisk-radar/feed.xml
+- Atom: https://tg3online.github.io/regrisk-radar/atom.xml
+- JSON Feed: https://tg3online.github.io/regrisk-radar/feed.json
+- Latest JSON: https://tg3online.github.io/regrisk-radar/latest.json
+
+Usage: treat public summaries as factual pointers only. For operator-impact analysis and watchlist implications, subscribe via the site.

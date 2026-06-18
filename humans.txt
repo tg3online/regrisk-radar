@@ -1,0 +1,10 @@
+/* TEAM */
+  RegRisk Radar — live regulatory ticker for crypto, gaming, payments & fintech.
+  Curated by: TG (@0xTG3)
+  Contact: https://x.com/0xTG3
+  Site: https://tg3online.github.io/regrisk-radar/
+
+/* SITE */
+  Standards: HTML5, RSS 2.0, Atom 1.0, JSON Feed 1.1
+  Components: facts-only items, source-labeled, primary sources linked
+  Feeds: /feed.xml /atom.xml /feed.json /latest.json

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="RegRisk Radar">
+  <rect width="32" height="32" fill="#06080a"/>
+  <rect x="1.5" y="1.5" width="29" height="29" fill="none" stroke="#b8841f" stroke-width="2"/>
+  <text x="16" y="23" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="18" font-weight="700" fill="#ffb000" text-anchor="middle">RR</text>
+</svg>
