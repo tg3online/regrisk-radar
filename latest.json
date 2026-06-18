@@ -1,8 +1,79 @@
 {
-  "generated": "2026-06-17T07:43:33Z",
+  "generated": "2026-06-18T07:51:08Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 9,
+  "count": 12,
   "items": [
+    {
+      "id": "2026-06-18-illinois-digital-asset-privilege-tax-sb3019",
+      "date": "2026-06-18",
+      "published": "2026-06-18T07:40:00Z",
+      "title": "Illinois enacts first-in-nation digital-asset transaction tax (SB 3019 / Digital Asset Tax Act)",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-06-18-illinois-digital-asset-privilege-tax-sb3019",
+      "issuing_body": "State of Illinois (Gov. JB Pritzker)",
+      "source_url": "https://cryptobriefing.com/illinois-digital-asset-trading-tax/",
+      "source_label": "Crypto Briefing (reporting Illinois SB 3019 / Digital Asset Tax Act; signing also reported by Yahoo Finance, Bitcoin Magazine, The Defiant, and others)",
+      "source_type": "coverage_reporting_filing",
+      "primary_source_status": "cited_by_coverage_not_retrieved",
+      "relevant_to": "crypto exchanges, brokers, custodians and wallet providers with Illinois nexus; payment processors; tax/compliance teams",
+      "tags": [
+        "crypto",
+        "payments",
+        "fintech",
+        "state-tax",
+        "digital-asset-tax",
+        "SB3019",
+        "DATA",
+        "Illinois",
+        "first-in-nation"
+      ]
+    },
+    {
+      "id": "2026-06-18-congress-cbdc-ban-road-to-housing-act",
+      "date": "2026-06-18",
+      "published": "2026-06-18T07:38:00Z",
+      "title": "Congress folds a statutory Fed CBDC ban (through 2030) into the 21st Century ROAD to Housing Act (H.R. 6644)",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-06-18-congress-cbdc-ban-road-to-housing-act",
+      "issuing_body": "U.S. Senate Banking Committee (Congress)",
+      "source_url": "https://www.banking.senate.gov/newsroom/majority/scott-warren-hill-waters-release-updated-bill-text-on-senate-consideration-of-the-21st-century-road-to-housing-act",
+      "source_label": "U.S. Senate Banking Committee Press Release (June 16, 2026)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "stablecoin issuers, payment and fintech platforms, banks, digital-dollar infrastructure providers",
+      "tags": [
+        "crypto",
+        "payments",
+        "fintech",
+        "CBDC",
+        "stablecoins",
+        "federal-legislation",
+        "HR6644",
+        "Federal-Reserve"
+      ]
+    },
+    {
+      "id": "2026-06-18-tribal-coalition-amicus-prediction-markets",
+      "date": "2026-06-18",
+      "published": "2026-06-18T07:36:00Z",
+      "title": "Tribal coalition files amicus briefs opposing CFTC/Kalshi preemption of tribal gaming laws",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-06-18-tribal-coalition-amicus-prediction-markets",
+      "issuing_body": "Tribal Amici (coalition of federally recognized tribes)",
+      "source_url": "https://thedefiant.io/converge/regulation/tribal-coalition-amicus-briefs-prediction-markets-native-land",
+      "source_label": "The Defiant (reporting the Tribal Amici amicus briefs; links the CourtListener docket and the S.D.N.Y. filing; corroborated by Protos)",
+      "source_type": "coverage_reporting_filing",
+      "primary_source_status": "cited_by_coverage_not_retrieved",
+      "relevant_to": "prediction-market / event-contract platforms, tribal gaming operators, sportsbooks, exchanges",
+      "tags": [
+        "crypto",
+        "gaming",
+        "prediction-markets",
+        "event-contracts",
+        "preemption",
+        "amicus",
+        "tribal-gaming",
+        "IGRA",
+        "Sixth-Circuit"
+      ]
+    },
     {
       "id": "2026-06-17-nydfs-stablecoin-genius-act",
       "date": "2026-06-17",

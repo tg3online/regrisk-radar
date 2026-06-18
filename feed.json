@@ -6,6 +6,59 @@
   "description": "Daily facts-only regulatory radar — crypto, gaming, payments & fintech. Verified against primary sources.",
   "items": [
     {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-06-18-illinois-digital-asset-privilege-tax-sb3019",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-06-18-illinois-digital-asset-privilege-tax-sb3019",
+      "title": "Illinois enacts first-in-nation digital-asset transaction tax (SB 3019 / Digital Asset Tax Act)",
+      "content_text": "Illinois Governor JB Pritzker signed Senate Bill 3019, the Digital Asset Tax Act (DATA), as part of the state's $55.9 billion budget, making Illinois the first U.S. state to impose a transaction-based tax on digital-asset activity. The law imposes a 0.2% privilege tax on brokers who exchange, transfer, or store digital assets for customers in the state; it applies to brokers with a physical presence in Illinois or an economic nexus (more than $100,000 in gross receipts from Illinois customers), takes effect January 1, 2027, and is projected to generate roughly $60 million. The Crypto Council for Innovation has requested a line-item veto of the article establishing the levy, and The Digital Chamber and the Illinois Blockchain Association issued a joint letter opposing the measure; critics note no comparable state transaction tax applies to stocks, bonds, or derivatives.\n\nCoverage (reporting filing): Crypto Briefing (reporting Illinois SB 3019 / Digital Asset Tax Act; signing also reported by Yahoo Finance, Bitcoin Magazine, The Defiant, and others) — https://cryptobriefing.com/illinois-digital-asset-trading-tax/\n\nRelevant to: crypto exchanges, brokers, custodians and wallet providers with Illinois nexus; payment processors; tax/compliance teams\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-06-18T07:40:00Z",
+      "tags": [
+        "crypto",
+        "payments",
+        "fintech",
+        "state-tax",
+        "digital-asset-tax",
+        "SB3019",
+        "DATA",
+        "Illinois",
+        "first-in-nation"
+      ]
+    },
+    {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-06-18-congress-cbdc-ban-road-to-housing-act",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-06-18-congress-cbdc-ban-road-to-housing-act",
+      "title": "Congress folds a statutory Fed CBDC ban (through 2030) into the 21st Century ROAD to Housing Act (H.R. 6644)",
+      "content_text": "On June 16, 2026, the leaders of the Senate Banking and House Financial Services Committees — Sen. Tim Scott, Sen. Elizabeth Warren, Rep. French Hill, and Rep. Maxine Waters — released updated bill text for the 21st Century ROAD to Housing Act (H.R. 6644), a combined Senate, House, and White House package. According to the release and reporting on the text, the package folds in a statutory ban on a Federal Reserve central bank digital currency (CBDC): it amends the Federal Reserve Act to provide that the Fed 'may not issue or create' a CBDC or any substantially similar asset, directly or through an intermediary, through December 31, 2030; defines a CBDC as a dollar-denominated digital asset that is U.S. currency, a direct liability of the Federal Reserve System, and widely available to the public; and carves out a dollar-denominated, open, permissionless, and private digital currency with privacy protections comparable to physical U.S. currency. The reconciled text returns to the Senate floor for final action; a prior version passed the Senate 89-10 in March and the House passed its amended version 396-13 in May.\n\nPrimary source: U.S. Senate Banking Committee Press Release (June 16, 2026) — https://www.banking.senate.gov/newsroom/majority/scott-warren-hill-waters-release-updated-bill-text-on-senate-consideration-of-the-21st-century-road-to-housing-act\n\nRelevant to: stablecoin issuers, payment and fintech platforms, banks, digital-dollar infrastructure providers\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-06-18T07:38:00Z",
+      "tags": [
+        "crypto",
+        "payments",
+        "fintech",
+        "CBDC",
+        "stablecoins",
+        "federal-legislation",
+        "HR6644",
+        "Federal-Reserve"
+      ]
+    },
+    {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-06-18-tribal-coalition-amicus-prediction-markets",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-06-18-tribal-coalition-amicus-prediction-markets",
+      "title": "Tribal coalition files amicus briefs opposing CFTC/Kalshi preemption of tribal gaming laws",
+      "content_text": "A coalition of federally recognized tribes and tribal regulatory bodies, calling itself the Tribal Amici, filed amicus briefs this month in two federal prediction-market cases, arguing that allowing Kalshi and the CFTC to override state gaming laws would also nullify tribal-state gaming compacts and strip tribes of authority to regulate prediction markets on Native land. The coalition filed a brief opposing Kalshi's preliminary-injunction motion in KalshiEx LLC v. Schuler, now before the U.S. Court of Appeals for the Sixth Circuit, and a separate filing in the U.S. District Court for the Southern District of New York backing the state's opposition to the CFTC's preliminary-injunction motion. In both briefs the coalition contends that a ruling for Kalshi or the CFTC would be a 'sub silentio reversal of congressional policy and Supreme Court precedent' and would 'undermine existing tribal-state gaming compacts and regulatory frameworks' negotiated under the Indian Gaming Regulatory Act.\n\nCoverage (reporting filing): The Defiant (reporting the Tribal Amici amicus briefs; links the CourtListener docket and the S.D.N.Y. filing; corroborated by Protos) — https://thedefiant.io/converge/regulation/tribal-coalition-amicus-briefs-prediction-markets-native-land\n\nRelevant to: prediction-market / event-contract platforms, tribal gaming operators, sportsbooks, exchanges\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-06-18T07:36:00Z",
+      "tags": [
+        "crypto",
+        "gaming",
+        "prediction-markets",
+        "event-contracts",
+        "preemption",
+        "amicus",
+        "tribal-gaming",
+        "IGRA",
+        "Sixth-Circuit"
+      ]
+    },
+    {
       "id": "https://tg3online.github.io/regrisk-radar/#2026-06-17-nydfs-stablecoin-genius-act",
       "url": "https://tg3online.github.io/regrisk-radar/#2026-06-17-nydfs-stablecoin-genius-act",
       "title": "NYDFS proposes stablecoin regulation aligning New York's framework with the federal GENIUS Act",
