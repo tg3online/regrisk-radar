@@ -6,6 +6,31 @@
   "description": "Daily facts-only regulatory radar — crypto, gaming, payments & fintech. Verified against primary sources.",
   "items": [
     {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-06-18-genius-act-cip-nprm-joint-agencies",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-06-18-genius-act-cip-nprm-joint-agencies",
+      "title": "Joint Fed/OCC/FDIC/NCUA/Treasury NPRM proposes customer identification program requirements for permitted payment stablecoin issuers",
+      "content_text": "Five federal agencies — the Federal Reserve Board, OCC, FDIC, NCUA, and Treasury — jointly issued a proposed rule on June 18, 2026 that would require permitted payment stablecoin issuers (PPSIs), as defined under the GENIUS Act, to maintain customer identification programs (CIP) comparable to those required of banks and credit unions. The proposal is titled 'Permitted Payment Stablecoin Issuer Customer Identification Program.' A 60-day public comment period opens upon publication in the Federal Register (date of Federal Register publication not confirmed as of this entry). Federal Reserve Governor Michael Barr issued a separate statement noting concern about scope gaps for secondary market transactions. The proposed rule is distinct from the April 2026 FinCEN GENIUS Act AML/CFT proposed rule, which addressed anti-money laundering programs broadly; this rule addresses the specific customer identification element of Bank Secrecy Act compliance.\n\nPrimary source: Federal Reserve Board — Press Release (June 18, 2026): Joint NPRM for CIP requirements on permitted payment stablecoin issuers — https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260618a.htm\n\nRelevant to: stablecoin issuers, permitted payment stablecoin issuers under the GENIUS Act, banking partners of stablecoin issuers, compliance and KYC teams\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-06-18T13:00:00Z",
+      "tags": [
+        "nprm",
+        "stablecoin",
+        "genius-act",
+        "cip",
+        "bsa",
+        "aml",
+        "kyc",
+        "federal-reserve",
+        "occ",
+        "fdic",
+        "ncua",
+        "treasury",
+        "comment-period",
+        "payments",
+        "crypto",
+        "fintech"
+      ]
+    },
+    {
       "id": "https://tg3online.github.io/regrisk-radar/#2026-06-18-illinois-digital-asset-privilege-tax-sb3019",
       "url": "https://tg3online.github.io/regrisk-radar/#2026-06-18-illinois-digital-asset-privilege-tax-sb3019",
       "title": "Illinois enacts first-in-nation digital-asset transaction tax (SB 3019 / Digital Asset Tax Act)",
@@ -56,6 +81,25 @@
         "tribal-gaming",
         "IGRA",
         "Sixth-Circuit"
+      ]
+    },
+    {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-06-17-kentucky-ag-kalshi-polymarket-vgw",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-06-17-kentucky-ag-kalshi-polymarket-vgw",
+      "title": "Kentucky AG Coleman files three lawsuits against Kalshi/Coinbase/Robinhood/Webull, Polymarket, and VGW sweepstakes casinos",
+      "content_text": "Kentucky Attorney General Russell Coleman (Republican) filed three separate lawsuits in Franklin Circuit Court on June 17, 2026, targeting prediction market and sweepstakes operators simultaneously. Suit 1 names Kalshi Inc. with Coinbase Financial Markets, Robinhood Markets, Robinhood Derivatives, and Webull as co-defendants, alleging approximately $23 billion in contract volume during 2025 with approximately 89% tied to sporting events. Suit 2 names Polymarket (Catnip Inc.) and affiliated entities. Suit 3 names VGW Holdings Pty. Ltd. and affiliates including Chumba Casino, LuckyLand Slots, LuckyLand Casino, and Global Poker, targeting the dual-currency sweepstakes model under Kentucky gambling and consumer protection laws. All three complaints allege violations of the Kentucky Consumer Protection Act, the Loss Recovery Act, and Kentucky gambling statutes; relief sought includes injunctive relief and restitution. Kentucky HB 904 (Wagering Consumer Protection Act), which bans licensed sportsbooks from partnering with prediction market operators, takes effect July 15, 2026.\n\nPrimary source: Kentucky Attorney General — Press Release (June 17, 2026) — https://www.kentucky.gov/Pages/Activity-stream.aspx?n=AttorneyGeneral&prId=1944\n\nRelevant to: prediction-market platforms, sweepstakes casino operators, crypto exchanges and brokerages enabling prediction market access, gaming operators with Kentucky user exposure\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-06-17T21:00:00Z",
+      "tags": [
+        "enforcement",
+        "prediction-markets",
+        "sweepstakes",
+        "gaming",
+        "state-ag",
+        "kalshi",
+        "polymarket",
+        "vgw",
+        "consumer-protection",
+        "kentucky"
       ]
     },
     {

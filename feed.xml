@@ -5,8 +5,24 @@
     <link>https://tg3online.github.io/regrisk-radar/</link>
     <description>Daily facts-only regulatory radar — crypto, gaming, payments &amp; fintech. Verified against primary sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Jun 2026 07:51:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 19:21:27 +0000</lastBuildDate>
     <atom:link href="https://tg3online.github.io/regrisk-radar/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Joint Fed/OCC/FDIC/NCUA/Treasury NPRM proposes customer identification program requirements for permitted payment stablecoin issuers</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-06-18-genius-act-cip-nprm-joint-agencies</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-06-18-genius-act-cip-nprm-joint-agencies</guid>
+      <pubDate>Thu, 18 Jun 2026 13:00:00 +0000</pubDate>
+      <category>Federal Reserve / OCC / FDIC / NCUA / Treasury (joint)</category>
+      <description>Five federal agencies — the Federal Reserve Board, OCC, FDIC, NCUA, and Treasury — jointly issued a proposed rule on June 18, 2026 that would require permitted payment stablecoin issuers (PPSIs), as defined under the GENIUS Act, to maintain customer identification programs (CIP) comparable to those required of banks and credit unions. The proposal is titled &#x27;Permitted Payment Stablecoin Issuer Customer Identification Program.&#x27; A 60-day public comment period opens upon publication in the Federal Register (date of Federal Register publication not confirmed as of this entry). Federal Reserve Governor Michael Barr issued a separate statement noting concern about scope gaps for secondary market transactions. The proposed rule is distinct from the April 2026 FinCEN GENIUS Act AML/CFT proposed rule, which addressed anti-money laundering programs broadly; this rule addresses the specific customer identification element of Bank Secrecy Act compliance.
+
+Primary source: Federal Reserve Board — Press Release (June 18, 2026): Joint NPRM for CIP requirements on permitted payment stablecoin issuers — https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260618a.htm
+
+Relevant to: stablecoin issuers, permitted payment stablecoin issuers under the GENIUS Act, banking partners of stablecoin issuers, compliance and KYC teams
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
     <item>
       <title>Illinois enacts first-in-nation digital-asset transaction tax (SB 3019 / Digital Asset Tax Act)</title>
       <link>https://tg3online.github.io/regrisk-radar/#2026-06-18-illinois-digital-asset-privilege-tax-sb3019</link>
@@ -50,6 +66,22 @@ RegRisk Radar is regulatory-risk intelligence provided for general informational
 Coverage (reporting filing): The Defiant (reporting the Tribal Amici amicus briefs; links the CourtListener docket and the S.D.N.Y. filing; corroborated by Protos) — https://thedefiant.io/converge/regulation/tribal-coalition-amicus-briefs-prediction-markets-native-land
 
 Relevant to: prediction-market / event-contract platforms, tribal gaming operators, sportsbooks, exchanges
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+    <item>
+      <title>Kentucky AG Coleman files three lawsuits against Kalshi/Coinbase/Robinhood/Webull, Polymarket, and VGW sweepstakes casinos</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-06-17-kentucky-ag-kalshi-polymarket-vgw</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-06-17-kentucky-ag-kalshi-polymarket-vgw</guid>
+      <pubDate>Wed, 17 Jun 2026 21:00:00 +0000</pubDate>
+      <category>Kentucky Attorney General (Russell Coleman)</category>
+      <description>Kentucky Attorney General Russell Coleman (Republican) filed three separate lawsuits in Franklin Circuit Court on June 17, 2026, targeting prediction market and sweepstakes operators simultaneously. Suit 1 names Kalshi Inc. with Coinbase Financial Markets, Robinhood Markets, Robinhood Derivatives, and Webull as co-defendants, alleging approximately $23 billion in contract volume during 2025 with approximately 89% tied to sporting events. Suit 2 names Polymarket (Catnip Inc.) and affiliated entities. Suit 3 names VGW Holdings Pty. Ltd. and affiliates including Chumba Casino, LuckyLand Slots, LuckyLand Casino, and Global Poker, targeting the dual-currency sweepstakes model under Kentucky gambling and consumer protection laws. All three complaints allege violations of the Kentucky Consumer Protection Act, the Loss Recovery Act, and Kentucky gambling statutes; relief sought includes injunctive relief and restitution. Kentucky HB 904 (Wagering Consumer Protection Act), which bans licensed sportsbooks from partnering with prediction market operators, takes effect July 15, 2026.
+
+Primary source: Kentucky Attorney General — Press Release (June 17, 2026) — https://www.kentucky.gov/Pages/Activity-stream.aspx?n=AttorneyGeneral&amp;prId=1944
+
+Relevant to: prediction-market platforms, sweepstakes casino operators, crypto exchanges and brokerages enabling prediction market access, gaming operators with Kentucky user exposure
 
 For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
 
