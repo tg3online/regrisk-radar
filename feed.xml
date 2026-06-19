@@ -5,8 +5,72 @@
     <link>https://tg3online.github.io/regrisk-radar/</link>
     <description>Daily facts-only regulatory radar — crypto, gaming, payments &amp; fintech. Verified against primary sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Jun 2026 07:47:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 21:38:26 +0000</lastBuildDate>
     <atom:link href="https://tg3online.github.io/regrisk-radar/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cayuga Nation sues Caesars Sportsbook over mobile bets placed on tribal land — first tribal lawsuit against licensed sportsbook; novel IGRA &#x27;where is the bet placed&#x27; geolocation theory</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-06-19-cayuga-nation-v-caesars-igra-mobile-bet</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-06-19-cayuga-nation-v-caesars-igra-mobile-bet</guid>
+      <pubDate>Fri, 19 Jun 2026 23:45:00 +0000</pubDate>
+      <category>Cayuga Nation (plaintiff) — U.S. District Court, Northern District of New York</category>
+      <description>On June 16, 2026, the Cayuga Nation of New York filed a federal lawsuit in the Northern District of New York against American Wagering, Inc. (d/b/a Caesars Sportsbook), alleging that Caesars accepted mobile sports wagers from people physically located on the Cayuga reservation between January 8, 2022 and July 15, 2025, without tribal authorization, a gaming compact, or federal oversight. The complaint alleges violations of the Indian Gaming Regulatory Act (IGRA): it argues that a mobile sports wager is placed at the bettor&#x27;s physical location, not at the operator&#x27;s server, and therefore betting accepted from within the reservation constitutes Class III gaming on Indian lands, requiring a tribal gaming ordinance and a federally approved tribal-state compact that the Cayuga Nation does not have for sports betting. The Nation sent Caesars a cease-and-desist letter on June 20, 2025; Caesars subsequently agreed to geofence the reservation but declined to provide a full accounting of prior revenue. The complaint seeks damages, an accounting of reservation-bet revenue, and a declaration that Caesars&#x27; mobile operations on Cayuga lands were unauthorized. Gaming attorney Daniel Wallach identified this as the first known case of a tribe suing a state-licensed sportsbook over online bets placed from Indian lands. The Cayuga Nation operates Class II gaming venues (LakeSide Entertainment) in New York&#x27;s Finger Lakes region.
+
+Coverage (reporting filing): Casino.org (Philip Conneller, published June 18, 2026; confirmed by fingerlakes1.com, SBC Americas, BettorsInsider, CasinoBeats, CDC Gaming, iGamingToday) — https://www.casino.org/news/new-yorks-cayuga-nation-sues-caesars-sportsbook-over-bets-placed-on-tribal-land/
+
+Relevant to: licensed mobile sportsbook operators, payment processors handling mobile betting, geolocation and compliance technology vendors, tribal gaming operators
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+    <item>
+      <title>U.S. Senate passes 21st Century ROAD to Housing Act (H.R. 6644) with statutory Fed CBDC ban through 2030; House concurrence vote pending</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-06-19-senate-passes-road-housing-cbdc-ban</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-06-19-senate-passes-road-housing-cbdc-ban</guid>
+      <pubDate>Fri, 19 Jun 2026 23:45:00 +0000</pubDate>
+      <category>U.S. Senate</category>
+      <description>On June 18, 2026, the U.S. Senate invoked cloture (84-8) and passed the 21st Century ROAD to Housing Act (H.R. 6644). The bill includes a provision banning the Federal Reserve from issuing or creating a central bank digital currency (CBDC) or any substantially similar asset, directly or through an intermediary, through December 31, 2030. The CBDC ban defines a CBDC as a dollar-denominated digital asset that is U.S. currency, a direct liability of the Federal Reserve System, and widely available to the public; it carves out dollar-denominated, open, permissionless, and private digital currencies with privacy protections comparable to physical U.S. currency. Senate passage follows the release of reconciled bill text on June 16, 2026 by Sen. Tim Scott, Sen. Elizabeth Warren, Rep. French Hill, and Rep. Maxine Waters, and a Motion to Proceed vote of 87-8 earlier in the day. The amended bill returns to the House for concurrence in the Senate amendment (H.Res.1299 provides the rule for consideration of the concurrence). Prior votes: Senate 89-10 in March (prior version); House 396-13 in May. Note: this entry supplements the June 18 entry (2026-06-18-congress-cbdc-ban-road-to-housing-act) covering the bill text release.
+
+Coverage (reporting filing): U.S. Senate Daily Press (June 18, 2026; floor votes including 84-8 cloture; corroborated by NACo &#x27;Senate Passes 21st Century ROAD to Housing Act&#x27; and Latham Watkins analysis) — https://www.dailypress.senate.gov/thursday-june-18-2026/
+
+Relevant to: stablecoin issuers, payment and fintech platforms, banks, digital-dollar infrastructure providers
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+    <item>
+      <title>W.D. Michigan denies Robinhood preliminary injunction — sports event contracts are NOT swaps; CEA does not clearly preempt state gambling law</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-06-19-robinhood-michigan-pi-denied</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-06-19-robinhood-michigan-pi-denied</guid>
+      <pubDate>Fri, 19 Jun 2026 23:45:00 +0000</pubDate>
+      <category>U.S. District Court, W.D. Michigan (Judge Paul Maloney)</category>
+      <description>On June 18, 2026, U.S. District Judge Paul Maloney of the Western District of Michigan denied Robinhood&#x27;s motion for a preliminary injunction against Michigan state gambling enforcement in a second, near-identical ruling to the Polymarket denial issued the same day. The court held on two independent grounds: (1) sports event contracts of the type Robinhood offers are not &#x27;swaps&#x27; under the Commodity Exchange Act, placing them outside the CFTC&#x27;s exclusive swap jurisdiction; and (2) even if the contracts were swaps, it is not clearly established that the CEA would preempt Michigan&#x27;s state gambling law in this context. The Gambling Insider article reports the two opinions are &#x27;nearly identical&#x27; and contains direct quotes from both. Together, the Polymarket and Robinhood W.D. Michigan rulings are the first federal court holdings that sports event contracts fall outside the CEA swap definition and that CEA preemption of state gambling law is not clearly established — both holdings run contrary to the CFTC&#x27;s preemption position. Both cases continue on the merits. See also: 2026-06-17-polymarket-michigan-pi-denied.
+
+Coverage (reporting filing): Gambling Insider (June 18, 2026; covers both Polymarket and Robinhood opinions; direct quotes from rulings; corroborated by Decrypt) — https://www.gamblinginsider.com/news/167546/michigan-judge-denies-polymarket-robinhood-injunctions
+
+Relevant to: prediction-market operators, event-contract platforms, brokerages offering sports contracts, state gaming regulators
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+    <item>
+      <title>Sixth Circuit denies CFTC motion to participate as amicus at oral argument in KalshiEx v. Schuler (No. 26-3196)</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-06-19-sixth-circuit-cftc-amicus-denied</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-06-19-sixth-circuit-cftc-amicus-denied</guid>
+      <pubDate>Fri, 19 Jun 2026 23:45:00 +0000</pubDate>
+      <category>U.S. Court of Appeals for the Sixth Circuit</category>
+      <description>On June 16, 2026, the U.S. Court of Appeals for the Sixth Circuit denied the CFTC&#x27;s motion to appear as an amicus curiae at oral argument in KalshiEx LLC v. Matthew T. Schuler et al. (No. 26-3196), Kalshi&#x27;s appeal of a lower court denial of its preliminary injunction against Ohio state enforcement. The CFTC had submitted a written amicus brief on May 12, 2026, asserting exclusive CFTC jurisdiction over prediction markets and arguing for CEA preemption of state gambling laws. The court&#x27;s denial is a procedural ruling that does not resolve the merits of CFTC jurisdiction or CEA preemption, but it limits the CFTC&#x27;s ability to advocate its preemption position directly before the panel at oral argument. Oral argument in KalshiEx v. Schuler proceeds without live CFTC participation.
+
+Coverage (reporting filing): SBC Americas (June 17, 2026; covers states and tribes court mobilization against prediction markets, including 6th Circuit context); confirmed by Law360 (&#x27;6th Circ. Says CFTC Can&#x27;t Argue In Kalshi, Ohio Betting Fight&#x27;, subscription required) — https://sbcamericas.com/2026/06/17/states-prediction-markets-amicus-briefs
+
+Relevant to: prediction-market operators, event-contract platforms, CFTC-registered entities
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
     <item>
       <title>CME Group sues CFTC over approval of perpetual bitcoin futures (BTCPERP) on Kalshi — argues perps are swaps not futures; challenges 24-hour self-certification as APA violation</title>
       <link>https://tg3online.github.io/regrisk-radar/#2026-06-18-cme-v-cftc-perpetual-futures</link>
@@ -109,7 +173,7 @@ RegRisk Radar is regulatory-risk intelligence provided for general informational
       <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-06-18-congress-cbdc-ban-road-to-housing-act</guid>
       <pubDate>Thu, 18 Jun 2026 07:38:00 +0000</pubDate>
       <category>U.S. Senate Banking Committee (Congress)</category>
-      <description>On June 16, 2026, the leaders of the Senate Banking and House Financial Services Committees — Sen. Tim Scott, Sen. Elizabeth Warren, Rep. French Hill, and Rep. Maxine Waters — released updated bill text for the 21st Century ROAD to Housing Act (H.R. 6644), a combined Senate, House, and White House package. According to the release and reporting on the text, the package folds in a statutory ban on a Federal Reserve central bank digital currency (CBDC): it amends the Federal Reserve Act to provide that the Fed &#x27;may not issue or create&#x27; a CBDC or any substantially similar asset, directly or through an intermediary, through December 31, 2030; defines a CBDC as a dollar-denominated digital asset that is U.S. currency, a direct liability of the Federal Reserve System, and widely available to the public; and carves out a dollar-denominated, open, permissionless, and private digital currency with privacy protections comparable to physical U.S. currency. The reconciled text returns to the Senate floor for final action; a prior version passed the Senate 89-10 in March and the House passed its amended version 396-13 in May.
+      <description>On June 16, 2026, the leaders of the Senate Banking and House Financial Services Committees — Sen. Tim Scott, Sen. Elizabeth Warren, Rep. French Hill, and Rep. Maxine Waters — released updated bill text for the 21st Century ROAD to Housing Act (H.R. 6644), a combined Senate, House, and White House package. According to the release and reporting on the text, the package folds in a statutory ban on a Federal Reserve central bank digital currency (CBDC): it amends the Federal Reserve Act to provide that the Fed &#x27;may not issue or create&#x27; a CBDC or any substantially similar asset, directly or through an intermediary, through December 31, 2030; defines a CBDC as a dollar-denominated digital asset that is U.S. currency, a direct liability of the Federal Reserve System, and widely available to the public; and carves out a dollar-denominated, open, permissionless, and private digital currency with privacy protections comparable to physical U.S. currency. The reconciled text returns to the Senate floor for final action; a prior version passed the Senate 89-10 in March and the House passed its amended version 396-13 in May. See also: 2026-06-19-senate-passes-road-housing-cbdc-ban for Senate passage update.
 
 Primary source: U.S. Senate Banking Committee Press Release (June 16, 2026) — https://www.banking.senate.gov/newsroom/majority/scott-warren-hill-waters-release-updated-bill-text-on-senate-consideration-of-the-21st-century-road-to-housing-act
 
@@ -141,7 +205,7 @@ RegRisk Radar is regulatory-risk intelligence provided for general informational
       <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-06-17-polymarket-michigan-pi-denied</guid>
       <pubDate>Thu, 18 Jun 2026 07:30:00 +0000</pubDate>
       <category>U.S. District Court, W.D. Michigan</category>
-      <description>On June 17, 2026, the U.S. District Court for the Western District of Michigan denied Polymarket&#x27;s motion for a preliminary injunction against enforcement of Michigan state gambling law. The court rested its denial on two independent holdings: (1) sports event contracts of the type Polymarket offers are not &#x27;swaps&#x27; under the Commodity Exchange Act, meaning the CFTC&#x27;s exclusive swap jurisdiction does not cover them; and (2) even if the contracts were classified as swaps, it is not clearly established that the CEA would preempt Michigan&#x27;s state gambling law in this context. The case continues on the merits. The ruling is the first federal court holding that sports event contracts fall outside the CEA swap definition and that CEA preemption of state gambling law is not clearly established — two holdings directly contrary to the CFTC&#x27;s preemption position.
+      <description>On June 17, 2026, the U.S. District Court for the Western District of Michigan denied Polymarket&#x27;s motion for a preliminary injunction against enforcement of Michigan state gambling law. The court rested its denial on two independent holdings: (1) sports event contracts of the type Polymarket offers are not &#x27;swaps&#x27; under the Commodity Exchange Act, meaning the CFTC&#x27;s exclusive swap jurisdiction does not cover them; and (2) even if the contracts were classified as swaps, it is not clearly established that the CEA would preempt Michigan&#x27;s state gambling law in this context. The case continues on the merits. The ruling is the first federal court holding that sports event contracts fall outside the CEA swap definition and that CEA preemption of state gambling law is not clearly established — two holdings directly contrary to the CFTC&#x27;s preemption position. See also: 2026-06-19-robinhood-michigan-pi-denied (same court, same judge, near-identical opinion issued June 18).
 
 Coverage (reporting filing): SBC Americas (reporting the W.D. Michigan PI denial) — https://sbcamericas.com/2026/06/18/polymarket-denied-injunction-michigan/
 
