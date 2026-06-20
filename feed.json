@@ -6,6 +6,46 @@
   "description": "Daily facts-only regulatory radar — crypto, gaming, payments & fintech. Verified against primary sources.",
   "items": [
     {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-06-20-clarity-act-senate-floor-house-fast-follow",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-06-20-clarity-act-senate-floor-house-fast-follow",
+      "title": "CLARITY Act placed on Senate Legislative Calendar No. 423; House Agriculture chair commits to fast follow; August recess is the operative deadline; seven Democratic votes remain the gap to cloture",
+      "content_text": "The Digital Asset Market Clarity Act has been placed on the U.S. Senate Legislative Calendar as Calendar No. 423, eligible for a floor vote at any time Senate leadership chooses to schedule one, following a 15-9 Senate Banking Committee markup on May 14, 2026. As reported by The Defiant on June 19, 2026, House Agriculture digital-assets subcommittee chair Rep. Dusty Johnson stated on June 18 that the House will move immediately on a companion measure if the Senate passes the bill before the August recess, removing the need for a conference committee. The bill requires approximately 60 votes to clear a Senate filibuster — about seven Democratic votes beyond full Republican unity. Sen. Bill Hagerty (R-Tenn.) has cited July 4 as a target; Sen. Cynthia Lummis has said August recess is more realistic; Galaxy Research has cut its passage-before-recess probability to 60%. Outstanding obstacles include an ethics-language dispute, stablecoin-yield rules, and a parallel lobbying campaign by gaming, tribal gaming, and labor groups demanding the bill include explicit language barring prediction markets from offering sports event contracts. The bill would assign digital commodities to CFTC spot-market authority, investment-contract assets to the SEC, and stablecoins to banking regulators under the GENIUS Act framework. Failure to pass before the August recess pushes the bill into a fall midterm calendar.\n\nCoverage (reporting filing): The Defiant (June 19, 2026; reporting CLARITY Act Senate Calendar No. 423 placement, Rep. Johnson House fast-follow statement, and 7-Democrat cloture math; corroborated by PYMNTS.com, Yahoo Finance, CoinPedia, and Seeking Alpha) — https://thedefiant.io/news/regulation/clarity-act-senate-floor-seven-democrat-math-house-fast-follow\n\nRelevant to: crypto exchanges, digital-asset market participants, stablecoin issuers, prediction-market platforms, brokerages, DeFi protocols, fintech companies\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-06-20T22:30:00Z",
+      "tags": [
+        "crypto",
+        "fintech",
+        "payments",
+        "gaming",
+        "prediction-markets",
+        "CLARITY-Act",
+        "digital-asset-market-structure",
+        "Senate",
+        "cloture",
+        "August-recess",
+        "CFTC",
+        "SEC"
+      ]
+    },
+    {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-06-20-gaming-coalition-clarity-act-sports-carveout",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-06-20-gaming-coalition-clarity-act-sports-carveout",
+      "title": "AGA, tribal gaming groups, and labor unions send Senate letter demanding CLARITY Act include explicit ban on prediction-market sports event contracts",
+      "content_text": "On June 16, 2026, a coalition led by the American Gaming Association (AGA), the Indian Gaming Association, the AFL-CIO's Hotel and Gaming Trades Council, and UNITE HERE sent a letter to the U.S. Senate urging legislators to amend the Digital Asset Market Clarity Act to include explicit language barring prediction markets from offering sports and casino-style event contracts, arguing that sports betting 'falls outside the CFTC's remit and cannot be offered through prediction market platforms.' As reported by The Defiant (and corroborated by CryptoNews, AMBCrypto, Sportsbook Review, Yogonet, BanklessTimes, and Covers.com), the letter states that prediction markets have 'fueled the largest expansion of gambling in U.S. history over the past 18 months, without voter approval or legislative authorization,' and the AGA has separately estimated states have lost roughly $1 billion in gaming tax revenue to prediction markets since the start of 2025. The Senate Banking Committee advanced the CLARITY Act on a 15-9 vote in May 2026; a full Senate floor vote has not yet been scheduled.\n\nCoverage (reporting filing): The Defiant (June 17, 2026; reporting the AGA/Indian Gaming Association/AFL-CIO/UNITE HERE letter to the Senate; corroborated by CryptoNews, AMBCrypto, Sportsbook Review, Yogonet, BanklessTimes, and Covers.com) — https://thedefiant.io/news/regulation/gaming-industry-tribes-and-unions-press-senate-to-ban-sports-prediction-markets\n\nRelevant to: prediction-market operators, gaming operators, tribal gaming entities, sportsbooks, CFTC-registered entities\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-06-20T22:30:00Z",
+      "tags": [
+        "gaming",
+        "prediction-markets",
+        "event-contracts",
+        "CLARITY-Act",
+        "Senate",
+        "AGA",
+        "tribal-gaming",
+        "labor",
+        "sports-betting",
+        "legislative-advocacy"
+      ]
+    },
+    {
       "id": "https://tg3online.github.io/regrisk-radar/#2026-06-20-kentucky-ag-v-kalshi-polymarket-vgw",
       "url": "https://tg3online.github.io/regrisk-radar/#2026-06-20-kentucky-ag-v-kalshi-polymarket-vgw",
       "title": "Kentucky AG sues Kalshi, Polymarket, and VGW alleging illegal unlicensed gambling operations",
