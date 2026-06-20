@@ -5,7 +5,75 @@
   <id>https://tg3online.github.io/regrisk-radar/</id>
   <link href="https://tg3online.github.io/regrisk-radar/" />
   <link href="https://tg3online.github.io/regrisk-radar/atom.xml" rel="self" type="application/atom+xml" />
-  <updated>2026-06-19T21:38:26Z</updated>
+  <updated>2026-06-20T07:55:17Z</updated>
+  <entry>
+    <title>Kentucky AG sues Kalshi, Polymarket, and VGW alleging illegal unlicensed gambling operations</title>
+    <id>https://tg3online.github.io/regrisk-radar/#2026-06-20-kentucky-ag-v-kalshi-polymarket-vgw</id>
+    <link href="https://tg3online.github.io/regrisk-radar/#2026-06-20-kentucky-ag-v-kalshi-polymarket-vgw" rel="alternate" />
+    <updated>2026-06-20T07:39:01Z</updated>
+    <published>2026-06-20T07:39:01Z</published>
+    <category term="Kentucky Office of the Attorney General (Russell Coleman) — Franklin Circuit Court" />
+    <content type="text">On June 17, 2026, Kentucky Attorney General Russell Coleman filed lawsuits in Franklin Circuit Court against prediction-market operators Kalshi and Polymarket and against online sweepstakes-casino operator VGW (operator of Chumba Casino, Global Poker, and LuckyLand Slots), alleging the companies are conducting illegal, unlicensed gambling operations within the Commonwealth. As reported by Covers (and corroborated by Gambling Insider, Gambling News, LEX18, Yogonet, PlayUSA, and LINK nky), the suits allege Kalshi and Polymarket are effectively operating sportsbooks in Kentucky without the licenses required of regulated sports-betting operators and provide inadequate responsible-gambling protections; one complaint names Kalshi and affiliated companies including Coinbase, and the Attorney General stated that Polymarket, Kalshi, and affiliated entities including Coinbase, Robinhood, and Webull offer limited or no tools for users to identify gambling-related problems. The suits seek temporary and permanent injunctive relief and all recoverable damages available to the Commonwealth. The filings came days after the Coalition for Fair Markets (Kalshi, Polymarket US, and Crypto.com&#x27;s derivatives exchange) sued Kentucky over its newly enacted 14.25% prediction-market tax and related restrictions.
+
+Coverage (reporting filing): Covers (June 19, 2026; reporting AG Coleman&#x27;s suits against Kalshi, Polymarket, and VGW; corroborated by Gambling Insider, Gambling News, LEX18, Yogonet, PlayUSA, LINK nky) — https://www.covers.com/industry/kentucky-sue-prediction-markets-sports-betting-allege-kalshi-polymarket-june-2026
+
+Relevant to: prediction-market operators, sweepstakes / social-casino operators, sportsbooks, crypto exchanges, payment processors serving these platforms
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</content>
+  </entry>
+  <entry>
+    <title>CFTC amends its Illinois lawsuit and seeks a preliminary injunction against the state&#x27;s new &#x27;exchange wager&#x27; prediction-market tax</title>
+    <id>https://tg3online.github.io/regrisk-radar/#2026-06-20-cftc-amends-illinois-exchange-wager-tax</id>
+    <link href="https://tg3online.github.io/regrisk-radar/#2026-06-20-cftc-amends-illinois-exchange-wager-tax" rel="alternate" />
+    <updated>2026-06-20T07:39:01Z</updated>
+    <published>2026-06-20T07:39:01Z</published>
+    <category term="CFTC — U.S. District Court, Northern District of Illinois" />
+    <content type="text">The Commodity Futures Trading Commission amended its lawsuit against the State of Illinois (N.D. Illinois, No. 1:26-cv-03659, originally filed April 2, 2026) after Illinois Gov. JB Pritzker signed a budget creating a new tax structure for prediction markets. As reported by Gambling Insider, the amended complaint challenges Illinois&#x27;s new &#x27;exchange wager&#x27; provisions, arguing the state is attempting to regulate event-contract markets that fall within the CFTC&#x27;s exclusive jurisdiction under the Commodity Exchange Act; the new Illinois law would impose transaction fees ranging from 1.75% to 3.5% on sports event contracts. The CFTC also filed a motion for a preliminary injunction seeking to block Illinois from enforcing its gambling laws against event contracts while the litigation proceeds, arguing the state is engaged in a &#x27;targeted campaign of regulatory hostility&#x27; toward prediction markets.
+
+Coverage (reporting filing): Gambling Insider (June 19, 2026 weekly roundup; reporting the CFTC&#x27;s amended Illinois complaint and PI motion; corroborated by Bitcoin Foundation news and prior Crain&#x27;s/CNBC coverage of the underlying April 2026 suit) — https://www.gamblinginsider.com/news/167702/prediction-markets-weekly-roundup-litigation-launches
+
+Relevant to: prediction-market / event-contract platforms, crypto derivatives exchanges, CFTC registrants, tax and compliance teams
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</content>
+  </entry>
+  <entry>
+    <title>Proposed class action alleges Robinhood runs an unlicensed sports-gambling operation through its prediction-markets hub</title>
+    <id>https://tg3online.github.io/regrisk-radar/#2026-06-20-mazza-v-robinhood-prediction-markets-class-action</id>
+    <link href="https://tg3online.github.io/regrisk-radar/#2026-06-20-mazza-v-robinhood-prediction-markets-class-action" rel="alternate" />
+    <updated>2026-06-20T07:39:01Z</updated>
+    <published>2026-06-20T07:39:01Z</published>
+    <category term="Matthew Mazza (plaintiff) — U.S. District Court, Northern District of California" />
+    <content type="text">On June 10, 2026, a proposed class action (Mazza v. Robinhood) was filed in the U.S. District Court for the Northern District of California against Robinhood Markets, Inc. and its subsidiary Robinhood Derivatives, alleging the company operates an unlicensed, illegal sports-gambling operation marketed as an investment product through its &#x27;prediction markets hub.&#x27; As reported by Casino.org (and corroborated by Bloomberg Law, Sportsbook Review, Gambling News, and CDC Gaming), the complaint alleges Robinhood&#x27;s sports event contracts are effectively sports wagers rather than financial products, that the platform let customers bet against margin using existing stock holdings (allowing wagers with borrowed money and losses exceeding deposits) without clearly disclosing the risk at the point of trade, and that Robinhood created a misleading impression the products had state regulatory approval. The named plaintiff alleges he lost approximately $400,000 in fees, commissions, and wagers in 2025-2026. Robinhood began offering sports event contracts through a partnership with Kalshi in March 2025. The suit seeks to recover alleged customer losses.
+
+Coverage (reporting filing): Casino.org (reporting the N.D. Cal. Mazza v. Robinhood class action; corroborated by Bloomberg Law, Sportsbook Review, Gambling News, CDC Gaming) — https://www.casino.org/news/robinhood-lawsuit-alleges-traders-duped-into-gambling-sports/
+
+Relevant to: prediction-market operators, brokerages offering event contracts, fintech platforms, consumer-protection and compliance teams
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</content>
+  </entry>
+  <entry>
+    <title>Sixth Circuit consolidates the Ohio (Kalshi v. Schuler) and Tennessee prediction-market appeals</title>
+    <id>https://tg3online.github.io/regrisk-radar/#2026-06-20-sixth-circuit-consolidates-ohio-tennessee-appeals</id>
+    <link href="https://tg3online.github.io/regrisk-radar/#2026-06-20-sixth-circuit-consolidates-ohio-tennessee-appeals" rel="alternate" />
+    <updated>2026-06-20T07:39:01Z</updated>
+    <published>2026-06-20T07:39:01Z</published>
+    <category term="U.S. Court of Appeals for the Sixth Circuit" />
+    <content type="text">As reported by Gambling Insider, the U.S. Court of Appeals for the Sixth Circuit consolidated Kalshi&#x27;s Ohio appeal (KalshiEx LLC v. Schuler, No. 26-3196) with a related Tennessee appeal, uniting two cases that produced conflicting lower-court rulings on whether states can regulate sports event contracts offered on federally regulated exchanges. The consolidation was reported in the same period in which the court denied the CFTC&#x27;s motion to participate as an amicus at oral argument in the Ohio appeal.
+
+Coverage (reporting filing): Gambling Insider (June 19, 2026 weekly roundup; reporting the Sixth Circuit&#x27;s consolidation of the Ohio and Tennessee appeals) — https://www.gamblinginsider.com/news/167702/prediction-markets-weekly-roundup-litigation-launches
+
+Relevant to: prediction-market operators, event-contract platforms, CFTC registrants, sportsbooks
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</content>
+  </entry>
   <entry>
     <title>Cayuga Nation sues Caesars Sportsbook over mobile bets placed on tribal land — first tribal lawsuit against licensed sportsbook; novel IGRA &#x27;where is the bet placed&#x27; geolocation theory</title>
     <id>https://tg3online.github.io/regrisk-radar/#2026-06-19-cayuga-nation-v-caesars-igra-mobile-bet</id>
