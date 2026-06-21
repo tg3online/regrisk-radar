@@ -8,6 +8,20 @@
   },
   "items": [
     {
+      "id": "2026-06-21-steil-stop-lawmakers-from-predicting-act",
+      "date": "2026-06-18",
+      "published": "2026-06-21T07:38:26Z",
+      "issuing_body": "U.S. House Committee on House Administration (Chairman Bryan Steil, WI-01)",
+      "title": "House Administration Chairman Steil introduces the Stop Lawmakers from Predicting Act, barring members of Congress and their families from political/policy wagers on prediction markets",
+      "facts": "On June 18, 2026, U.S. Representative Bryan Steil (WI-01), Chairman of the Committee on House Administration, introduced the Stop Lawmakers from Predicting Act. According to the Committee's press release, the bill would prohibit Members of Congress, their spouses, and their dependent children from using prediction markets to wager on a specific government policy, government action, or political outcome, while continuing to permit wagers on unrelated events such as sports. Under the bill, violators would pay a fee equal to $2,000 or ten percent of the value of the prohibited transaction (whichever is greater), plus the net gain realized from the transaction; Members could not use their Members' Representational Allowance, Senate personnel and office expense account, or political contributions or donations to pay the fine; and Members who resign or retire without paying the fine could be referred to the Department of Justice for civil enforcement. The Committee states the measure builds on the Stop Insider Trading Act, which the Committee advanced on January 14, 2026. The bill must still pass committee and a floor vote to become law.",
+      "source_url": "https://cha.house.gov/2026/6/chairman-steil-introduces-the-stop-lawmakers-from-predicting-act",
+      "source_label": "U.S. House Committee on House Administration — Press Release (June 18, 2026)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction-market platforms (e.g., Kalshi, Polymarket), event-contract operators, government-affairs and compliance teams",
+      "tags": ["gaming", "crypto", "prediction-markets", "event-contracts", "federal-legislation", "Congress", "House-Administration", "insider-trading", "ethics", "Kalshi", "Polymarket"]
+    },
+    {
       "id": "2026-06-20-clarity-act-senate-floor-house-fast-follow",
       "date": "2026-06-19",
       "published": "2026-06-20T22:30:00Z",
