@@ -8,6 +8,88 @@
   },
   "items": [
     {
+      "id": "2026-06-22-stablecoin-cip-nprm-federal-register-publication",
+      "date": "2026-06-22",
+      "published": "2026-06-23T07:42:35Z",
+      "issuing_body": "Financial Crimes Enforcement Network (FinCEN), jointly with OCC, Federal Reserve, FDIC, and NCUA",
+      "title": "Stablecoin issuer Customer Identification Program proposed rule published in the Federal Register, opening the 60-day comment period (GENIUS Act implementation)",
+      "facts": "On June 22, 2026, the Financial Crimes Enforcement Network (FinCEN), together with the Office of the Comptroller of the Currency, the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, and the National Credit Union Administration, published in the Federal Register a joint notice of proposed rulemaking titled \"Permitted Payment Stablecoin Issuer Customer Identification Program\" (document 2026-12460), implementing the GENIUS Act. According to the Federal Register notice, the proposal would require certain permitted payment stablecoin issuers to maintain a customer identification program with requirements comparable to those for banks and credit unions, including procedures to verify the identity of persons opening accounts, maintain identifying records, and check persons against government lists of known or suspected terrorists. The notice states that comments are due 60 days after publication in the Federal Register.",
+      "source_url": "https://www.federalregister.gov/documents/2026/06/22/2026-12460/permitted-payment-stablecoin-issuer-customer-identification-program",
+      "source_label": "Federal Register (FinCEN et al., proposed rule, published June 22, 2026; document 2026-12460)",
+      "tags": [
+        "crypto",
+        "payments",
+        "fintech",
+        "stablecoins",
+        "GENIUS-Act",
+        "CIP",
+        "BSA",
+        "AML",
+        "NPRM",
+        "FinCEN",
+        "OCC",
+        "Federal-Reserve",
+        "FDIC",
+        "NCUA",
+        "Federal-Register",
+        "comment-period"
+      ],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "stablecoin issuers, banks and credit unions, payment processors, crypto custodians, fintech compliance teams"
+    },
+    {
+      "id": "2026-06-22-24x-national-exchange-tokenized-securities-pilot",
+      "date": "2026-06-22",
+      "published": "2026-06-23T07:42:35Z",
+      "issuing_body": "U.S. Securities and Exchange Commission (24X National Exchange LLC SRO filing)",
+      "title": "SEC publishes 24X National Exchange rule change enabling trading of securities in tokenized form during a DTC-operated pilot program",
+      "facts": "On June 22, 2026, the U.S. Securities and Exchange Commission published in the Federal Register (document 2026-12403) a Notice of Filing and Immediate Effectiveness of a Proposed Rule Change by 24X National Exchange LLC to amend the exchange's rules to enable the trading of securities on the exchange in tokenized form during the pendency of a pilot program to be operated by the Depository Trust Company (DTC). According to the notice, the rule change specifies how tokenized securities would be traded and states that such tokenized securities would share the same rights and privileges as traditional securities. The proposed rule change was filed as immediately effective, and the SEC is soliciting public comment.",
+      "source_url": "https://www.federalregister.gov/documents/2026/06/22/2026-12403/self-regulatory-organizations-24x-national-exchange-llc-notice-of-filing-and-immediate-effectiveness",
+      "source_label": "Federal Register (SEC, 24X National Exchange LLC SRO notice, published June 22, 2026; document 2026-12403)",
+      "tags": [
+        "crypto",
+        "fintech",
+        "tokenization",
+        "tokenized-securities",
+        "SEC",
+        "24X-National-Exchange",
+        "DTC",
+        "pilot-program",
+        "market-structure",
+        "SRO",
+        "Federal-Register"
+      ],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "securities exchanges, tokenization platforms, broker-dealers, crypto/fintech market-structure teams"
+    },
+    {
+      "id": "2026-06-22-cftc-rfc-24-7-trading-perpetual-energy-contracts",
+      "date": "2026-06-22",
+      "published": "2026-06-23T07:42:35Z",
+      "issuing_body": "U.S. Commodity Futures Trading Commission (CFTC)",
+      "title": "CFTC requests public comment on 24/7 trading of standard futures and on perpetual contracts referencing physically delivered or storable energy commodities",
+      "facts": "On June 22, 2026, the Commodity Futures Trading Commission issued a request for comment (Release 9259-26) seeking public input on two related developments in derivatives markets: the extension of standard futures contracts, including energy futures, to a 24/7 trading schedule without any change to their fixed expiration, and the potential listing of perpetual contracts that reference physically delivered or storable energy commodities, such as crude oil. CFTC Chairman Michael S. Selig stated that the request reflects the Commission's commitment to supporting responsible innovation while preserving protections against manipulation and market disruption. The request is organized around two sets of questions, one on 24/7 trading of standard futures and one on perpetual contracts referencing physical or storable energy commodities. Comments must be received within 30 days of the request's publication in the Federal Register.",
+      "source_url": "https://www.cftc.gov/PressRoom/PressReleases/9259-26",
+      "source_label": "CFTC Release 9259-26 (request for comment, June 22, 2026)",
+      "tags": [
+        "crypto",
+        "fintech",
+        "CFTC",
+        "perpetual-contracts",
+        "24-7-trading",
+        "derivatives",
+        "market-structure",
+        "energy",
+        "request-for-comment",
+        "DCM"
+      ],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "crypto and energy derivatives venues, designated contract markets, perpetual-futures platforms, fintech derivatives operators"
+    },
+    {
       "id": "2026-06-22-clarity-act-bipartisan-collapse",
       "date": "2026-06-22",
       "published": "2026-06-22T23:30:00Z",
@@ -19,7 +101,20 @@
       "source_type": "media_coverage",
       "primary_source_status": "cited_by_coverage_not_retrieved",
       "relevant_to": "crypto exchanges, stablecoin issuers, DeFi protocols, digital asset trading platforms, fintech companies",
-      "tags": ["CLARITY-Act", "crypto", "fintech", "payments", "Senate", "ethics", "Section-604", "law-enforcement", "bipartisan", "August-recess", "prediction-markets", "digital-asset-market-structure"]
+      "tags": [
+        "CLARITY-Act",
+        "crypto",
+        "fintech",
+        "payments",
+        "Senate",
+        "ethics",
+        "Section-604",
+        "law-enforcement",
+        "bipartisan",
+        "August-recess",
+        "prediction-markets",
+        "digital-asset-market-structure"
+      ]
     },
     {
       "id": "2026-06-22-coinbase-michigan-pi-hearing-june24",
@@ -33,7 +128,17 @@
       "source_type": "media_coverage",
       "primary_source_status": "cited_by_coverage_not_retrieved",
       "relevant_to": "crypto exchanges, prediction market operators, financial platforms with state regulatory exposure",
-      "tags": ["prediction-markets", "event-contracts", "Coinbase", "Michigan", "preliminary-injunction", "preemption", "CEA", "CFTC", "crypto"]
+      "tags": [
+        "prediction-markets",
+        "event-contracts",
+        "Coinbase",
+        "Michigan",
+        "preliminary-injunction",
+        "preemption",
+        "CEA",
+        "CFTC",
+        "crypto"
+      ]
     },
     {
       "id": "2026-06-22-utah-kalshi-pi-hearing-june25",
@@ -47,7 +152,18 @@
       "source_type": "media_coverage",
       "primary_source_status": "cited_by_coverage_not_retrieved",
       "relevant_to": "prediction market platforms, sports event contract operators",
-      "tags": ["prediction-markets", "event-contracts", "Kalshi", "Utah", "preliminary-injunction", "Sixth-Circuit", "Ohio", "Tennessee", "preemption", "CFTC"]
+      "tags": [
+        "prediction-markets",
+        "event-contracts",
+        "Kalshi",
+        "Utah",
+        "preliminary-injunction",
+        "Sixth-Circuit",
+        "Ohio",
+        "Tennessee",
+        "preemption",
+        "CFTC"
+      ]
     },
     {
       "id": "2026-06-22-indiana-sweepstakes-ban-july1-deadline",
@@ -61,7 +177,16 @@
       "source_type": "media_coverage",
       "primary_source_status": "cited_by_coverage_not_retrieved",
       "relevant_to": "sweepstakes casino operators, dual-currency gaming platforms",
-      "tags": ["sweepstakes", "social-casino", "gaming", "Indiana", "state-legislation", "compliance-deadline", "July-1", "dual-currency"]
+      "tags": [
+        "sweepstakes",
+        "social-casino",
+        "gaming",
+        "Indiana",
+        "state-legislation",
+        "compliance-deadline",
+        "July-1",
+        "dual-currency"
+      ]
     },
     {
       "id": "2026-06-22-cftc-connecticut-response-due-june24",
@@ -75,7 +200,15 @@
       "source_type": "media_coverage",
       "primary_source_status": "cited_by_coverage_not_retrieved",
       "relevant_to": "prediction market platforms, sports event contract operators, CFTC-registered exchanges",
-      "tags": ["prediction-markets", "event-contracts", "CFTC", "Connecticut", "preemption", "motion-to-dismiss", "CEA"]
+      "tags": [
+        "prediction-markets",
+        "event-contracts",
+        "CFTC",
+        "Connecticut",
+        "preemption",
+        "motion-to-dismiss",
+        "CEA"
+      ]
     },
     {
       "id": "2026-06-22-ho-chunk-nation-v-kalshi-wisconsin-igra",
@@ -89,7 +222,17 @@
       "source_type": "media_coverage",
       "primary_source_status": "cited_by_coverage_not_retrieved",
       "relevant_to": "prediction market operators, mobile sports betting operators, operators in states with tribal gaming compacts",
-      "tags": ["prediction-markets", "event-contracts", "tribal-gaming", "IGRA", "Wisconsin", "Ho-Chunk-Nation", "Kalshi", "geolocation", "gaming"]
+      "tags": [
+        "prediction-markets",
+        "event-contracts",
+        "tribal-gaming",
+        "IGRA",
+        "Wisconsin",
+        "Ho-Chunk-Nation",
+        "Kalshi",
+        "geolocation",
+        "gaming"
+      ]
     },
     {
       "id": "2026-06-22-novig-cftc-dcm-approval",
@@ -103,7 +246,17 @@
       "source_type": "media_coverage",
       "primary_source_status": "cited_by_coverage_not_retrieved",
       "relevant_to": "prediction market operators, sports event contract exchanges, CFTC-registered designated contract markets",
-      "tags": ["prediction-markets", "event-contracts", "CFTC", "DCM", "Novig", "Ludlow-Exchange", "crypto", "sports-betting", "gaming"]
+      "tags": [
+        "prediction-markets",
+        "event-contracts",
+        "CFTC",
+        "DCM",
+        "Novig",
+        "Ludlow-Exchange",
+        "crypto",
+        "sports-betting",
+        "gaming"
+      ]
     },
     {
       "id": "2026-06-21-steil-stop-lawmakers-from-predicting-act",
@@ -117,7 +270,19 @@
       "source_type": "primary_source",
       "primary_source_status": "retrieved",
       "relevant_to": "prediction-market platforms (e.g., Kalshi, Polymarket), event-contract operators, government-affairs and compliance teams",
-      "tags": ["gaming", "crypto", "prediction-markets", "event-contracts", "federal-legislation", "Congress", "House-Administration", "insider-trading", "ethics", "Kalshi", "Polymarket"]
+      "tags": [
+        "gaming",
+        "crypto",
+        "prediction-markets",
+        "event-contracts",
+        "federal-legislation",
+        "Congress",
+        "House-Administration",
+        "insider-trading",
+        "ethics",
+        "Kalshi",
+        "Polymarket"
+      ]
     },
     {
       "id": "2026-06-20-clarity-act-senate-floor-house-fast-follow",
@@ -128,7 +293,20 @@
       "facts": "The Digital Asset Market Clarity Act has been placed on the U.S. Senate Legislative Calendar as Calendar No. 423, eligible for a floor vote at any time Senate leadership chooses to schedule one, following a 15-9 Senate Banking Committee markup on May 14, 2026. As reported by The Defiant on June 19, 2026, House Agriculture digital-assets subcommittee chair Rep. Dusty Johnson stated on June 18 that the House will move immediately on a companion measure if the Senate passes the bill before the August recess, removing the need for a conference committee. The bill requires approximately 60 votes to clear a Senate filibuster — about seven Democratic votes beyond full Republican unity. Sen. Bill Hagerty (R-Tenn.) has cited July 4 as a target; Sen. Cynthia Lummis has said August recess is more realistic; Galaxy Research has cut its passage-before-recess probability to 60%. Outstanding obstacles include an ethics-language dispute, stablecoin-yield rules, and a parallel lobbying campaign by gaming, tribal gaming, and labor groups demanding the bill include explicit language barring prediction markets from offering sports event contracts. The bill would assign digital commodities to CFTC spot-market authority, investment-contract assets to the SEC, and stablecoins to banking regulators under the GENIUS Act framework. Failure to pass before the August recess pushes the bill into a fall midterm calendar.",
       "source_url": "https://thedefiant.io/news/regulation/clarity-act-senate-floor-seven-democrat-math-house-fast-follow",
       "source_label": "The Defiant (June 19, 2026; reporting CLARITY Act Senate Calendar No. 423 placement, Rep. Johnson House fast-follow statement, and 7-Democrat cloture math; corroborated by PYMNTS.com, Yahoo Finance, CoinPedia, and Seeking Alpha)",
-      "tags": ["crypto", "fintech", "payments", "gaming", "prediction-markets", "CLARITY-Act", "digital-asset-market-structure", "Senate", "cloture", "August-recess", "CFTC", "SEC"],
+      "tags": [
+        "crypto",
+        "fintech",
+        "payments",
+        "gaming",
+        "prediction-markets",
+        "CLARITY-Act",
+        "digital-asset-market-structure",
+        "Senate",
+        "cloture",
+        "August-recess",
+        "CFTC",
+        "SEC"
+      ],
       "source_type": "coverage_reporting_filing",
       "primary_source_status": "cited_by_coverage_not_retrieved",
       "relevant_to": "crypto exchanges, digital-asset market participants, stablecoin issuers, prediction-market platforms, brokerages, DeFi protocols, fintech companies"
@@ -142,7 +320,18 @@
       "facts": "On June 16, 2026, a coalition led by the American Gaming Association (AGA), the Indian Gaming Association, the AFL-CIO's Hotel and Gaming Trades Council, and UNITE HERE sent a letter to the U.S. Senate urging legislators to amend the Digital Asset Market Clarity Act to include explicit language barring prediction markets from offering sports and casino-style event contracts, arguing that sports betting 'falls outside the CFTC's remit and cannot be offered through prediction market platforms.' As reported by The Defiant (and corroborated by CryptoNews, AMBCrypto, Sportsbook Review, Yogonet, BanklessTimes, and Covers.com), the letter states that prediction markets have 'fueled the largest expansion of gambling in U.S. history over the past 18 months, without voter approval or legislative authorization,' and the AGA has separately estimated states have lost roughly $1 billion in gaming tax revenue to prediction markets since the start of 2025. The Senate Banking Committee advanced the CLARITY Act on a 15-9 vote in May 2026; a full Senate floor vote has not yet been scheduled.",
       "source_url": "https://thedefiant.io/news/regulation/gaming-industry-tribes-and-unions-press-senate-to-ban-sports-prediction-markets",
       "source_label": "The Defiant (June 17, 2026; reporting the AGA/Indian Gaming Association/AFL-CIO/UNITE HERE letter to the Senate; corroborated by CryptoNews, AMBCrypto, Sportsbook Review, Yogonet, BanklessTimes, and Covers.com)",
-      "tags": ["gaming", "prediction-markets", "event-contracts", "CLARITY-Act", "Senate", "AGA", "tribal-gaming", "labor", "sports-betting", "legislative-advocacy"],
+      "tags": [
+        "gaming",
+        "prediction-markets",
+        "event-contracts",
+        "CLARITY-Act",
+        "Senate",
+        "AGA",
+        "tribal-gaming",
+        "labor",
+        "sports-betting",
+        "legislative-advocacy"
+      ],
       "source_type": "coverage_reporting_filing",
       "primary_source_status": "cited_by_coverage_not_retrieved",
       "relevant_to": "prediction-market operators, gaming operators, tribal gaming entities, sportsbooks, CFTC-registered entities"
@@ -156,7 +345,19 @@
       "facts": "On June 17, 2026, Kentucky Attorney General Russell Coleman filed lawsuits in Franklin Circuit Court against prediction-market operators Kalshi and Polymarket and against online sweepstakes-casino operator VGW (operator of Chumba Casino, Global Poker, and LuckyLand Slots), alleging the companies are conducting illegal, unlicensed gambling operations within the Commonwealth. As reported by Covers (and corroborated by Gambling Insider, Gambling News, LEX18, Yogonet, PlayUSA, and LINK nky), the suits allege Kalshi and Polymarket are effectively operating sportsbooks in Kentucky without the licenses required of regulated sports-betting operators and provide inadequate responsible-gambling protections; one complaint names Kalshi and affiliated companies including Coinbase, and the Attorney General stated that Polymarket, Kalshi, and affiliated entities including Coinbase, Robinhood, and Webull offer limited or no tools for users to identify gambling-related problems. The suits seek temporary and permanent injunctive relief and all recoverable damages available to the Commonwealth. The filings came days after the Coalition for Fair Markets (Kalshi, Polymarket US, and Crypto.com's derivatives exchange) sued Kentucky over its newly enacted 14.25% prediction-market tax and related restrictions.",
       "source_url": "https://www.covers.com/industry/kentucky-sue-prediction-markets-sports-betting-allege-kalshi-polymarket-june-2026",
       "source_label": "Covers (June 19, 2026; reporting AG Coleman's suits against Kalshi, Polymarket, and VGW; corroborated by Gambling Insider, Gambling News, LEX18, Yogonet, PlayUSA, LINK nky)",
-      "tags": ["gaming", "prediction-markets", "event-contracts", "sweepstakes", "social-casino", "enforcement", "state-ag", "Kentucky", "Kalshi", "Polymarket", "VGW"],
+      "tags": [
+        "gaming",
+        "prediction-markets",
+        "event-contracts",
+        "sweepstakes",
+        "social-casino",
+        "enforcement",
+        "state-ag",
+        "Kentucky",
+        "Kalshi",
+        "Polymarket",
+        "VGW"
+      ],
       "source_type": "coverage_reporting_filing",
       "primary_source_status": "cited_by_coverage_not_retrieved",
       "relevant_to": "prediction-market operators, sweepstakes / social-casino operators, sportsbooks, crypto exchanges, payment processors serving these platforms"
@@ -170,7 +371,17 @@
       "facts": "The Commodity Futures Trading Commission amended its lawsuit against the State of Illinois (N.D. Illinois, No. 1:26-cv-03659, originally filed April 2, 2026) after Illinois Gov. JB Pritzker signed a budget creating a new tax structure for prediction markets. As reported by Gambling Insider, the amended complaint challenges Illinois's new 'exchange wager' provisions, arguing the state is attempting to regulate event-contract markets that fall within the CFTC's exclusive jurisdiction under the Commodity Exchange Act; the new Illinois law would impose transaction fees ranging from 1.75% to 3.5% on sports event contracts. The CFTC also filed a motion for a preliminary injunction seeking to block Illinois from enforcing its gambling laws against event contracts while the litigation proceeds, arguing the state is engaged in a 'targeted campaign of regulatory hostility' toward prediction markets.",
       "source_url": "https://www.gamblinginsider.com/news/167702/prediction-markets-weekly-roundup-litigation-launches",
       "source_label": "Gambling Insider (June 19, 2026 weekly roundup; reporting the CFTC's amended Illinois complaint and PI motion; corroborated by Bitcoin Foundation news and prior Crain's/CNBC coverage of the underlying April 2026 suit)",
-      "tags": ["crypto", "gaming", "prediction-markets", "event-contracts", "preemption", "CFTC", "Illinois", "state-tax", "preliminary-injunction"],
+      "tags": [
+        "crypto",
+        "gaming",
+        "prediction-markets",
+        "event-contracts",
+        "preemption",
+        "CFTC",
+        "Illinois",
+        "state-tax",
+        "preliminary-injunction"
+      ],
       "source_type": "coverage_reporting_filing",
       "primary_source_status": "cited_by_coverage_not_retrieved",
       "relevant_to": "prediction-market / event-contract platforms, crypto derivatives exchanges, CFTC registrants, tax and compliance teams"
@@ -184,7 +395,17 @@
       "facts": "On June 10, 2026, a proposed class action (Mazza v. Robinhood) was filed in the U.S. District Court for the Northern District of California against Robinhood Markets, Inc. and its subsidiary Robinhood Derivatives, alleging the company operates an unlicensed, illegal sports-gambling operation marketed as an investment product through its 'prediction markets hub.' As reported by Casino.org (and corroborated by Bloomberg Law, Sportsbook Review, Gambling News, and CDC Gaming), the complaint alleges Robinhood's sports event contracts are effectively sports wagers rather than financial products, that the platform let customers bet against margin using existing stock holdings (allowing wagers with borrowed money and losses exceeding deposits) without clearly disclosing the risk at the point of trade, and that Robinhood created a misleading impression the products had state regulatory approval. The named plaintiff alleges he lost approximately $400,000 in fees, commissions, and wagers in 2025-2026. Robinhood began offering sports event contracts through a partnership with Kalshi in March 2025. The suit seeks to recover alleged customer losses.",
       "source_url": "https://www.casino.org/news/robinhood-lawsuit-alleges-traders-duped-into-gambling-sports/",
       "source_label": "Casino.org (reporting the N.D. Cal. Mazza v. Robinhood class action; corroborated by Bloomberg Law, Sportsbook Review, Gambling News, CDC Gaming)",
-      "tags": ["gaming", "prediction-markets", "event-contracts", "fintech", "consumer-protection", "class-action", "margin", "Robinhood", "California"],
+      "tags": [
+        "gaming",
+        "prediction-markets",
+        "event-contracts",
+        "fintech",
+        "consumer-protection",
+        "class-action",
+        "margin",
+        "Robinhood",
+        "California"
+      ],
       "source_type": "coverage_reporting_filing",
       "primary_source_status": "cited_by_coverage_not_retrieved",
       "relevant_to": "prediction-market operators, brokerages offering event contracts, fintech platforms, consumer-protection and compliance teams"
@@ -198,7 +419,18 @@
       "facts": "As reported by Gambling Insider, the U.S. Court of Appeals for the Sixth Circuit consolidated Kalshi's Ohio appeal (KalshiEx LLC v. Schuler, No. 26-3196) with a related Tennessee appeal, uniting two cases that produced conflicting lower-court rulings on whether states can regulate sports event contracts offered on federally regulated exchanges. The consolidation was reported in the same period in which the court denied the CFTC's motion to participate as an amicus at oral argument in the Ohio appeal.",
       "source_url": "https://www.gamblinginsider.com/news/167702/prediction-markets-weekly-roundup-litigation-launches",
       "source_label": "Gambling Insider (June 19, 2026 weekly roundup; reporting the Sixth Circuit's consolidation of the Ohio and Tennessee appeals)",
-      "tags": ["gaming", "prediction-markets", "event-contracts", "preemption", "Sixth-Circuit", "appeals-consolidation", "procedural-ruling", "Kalshi", "Ohio", "Tennessee"],
+      "tags": [
+        "gaming",
+        "prediction-markets",
+        "event-contracts",
+        "preemption",
+        "Sixth-Circuit",
+        "appeals-consolidation",
+        "procedural-ruling",
+        "Kalshi",
+        "Ohio",
+        "Tennessee"
+      ],
       "source_type": "coverage_reporting_filing",
       "primary_source_status": "cited_by_coverage_not_retrieved",
       "relevant_to": "prediction-market operators, event-contract platforms, CFTC registrants, sportsbooks"
@@ -212,7 +444,17 @@
       "facts": "On June 16, 2026, the Cayuga Nation of New York filed a federal lawsuit in the Northern District of New York against American Wagering, Inc. (d/b/a Caesars Sportsbook), alleging that Caesars accepted mobile sports wagers from people physically located on the Cayuga reservation between January 8, 2022 and July 15, 2025, without tribal authorization, a gaming compact, or federal oversight. The complaint alleges violations of the Indian Gaming Regulatory Act (IGRA): it argues that a mobile sports wager is placed at the bettor's physical location, not at the operator's server, and therefore betting accepted from within the reservation constitutes Class III gaming on Indian lands, requiring a tribal gaming ordinance and a federally approved tribal-state compact that the Cayuga Nation does not have for sports betting. The Nation sent Caesars a cease-and-desist letter on June 20, 2025; Caesars subsequently agreed to geofence the reservation but declined to provide a full accounting of prior revenue. The complaint seeks damages, an accounting of reservation-bet revenue, and a declaration that Caesars' mobile operations on Cayuga lands were unauthorized. Gaming attorney Daniel Wallach identified this as the first known case of a tribe suing a state-licensed sportsbook over online bets placed from Indian lands. The Cayuga Nation operates Class II gaming venues (LakeSide Entertainment) in New York's Finger Lakes region.",
       "source_url": "https://www.casino.org/news/new-yorks-cayuga-nation-sues-caesars-sportsbook-over-bets-placed-on-tribal-land/",
       "source_label": "Casino.org (Philip Conneller, published June 18, 2026; confirmed by fingerlakes1.com, SBC Americas, BettorsInsider, CasinoBeats, CDC Gaming, iGamingToday)",
-      "tags": ["gaming", "tribal-gaming", "IGRA", "mobile-betting", "sportsbook", "geolocation", "Caesars", "Cayuga-Nation", "New-York"],
+      "tags": [
+        "gaming",
+        "tribal-gaming",
+        "IGRA",
+        "mobile-betting",
+        "sportsbook",
+        "geolocation",
+        "Caesars",
+        "Cayuga-Nation",
+        "New-York"
+      ],
       "source_type": "coverage_reporting_filing",
       "primary_source_status": "cited_by_coverage_not_retrieved",
       "relevant_to": "licensed mobile sportsbook operators, payment processors handling mobile betting, geolocation and compliance technology vendors, tribal gaming operators"
@@ -226,7 +468,17 @@
       "facts": "On June 18, 2026, the U.S. Senate invoked cloture (84-8) and passed the 21st Century ROAD to Housing Act (H.R. 6644). The bill includes a provision banning the Federal Reserve from issuing or creating a central bank digital currency (CBDC) or any substantially similar asset, directly or through an intermediary, through December 31, 2030. The CBDC ban defines a CBDC as a dollar-denominated digital asset that is U.S. currency, a direct liability of the Federal Reserve System, and widely available to the public; it carves out dollar-denominated, open, permissionless, and private digital currencies with privacy protections comparable to physical U.S. currency. Senate passage follows the release of reconciled bill text on June 16, 2026 by Sen. Tim Scott, Sen. Elizabeth Warren, Rep. French Hill, and Rep. Maxine Waters, and a Motion to Proceed vote of 87-8 earlier in the day. The amended bill returns to the House for concurrence in the Senate amendment (H.Res.1299 provides the rule for consideration of the concurrence). Prior votes: Senate 89-10 in March (prior version); House 396-13 in May. Note: this entry supplements the June 18 entry (2026-06-18-congress-cbdc-ban-road-to-housing-act) covering the bill text release.",
       "source_url": "https://www.dailypress.senate.gov/thursday-june-18-2026/",
       "source_label": "U.S. Senate Daily Press (June 18, 2026; floor votes including 84-8 cloture; corroborated by NACo 'Senate Passes 21st Century ROAD to Housing Act' and Latham Watkins analysis)",
-      "tags": ["crypto", "payments", "fintech", "CBDC", "stablecoins", "federal-legislation", "HR6644", "Federal-Reserve", "Senate"],
+      "tags": [
+        "crypto",
+        "payments",
+        "fintech",
+        "CBDC",
+        "stablecoins",
+        "federal-legislation",
+        "HR6644",
+        "Federal-Reserve",
+        "Senate"
+      ],
       "source_type": "coverage_reporting_filing",
       "primary_source_status": "cited_by_coverage_not_retrieved",
       "relevant_to": "stablecoin issuers, payment and fintech platforms, banks, digital-dollar infrastructure providers"
@@ -240,7 +492,17 @@
       "facts": "On June 18, 2026, U.S. District Judge Paul Maloney of the Western District of Michigan denied Robinhood's motion for a preliminary injunction against Michigan state gambling enforcement in a second, near-identical ruling to the Polymarket denial issued the same day. The court held on two independent grounds: (1) sports event contracts of the type Robinhood offers are not 'swaps' under the Commodity Exchange Act, placing them outside the CFTC's exclusive swap jurisdiction; and (2) even if the contracts were swaps, it is not clearly established that the CEA would preempt Michigan's state gambling law in this context. The Gambling Insider article reports the two opinions are 'nearly identical' and contains direct quotes from both. Together, the Polymarket and Robinhood W.D. Michigan rulings are the first federal court holdings that sports event contracts fall outside the CEA swap definition and that CEA preemption of state gambling law is not clearly established — both holdings run contrary to the CFTC's preemption position. Both cases continue on the merits. See also: 2026-06-17-polymarket-michigan-pi-denied.",
       "source_url": "https://www.gamblinginsider.com/news/167546/michigan-judge-denies-polymarket-robinhood-injunctions",
       "source_label": "Gambling Insider (June 18, 2026; covers both Polymarket and Robinhood opinions; direct quotes from rulings; corroborated by Decrypt)",
-      "tags": ["prediction-markets", "event-contracts", "swaps", "CEA", "preemption", "gaming", "Michigan", "preliminary-injunction", "Robinhood"],
+      "tags": [
+        "prediction-markets",
+        "event-contracts",
+        "swaps",
+        "CEA",
+        "preemption",
+        "gaming",
+        "Michigan",
+        "preliminary-injunction",
+        "Robinhood"
+      ],
       "source_type": "coverage_reporting_filing",
       "primary_source_status": "cited_by_coverage_not_retrieved",
       "relevant_to": "prediction-market operators, event-contract platforms, brokerages offering sports contracts, state gaming regulators"
@@ -254,7 +516,15 @@
       "facts": "On June 16, 2026, the U.S. Court of Appeals for the Sixth Circuit denied the CFTC's motion to appear as an amicus curiae at oral argument in KalshiEx LLC v. Matthew T. Schuler et al. (No. 26-3196), Kalshi's appeal of a lower court denial of its preliminary injunction against Ohio state enforcement. The CFTC had submitted a written amicus brief on May 12, 2026, asserting exclusive CFTC jurisdiction over prediction markets and arguing for CEA preemption of state gambling laws. The court's denial is a procedural ruling that does not resolve the merits of CFTC jurisdiction or CEA preemption, but it limits the CFTC's ability to advocate its preemption position directly before the panel at oral argument. Oral argument in KalshiEx v. Schuler proceeds without live CFTC participation.",
       "source_url": "https://sbcamericas.com/2026/06/17/states-prediction-markets-amicus-briefs",
       "source_label": "SBC Americas (June 17, 2026; covers states and tribes court mobilization against prediction markets, including 6th Circuit context); confirmed by Law360 ('6th Circ. Says CFTC Can't Argue In Kalshi, Ohio Betting Fight', subscription required)",
-      "tags": ["prediction-markets", "event-contracts", "CFTC", "amicus", "Sixth-Circuit", "preemption", "gaming"],
+      "tags": [
+        "prediction-markets",
+        "event-contracts",
+        "CFTC",
+        "amicus",
+        "Sixth-Circuit",
+        "preemption",
+        "gaming"
+      ],
       "source_type": "coverage_reporting_filing",
       "primary_source_status": "cited_by_coverage_not_retrieved",
       "relevant_to": "prediction-market operators, event-contract platforms, CFTC-registered entities"
@@ -271,7 +541,24 @@
       "source_type": "primary_source",
       "primary_source_status": "retrieved",
       "relevant_to": "payment stablecoin issuers (PPSIs), crypto exchanges and custodians, banks and credit unions entering stablecoins, BSA/AML and compliance teams",
-      "tags": ["crypto", "payments", "fintech", "stablecoins", "GENIUS-Act", "CIP", "BSA", "AML", "NPRM", "joint-agency", "Federal-Reserve", "OCC", "FDIC", "NCUA", "FinCEN", "PPSI"]
+      "tags": [
+        "crypto",
+        "payments",
+        "fintech",
+        "stablecoins",
+        "GENIUS-Act",
+        "CIP",
+        "BSA",
+        "AML",
+        "NPRM",
+        "joint-agency",
+        "Federal-Reserve",
+        "OCC",
+        "FDIC",
+        "NCUA",
+        "FinCEN",
+        "PPSI"
+      ]
     },
     {
       "id": "2026-06-18-illinois-digital-asset-privilege-tax-sb3019",
@@ -285,7 +572,17 @@
       "source_type": "coverage_reporting_filing",
       "primary_source_status": "cited_by_coverage_not_retrieved",
       "relevant_to": "crypto exchanges, brokers, custodians and wallet providers with Illinois nexus; payment processors; tax/compliance teams",
-      "tags": ["crypto", "payments", "fintech", "state-tax", "digital-asset-tax", "SB3019", "DATA", "Illinois", "first-in-nation"]
+      "tags": [
+        "crypto",
+        "payments",
+        "fintech",
+        "state-tax",
+        "digital-asset-tax",
+        "SB3019",
+        "DATA",
+        "Illinois",
+        "first-in-nation"
+      ]
     },
     {
       "id": "2026-06-18-congress-cbdc-ban-road-to-housing-act",
@@ -299,7 +596,16 @@
       "source_type": "primary_source",
       "primary_source_status": "retrieved",
       "relevant_to": "stablecoin issuers, payment and fintech platforms, banks, digital-dollar infrastructure providers",
-      "tags": ["crypto", "payments", "fintech", "CBDC", "stablecoins", "federal-legislation", "HR6644", "Federal-Reserve"]
+      "tags": [
+        "crypto",
+        "payments",
+        "fintech",
+        "CBDC",
+        "stablecoins",
+        "federal-legislation",
+        "HR6644",
+        "Federal-Reserve"
+      ]
     },
     {
       "id": "2026-06-18-tribal-coalition-amicus-prediction-markets",
@@ -313,7 +619,17 @@
       "source_type": "coverage_reporting_filing",
       "primary_source_status": "cited_by_coverage_not_retrieved",
       "relevant_to": "prediction-market / event-contract platforms, tribal gaming operators, sportsbooks, exchanges",
-      "tags": ["crypto", "gaming", "prediction-markets", "event-contracts", "preemption", "amicus", "tribal-gaming", "IGRA", "Sixth-Circuit"]
+      "tags": [
+        "crypto",
+        "gaming",
+        "prediction-markets",
+        "event-contracts",
+        "preemption",
+        "amicus",
+        "tribal-gaming",
+        "IGRA",
+        "Sixth-Circuit"
+      ]
     },
     {
       "id": "2026-06-18-cftc-celsius-consent-order",
@@ -327,7 +643,18 @@
       "source_type": "primary_source",
       "primary_source_status": "retrieved",
       "relevant_to": "crypto lending platforms, token issuers, crypto exchanges, platform executives",
-      "tags": ["CFTC", "enforcement", "consent-order", "Celsius", "Mashinsky", "crypto-lending", "CEL-token", "commodity-pool", "CPO", "fraud"]
+      "tags": [
+        "CFTC",
+        "enforcement",
+        "consent-order",
+        "Celsius",
+        "Mashinsky",
+        "crypto-lending",
+        "CEL-token",
+        "commodity-pool",
+        "CPO",
+        "fraud"
+      ]
     },
     {
       "id": "2026-06-18-cftc-sec-rfi-event-contracts",
@@ -341,7 +668,17 @@
       "source_type": "primary_source",
       "primary_source_status": "retrieved",
       "relevant_to": "prediction-market platforms, event-contract operators, crypto exchanges, derivatives platforms",
-      "tags": ["CFTC", "SEC", "RFI", "event-contracts", "prediction-markets", "swaps", "futures", "securities", "joint-rulemaking"]
+      "tags": [
+        "CFTC",
+        "SEC",
+        "RFI",
+        "event-contracts",
+        "prediction-markets",
+        "swaps",
+        "futures",
+        "securities",
+        "joint-rulemaking"
+      ]
     },
     {
       "id": "2026-06-18-cftc-sec-rfi-data-reporting",
@@ -355,7 +692,17 @@
       "source_type": "primary_source",
       "primary_source_status": "retrieved",
       "relevant_to": "derivatives market participants, swap data repositories, crypto derivatives platforms, CFTC registrants",
-      "tags": ["CFTC", "SEC", "RFI", "data-reporting", "SDR", "derivatives", "real-time-reporting", "regtech", "joint-rulemaking"]
+      "tags": [
+        "CFTC",
+        "SEC",
+        "RFI",
+        "data-reporting",
+        "SDR",
+        "derivatives",
+        "real-time-reporting",
+        "regtech",
+        "joint-rulemaking"
+      ]
     },
     {
       "id": "2026-06-18-cme-v-cftc-perpetual-futures",
@@ -369,7 +716,18 @@
       "source_type": "coverage_reporting_filing",
       "primary_source_status": "cited_by_coverage_not_retrieved",
       "relevant_to": "crypto derivatives platforms, perpetual futures operators, Kalshi, Coinbase, CFTC registrants",
-      "tags": ["crypto", "derivatives", "perpetual-futures", "CFTC", "CME", "APA", "swaps", "BTCPERP", "Kalshi", "self-certification"]
+      "tags": [
+        "crypto",
+        "derivatives",
+        "perpetual-futures",
+        "CFTC",
+        "CME",
+        "APA",
+        "swaps",
+        "BTCPERP",
+        "Kalshi",
+        "self-certification"
+      ]
     },
     {
       "id": "2026-06-17-polymarket-michigan-pi-denied",
@@ -383,7 +741,17 @@
       "source_type": "coverage_reporting_filing",
       "primary_source_status": "cited_by_coverage_not_retrieved",
       "relevant_to": "prediction-market platforms, event-contract operators, state gaming regulators, sportsbooks",
-      "tags": ["prediction-markets", "event-contracts", "swaps", "CEA", "preemption", "gaming", "Michigan", "preliminary-injunction", "Polymarket"]
+      "tags": [
+        "prediction-markets",
+        "event-contracts",
+        "swaps",
+        "CEA",
+        "preemption",
+        "gaming",
+        "Michigan",
+        "preliminary-injunction",
+        "Polymarket"
+      ]
     },
     {
       "id": "2026-06-17-nydfs-stablecoin-genius-act",
@@ -394,7 +762,17 @@
       "facts": "On June 9, 2026, the New York State Department of Financial Services, under Acting Superintendent Kaitlin Asrow, proposed a regulation to build on New York's existing stablecoin framework and align it with the federal GENIUS Act. The proposal carries forward DFS's prior requirements for U.S. dollar-backed stablecoins issued under its oversight — backing and redeemability, permissible reserves, and independent audits — and adds new federal provisions, including setting maximum amounts of reserves that can be held at any one custodian and requiring issuers to adopt risk-management programs covering internal controls, information security, internal audit, asset growth, earnings, insider and affiliate transactions, and service-provider arrangements. The proposed regulation is subject to a 10-day preproposal comment period beginning June 9, 2026, followed by a 60-day comment period upon publication in the State Register; the final regulation would take effect at the same time as the GENIUS Act becomes effective, with a one-year transition period for existing New York-licensed issuers. The Department's June 2022 stablecoin guidance remains in effect until then.",
       "source_url": "https://www.dfs.ny.gov/reports_and_publications/press_releases/pr20260609",
       "source_label": "NYDFS Press Release (June 9, 2026)",
-      "tags": ["NYDFS", "stablecoins", "GENIUS-Act", "reserves", "risk-management", "New-York", "crypto", "payments", "fintech"],
+      "tags": [
+        "NYDFS",
+        "stablecoins",
+        "GENIUS-Act",
+        "reserves",
+        "risk-management",
+        "New-York",
+        "crypto",
+        "payments",
+        "fintech"
+      ],
       "source_type": "primary_source",
       "primary_source_status": "retrieved",
       "relevant_to": "stablecoin issuers, virtual-currency (BitLicense) licensees, custodians, payment-stablecoin platforms"
@@ -411,7 +789,18 @@
       "source_type": "primary_source",
       "primary_source_status": "retrieved",
       "relevant_to": "DeFi protocols, crypto exchanges, stablecoin issuers, AI trading firms, RWA tokenization platforms",
-      "tags": ["CFTC", "RFI", "fintech", "AI", "DeFi", "stablecoins", "RWA", "digital-assets", "cybersecurity", "tokenization"]
+      "tags": [
+        "CFTC",
+        "RFI",
+        "fintech",
+        "AI",
+        "DeFi",
+        "stablecoins",
+        "RWA",
+        "digital-assets",
+        "cybersecurity",
+        "tokenization"
+      ]
     },
     {
       "id": "2026-06-16-pennsylvania-sc-skill-games-slot-machines",
@@ -425,7 +814,15 @@
       "source_type": "primary_source",
       "primary_source_status": "retrieved",
       "relevant_to": "skill game operators, gaming venues (bars, VFWs, fraternal clubs), payment processors, PA legislators",
-      "tags": ["gaming", "skill-games", "Pennsylvania", "state-court", "enforcement-stay", "slot-machines", "Pace-O-Matic"]
+      "tags": [
+        "gaming",
+        "skill-games",
+        "Pennsylvania",
+        "state-court",
+        "enforcement-stay",
+        "slot-machines",
+        "Pace-O-Matic"
+      ]
     },
     {
       "id": "2026-06-16-wisconsin-pi-event-contracts",
@@ -436,7 +833,15 @@
       "facts": "As reported by DeFi Rate (and corroborated by Gambling Insider and Bettors Insider), on 2026-06-09 the State of Wisconsin filed a motion for a preliminary injunction in the U.S. District Court for the Western District of Wisconsin seeking to block KalshiEX, Coinbase, and Robinhood from offering sports event-contract trading to people in the state until the court rules on the merits of its underlying lawsuit (State of Wisconsin v. Kalshi et al., filed April 2026). The brief characterizes the trading as 'open, repeated, ongoing criminal violations' of state law and a public-nuisance violation, argues the state's residents suffer irreparable harm from unregulated gambling, and contends the Commodity Exchange Act does not preempt Wisconsin's sports-wagering laws. The defendants have not yet responded.",
       "source_url": "https://defirate.com/news/wisconsin-block-trading-sports-contracts-kalshi/",
       "source_label": "DeFi Rate (reporting the Wisconsin preliminary-injunction motion)",
-      "tags": ["Wisconsin", "prediction-markets", "event-contracts", "preliminary-injunction", "preemption", "gaming", "crypto"],
+      "tags": [
+        "Wisconsin",
+        "prediction-markets",
+        "event-contracts",
+        "preliminary-injunction",
+        "preemption",
+        "gaming",
+        "crypto"
+      ],
       "source_type": "coverage_reporting_filing",
       "primary_source_status": "cited_by_coverage_not_retrieved",
       "relevant_to": "prediction-market platforms, crypto exchanges, brokerages"
@@ -450,7 +855,17 @@
       "facts": "As reported by The Defiant (and corroborated by DeFi Rate), on 2026-06-11 former CFTC and SEC chair Gary Gensler filed an amicus brief with the U.S. Court of Appeals for the Sixth Circuit in KalshiEX LLC v. Schuler — Kalshi's appeal of an Ohio district court's denial of a preliminary injunction — arguing that sports-event prediction-market contracts fall outside the statutory definition of a 'swap' under Dodd-Frank and are therefore not within the CFTC's exclusive jurisdiction. The brief contends the swap definition centers on hedging economic risk and that reading it to cover sports bets would imply every off-exchange wager since October 2012 had been illegal. The position contradicts the CFTC's own May 12, 2026 amicus asserting exclusive jurisdiction.",
       "source_url": "https://thedefiant.io/news/regulation/gensler-amicus-brief-sports-prediction-markets-cftc-swap-rules",
       "source_label": "The Defiant (reporting the Gensler Sixth Circuit amicus brief)",
-      "tags": ["prediction-markets", "event-contracts", "swaps", "Dodd-Frank", "preemption", "amicus", "Sixth-Circuit", "gaming", "crypto"],
+      "tags": [
+        "prediction-markets",
+        "event-contracts",
+        "swaps",
+        "Dodd-Frank",
+        "preemption",
+        "amicus",
+        "Sixth-Circuit",
+        "gaming",
+        "crypto"
+      ],
       "source_type": "coverage_reporting_filing",
       "primary_source_status": "cited_by_coverage_not_retrieved",
       "relevant_to": "prediction-market platforms, derivatives exchanges, crypto exchanges"
@@ -464,7 +879,17 @@
       "facts": "As reported by The Defiant (and corroborated by Cointelegraph, CryptoNews, and Grafa), Delaware and New Jersey have each advanced legislation to ban cryptocurrency ATMs statewide, citing fraud losses. Delaware's House Bill 441 cleared the House Economic Development Committee and passed the House; it would require existing kiosks to go dark upon enactment and be physically removed within 90 days, bar cashier-assisted workarounds, and expose operators to unlawful-trade-practice charges plus victim-refund and forfeiture obligations. New Jersey's Senate Bill S-2141 cleared the Senate Commerce Committee unanimously and heads to the full chamber. Sponsors cited FBI Internet Crime Complaint Center data of 13,400 crypto-ATM-scam complaints in 2025 and more than $388 million in losses (a 58% year-over-year increase), with more than half of complaints involving victims over 60; operator CoinFlip urged regulation with transaction monitoring instead of prohibition. Tennessee, Indiana, and Minnesota already have statewide bans.",
       "source_url": "https://thedefiant.io/news/regulation/delaware-new-jersey-ban-crypto-atms-fraud",
       "source_label": "The Defiant (reporting the Delaware and New Jersey crypto-ATM ban bills)",
-      "tags": ["crypto", "payments", "crypto-atm", "kiosk", "state-legislation", "consumer-protection", "fraud", "Delaware", "New-Jersey"],
+      "tags": [
+        "crypto",
+        "payments",
+        "crypto-atm",
+        "kiosk",
+        "state-legislation",
+        "consumer-protection",
+        "fraud",
+        "Delaware",
+        "New-Jersey"
+      ],
       "source_type": "coverage_reporting_filing",
       "primary_source_status": "cited_by_coverage_not_retrieved",
       "relevant_to": "crypto-ATM/kiosk operators, payment processors, compliance vendors"
@@ -478,7 +903,17 @@
       "facts": "As reported by The Center Square (and corroborated by Law360, CU Today, and Fintech Business Weekly), the Financial Technology Association filed suit in Davidson County (Tennessee) Chancery Court seeking an injunction to block HB2502, a law signed by Gov. Bill Lee in May 2026 that adds a $10 fee on monetary wire transfers to another country plus a 2% tax on transfers over $500 (effective Jan. 1, 2027; projected to raise more than $91 million in FY2026-27). The FTA argues the law is unconstitutional under the dormant Commerce Clause because it singles out international payments for special taxation, and its complaint states members will have to modify transaction-processing systems, compliance software, and customer-facing interfaces, incurring nonrecoverable compliance costs before year-end or risk penalties. FTA president and CEO Penny Lee said, 'when a state singles out international payments for special taxation, that is unconstitutional, plain and simple.'",
       "source_url": "https://www.thecentersquare.com/tennessee/article_8ba6c1a3-e3a1-4021-99cd-f70b237c3727.html",
       "source_label": "The Center Square (reporting the FTA v. Tennessee filing)",
-      "tags": ["payments", "fintech", "remittances", "money-transmission", "state-tax", "dormant-commerce-clause", "litigation", "Tennessee", "HB2502"],
+      "tags": [
+        "payments",
+        "fintech",
+        "remittances",
+        "money-transmission",
+        "state-tax",
+        "dormant-commerce-clause",
+        "litigation",
+        "Tennessee",
+        "HB2502"
+      ],
       "source_type": "coverage_reporting_filing",
       "primary_source_status": "cited_by_coverage_not_retrieved",
       "relevant_to": "money transmitters, remittance providers, payment processors, fintechs"
@@ -492,7 +927,13 @@
       "facts": "On 2026-06-12 the CFTC filed suit in federal court against the State of New Mexico, seeking a declaratory judgment that federal law grants it exclusive authority over event contracts and a permanent injunction barring the state from enforcing preempted gaming laws against CFTC registrants. The action follows New Mexico's state-court suit against CFTC-registrant KalshiEX LLC alleging its prediction-market offerings are unlawful online sports betting. The release states New Mexico joins AZ, CT, IL, NY, MN, RI, and WI.",
       "source_url": "https://www.cftc.gov/PressRoom/PressReleases/9251-26",
       "source_label": "CFTC Press Release 9251-26",
-      "tags": ["CFTC", "prediction-markets", "preemption", "gaming", "crypto"],
+      "tags": [
+        "CFTC",
+        "prediction-markets",
+        "preemption",
+        "gaming",
+        "crypto"
+      ],
       "source_type": "primary_source",
       "primary_source_status": "retrieved",
       "relevant_to": "prediction-market platforms, sportsbooks, exchanges, CFTC registrants"
@@ -506,7 +947,15 @@
       "facts": "As reported by the Las Vegas Review-Journal (and corroborated by InterGame and Gambling Insider), on 2026-06-12 the Nevada Gaming Control Board petitioned the First Judicial District Court in Carson City to find KalshiEx LLC in contempt for allegedly not complying with a May 18 order requiring it to geofence its website so it cannot offer sports-, election-, or entertainment-related event contracts to anyone located in Nevada. The Board asked the court to impose sanctions, including disgorgement of profits from Nevada transactions or daily penalties until compliance. A Kalshi spokesperson said the company has complied, attributed the issue to a technology glitch, and called the filing a 'PR stunt.'",
       "source_url": "https://www.reviewjournal.com/business/casinos-gaming/nevada-gaming-regulators-ask-judge-to-find-kalshi-in-contempt-of-court-3838501/",
       "source_label": "Las Vegas Review-Journal (reporting the Nevada GCB court filing)",
-      "tags": ["Nevada", "prediction-markets", "event-contracts", "enforcement", "geofencing", "gaming", "crypto"],
+      "tags": [
+        "Nevada",
+        "prediction-markets",
+        "event-contracts",
+        "enforcement",
+        "geofencing",
+        "gaming",
+        "crypto"
+      ],
       "source_type": "coverage_reporting_filing",
       "primary_source_status": "cited_by_coverage_not_retrieved",
       "relevant_to": "prediction-market platforms, geolocation/compliance vendors, sportsbooks"
@@ -520,7 +969,15 @@
       "facts": "As reported by SBC Americas (first reported by the Associated Press and corroborated by Gambling Insider), on 2026-06-12 the Coalition for Fair Markets — comprising Crypto.com's North American Derivatives Exchange (NADEX), Kalshi, and Polymarket's U.S. exchange QCX — filed suit in Franklin Circuit Court to block Kentucky from implementing a 14.25% tax on prediction-market transaction fees set to take effect Jan. 1, 2027, arguing the measure unlawfully targets federally regulated event-contract exchanges and is preempted by federal derivatives law. The enacted package (HB 757 and HB 904) also bars state-licensed gaming operators from doing business with platforms offering sports event-contract trading in Kentucky, a prohibition due to take effect next month. Kentucky Attorney General Russell Coleman, a named defendant, said his office 'will defend these statutes.'",
       "source_url": "https://sbcamericas.com/2026/06/15/kentucky-prediction-markets-lawsuit/",
       "source_label": "SBC Americas (reporting the Coalition for Fair Markets filing; first reported by the Associated Press)",
-      "tags": ["Kentucky", "prediction-markets", "event-contracts", "state-tax", "preemption", "gaming", "crypto"],
+      "tags": [
+        "Kentucky",
+        "prediction-markets",
+        "event-contracts",
+        "state-tax",
+        "preemption",
+        "gaming",
+        "crypto"
+      ],
       "source_type": "coverage_reporting_filing",
       "primary_source_status": "cited_by_coverage_not_retrieved",
       "relevant_to": "prediction-market platforms, licensed gaming operators, payment processors"
