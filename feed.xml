@@ -5,19 +5,51 @@
     <link>https://tg3online.github.io/regrisk-radar/</link>
     <description>Daily facts-only regulatory radar — crypto, gaming, payments &amp; fintech. Verified against primary sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Jun 2026 07:58:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 23:08:56 +0000</lastBuildDate>
     <atom:link href="https://tg3online.github.io/regrisk-radar/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OFAC sanctions nine individuals and 26 entities linked to Prince Group Transnational Criminal Organization — virtual currency scam compounds; coordinated with FinCEN H-Pay Service rule amendment</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-06-23-ofac-prince-group-tco-sanctions</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-06-23-ofac-prince-group-tco-sanctions</guid>
+      <pubDate>Tue, 23 Jun 2026 23:00:00 +0000</pubDate>
+      <category>U.S. Department of the Treasury / Office of Foreign Assets Control (OFAC)</category>
+      <description>On June 23, 2026, the U.S. Department of the Treasury&#x27;s Office of Foreign Assets Control (OFAC) sanctioned nine individuals and 26 entities linked to the Prince Group Transnational Criminal Organization (Prince Group TCO), including TCO leadership, investors in scam compounds, and front companies. The Prince Group TCO operates virtual currency investment scam compounds in Southeast Asia and is involved in pig-butchering and other fraud targeting American victims. The action builds on OFAC&#x27;s October 14, 2025 designation of the Prince Group as a TCO (coordinated at that time with the United Kingdom&#x27;s Foreign, Commonwealth and Development Office) and was taken concurrently with FinCEN&#x27;s proposed amendment to its October 2025 Huione Group Final Rule to include H-Pay Service PLC and successor entities. According to the Treasury press release, Huione Group served as a critical node for laundering proceeds of cyber heists and virtual currency investment scams and was used by the Prince Group to transfer and consolidate scam-derived assets. Secretary of the Treasury Scott Bessent stated: &#x27;Scam centers in Southeast Asia steal billions of dollars from American victims each year. The Trump Administration is united in its efforts to dismantle these overseas criminal enterprises, and Treasury will continue using its tools to disrupt the networks behind this egregious fraud and protect Americans.&#x27;
+
+Primary source: U.S. Department of the Treasury Press Release (June 23, 2026) — https://home.treasury.gov/news/press-releases/sb0538
+
+Relevant to: crypto exchanges, virtual asset service providers (VASPs), payment processors, correspondent banks, BSA/AML and sanctions compliance teams
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+    <item>
+      <title>FinCEN proposes to extend Huione Group Section 311 special measures to H-Pay Service PLC and successor entities — NPRM amending October 2025 Final Rule</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-06-23-fincen-h-pay-service-huione-group-nprm</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-06-23-fincen-h-pay-service-huione-group-nprm</guid>
+      <pubDate>Tue, 23 Jun 2026 23:00:00 +0000</pubDate>
+      <category>Financial Crimes Enforcement Network (FinCEN)</category>
+      <description>On June 23, 2026, the Financial Crimes Enforcement Network (FinCEN) issued a notice of proposed rulemaking (NPRM) to amend its October 2025 Huione Group Final Rule, which imposed Section 311 special measures (severing from the U.S. financial system) on Huione Group, to also cover H-Pay Service PLC and any successor entity of the Huione Group. FinCEN identified H-Pay Service PLC as a Cambodia-based entity that serves as a successor to Huione Pay, a Huione Group subsidiary previously identified by FinCEN as a primary money laundering concern. According to the FinCEN news release, Huione Group served as a critical node for laundering proceeds of cyber heists and virtual currency investment scams and was used by the Prince Group Transnational Criminal Organization to transfer and consolidate scam-derived assets. The proposed rule would close off avenues for Huione Group to circumvent the October 2025 Final Rule by operating through successor entities. The action was coordinated with OFAC&#x27;s simultaneous designation of nine individuals and 26 entities linked to the Prince Group TCO.
+
+Primary source: FinCEN News Release (June 23, 2026) — https://www.fincen.gov/news/news-releases/fincen-proposes-sever-h-pay-service-plc-and-other-huione-group-successor
+
+Relevant to: crypto exchanges, virtual asset service providers (VASPs), payment processors, correspondent banks, BSA/AML compliance teams
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
     <item>
       <title>Stablecoin issuer Customer Identification Program proposed rule published in the Federal Register, opening the 60-day comment period (GENIUS Act implementation)</title>
       <link>https://tg3online.github.io/regrisk-radar/#2026-06-22-stablecoin-cip-nprm-federal-register-publication</link>
       <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-06-22-stablecoin-cip-nprm-federal-register-publication</guid>
       <pubDate>Tue, 23 Jun 2026 07:42:35 +0000</pubDate>
       <category>Financial Crimes Enforcement Network (FinCEN), jointly with OCC, Federal Reserve, FDIC, and NCUA</category>
-      <description>On June 22, 2026, the Financial Crimes Enforcement Network (FinCEN), together with the Office of the Comptroller of the Currency, the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, and the National Credit Union Administration, published in the Federal Register a joint notice of proposed rulemaking titled &quot;Permitted Payment Stablecoin Issuer Customer Identification Program&quot; (document 2026-12460), implementing the GENIUS Act. According to the Federal Register notice, the proposal would require certain permitted payment stablecoin issuers to maintain a customer identification program with requirements comparable to those for banks and credit unions, including procedures to verify the identity of persons opening accounts, maintain identifying records, and check persons against government lists of known or suspected terrorists. The notice states that comments are due 60 days after publication in the Federal Register.
+      <description>On June 22, 2026, the Financial Crimes Enforcement Network (FinCEN), together with the Office of the Comptroller of the Currency, the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, and the National Credit Union Administration, published in the Federal Register a joint notice of proposed rulemaking titled &#x27;Permitted Payment Stablecoin Issuer Customer Identification Program&#x27; (document 2026-12460), implementing the GENIUS Act. According to the Federal Register notice, the proposal would require certain permitted payment stablecoin issuers to maintain a customer identification program with requirements comparable to those for banks and credit unions, including reasonable procedures for verifying the identity of any person seeking to open an account, maintaining records of the information used to verify identity, and determining whether the person appears on any government-provided lists of known or suspected terrorists or terrorist organizations. Comments are due 60 days after publication in the Federal Register (closing on or about August 21, 2026). The 130-page proposal also asks whether any CIP requirement should be extended to secondary market activity.
 
-Primary source: Federal Register (FinCEN et al., proposed rule, published June 22, 2026; document 2026-12460) — https://www.federalregister.gov/documents/2026/06/22/2026-12460/permitted-payment-stablecoin-issuer-customer-identification-program
+Primary source: Federal Register, Joint Notice of Proposed Rulemaking, document 2026-12460 (June 22, 2026); joint FinCEN/OCC/Federal Reserve/FDIC/NCUA — https://www.federalregister.gov/documents/2026/06/22/2026-12460/permitted-payment-stablecoin-issuer-customer-identification-program
 
-Relevant to: stablecoin issuers, banks and credit unions, payment processors, crypto custodians, fintech compliance teams
+Relevant to: payment stablecoin issuers (PPSIs), crypto exchanges and custodians, banks and credit unions entering stablecoins, BSA/AML and compliance teams
 
 For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
 
@@ -29,41 +61,41 @@ RegRisk Radar is regulatory-risk intelligence provided for general informational
       <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-06-22-24x-national-exchange-tokenized-securities-pilot</guid>
       <pubDate>Tue, 23 Jun 2026 07:42:35 +0000</pubDate>
       <category>U.S. Securities and Exchange Commission (24X National Exchange LLC SRO filing)</category>
-      <description>On June 22, 2026, the U.S. Securities and Exchange Commission published in the Federal Register (document 2026-12403) a Notice of Filing and Immediate Effectiveness of a Proposed Rule Change by 24X National Exchange LLC to amend the exchange&#x27;s rules to enable the trading of securities on the exchange in tokenized form during the pendency of a pilot program to be operated by the Depository Trust Company (DTC). According to the notice, the rule change specifies how tokenized securities would be traded and states that such tokenized securities would share the same rights and privileges as traditional securities. The proposed rule change was filed as immediately effective, and the SEC is soliciting public comment.
+      <description>On June 22, 2026, the SEC published in the Federal Register (document 2026-12403) a Notice of Filing and Immediate Effectiveness of a Proposed Rule Change by 24X National Exchange LLC to amend the exchange&#x27;s rules to enable the trading of securities on the exchange in tokenized form during the pendency of a pilot program to be operated by the Depository Trust Company (DTC). According to the notice, the tokenized securities would share the same rights and privileges as traditional securities, the change was filed as immediately effective, and the SEC is soliciting public comment.
 
-Primary source: Federal Register (SEC, 24X National Exchange LLC SRO notice, published June 22, 2026; document 2026-12403) — https://www.federalregister.gov/documents/2026/06/22/2026-12403/self-regulatory-organizations-24x-national-exchange-llc-notice-of-filing-and-immediate-effectiveness
+Primary source: Federal Register, SEC SRO Notice of Filing and Immediate Effectiveness, document 2026-12403 (June 22, 2026) — https://www.federalregister.gov/documents/2026/06/22/2026-12403/self-regulatory-organizations-24x-national-exchange-llc-notice-of-filing-and-immediate-effectiveness
 
-Relevant to: securities exchanges, tokenization platforms, broker-dealers, crypto/fintech market-structure teams
+Relevant to: broker-dealers, crypto/tokenization platforms, custodians, fintech companies in tokenized securities
 
 For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
 
 RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
     </item>
     <item>
-      <title>CFTC requests public comment on 24/7 trading of standard futures and on perpetual contracts referencing physically delivered or storable energy commodities</title>
+      <title>CFTC requests public comment on 24/7 trading of standard futures and on perpetual contracts referencing physically delivered or storable energy commodities (Release 9259-26)</title>
       <link>https://tg3online.github.io/regrisk-radar/#2026-06-22-cftc-rfc-24-7-trading-perpetual-energy-contracts</link>
       <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-06-22-cftc-rfc-24-7-trading-perpetual-energy-contracts</guid>
       <pubDate>Tue, 23 Jun 2026 07:42:35 +0000</pubDate>
       <category>U.S. Commodity Futures Trading Commission (CFTC)</category>
-      <description>On June 22, 2026, the Commodity Futures Trading Commission issued a request for comment (Release 9259-26) seeking public input on two related developments in derivatives markets: the extension of standard futures contracts, including energy futures, to a 24/7 trading schedule without any change to their fixed expiration, and the potential listing of perpetual contracts that reference physically delivered or storable energy commodities, such as crude oil. CFTC Chairman Michael S. Selig stated that the request reflects the Commission&#x27;s commitment to supporting responsible innovation while preserving protections against manipulation and market disruption. The request is organized around two sets of questions, one on 24/7 trading of standard futures and one on perpetual contracts referencing physical or storable energy commodities. Comments must be received within 30 days of the request&#x27;s publication in the Federal Register.
+      <description>On June 22, 2026, the CFTC issued a request for comment (Release 9259-26) seeking public input on extending standard futures contracts, including energy futures, to a 24/7 trading schedule without changing their fixed expiration, and on the potential listing of perpetual contracts referencing physically delivered or storable energy commodities such as crude oil. According to the release, Chairman Michael S. Selig said the request supports responsible innovation while preserving protections against manipulation and market disruption. Comments must be received within 30 days of Federal Register publication. Note: the RFC&#x27;s subject matter is energy derivatives; it is included here because it continues the CFTC&#x27;s perpetual-contract and 24/7 market-structure inquiry series that also covers crypto/fintech derivatives venues.
 
-Primary source: CFTC Release 9259-26 (request for comment, June 22, 2026) — https://www.cftc.gov/PressRoom/PressReleases/9259-26
+Primary source: CFTC Press Release 9259-26 (June 22, 2026) — https://www.cftc.gov/PressRoom/PressReleases/9259-26
 
-Relevant to: crypto and energy derivatives venues, designated contract markets, perpetual-futures platforms, fintech derivatives operators
+Relevant to: derivatives platforms (DCMs, DCOs), crypto futures exchanges, fintech companies in derivatives markets
 
 For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
 
 RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
     </item>
     <item>
-      <title>CLARITY Act bipartisan ethics talks collapse June 9; Section 604 law enforcement opposition unresolved; Senate emergency meetings scheduled week of June 22 — Polymarket prices passage at ~48%</title>
+      <title>CLARITY Act bipartisan ethics talks collapse June 9; Section 604 law enforcement opposition unresolved; Senate emergency meetings scheduled week of June 22 — passage odds fall to ~48% on Polymarket</title>
       <link>https://tg3online.github.io/regrisk-radar/#2026-06-22-clarity-act-bipartisan-collapse</link>
       <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-06-22-clarity-act-bipartisan-collapse</guid>
       <pubDate>Mon, 22 Jun 2026 23:30:00 +0000</pubDate>
       <category>U.S. Senate (CLARITY Act bipartisan negotiators; White House Crypto Council)</category>
-      <description>A June 9, 2026 closed-door bipartisan meeting over the Digital Asset Market Clarity Act ended without agreement. The session included Senators Gillibrand, Gallego, Moreno, and Lummis, and White House Crypto Council Executive Director Patrick Witt. Republicans withdrew a proposed provision that would have authorized state attorneys general to initiate civil enforcement actions against the DOJ for failures to enforce CLARITY Act ethics rules tied to the president&#x27;s crypto business interests; they offered a substitute limiting that authority to the U.S. Attorney General, which Democrats rejected as functionally circular. Separately, the White House Crypto Council convened the National Sheriffs&#x27; Association, Fraternal Order of Police, and National District Attorneys&#x27; Association to address their opposition to Section 604 of the CLARITY Act (the Blockchain Regulatory Certainty Act provision). The NDAA stated that Section 604 &#x27;would severely impede the ability of law enforcement and prosecutors to investigate, trace, and prosecute criminal activity involving cryptocurrency and other digital assets.&#x27; Senators Warner and Cortez Masto have tied their floor votes to law enforcement sign-off on Section 604. As of June 22, the CLARITY Act remains on the Senate Legislative Calendar as Calendar No. 423 with a 60-vote threshold; approximately seven Democratic votes are needed; 31 Senate session days remain before the August recess. Senate leaders are holding emergency meetings the week of June 22 to attempt to resolve the impasse. Polymarket traders price 2026 passage at approximately 48%, down from 74% one month earlier; Galaxy Research estimates 50-50 odds.
+      <description>A closed-door bipartisan ethics meeting over the Digital Asset Market Clarity Act collapsed on June 9, 2026. The meeting included Senators Gillibrand, Gallego, Moreno, and Lummis, along with White House Crypto Council Executive Director Patrick Witt. Republicans and Witt withdrew a provision that would have authorized state attorneys general to initiate civil enforcement actions against the DOJ for failures to enforce CLARITY Act ethics rules tied to President Trump&#x27;s crypto business interests; Republicans offered a substitute limiting enforcement authority to the U.S. Attorney General; Democrats rejected this as &#x27;functionally circular&#x27;; Republicans also floated impeachment as a remedy, which Democrats declined. Separately, the White House Crypto Council convened the National Sheriffs&#x27; Association, Fraternal Order of Police, and National District Attorneys&#x27; Association to address their opposition to Section 604 of the CLARITY Act (the Blockchain Regulatory Certainty Act provision), which those organizations argue would &#x27;severely impede the ability of law enforcement and prosecutors to investigate, trace, and prosecute criminal activity involving cryptocurrency and other digital assets.&#x27; Senators Warner and Cortez Masto have tied their floor votes to law enforcement sign-off on Section 604. As of June 22, the CLARITY Act remains on the Senate Legislative Calendar as Calendar No. 423 with a 60-vote threshold; approximately seven Democratic votes are needed beyond full Republican unity; 31 Senate session days remain before the August recess. Senate leaders are holding emergency meetings the week of June 22 to attempt to resolve these two unresolved obstacles. Polymarket traders price 2026 passage at approximately 48%, down from 74% one month earlier; Galaxy Research estimates 50-50 passage odds.
 
-Coverage: CCN (Dr. Guneet Kaur, published June 22, 2026, modified 14:52Z) — https://www.ccn.com/news/crypto/clarity-act-make-or-break-moment-senate-emergency-meetings/
+Coverage (reporting filing): CCN (Dr. Guneet Kaur, published June 22, 2026; reporting the June 9 ethics-talk collapse and Section 604 law enforcement opposition blocking CLARITY Act Senate floor vote) — https://www.ccn.com/news/crypto/clarity-act-make-or-break-moment-senate-emergency-meetings/
 
 Relevant to: crypto exchanges, stablecoin issuers, DeFi protocols, digital asset trading platforms, fintech companies
 
@@ -77,107 +109,107 @@ RegRisk Radar is regulatory-risk intelligence provided for general informational
       <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-06-22-coinbase-michigan-pi-hearing-june24</guid>
       <pubDate>Mon, 22 Jun 2026 23:30:00 +0000</pubDate>
       <category>U.S. District Court, W.D. Michigan</category>
-      <description>A federal court in the Western District of Michigan has scheduled a hearing on June 24, 2026 on Coinbase&#x27;s motion for a preliminary injunction against Michigan state officials. Coinbase&#x27;s case seeks a declaratory judgment that its sports event contracts are federally regulated under the CFTC&#x27;s exclusive jurisdiction and that Michigan&#x27;s gambling laws are preempted by the Commodity Exchange Act. The hearing occurs in the same district where a different W.D. Michigan judge (Judge Maloney) denied preliminary injunction motions from Polymarket (June 17) and Robinhood (June 18) on two independent grounds: (1) sports event contracts are not &#x27;swaps&#x27; under the CEA; (2) CEA preemption of state gambling law is not clearly established. Coinbase&#x27;s hearing is before a different judge. A separate Michigan hearing is also scheduled the same week on the state&#x27;s motion to remand the Kalshi v. Michigan case back to state court.
+      <description>A federal court in the Western District of Michigan scheduled a hearing on June 24, 2026 on Coinbase&#x27;s motion for a preliminary injunction against Michigan state officials. Coinbase&#x27;s case seeks a declaratory judgment that its sports event contracts are federally regulated under the CFTC&#x27;s exclusive jurisdiction and that Michigan&#x27;s gambling laws are preempted by the Commodity Exchange Act. The hearing is in the same week that separate W.D. Michigan judges denied preliminary injunction motions by Polymarket (June 17, Judge Maloney) and Robinhood (June 18, Judge Maloney) on two independent grounds: (1) sports event contracts are not &#x27;swaps&#x27; under the CEA; (2) CEA preemption of state gambling law is not clearly established in this context. Coinbase&#x27;s hearing is before a different judge. A separate Michigan court hearing is also scheduled to consider the state&#x27;s motion to remand the Kalshi v. Michigan case back to state court.
 
-Coverage: Gambling Insider (Chavdar Vasilev, published June 22, 2026) — https://www.gamblinginsider.com/news/167916/prediction-market-hearings-world-cup-betting-stories-to-watch
+Coverage (reporting filing): Gambling Insider (Chavdar Vasilev, published June 22, 2026; reporting Coinbase W.D. Michigan PI hearing scheduled June 24) — https://www.gamblinginsider.com/news/167916/prediction-market-hearings-world-cup-betting-stories-to-watch
 
-Relevant to: crypto exchanges, prediction market operators, financial platforms with state regulatory exposure
+Relevant to: crypto exchanges, prediction-market operators, platforms with state regulatory exposure
 
 For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
 
 RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
     </item>
     <item>
-      <title>Kalshi PI hearing vs. Utah state officials June 25; Kalshi reply brief also due June 25 in consolidated Sixth Circuit Ohio/Tennessee appeal</title>
+      <title>Kalshi PI hearing vs. Utah officials scheduled June 25; Kalshi reply brief also due June 25 in consolidated Sixth Circuit Ohio/Tennessee appeal</title>
       <link>https://tg3online.github.io/regrisk-radar/#2026-06-22-utah-kalshi-pi-hearing-june25</link>
       <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-06-22-utah-kalshi-pi-hearing-june25</guid>
       <pubDate>Mon, 22 Jun 2026 23:30:00 +0000</pubDate>
       <category>U.S. District Court, D. Utah / U.S. Court of Appeals for the Sixth Circuit</category>
-      <description>On June 25, 2026, the U.S. District Court for the District of Utah is scheduled to hear Kalshi&#x27;s motion for a preliminary injunction against Utah state enforcement officials. The same day, Kalshi&#x27;s reply brief is due in the consolidated Sixth Circuit appeal (KalshiEx LLC v. Schuler, Ohio/Tennessee appeals) before the U.S. Court of Appeals for the Sixth Circuit. Ohio filed its response brief on June 4, making Kalshi&#x27;s reply due June 25. The Sixth Circuit previously denied the CFTC&#x27;s motion to participate as amicus at oral argument in the Ohio case and consolidated the Ohio and Tennessee appeals (both previously captured). Kalshi simultaneously faces the Utah PI hearing and a Sixth Circuit briefing deadline on the same day.
+      <description>On June 25, 2026, the U.S. District Court for the District of Utah is scheduled to hear Kalshi&#x27;s motion for a preliminary injunction against Utah state enforcement officials seeking to block its prediction-market operations in the state. The same day, Kalshi&#x27;s reply brief is due in the consolidated Sixth Circuit appeal (KalshiEx LLC v. Schuler, Ohio/Tennessee appeals). As reported by Gambling Insider, Ohio filed its response brief on June 4, making Kalshi&#x27;s reply due June 25. The Sixth Circuit previously denied the CFTC&#x27;s motion to participate as amicus at oral argument and consolidated the Ohio and Tennessee appeals. Kalshi simultaneously faces the Utah PI hearing and a Sixth Circuit briefing deadline on the same day.
 
-Coverage: Gambling Insider (Chavdar Vasilev, published June 22, 2026) — https://www.gamblinginsider.com/news/167916/prediction-market-hearings-world-cup-betting-stories-to-watch
+Coverage (reporting filing): Gambling Insider (Chavdar Vasilev, published June 22, 2026; reporting Utah PI hearing June 25 and 6th Circuit Kalshi reply brief due June 25) — https://www.gamblinginsider.com/news/167916/prediction-market-hearings-world-cup-betting-stories-to-watch
 
-Relevant to: prediction market platforms, sports event contract operators
+Relevant to: prediction-market platforms, sports event contract operators
 
 For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
 
 RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
     </item>
     <item>
-      <title>Indiana sweepstakes casino ban takes effect July 1, 2026 — 9-day compliance deadline; most major operators had not yet geo-blocked Indiana as of June 22</title>
+      <title>Indiana sweepstakes casino ban takes effect July 1, 2026 — nine-day compliance deadline; most major operators had not yet geo-blocked Indiana as of June 22</title>
       <link>https://tg3online.github.io/regrisk-radar/#2026-06-22-indiana-sweepstakes-ban-july1-deadline</link>
       <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-06-22-indiana-sweepstakes-ban-july1-deadline</guid>
       <pubDate>Mon, 22 Jun 2026 23:30:00 +0000</pubDate>
-      <category>State of Indiana (Legislature)</category>
-      <description>Indiana&#x27;s state law prohibiting sweepstakes casino operations takes effect July 1, 2026 — nine days from June 22. The law, signed earlier in 2026, bans the operation of sweepstakes-style online gaming platforms using a dual-currency model (virtual currency acquirable for free or for consideration, redeemable for cash prizes). As reported by Gambling Insider on June 22, only a handful of operators had exited the state ahead of the deadline; most major sweepstakes platforms were continuing to serve Indiana customers as of publication. Operators who have not geo-blocked Indiana customers before July 1 face legal exposure under the new statute. Indiana joins Tennessee, Louisiana, Oklahoma, Iowa, and other states that have enacted similar bans in 2025-2026.
+      <category>State of Indiana (Legislature / enacted 2026)</category>
+      <description>Indiana&#x27;s state law prohibiting sweepstakes casino operations takes effect July 1, 2026. The law bans the operation of sweepstakes-style online gaming platforms using a dual-currency model (virtual currency acquirable for free or for consideration, redeemable for cash prizes). As reported by Gambling Insider on June 22, only a handful of operators had exited the state ahead of the deadline; most major sweepstakes platforms were continuing to serve Indiana customers as of publication date. Indiana joins Tennessee, Louisiana, Oklahoma, Iowa, and other states that have enacted similar bans in 2025-2026.
 
-Coverage: Gambling Insider (Chavdar Vasilev, published June 22, 2026) — https://www.gamblinginsider.com/news/167916/prediction-market-hearings-world-cup-betting-stories-to-watch
+Coverage (reporting filing): Gambling Insider (Chavdar Vasilev, published June 22, 2026; reporting Indiana sweepstakes ban July 1 deadline) — https://www.gamblinginsider.com/news/167916/prediction-market-hearings-world-cup-betting-stories-to-watch
 
-Relevant to: sweepstakes casino operators, dual-currency gaming platforms
+Relevant to: sweepstakes casino operators, dual-currency gaming platforms, payment processors serving these platforms
 
 For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
 
 RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
     </item>
     <item>
-      <title>CFTC response to Connecticut&#x27;s motion to dismiss due June 24 in CFTC v. Connecticut prediction-market preemption suit</title>
+      <title>CFTC response to Connecticut motion to dismiss due June 24 in CFTC v. Connecticut prediction-market preemption suit</title>
       <link>https://tg3online.github.io/regrisk-radar/#2026-06-22-cftc-connecticut-response-due-june24</link>
       <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-06-22-cftc-connecticut-response-due-june24</guid>
       <pubDate>Mon, 22 Jun 2026 23:30:00 +0000</pubDate>
       <category>CFTC — U.S. District Court, D. Connecticut</category>
-      <description>In CFTC v. Connecticut — the CFTC&#x27;s federal lawsuit seeking a declaratory judgment that it has exclusive jurisdiction over prediction-market event contracts and that state gaming laws are preempted by the Commodity Exchange Act — Connecticut filed a motion to dismiss on June 4, 2026. The CFTC&#x27;s response to that motion is due June 24. The filing will give the CFTC an opportunity to develop its preemption theory before the court following W.D. Michigan rulings (June 17-18) in which Judge Maloney held that sports event contracts are not &#x27;swaps&#x27; under the CEA and that CEA preemption of state gambling law is not clearly established. Coinbase had previously filed a separate federal action in Connecticut seeking a similar declaratory judgment.
+      <description>In CFTC v. Connecticut, the CFTC&#x27;s federal lawsuit seeking a declaratory judgment that it has exclusive jurisdiction over prediction-market event contracts and that state gaming laws are preempted by the Commodity Exchange Act, the State of Connecticut filed a motion to dismiss on June 4, 2026. As reported by Gambling Insider, the CFTC&#x27;s response to that motion to dismiss is due June 24. The filing will give the CFTC another formal opportunity to articulate its preemption theory before the court, following the W.D. Michigan PI denials (June 17-18) in which Judge Maloney held that sports event contracts are not &#x27;swaps&#x27; under the CEA and that CEA preemption is not clearly established.
 
-Coverage: Gambling Insider (Chavdar Vasilev, published June 22, 2026) — https://www.gamblinginsider.com/news/167916/prediction-market-hearings-world-cup-betting-stories-to-watch
+Coverage (reporting filing): Gambling Insider (Chavdar Vasilev, published June 22, 2026; reporting CFTC response to Connecticut motion to dismiss due June 24) — https://www.gamblinginsider.com/news/167916/prediction-market-hearings-world-cup-betting-stories-to-watch
 
-Relevant to: prediction market platforms, sports event contract operators, CFTC-registered exchanges
+Relevant to: prediction-market platforms, sports event contract operators, CFTC-registered exchanges
 
 For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
 
 RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
     </item>
     <item>
-      <title>Ho-Chunk Nation v. Kalshi (W.D. Wis.): IGRA claims survived May MTD; Kalshi reply due June 22 — extends tribal IGRA geolocation theory to CFTC-registered prediction market</title>
+      <title>Ho-Chunk Nation v. Kalshi (W.D. Wis.): IGRA claims survived May motion to dismiss; Kalshi reply brief due June 22 on motion for leave to amend</title>
       <link>https://tg3online.github.io/regrisk-radar/#2026-06-22-ho-chunk-nation-v-kalshi-wisconsin-igra</link>
       <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-06-22-ho-chunk-nation-v-kalshi-wisconsin-igra</guid>
       <pubDate>Mon, 22 Jun 2026 23:30:00 +0000</pubDate>
       <category>Ho-Chunk Nation of Wisconsin (plaintiff) — U.S. District Court, W.D. Wisconsin</category>
-      <description>In Ho-Chunk Nation of Wisconsin v. KalshiEx LLC (U.S. District Court, W.D. Wisconsin), a federal judge allowed the Ho-Chunk Nation&#x27;s claims under the Indian Gaming Regulatory Act to proceed in May 2026, denying Kalshi&#x27;s initial motion to dismiss. Kalshi subsequently filed a motion for leave to amend its complaint. The Ho-Chunk Nation replied on June 15, 2026, and Kalshi&#x27;s reply in support of the motion was due June 22, 2026. The Ho-Chunk Nation&#x27;s IGRA theory — that Kalshi accepted prediction-market event-contract wagers from individuals physically located on Ho-Chunk tribal lands without a tribal gaming ordinance, a gaming compact, or federal approval — parallels the Cayuga Nation v. Caesars IGRA theory (previously captured) but extends it to a CFTC-registered prediction market operator and to the Wisconsin context. The case extends IGRA&#x27;s &#x27;where is the bet placed&#x27; geolocation theory to federally regulated prediction market platforms.
+      <description>In Ho-Chunk Nation of Wisconsin v. KalshiEx LLC (U.S. District Court, W.D. Wisconsin), a federal judge allowed the Ho-Chunk Nation&#x27;s claims under the Indian Gaming Regulatory Act to proceed in May 2026, denying Kalshi&#x27;s initial motion to dismiss. As reported by Gambling Insider, Kalshi subsequently filed a motion for leave to amend its complaint, the Ho-Chunk Nation replied on June 15, 2026, and Kalshi&#x27;s reply in support of its motion for leave to amend was due June 22, 2026. The Ho-Chunk Nation&#x27;s IGRA theory — that Kalshi accepted prediction-market event-contract wagers from individuals physically located on Ho-Chunk tribal lands without a gaming compact, tribal gaming ordinance, or federal approval — parallels the Cayuga Nation v. Caesars IGRA theory but extends it to a CFTC-registered prediction market operator and to the Wisconsin context.
 
-Coverage: Gambling Insider (Chavdar Vasilev, published June 22, 2026) — https://www.gamblinginsider.com/news/167916/prediction-market-hearings-world-cup-betting-stories-to-watch
+Coverage (reporting filing): Gambling Insider (Chavdar Vasilev, published June 22, 2026; reporting Ho-Chunk Nation v. Kalshi IGRA claim survived MTD) — https://www.gamblinginsider.com/news/167916/prediction-market-hearings-world-cup-betting-stories-to-watch
 
-Relevant to: prediction market operators, mobile sports betting operators, operators in states with tribal gaming compacts
+Relevant to: prediction-market operators, mobile gaming operators in states with tribal gaming compacts
 
 For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
 
 RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
     </item>
     <item>
-      <title>Novig (Ludlow Exchange LLC) receives CFTC Designated Contract Market designation June 16 — enters prediction market sector with 21+ age gate; described as one of fastest DCM approvals in CFTC history</title>
+      <title>Novig (Ludlow Exchange LLC) receives CFTC Designated Contract Market designation June 16 — enters prediction market sector; described as one of fastest DCM approvals in CFTC history</title>
       <link>https://tg3online.github.io/regrisk-radar/#2026-06-22-novig-cftc-dcm-approval</link>
       <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-06-22-novig-cftc-dcm-approval</guid>
       <pubDate>Mon, 22 Jun 2026 23:30:00 +0000</pubDate>
       <category>CFTC (DCM designation) / Novig (Ludlow Exchange LLC, New York)</category>
-      <description>On June 16, 2026, New York-based Novig, operating through the registered entity Ludlow Exchange LLC, announced that the CFTC approved its application for Designated Contract Market status. The approval came approximately six months after Novig filed its DCM application in January 2026; the company describes it as &#x27;one of the fastest designations of its kind in CFTC history&#x27; compared to typical timelines of eight months to over a year. CEO Jacob Fortinsky stated: &#x27;Federal oversight allows us to scale within a framework built on trust, transparency, and fairness.&#x27; Novig&#x27;s sports event contracts will be available only to users 21 and older. Novig previously operated as a licensed betting exchange in New Jersey and Colorado, then shifted to a sweepstakes model before abandoning it after several states enacted sweepstakes bans; its pivot to CFTC-registered prediction markets is funded by a $75 million Series B (Pantera Capital, closed February 2026, approximately $500 million valuation). As of June 22, Novig had not yet announced a launch date; the Gambling Insider June 22 roundup noted it could launch as soon as the week of June 22, noting that Prophet X went live approximately one week after its own CFTC approval.
+      <description>On June 16, 2026, New York-based Novig (operating through the registered entity Ludlow Exchange LLC) announced that the CFTC approved its application for Designated Contract Market status, entitling it to offer sports event contracts to consumers nationwide. The approval came approximately six months after Novig filed its DCM application in January 2026; the company characterizes it as &#x27;one of the fastest designations of its kind in CFTC history.&#x27; CEO Jacob Fortinsky stated: &#x27;Federal oversight allows us to scale within a framework built on trust, transparency, and fairness.&#x27; Novig&#x27;s sports event contracts will be available only to users 21 and older (Kalshi&#x27;s minimum age is 18). Novig previously operated as a betting exchange, shifted to a sweepstakes model, then abandoned sweepstakes after several states enacted bans; its pivot to CFTC-registered prediction markets is funded by a $75 million Series B (Pantera Capital, closed February 2026, ~$500M valuation). As of June 22, Novig had not yet announced a launch date.
 
-Coverage: SBC Americas (Justin Byers, published June 17, 2026; corroborated by Gambling Insider, June 22, 2026) — https://sbcamericas.com/2026/06/17/novig-prediction-market-cftc-approval/
+Coverage (reporting filing): SBC Americas (Justin Byers, published June 17, 2026; reporting Novig CFTC DCM designation announced June 16; corroborated by Gambling Insider article 167916, June 22) — https://sbcamericas.com/2026/06/17/novig-prediction-market-cftc-approval/
 
-Relevant to: prediction market operators, sports event contract exchanges, CFTC-registered designated contract markets
+Relevant to: prediction-market operators, sports event contract exchanges, CFTC-registered designated contract markets
 
 For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
 
 RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
     </item>
     <item>
-      <title>House Administration Chairman Steil introduces the Stop Lawmakers from Predicting Act, barring members of Congress and their families from political/policy wagers on prediction markets</title>
+      <title>Rep. Steil introduces the &#x27;Stop Lawmakers from Predicting Act&#x27; — would bar members of Congress, spouses, and dependent children from political/policy wagers on prediction markets</title>
       <link>https://tg3online.github.io/regrisk-radar/#2026-06-21-steil-stop-lawmakers-from-predicting-act</link>
       <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-06-21-steil-stop-lawmakers-from-predicting-act</guid>
       <pubDate>Sun, 21 Jun 2026 07:38:26 +0000</pubDate>
       <category>U.S. House Committee on House Administration (Chairman Bryan Steil, WI-01)</category>
-      <description>On June 18, 2026, U.S. Representative Bryan Steil (WI-01), Chairman of the Committee on House Administration, introduced the Stop Lawmakers from Predicting Act. According to the Committee&#x27;s press release, the bill would prohibit Members of Congress, their spouses, and their dependent children from using prediction markets to wager on a specific government policy, government action, or political outcome, while continuing to permit wagers on unrelated events such as sports. Under the bill, violators would pay a fee equal to $2,000 or ten percent of the value of the prohibited transaction (whichever is greater), plus the net gain realized from the transaction; Members could not use their Members&#x27; Representational Allowance, Senate personnel and office expense account, or political contributions or donations to pay the fine; and Members who resign or retire without paying the fine could be referred to the Department of Justice for civil enforcement. The Committee states the measure builds on the Stop Insider Trading Act, which the Committee advanced on January 14, 2026. The bill must still pass committee and a floor vote to become law.
+      <description>On June 18, 2026, Committee on House Administration Chairman Bryan Steil (WI-01) introduced the Stop Lawmakers from Predicting Act, which would prohibit Members of Congress, their spouses, and their dependent children from using prediction markets to wager on a specific government policy, government action, or political outcome (bets on unrelated events such as sports remain permitted). Per the Committee&#x27;s press release, violators must pay a fee equal to $2,000 or ten percent of the value of the prohibited transaction (whichever is greater) plus the net gain realized; Members may not use their Members&#x27; Representational Allowance, Senate personnel and office expense account, or political contributions or donations to pay the fine; and Members who resign or retire without paying may be referred to DOJ for civil enforcement. The bill builds on the Stop Insider Trading Act advanced by the Committee on January 14, 2026. Speaker Mike Johnson and President Trump back the bill. The measure echoes a Senate rule adopted earlier in 2026 barring senators and staff from prediction-market betting.
 
-Primary source: U.S. House Committee on House Administration — Press Release (June 18, 2026) — https://cha.house.gov/2026/6/chairman-steil-introduces-the-stop-lawmakers-from-predicting-act
+Primary source: U.S. House Committee on House Administration Press Release (Chairman Bryan Steil, June 18, 2026) — https://cha.house.gov/2026/6/chairman-steil-introduces-the-stop-lawmakers-from-predicting-act
 
-Relevant to: prediction-market platforms (e.g., Kalshi, Polymarket), event-contract operators, government-affairs and compliance teams
+Relevant to: prediction-market operators (Kalshi, Polymarket), Members of Congress and staff, compliance teams monitoring legislative risk
 
 For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
 
