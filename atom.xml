@@ -5,7 +5,24 @@
   <id>https://tg3online.github.io/regrisk-radar/</id>
   <link href="https://tg3online.github.io/regrisk-radar/" />
   <link href="https://tg3online.github.io/regrisk-radar/atom.xml" rel="self" type="application/atom+xml" />
-  <updated>2026-06-25T22:52:01Z</updated>
+  <updated>2026-06-26T19:38:40Z</updated>
+  <entry>
+    <title>CFTC proposes formal data-reporting rules for event contracts, ending eight-plus years of no-action relief (NPRM 9261-26)</title>
+    <id>https://tg3online.github.io/regrisk-radar/#2026-06-26-cftc-event-contracts-data-reporting-nprm</id>
+    <link href="https://tg3online.github.io/regrisk-radar/#2026-06-26-cftc-event-contracts-data-reporting-nprm" rel="alternate" />
+    <updated>2026-06-26T14:30:00Z</updated>
+    <published>2026-06-26T14:30:00Z</published>
+    <category term="CFTC" />
+    <content type="text">On June 25, 2026, the Commodity Futures Trading Commission published a Notice of Proposed Rulemaking (Press Release 9261-26) proposing amendments to Parts 15, 16, and 17 of CFTC regulations to establish an alternate data-reporting framework for fully collateralized event contracts. The proposal would require reporting markets, futures commission merchants (FCMs), clearing members, and foreign brokers to report event contracts under Parts 15–18 of the CFTC&#x27;s regulations rather than under Parts 38, 39, 43, and 45, replacing an informal reporting regime that has operated under staff no-action letters since 2017. A public comment period is open; the comment deadline will be set in the Federal Register notice.
+
+Primary source: CFTC Press Release 9261-26 (June 25, 2026) — https://www.cftc.gov/PressRoom/PressReleases/9261-26
+
+Relevant to: prediction-market platforms, FCMs, clearing members, foreign brokers dealing in event contracts
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</content>
+  </entry>
   <entry>
     <title>Kalshi files federal lawsuit against Illinois over SB3019&#x27;s 15% sports prediction market gross receipts tax and state licensing requirement for DCMs; TRO and PI sought ahead of July 1 effective date</title>
     <id>https://tg3online.github.io/regrisk-radar/#2026-06-25-kalshi-v-illinois-sb3019</id>

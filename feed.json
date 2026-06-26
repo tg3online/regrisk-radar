@@ -6,6 +6,25 @@
   "description": "Daily facts-only regulatory radar — crypto, gaming, payments & fintech. Verified against primary sources.",
   "items": [
     {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-06-26-cftc-event-contracts-data-reporting-nprm",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-06-26-cftc-event-contracts-data-reporting-nprm",
+      "title": "CFTC proposes formal data-reporting rules for event contracts, ending eight-plus years of no-action relief (NPRM 9261-26)",
+      "content_text": "On June 25, 2026, the Commodity Futures Trading Commission published a Notice of Proposed Rulemaking (Press Release 9261-26) proposing amendments to Parts 15, 16, and 17 of CFTC regulations to establish an alternate data-reporting framework for fully collateralized event contracts. The proposal would require reporting markets, futures commission merchants (FCMs), clearing members, and foreign brokers to report event contracts under Parts 15–18 of the CFTC's regulations rather than under Parts 38, 39, 43, and 45, replacing an informal reporting regime that has operated under staff no-action letters since 2017. A public comment period is open; the comment deadline will be set in the Federal Register notice.\n\nPrimary source: CFTC Press Release 9261-26 (June 25, 2026) — https://www.cftc.gov/PressRoom/PressReleases/9261-26\n\nRelevant to: prediction-market platforms, FCMs, clearing members, foreign brokers dealing in event contracts\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-06-26T14:30:00Z",
+      "tags": [
+        "CFTC",
+        "event-contracts",
+        "prediction-markets",
+        "NPRM",
+        "data-reporting",
+        "gaming",
+        "crypto",
+        "Kalshi",
+        "Polymarket",
+        "no-action-relief"
+      ]
+    },
+    {
       "id": "https://tg3online.github.io/regrisk-radar/#2026-06-25-kalshi-v-illinois-sb3019",
       "url": "https://tg3online.github.io/regrisk-radar/#2026-06-25-kalshi-v-illinois-sb3019",
       "title": "Kalshi files federal lawsuit against Illinois over SB3019's 15% sports prediction market gross receipts tax and state licensing requirement for DCMs; TRO and PI sought ahead of July 1 effective date",
