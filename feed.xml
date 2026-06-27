@@ -1,2 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"><channel><title>RegRisk Radar</title></channel></rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RegRisk Radar</title>
+    <link>https://tg3online.github.io/regrisk-radar/</link>
+    <description>Daily facts-only regulatory radar — crypto, gaming, payments &amp; fintech. Verified against primary sources.</description>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 Jun 2026 20:36:21 +0000</lastBuildDate>
+    <atom:link href="https://tg3online.github.io/regrisk-radar/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Senate Democrats ask Appropriations Committee to bar CFTC from funding state prediction market preemption suits</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-06-27-senate-cftc-appropriations-prediction-markets</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-06-27-senate-cftc-appropriations-prediction-markets</guid>
+      <pubDate>Sat, 27 Jun 2026 17:00:00 +0000</pubDate>
+      <category>U.S. Senate (17 Democrats)</category>
+      <description>On June 26, 2026, seventeen Democratic senators — led by Senators Blumenthal (D-CT), Merkley (D-OR), Schiff (D-CA), and Padilla (D-CA), joined by Senators Cantwell, Cortez Masto, Durbin, Heinrich, Hickenlooper, Hirono, Luján, Murphy, Rosen, Schatz, Smith, Warren, and Whitehouse — sent a letter to the Senate Appropriations Subcommittee on Financial Services and General Government requesting that the Fiscal Year 2027 appropriations bill prohibit the Commodity Futures Trading Commission from using federal funds to prevent states and Tribes from enforcing their gambling laws and gaming compacts against online prediction markets. The letter identifies eight states already sued by the CFTC (Connecticut, Illinois, Arizona, Wisconsin, New York, Minnesota, Rhode Island, and New Mexico) and states: &#x27;Through engaging in this campaign of litigation and intimidation, the CFTC risks becoming an instrument and enabler of online prediction markets&#x27; efforts to bypass states&#x27; consumer protections and oversight, creating a race-to-the-bottom in gambling.&#x27;
+
+Primary source: Sen. Schiff Press Release — schiff.senate.gov (June 26, 2026; primary source retrieved) — https://www.schiff.senate.gov/news/press-releases/news-sens-schiff-padilla-join-blumenthal-merkley-in-push-to-end-cftc-assault-on-state-prediction-markets-oversight/
+
+Relevant to: Prediction market operators; gaming, fintech, and crypto platforms with US state regulatory exposure
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+  </channel>
+</rss>

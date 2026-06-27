@@ -1,1 +1,30 @@
-{"generated":"2026-06-27T19:40:12Z","count":33}
+{
+  "generated": "2026-06-27T20:36:21Z",
+  "site": "https://tg3online.github.io/regrisk-radar/",
+  "count": 1,
+  "items": [
+    {
+      "id": "2026-06-27-senate-cftc-appropriations-prediction-markets",
+      "date": "2026-06-26",
+      "published": "2026-06-27T17:00:00Z",
+      "title": "Senate Democrats ask Appropriations Committee to bar CFTC from funding state prediction market preemption suits",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-06-27-senate-cftc-appropriations-prediction-markets",
+      "issuing_body": "U.S. Senate (17 Democrats)",
+      "source_url": "https://www.schiff.senate.gov/news/press-releases/news-sens-schiff-padilla-join-blumenthal-merkley-in-push-to-end-cftc-assault-on-state-prediction-markets-oversight/",
+      "source_label": "Sen. Schiff Press Release — schiff.senate.gov (June 26, 2026; primary source retrieved)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "Prediction market operators; gaming, fintech, and crypto platforms with US state regulatory exposure",
+      "tags": [
+        "prediction-markets",
+        "CFTC",
+        "congress",
+        "senate",
+        "appropriations",
+        "state-preemption",
+        "gaming",
+        "fintech"
+      ]
+    }
+  ]
+}
