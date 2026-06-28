@@ -1,8 +1,60 @@
 {
-  "generated": "2026-06-27T20:40:40Z",
+  "generated": "2026-06-28T08:06:27Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 33,
+  "count": 35,
   "items": [
+    {
+      "id": "2026-06-27-occ-ppsi-aml-cft-sanctions-nprm",
+      "date": "2026-06-24",
+      "published": "2026-06-27T21:00:00Z",
+      "title": "OCC proposes AML/CFT and sanctions compliance program rules for permitted payment stablecoin issuers under the GENIUS Act (Federal Register 2026-12692)",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-06-27-occ-ppsi-aml-cft-sanctions-nprm",
+      "issuing_body": "Office of the Comptroller of the Currency (OCC), in coordination with FinCEN and OFAC",
+      "source_url": "https://www.federalregister.gov/documents/2026/06/24/2026-12692/permitted-payment-stablecoin-issuer-anti-money-launderingcountering-the-financing-of-terrorism-and",
+      "source_label": "Federal Register — OCC NPRM document 2026-12692 (published June 24, 2026; primary source retrieved)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "permitted payment stablecoin issuers, crypto exchanges and custodians, BSA/AML compliance teams",
+      "tags": [
+        "stablecoin",
+        "GENIUS-Act",
+        "AML",
+        "CFT",
+        "sanctions",
+        "OCC",
+        "FinCEN",
+        "OFAC",
+        "NPRM",
+        "BSA",
+        "crypto",
+        "payments",
+        "fintech"
+      ]
+    },
+    {
+      "id": "2026-06-27-iowa-sf2289-sweepstakes-ban",
+      "date": "2026-05-15",
+      "published": "2026-06-27T21:00:00Z",
+      "title": "Iowa SF 2289 grants Iowa Racing and Gaming Commission cease-and-desist and injunctive relief powers over unlicensed sweepstakes casinos; effective July 1, 2026",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-06-27-iowa-sf2289-sweepstakes-ban",
+      "issuing_body": "State of Iowa (Governor Kim Reynolds)",
+      "source_url": "https://www.legis.iowa.gov/legislation/BillBook?ga=91&ba=SF2289",
+      "source_label": "Iowa Legislature — SF 2289 bill page (legis.iowa.gov; primary source retrieved)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "sweepstakes casino operators, dual-currency gaming platforms serving Iowa players, gaming compliance teams",
+      "tags": [
+        "sweepstakes",
+        "social-casino",
+        "gaming",
+        "Iowa",
+        "state-legislation",
+        "compliance-deadline",
+        "July-1",
+        "dual-currency",
+        "cease-and-desist"
+      ]
+    },
     {
       "id": "2026-06-27-senate-cftc-appropriations-prediction-markets",
       "date": "2026-06-26",
