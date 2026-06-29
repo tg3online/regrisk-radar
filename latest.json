@@ -1,8 +1,33 @@
 {
-  "generated": "2026-06-28T08:06:27Z",
+  "generated": "2026-06-29T21:28:46Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 35,
+  "count": 36,
   "items": [
+    {
+      "id": "2026-06-29-clarity-act-icba-opposition",
+      "date": "2026-06-28",
+      "published": "2026-06-29T22:00:00Z",
+      "title": "ICBA launches six-figure DC ad campaign against CLARITY Act stablecoin yield; passage odds fall to 42–50%",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-06-29-clarity-act-icba-opposition",
+      "issuing_body": "Independent Community Bankers of America (ICBA)",
+      "source_url": "https://www.theguardian.com/technology/2026/jun/28/crypto-v-community-local-lenders-fight-stablecoins-law",
+      "source_label": "The Guardian (June 28, 2026; as reported by — secondary source; corroborated by Blockhead.co, StartupFortune, Bitcoin Magazine, Bitget/CryptoRank, June 28-29)",
+      "source_type": "media_coverage",
+      "primary_source_status": "unavailable",
+      "relevant_to": "crypto exchanges, stablecoin issuers, fintech platforms, banks, digital-asset market participants",
+      "tags": [
+        "CLARITY-Act",
+        "stablecoins",
+        "ICBA",
+        "community-banks",
+        "fintech",
+        "crypto",
+        "legislative-track",
+        "Senate",
+        "banking",
+        "payments"
+      ]
+    },
     {
       "id": "2026-06-27-occ-ppsi-aml-cft-sanctions-nprm",
       "date": "2026-06-24",
