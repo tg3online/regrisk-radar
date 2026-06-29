@@ -8,6 +8,20 @@
   },
   "items": [
     {
+      "id": "2026-06-29-clarity-act-icba-opposition",
+      "date": "2026-06-28",
+      "published": "2026-06-29T22:00:00Z",
+      "issuing_body": "Independent Community Bankers of America (ICBA)",
+      "title": "ICBA launches six-figure DC ad campaign against CLARITY Act stablecoin yield; passage odds fall to 42–50%",
+      "facts": "As reported by The Guardian (June 28, 2026), the Independent Community Bankers of America — representing approximately 4,000 community banks — launched a six-figure advertising campaign in Washington D.C. opposing provisions in the Digital Asset Market Clarity Act (CLARITY Act, H.R. 3633) that would allow stablecoin issuers to pay yield or rewards on holdings. ICBA argues the provisions could draw $1.3 trillion in deposits away from community banks and imperil $850 billion in loans to small businesses and farmers. Galaxy Research has reduced its estimate of the bill's passage probability to approximately 50%, down from ~60% earlier in June; prediction market Polymarket prices passage at approximately 42%, down from highs near 73%. A unified updated draft of the bill is expected to be released during the July 4 weekend, per multiple reports. The Senate Banking Committee passed the bill on May 14, 2026 (15-9); the bill requires approximately seven Democratic votes for the 60-vote cloture threshold. The Senate is scheduled to break July 4 and resume July 13, with approximately four active session weeks remaining before August recess.",
+      "source_url": "https://www.theguardian.com/technology/2026/jun/28/crypto-v-community-local-lenders-fight-stablecoins-law",
+      "source_label": "The Guardian (June 28, 2026; as reported by — secondary source; corroborated by Blockhead.co, StartupFortune, Bitcoin Magazine, Bitget/CryptoRank, June 28-29)",
+      "source_type": "media_coverage",
+      "primary_source_status": "unavailable",
+      "relevant_to": "crypto exchanges, stablecoin issuers, fintech platforms, banks, digital-asset market participants",
+      "tags": ["CLARITY-Act", "stablecoins", "ICBA", "community-banks", "fintech", "crypto", "legislative-track", "Senate", "banking", "payments"]
+    },
+    {
       "id": "2026-06-27-senate-cftc-appropriations-prediction-markets",
       "date": "2026-06-26",
       "published": "2026-06-27T17:00:00Z",
