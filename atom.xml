@@ -5,7 +5,41 @@
   <id>https://tg3online.github.io/regrisk-radar/</id>
   <link href="https://tg3online.github.io/regrisk-radar/" />
   <link href="https://tg3online.github.io/regrisk-radar/atom.xml" rel="self" type="application/atom+xml" />
-  <updated>2026-06-30T07:53:29Z</updated>
+  <updated>2026-06-30T22:00:50Z</updated>
+  <entry>
+    <title>SEC obtains $5.4M default judgment against NanoBit Limited for operating a fake cryptocurrency trading platform (pig-butchering / relationship-investment scam)</title>
+    <id>https://tg3online.github.io/regrisk-radar/#2026-06-30-nanobit-sec-pig-butchering-default-judgment</id>
+    <link href="https://tg3online.github.io/regrisk-radar/#2026-06-30-nanobit-sec-pig-butchering-default-judgment" rel="alternate" />
+    <updated>2026-06-30T22:00:00Z</updated>
+    <published>2026-06-30T22:00:00Z</published>
+    <category term="U.S. Securities and Exchange Commission / U.S. District Court, Southern District of New York" />
+    <content type="text">On June 25, 2026, the U.S. District Court for the Southern District of New York entered a final judgment by default against NanoBit Limited and co-defendants in SEC v. NanoBit Limited et al. (No. 1:24-cv-09413, filed December 11, 2024). According to the SEC&#x27;s complaint, NanoBit operated a fraudulent cryptocurrency trading platform to which victims were recruited through social media and dating apps; defendants cultivated fake personal relationships with investors before inducing them to deposit funds on the NanoBit platform. NanoBit created fictitious account balances, manipulated price feeds, blocked withdrawal requests, and demanded tax payments on phantom profits. The final default judgment orders disgorgement, prejudgment interest, and civil monetary penalties totaling approximately $5.4 million. Law360 identified the action as the first SEC crypto pig-butchering case resolved by default judgment. The SEC published the order as Litigation Release No. LR-26576 on June 29, 2026.
+
+Primary source: SEC Litigation Release No. LR-26576 (June 29, 2026; primary source retrieved) — https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26576
+
+Relevant to: crypto exchanges, digital-asset trading platforms, fintech platforms with crypto products, AML and fraud compliance teams
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</content>
+  </entry>
+  <entry>
+    <title>CFTC has ongoing investigation into Polymarket over deceptive marketing; bipartisan senators Curtis and Schiff send letter to CFTC Chairman Selig demanding disclosure of scope of probe</title>
+    <id>https://tg3online.github.io/regrisk-radar/#2026-06-30-polymarket-cftc-investigation-senate-letter</id>
+    <link href="https://tg3online.github.io/regrisk-radar/#2026-06-30-polymarket-cftc-investigation-senate-letter" rel="alternate" />
+    <updated>2026-06-30T22:00:00Z</updated>
+    <published>2026-06-30T22:00:00Z</published>
+    <category term="CFTC (investigation) / U.S. Senate — Senators John Curtis (R-UT) and Adam Schiff (D-CA)" />
+    <content type="text">As reported by the Wall Street Journal, CNBC, Forbes, and the New York Times on June 26, 2026, the CFTC has an ongoing investigation into Polymarket, the largest U.S.-based prediction market by trading volume. The investigation had not been previously publicly disclosed; the prior CFTC and DOJ investigation into Polymarket was dropped in July 2025. The CFTC declined to comment; Polymarket declined to respond. The reported probe follows a Wall Street Journal investigation documenting that Polymarket paid social-media content creators to post videos of staged winning outcomes, with Journal analysis of 1,100 videos identifying a systematic deceptive-marketing campaign. On June 26, 2026, Senators John Curtis (R-UT) and Adam Schiff (D-CA) sent a bipartisan letter to CFTC Chairman Michael Selig requesting disclosure of the scope and status of the investigation and whether the deceptive-marketing conduct violates CFTC rules or federal law; the senators wrote: &#x27;The public-facing behavior alleged here does not resemble a sober financial market designed for hedging or price discovery.&#x27; A consumer advocacy group also filed suit against Polymarket CEO Shayne Coplan and CMO Matthew Modabber alleging deceptive advertising targeting college students.
+
+Coverage: Forbes (Alicia Park, June 26, 2026; as reported by — secondary source retrieved; corroborated by Wall Street Journal, CNBC, and New York Times, all June 26, 2026) — https://www.forbes.com/sites/aliciapark/2026/06/26/regulators-are-investigating-polymarket-reports-say-as-senators-demand-a-federal-probe/
+
+Relevant to: prediction-market operators, event-contract platforms, CFTC-registered entities, fintech and gaming platforms with prediction-market exposure, marketing compliance teams
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</content>
+  </entry>
   <entry>
     <title>Michigan AG secures state-court TRO temporarily halting Kalshi internet sports wagers; 14-day order through July 13 with geolocation mandate and $120,000/day non-compliance fine</title>
     <id>https://tg3online.github.io/regrisk-radar/#2026-06-30-michigan-ag-kalshi-tro</id>

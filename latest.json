@@ -1,8 +1,59 @@
 {
-  "generated": "2026-06-30T07:53:29Z",
+  "generated": "2026-06-30T22:00:50Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 37,
+  "count": 39,
   "items": [
+    {
+      "id": "2026-06-30-nanobit-sec-pig-butchering-default-judgment",
+      "date": "2026-06-29",
+      "published": "2026-06-30T22:00:00Z",
+      "title": "SEC obtains $5.4M default judgment against NanoBit Limited for operating a fake cryptocurrency trading platform (pig-butchering / relationship-investment scam)",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-06-30-nanobit-sec-pig-butchering-default-judgment",
+      "issuing_body": "U.S. Securities and Exchange Commission / U.S. District Court, Southern District of New York",
+      "source_url": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26576",
+      "source_label": "SEC Litigation Release No. LR-26576 (June 29, 2026; primary source retrieved)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "crypto exchanges, digital-asset trading platforms, fintech platforms with crypto products, AML and fraud compliance teams",
+      "tags": [
+        "crypto",
+        "enforcement",
+        "SEC",
+        "pig-butchering",
+        "relationship-investment-scam",
+        "fake-trading-platform",
+        "NanoBit",
+        "default-judgment",
+        "fraud",
+        "SDNY"
+      ]
+    },
+    {
+      "id": "2026-06-30-polymarket-cftc-investigation-senate-letter",
+      "date": "2026-06-26",
+      "published": "2026-06-30T22:00:00Z",
+      "title": "CFTC has ongoing investigation into Polymarket over deceptive marketing; bipartisan senators Curtis and Schiff send letter to CFTC Chairman Selig demanding disclosure of scope of probe",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-06-30-polymarket-cftc-investigation-senate-letter",
+      "issuing_body": "CFTC (investigation) / U.S. Senate — Senators John Curtis (R-UT) and Adam Schiff (D-CA)",
+      "source_url": "https://www.forbes.com/sites/aliciapark/2026/06/26/regulators-are-investigating-polymarket-reports-say-as-senators-demand-a-federal-probe/",
+      "source_label": "Forbes (Alicia Park, June 26, 2026; as reported by — secondary source retrieved; corroborated by Wall Street Journal, CNBC, and New York Times, all June 26, 2026)",
+      "source_type": "media_coverage",
+      "primary_source_status": "unavailable",
+      "relevant_to": "prediction-market operators, event-contract platforms, CFTC-registered entities, fintech and gaming platforms with prediction-market exposure, marketing compliance teams",
+      "tags": [
+        "CFTC",
+        "Polymarket",
+        "prediction-markets",
+        "gaming",
+        "fintech",
+        "enforcement-probe",
+        "deceptive-marketing",
+        "senate-letter",
+        "Curtis",
+        "Schiff",
+        "investigation"
+      ]
+    },
     {
       "id": "2026-06-30-michigan-ag-kalshi-tro",
       "date": "2026-06-29",
