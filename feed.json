@@ -6,6 +6,27 @@
   "description": "Daily facts-only regulatory radar — crypto, gaming, payments & fintech. Verified against primary sources.",
   "items": [
     {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-06-30-michigan-ag-kalshi-tro",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-06-30-michigan-ag-kalshi-tro",
+      "title": "Michigan AG secures state-court TRO temporarily halting Kalshi internet sports wagers; 14-day order through July 13 with geolocation mandate and $120,000/day non-compliance fine",
+      "content_text": "On June 29, 2026, Michigan Attorney General Dana Nessel announced she secured a temporary restraining order in the Ingham County Circuit Court (Case No. 26-1087-CZ, Hon. Rosemarie Aquilina) halting KalshiEx, LLC from offering or advertising its internet sports betting operation to Michigan residents while the state's lawsuit continues. The state-court order follows a June 25 ruling by the U.S. District Court for the Western District of Michigan granting the Attorney General's motion to remand the case to state court after Kalshi had removed it. The underlying lawsuit, filed in March 2026, alleges Kalshi offered unlicensed online sports betting under the guise of trading event contracts in violation of Michigan's Lawful Sports Betting Act, without licensing from the Michigan Gaming Control Board. As reported by The Detroit News and CBS News Detroit, the order runs 14 days through July 13, 2026, requires Kalshi to use a Michigan Gaming Control Board-licensed third-party geolocation provider to block users located in Michigan, and imposes a $120,000-per-day fine for non-compliance; Kalshi, which maintains it is subject to exclusive federal jurisdiction, said it would fight the decision.\n\nPrimary source: Michigan Dept. of Attorney General press release (June 29, 2026; primary source retrieved; links the court's TRO order, Case No. 26-1087-CZ); order terms corroborated by The Detroit News and CBS News Detroit (June 29, 2026) — https://www.michigan.gov/ag/news/press-releases/2026/06/29/ag-nessel-secures-order-temporarily-halting-unlawful-kalshi-michigan-operations\n\nRelevant to: prediction-market operators, sportsbooks, brokerages offering event contracts, crypto exchanges with Michigan nexus, geolocation/geofencing and compliance vendors\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-06-30T07:45:00Z",
+      "tags": [
+        "gaming",
+        "prediction-markets",
+        "event-contracts",
+        "enforcement",
+        "state-ag",
+        "Michigan",
+        "Kalshi",
+        "TRO",
+        "geolocation",
+        "preemption",
+        "Lawful-Sports-Betting-Act",
+        "remand"
+      ]
+    },
+    {
       "id": "https://tg3online.github.io/regrisk-radar/#2026-06-29-clarity-act-icba-opposition",
       "url": "https://tg3online.github.io/regrisk-radar/#2026-06-29-clarity-act-icba-opposition",
       "title": "ICBA launches six-figure DC ad campaign against CLARITY Act stablecoin yield; passage odds fall to 42–50%",

@@ -1,8 +1,35 @@
 {
-  "generated": "2026-06-29T21:28:46Z",
+  "generated": "2026-06-30T07:53:29Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 36,
+  "count": 37,
   "items": [
+    {
+      "id": "2026-06-30-michigan-ag-kalshi-tro",
+      "date": "2026-06-29",
+      "published": "2026-06-30T07:45:00Z",
+      "title": "Michigan AG secures state-court TRO temporarily halting Kalshi internet sports wagers; 14-day order through July 13 with geolocation mandate and $120,000/day non-compliance fine",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-06-30-michigan-ag-kalshi-tro",
+      "issuing_body": "Michigan Department of Attorney General (Dana Nessel) / Ingham County Circuit Court",
+      "source_url": "https://www.michigan.gov/ag/news/press-releases/2026/06/29/ag-nessel-secures-order-temporarily-halting-unlawful-kalshi-michigan-operations",
+      "source_label": "Michigan Dept. of Attorney General press release (June 29, 2026; primary source retrieved; links the court's TRO order, Case No. 26-1087-CZ); order terms corroborated by The Detroit News and CBS News Detroit (June 29, 2026)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction-market operators, sportsbooks, brokerages offering event contracts, crypto exchanges with Michigan nexus, geolocation/geofencing and compliance vendors",
+      "tags": [
+        "gaming",
+        "prediction-markets",
+        "event-contracts",
+        "enforcement",
+        "state-ag",
+        "Michigan",
+        "Kalshi",
+        "TRO",
+        "geolocation",
+        "preemption",
+        "Lawful-Sports-Betting-Act",
+        "remand"
+      ]
+    },
     {
       "id": "2026-06-29-clarity-act-icba-opposition",
       "date": "2026-06-28",
