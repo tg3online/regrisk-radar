@@ -1,8 +1,54 @@
 {
-  "generated": "2026-07-03T22:31:06Z",
+  "generated": "2026-07-06T08:01:31Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 43,
+  "count": 45,
   "items": [
+    {
+      "id": "2026-07-06-nevada-supreme-court-denies-kalshi-stay",
+      "date": "2026-07-06",
+      "published": "2026-07-06T07:38:32Z",
+      "title": "Nevada Supreme Court denies Kalshi's emergency stay, leaving geofencing mandate in force as July 16 contempt hearing is set",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-07-06-nevada-supreme-court-denies-kalshi-stay",
+      "issuing_body": "Nevada Supreme Court",
+      "source_url": "https://www.coindesk.com/news-analysis/2026/07/02/kalshi-and-prediction-market-sector-embroiled-in-mixed-bag-of-legal-fights-across-u-s",
+      "source_label": "CoinDesk (citing Nevada Supreme Court docket)",
+      "source_type": "coverage_reporting_filing",
+      "primary_source_status": "cited_by_coverage_not_retrieved",
+      "relevant_to": "prediction-market platforms, event-contract exchanges, sportsbook operators",
+      "tags": [
+        "gaming",
+        "prediction-markets",
+        "Kalshi",
+        "Nevada",
+        "enforcement",
+        "geofencing",
+        "preemption",
+        "state-supreme-court"
+      ]
+    },
+    {
+      "id": "2026-07-06-north-carolina-prediction-market-tax",
+      "date": "2026-07-06",
+      "published": "2026-07-06T07:38:32Z",
+      "title": "North Carolina budget deal (SB 257) adds a 6% tax on prediction-market trading-fee revenue, without bringing platforms under state gambling rules",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-07-06-north-carolina-prediction-market-tax",
+      "issuing_body": "North Carolina General Assembly",
+      "source_url": "https://www.coindesk.com/news-analysis/2026/07/02/kalshi-and-prediction-market-sector-embroiled-in-mixed-bag-of-legal-fights-across-u-s",
+      "source_label": "CoinDesk (citing N.C. General Assembly budget bill SB 257)",
+      "source_type": "coverage_reporting_filing",
+      "primary_source_status": "cited_by_coverage_not_retrieved",
+      "relevant_to": "prediction-market platforms, sports-betting operators, tax and compliance teams",
+      "tags": [
+        "gaming",
+        "prediction-markets",
+        "tax",
+        "North-Carolina",
+        "state-legislation",
+        "Kalshi",
+        "Polymarket",
+        "sports-betting"
+      ]
+    },
     {
       "id": "2026-07-03-scotus-trump-v-slaughter",
       "date": "2026-07-03",

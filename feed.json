@@ -6,6 +6,40 @@
   "description": "Daily facts-only regulatory radar — crypto, gaming, payments & fintech. Verified against primary sources.",
   "items": [
     {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-07-06-nevada-supreme-court-denies-kalshi-stay",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-07-06-nevada-supreme-court-denies-kalshi-stay",
+      "title": "Nevada Supreme Court denies Kalshi's emergency stay, leaving geofencing mandate in force as July 16 contempt hearing is set",
+      "content_text": "As reported by CoinDesk and Tech Times (July 5, 2026), the Nevada Supreme Court on or about July 1, 2026 denied KalshiEx, LLC's emergency motion for a stay pending appeal, so Kalshi must continue to geofence and block Nevada users from prohibited event contracts while the state's lawsuit proceeds. Per the coverage, a three-justice panel (Linda Marie Bell, Ron D. Parraguirre, and Kristina Pickering) said it was 'not persuaded' by the emergency motion. Separately, the Nevada Gaming Control Board has asked the First Judicial District Court to hold Kalshi in contempt for allegedly failing to geofence the state, and a full-day evidentiary hearing on that question is scheduled for July 16, 2026.\n\nCoverage (reporting filing): CoinDesk (citing Nevada Supreme Court docket) — https://www.coindesk.com/news-analysis/2026/07/02/kalshi-and-prediction-market-sector-embroiled-in-mixed-bag-of-legal-fights-across-u-s\n\nRelevant to: prediction-market platforms, event-contract exchanges, sportsbook operators\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-07-06T07:38:32Z",
+      "tags": [
+        "gaming",
+        "prediction-markets",
+        "Kalshi",
+        "Nevada",
+        "enforcement",
+        "geofencing",
+        "preemption",
+        "state-supreme-court"
+      ]
+    },
+    {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-07-06-north-carolina-prediction-market-tax",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-07-06-north-carolina-prediction-market-tax",
+      "title": "North Carolina budget deal (SB 257) adds a 6% tax on prediction-market trading-fee revenue, without bringing platforms under state gambling rules",
+      "content_text": "As reported by CoinDesk and Tech Times (July 5, 2026) and corroborated by WRAL and Bloomberg Tax, North Carolina lawmakers included a 6% tax on prediction-market operators' net in-state trading-fee revenue in the state's roughly $34 billion conference budget bill (SB 257), reported the week of June 30-July 2, 2026. Per the coverage, the tax would take effect in 2027 and apply to platforms such as Kalshi and Polymarket, but the budget language does not place prediction-market platforms under North Carolina's gambling licensing, know-your-customer, or responsible-gaming rules; the same budget raises the state's online sports-betting tax from 18% to 23%.\n\nCoverage (reporting filing): CoinDesk (citing N.C. General Assembly budget bill SB 257) — https://www.coindesk.com/news-analysis/2026/07/02/kalshi-and-prediction-market-sector-embroiled-in-mixed-bag-of-legal-fights-across-u-s\n\nRelevant to: prediction-market platforms, sports-betting operators, tax and compliance teams\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-07-06T07:38:32Z",
+      "tags": [
+        "gaming",
+        "prediction-markets",
+        "tax",
+        "North-Carolina",
+        "state-legislation",
+        "Kalshi",
+        "Polymarket",
+        "sports-betting"
+      ]
+    },
+    {
       "id": "https://tg3online.github.io/regrisk-radar/#2026-07-03-scotus-trump-v-slaughter",
       "url": "https://tg3online.github.io/regrisk-radar/#2026-07-03-scotus-trump-v-slaughter",
       "title": "SCOTUS rules 6-3 that for-cause removal protections for SEC and CFTC commissioners are unconstitutional (Trump v. Slaughter, No. 25-332)",
