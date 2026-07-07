@@ -5,8 +5,24 @@
     <link>https://tg3online.github.io/regrisk-radar/</link>
     <description>Daily facts-only regulatory radar — crypto, gaming, payments &amp; fintech. Verified against primary sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Jul 2026 08:01:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 21:44:24 +0000</lastBuildDate>
     <atom:link href="https://tg3online.github.io/regrisk-radar/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CFTC charges North Carolina commodity pool operator and company with fraud involving crypto assets and equity index futures ($14M+, 60+ victims)</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-07-07-cftc-nc-commodity-pool-crypto-fraud</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-07-07-cftc-nc-commodity-pool-crypto-fraud</guid>
+      <pubDate>Tue, 07 Jul 2026 23:00:00 +0000</pubDate>
+      <category>CFTC</category>
+      <description>On July 7, 2026, the CFTC filed a civil enforcement complaint in the U.S. District Court for the Western District of North Carolina (Press Release 9264-26) against Trevor L. Vernon and Argent Capital Management LLC. The complaint alleges that from approximately March 2022 through February 2026, Vernon and Argent Capital solicited approximately $14 million from more than 60 participants for a commodity pool that purported to trade equity index futures contracts, options on equity index futures, and crypto assets, among other purported investments. The CFTC alleges Vernon misappropriated pool funds and operated a Ponzi-like scheme, making lulling payments to earlier participants with funds from newer investors. The complaint seeks restitution, civil monetary penalties, disgorgement, and permanent trading and registration bans.
+
+Primary source: CFTC Press Release 9264-26 (July 7, 2026; primary source retrieved) — https://www.cftc.gov/PressRoom/PressReleases/9264-26
+
+Relevant to: commodity pool operators, crypto asset traders, CFTC-registered entities, CPO compliance programs, investment fraud compliance teams
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
     <item>
       <title>Nevada Supreme Court denies Kalshi&#x27;s emergency stay, leaving geofencing mandate in force as July 16 contempt hearing is set</title>
       <link>https://tg3online.github.io/regrisk-radar/#2026-07-06-nevada-supreme-court-denies-kalshi-stay</link>

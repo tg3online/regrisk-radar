@@ -1,8 +1,32 @@
 {
-  "generated": "2026-07-06T08:01:31Z",
+  "generated": "2026-07-07T21:44:24Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 45,
+  "count": 46,
   "items": [
+    {
+      "id": "2026-07-07-cftc-nc-commodity-pool-crypto-fraud",
+      "date": "2026-07-07",
+      "published": "2026-07-07T23:00:00Z",
+      "title": "CFTC charges North Carolina commodity pool operator and company with fraud involving crypto assets and equity index futures ($14M+, 60+ victims)",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-07-07-cftc-nc-commodity-pool-crypto-fraud",
+      "issuing_body": "CFTC",
+      "source_url": "https://www.cftc.gov/PressRoom/PressReleases/9264-26",
+      "source_label": "CFTC Press Release 9264-26 (July 7, 2026; primary source retrieved)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "commodity pool operators, crypto asset traders, CFTC-registered entities, CPO compliance programs, investment fraud compliance teams",
+      "tags": [
+        "CFTC",
+        "enforcement",
+        "commodity-pool",
+        "crypto",
+        "fraud",
+        "Ponzi",
+        "North-Carolina",
+        "CPO",
+        "equity-index-futures"
+      ]
+    },
     {
       "id": "2026-07-06-nevada-supreme-court-denies-kalshi-stay",
       "date": "2026-07-06",
