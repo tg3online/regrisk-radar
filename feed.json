@@ -6,6 +6,25 @@
   "description": "Daily facts-only regulatory radar — crypto, gaming, payments & fintech. Verified against primary sources.",
   "items": [
     {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-07-07-sdny-denies-kalshi-preliminary-injunction-new-york",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-07-07-sdny-denies-kalshi-preliminary-injunction-new-york",
+      "title": "SDNY judge denies Kalshi's preliminary injunction against the New York State Gaming Commission; holds the CEA does not preempt state gambling laws as applied to sports-event contracts",
+      "content_text": "On July 7, 2026, U.S. District Judge Analisa Torres (S.D.N.Y.) denied KalshiEX LLC's motion for a preliminary injunction in KalshiEX LLC v. Williams (No. 1:25-cv-08846), a suit against the New York State Gaming Commission. The order states that 'New York gambling laws as applied to Kalshi's sports-event contracts are not preempted by the CEA and Kalshi has not, therefore, made a clear or substantial showing that it is likely to succeed on the merits.' The court declined to read the Commodity Exchange Act's grant of exclusive jurisdiction as leaving no room for state gambling regulation, found Kalshi's alleged injuries were largely monetary, and noted that nothing prevents Kalshi from obtaining a license under New York law. As reported by The Block (July 8, 2026), Kalshi has appealed the decision to the U.S. Court of Appeals for the Second Circuit.\n\nCoverage (reporting filing): The Block (July 8, 2026), reporting and quoting the S.D.N.Y. order (docket 1:25-cv-08846, ECF No. 106); court order not independently retrieved — https://www.theblock.co/post/407529/judge-denies-kalshi-motion-new-york\n\nRelevant to: prediction-market platforms, event-contract exchanges, state-licensed gaming operators, CFTC-registered DCMs\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-07-08T07:45:00Z",
+      "tags": [
+        "gaming",
+        "prediction-markets",
+        "event-contracts",
+        "Kalshi",
+        "New-York",
+        "CEA-preemption",
+        "preliminary-injunction",
+        "SDNY",
+        "litigation",
+        "Second-Circuit"
+      ]
+    },
+    {
       "id": "https://tg3online.github.io/regrisk-radar/#2026-07-07-cftc-nc-commodity-pool-crypto-fraud",
       "url": "https://tg3online.github.io/regrisk-radar/#2026-07-07-cftc-nc-commodity-pool-crypto-fraud",
       "title": "CFTC charges North Carolina commodity pool operator and company with fraud involving crypto assets and equity index futures ($14M+, 60+ victims)",

@@ -1,8 +1,33 @@
 {
-  "generated": "2026-07-07T21:44:24Z",
+  "generated": "2026-07-08T08:03:39Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 46,
+  "count": 47,
   "items": [
+    {
+      "id": "2026-07-07-sdny-denies-kalshi-preliminary-injunction-new-york",
+      "date": "2026-07-07",
+      "published": "2026-07-08T07:45:00Z",
+      "title": "SDNY judge denies Kalshi's preliminary injunction against the New York State Gaming Commission; holds the CEA does not preempt state gambling laws as applied to sports-event contracts",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-07-07-sdny-denies-kalshi-preliminary-injunction-new-york",
+      "issuing_body": "U.S. District Court, Southern District of New York",
+      "source_url": "https://www.theblock.co/post/407529/judge-denies-kalshi-motion-new-york",
+      "source_label": "The Block (July 8, 2026), reporting and quoting the S.D.N.Y. order (docket 1:25-cv-08846, ECF No. 106); court order not independently retrieved",
+      "source_type": "coverage_reporting_filing",
+      "primary_source_status": "cited_by_coverage_not_retrieved",
+      "relevant_to": "prediction-market platforms, event-contract exchanges, state-licensed gaming operators, CFTC-registered DCMs",
+      "tags": [
+        "gaming",
+        "prediction-markets",
+        "event-contracts",
+        "Kalshi",
+        "New-York",
+        "CEA-preemption",
+        "preliminary-injunction",
+        "SDNY",
+        "litigation",
+        "Second-Circuit"
+      ]
+    },
     {
       "id": "2026-07-07-cftc-nc-commodity-pool-crypto-fraud",
       "date": "2026-07-07",
