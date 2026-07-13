@@ -6,6 +6,69 @@
   "description": "Daily facts-only regulatory radar — crypto, gaming, payments & fintech. Verified against primary sources.",
   "items": [
     {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-07-10-custodia-bank-scotus-cert-petition-federal-reserve-master-account",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-07-10-custodia-bank-scotus-cert-petition-federal-reserve-master-account",
+      "title": "Custodia Bank files SCOTUS cert petition challenging Federal Reserve's discretion to deny master account to state-chartered crypto bank",
+      "content_text": "On July 10, 2026, Wyoming-chartered Custodia Bank filed a petition for writ of certiorari with the U.S. Supreme Court, asking whether regional Federal Reserve Banks have discretion to deny access to Fed master accounts for eligible state-chartered banks. Custodia, which focuses on crypto-asset activities and holds a Wyoming Special Purpose Depository Institution (SPDI) charter, was denied a master account by the Federal Reserve Bank of Kansas City in 2023. The Tenth Circuit's 2-1 panel (October 31, 2025) and a 7-3 en banc denial (March 13, 2026) affirmed the denial. Custodia is represented by Davis Polk & Wardwell LLP with Kannon Shanmugam as counsel of record. Justice Neil Gorsuch had granted a 30-day extension giving Custodia until July 11 to file. The petition argues the Fed's denial shifts the balance between state and federal authority over banking and raises constitutional questions about the appointment powers of Federal Reserve Bank presidents. Cert is not yet granted; SCOTUS typically accepts approximately 1–4% of petitions.\n\nCoverage: CryptoTimes (July 11, 2026); corroborated by Bloomberg (July 10), American Banker, Yahoo Finance, and Bitcoin.com — https://www.cryptotimes.io/2026/07/11/custodia-bank-officially-takes-crypto-fight-against-fed-to-u-s-supreme-court/\n\nRelevant to: crypto banks, Wyoming SPDIs, state-chartered fintech banks, crypto custody providers\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-07-12T22:00:00Z",
+      "tags": [
+        "crypto",
+        "fintech",
+        "banking",
+        "scotus",
+        "master-account",
+        "wyoming-spdi",
+        "federal-reserve"
+      ]
+    },
+    {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-07-09-clarity-act-new-draft-senate-targets-july-20-floor-vote",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-07-09-clarity-act-new-draft-senate-targets-july-20-floor-vote",
+      "title": "Senate sources: new CLARITY Act merged draft due week of July 14; July 20 floor vote targeted",
+      "content_text": "According to Senate sources cited by CoinDesk (July 9, 2026) and CryptoTimes (July 10, 2026), a new merged draft of the Digital Asset Market Clarity Act — combining the Senate Banking and Agriculture Committee versions — is expected to be released during the week of July 14, 2026. Multiple outlets reported that Senate staff targeted July 20 for a floor vote, though no date has been formally set. The draft reportedly exceeds prior versions by more than 70 pages, retains Banking Regulatory Clarity Act (BRCA) provisions, and faces unresolved issues including an ethics standoff and SEC/CFTC vacancies. The White House had not signed off on the bill as of reporting. No official text had been filed as of July 12, 2026.\n\nCoverage: CryptoTimes (July 10, 2026); first reported by CoinDesk (July 9, 2026); corroborated by TechTimes, Benzinga, and Cryptobriefing — https://www.cryptotimes.io/2026/07/10/new-clarity-act-draft-set-to-drop-next-week-as-senate-eyes-july-20-floor-vote/\n\nRelevant to: crypto exchanges, digital asset issuers, DeFi platforms, stablecoin operators, fintech companies\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-07-12T22:00:00Z",
+      "tags": [
+        "crypto",
+        "fintech",
+        "payments",
+        "legislation",
+        "clarity-act",
+        "market-structure"
+      ]
+    },
+    {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-07-07-cftc-9264-26-north-carolina-commodity-pool-operator-fraud",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-07-07-cftc-9264-26-north-carolina-commodity-pool-operator-fraud",
+      "title": "CFTC charges North Carolina commodity pool operator and company with fraud (Release 9264-26)",
+      "content_text": "On July 7, 2026, the CFTC issued Press Release 9264-26 announcing charges against a North Carolina commodity pool operator and his company for fraud. The action alleges the operator fraudulently solicited customers to participate in a commodity pool and misappropriated customer funds. The CFTC filed the action in federal court. Details as stated in CFTC Release 9264-26.\n\nPrimary source: CFTC Press Release 9264-26 (July 7, 2026) — https://www.cftc.gov/PressRoom/PressReleases/9264-26\n\nRelevant to: crypto fund operators, commodity pool operators, CPOs, trading advisors\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-07-12T22:00:00Z",
+      "tags": [
+        "CFTC",
+        "enforcement",
+        "fraud",
+        "commodity-pool",
+        "North-Carolina",
+        "crypto"
+      ]
+    },
+    {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-07-06-nevada-supreme-court-denies-kalshi-stay-contempt-july-16",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-07-06-nevada-supreme-court-denies-kalshi-stay-contempt-july-16",
+      "title": "Nevada Supreme Court denies Kalshi emergency stay of geofencing order; contempt hearing set for July 16",
+      "content_text": "As reported by CoinDesk (July 5, 2026), the Nevada Supreme Court denied KalshiEx LLC's emergency motion for a stay of the First Judicial District Court's geofencing order pending appeal. The lower court had ordered Kalshi to geofence Nevada users from its sports-, election-, and entertainment-related event contracts. With the stay denied, that order remains in effect. A contempt hearing is scheduled for July 16, 2026 in the First Judicial District Court in Carson City, where the Nevada Gaming Control Board has sought to hold Kalshi in contempt and impose daily fines for alleged non-compliance. The Nevada GCB originally petitioned for contempt and penalties on June 12, 2026; Kalshi attributed a compliance gap to a technology glitch.\n\nCoverage: CoinDesk (July 5, 2026) — https://www.coindesk.com/policy/2026/07/05/nevada-supreme-court-denies-kalshi-stay/\n\nRelevant to: prediction-market operators, geolocation/compliance vendors, gaming regulators, sportsbooks\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-07-12T22:00:00Z",
+      "tags": [
+        "Nevada",
+        "prediction-markets",
+        "event-contracts",
+        "Kalshi",
+        "stay-denied",
+        "contempt",
+        "gaming",
+        "crypto"
+      ]
+    },
+    {
       "id": "https://tg3online.github.io/regrisk-radar/#2026-07-08-north-carolina-governor-signs-sb257-prediction-market-tax",
       "url": "https://tg3online.github.io/regrisk-radar/#2026-07-08-north-carolina-governor-signs-sb257-prediction-market-tax",
       "title": "North Carolina Governor Stein signs $34B SB 257 budget enacting 6% prediction-market tax on net trading-fee revenue, effective 2027",

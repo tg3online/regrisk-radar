@@ -1,8 +1,95 @@
 {
-  "generated": "2026-07-08T23:14:58Z",
+  "generated": "2026-07-13T01:09:17Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 31,
+  "count": 35,
   "items": [
+    {
+      "id": "2026-07-10-custodia-bank-scotus-cert-petition-federal-reserve-master-account",
+      "date": "2026-07-10",
+      "published": "2026-07-12T22:00:00Z",
+      "title": "Custodia Bank files SCOTUS cert petition challenging Federal Reserve's discretion to deny master account to state-chartered crypto bank",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-07-10-custodia-bank-scotus-cert-petition-federal-reserve-master-account",
+      "issuing_body": "U.S. Supreme Court",
+      "source_url": "https://www.cryptotimes.io/2026/07/11/custodia-bank-officially-takes-crypto-fight-against-fed-to-u-s-supreme-court/",
+      "source_label": "CryptoTimes (July 11, 2026); corroborated by Bloomberg (July 10), American Banker, Yahoo Finance, and Bitcoin.com",
+      "source_type": "media_coverage",
+      "primary_source_status": "cited_by_coverage_not_retrieved",
+      "relevant_to": "crypto banks, Wyoming SPDIs, state-chartered fintech banks, crypto custody providers",
+      "tags": [
+        "crypto",
+        "fintech",
+        "banking",
+        "scotus",
+        "master-account",
+        "wyoming-spdi",
+        "federal-reserve"
+      ]
+    },
+    {
+      "id": "2026-07-09-clarity-act-new-draft-senate-targets-july-20-floor-vote",
+      "date": "2026-07-09",
+      "published": "2026-07-12T22:00:00Z",
+      "title": "Senate sources: new CLARITY Act merged draft due week of July 14; July 20 floor vote targeted",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-07-09-clarity-act-new-draft-senate-targets-july-20-floor-vote",
+      "issuing_body": "U.S. Senate",
+      "source_url": "https://www.cryptotimes.io/2026/07/10/new-clarity-act-draft-set-to-drop-next-week-as-senate-eyes-july-20-floor-vote/",
+      "source_label": "CryptoTimes (July 10, 2026); first reported by CoinDesk (July 9, 2026); corroborated by TechTimes, Benzinga, and Cryptobriefing",
+      "source_type": "media_coverage",
+      "primary_source_status": "unavailable",
+      "relevant_to": "crypto exchanges, digital asset issuers, DeFi platforms, stablecoin operators, fintech companies",
+      "tags": [
+        "crypto",
+        "fintech",
+        "payments",
+        "legislation",
+        "clarity-act",
+        "market-structure"
+      ]
+    },
+    {
+      "id": "2026-07-07-cftc-9264-26-north-carolina-commodity-pool-operator-fraud",
+      "date": "2026-07-07",
+      "published": "2026-07-12T22:00:00Z",
+      "title": "CFTC charges North Carolina commodity pool operator and company with fraud (Release 9264-26)",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-07-07-cftc-9264-26-north-carolina-commodity-pool-operator-fraud",
+      "issuing_body": "CFTC",
+      "source_url": "https://www.cftc.gov/PressRoom/PressReleases/9264-26",
+      "source_label": "CFTC Press Release 9264-26 (July 7, 2026)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "crypto fund operators, commodity pool operators, CPOs, trading advisors",
+      "tags": [
+        "CFTC",
+        "enforcement",
+        "fraud",
+        "commodity-pool",
+        "North-Carolina",
+        "crypto"
+      ]
+    },
+    {
+      "id": "2026-07-06-nevada-supreme-court-denies-kalshi-stay-contempt-july-16",
+      "date": "2026-07-05",
+      "published": "2026-07-12T22:00:00Z",
+      "title": "Nevada Supreme Court denies Kalshi emergency stay of geofencing order; contempt hearing set for July 16",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-07-06-nevada-supreme-court-denies-kalshi-stay-contempt-july-16",
+      "issuing_body": "Nevada Supreme Court",
+      "source_url": "https://www.coindesk.com/policy/2026/07/05/nevada-supreme-court-denies-kalshi-stay/",
+      "source_label": "CoinDesk (July 5, 2026)",
+      "source_type": "media_coverage",
+      "primary_source_status": "cited_by_coverage_not_retrieved",
+      "relevant_to": "prediction-market operators, geolocation/compliance vendors, gaming regulators, sportsbooks",
+      "tags": [
+        "Nevada",
+        "prediction-markets",
+        "event-contracts",
+        "Kalshi",
+        "stay-denied",
+        "contempt",
+        "gaming",
+        "crypto"
+      ]
+    },
     {
       "id": "2026-07-08-north-carolina-governor-signs-sb257-prediction-market-tax",
       "date": "2026-07-08",
