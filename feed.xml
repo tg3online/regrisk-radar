@@ -5,67 +5,35 @@
     <link>https://tg3online.github.io/regrisk-radar/</link>
     <description>Daily facts-only regulatory radar — crypto, gaming, payments &amp; fintech. Verified against primary sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Jul 2026 01:09:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 01:36:26 +0000</lastBuildDate>
     <atom:link href="https://tg3online.github.io/regrisk-radar/feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Custodia Bank files SCOTUS cert petition challenging Federal Reserve&#x27;s discretion to deny master account to state-chartered crypto bank</title>
-      <link>https://tg3online.github.io/regrisk-radar/#2026-07-10-custodia-bank-scotus-cert-petition-federal-reserve-master-account</link>
-      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-07-10-custodia-bank-scotus-cert-petition-federal-reserve-master-account</guid>
-      <pubDate>Sun, 12 Jul 2026 22:00:00 +0000</pubDate>
-      <category>U.S. Supreme Court</category>
-      <description>On July 10, 2026, Wyoming-chartered Custodia Bank filed a petition for writ of certiorari with the U.S. Supreme Court, asking whether regional Federal Reserve Banks have discretion to deny access to Fed master accounts for eligible state-chartered banks. Custodia, which focuses on crypto-asset activities and holds a Wyoming Special Purpose Depository Institution (SPDI) charter, was denied a master account by the Federal Reserve Bank of Kansas City in 2023. The Tenth Circuit&#x27;s 2-1 panel (October 31, 2025) and a 7-3 en banc denial (March 13, 2026) affirmed the denial. Custodia is represented by Davis Polk &amp; Wardwell LLP with Kannon Shanmugam as counsel of record. Justice Neil Gorsuch had granted a 30-day extension giving Custodia until July 11 to file. The petition argues the Fed&#x27;s denial shifts the balance between state and federal authority over banking and raises constitutional questions about the appointment powers of Federal Reserve Bank presidents. Cert is not yet granted; SCOTUS typically accepts approximately 1–4% of petitions.
+      <title>CLARITY Act: Senate staff expected to release unified crypto market-structure draft this week; floor vote targeted July 20; August 7 recess is the hard deadline — passage odds at 50%</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-07-12-clarity-act-senate-unified-draft-3wk-window</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-07-12-clarity-act-senate-unified-draft-3wk-window</guid>
+      <pubDate>Sun, 12 Jul 2026 20:00:00 +0000</pubDate>
+      <category>U.S. Senate / Senate Banking &amp; Agriculture Committees (via staff)</category>
+      <description>Multiple credible outlets (crypto.news, TechTimes, The Hill) reported on July 11-12, 2026 that Senate staff are expected to release a unified draft of the Digital Asset Market Clarity Act (H.R. 3633) during the week of July 13, 2026, merging parallel Senate Banking and Agriculture Committee texts. Floor action is targeted for the week of July 20. The Senate leaves for its August recess on August 7, 2026, leaving approximately three working weeks. Galaxy Research has reduced 2026 passage odds to 50%, citing calendar compression, down from 60% earlier in July. Three disputes remain unresolved: (1) ethics/conflict-of-interest rules covering senior officials with crypto holdings; (2) CFTC commissioner vacancies; (3) Section 604 blockchain developer shield. H.R. 3633 passed the House 294-134 on July 17, 2025; cleared Senate Banking Committee 15-9 on May 14, 2026; placed on Senate Calendar No. 423 on June 1, 2026. As reported by crypto.news (July 11, 2026) and corroborated by TechTimes (July 12, 2026) and The Hill (July 1, 2026).
 
-Coverage: CryptoTimes (July 11, 2026); corroborated by Bloomberg (July 10), American Banker, Yahoo Finance, and Bitcoin.com — https://www.cryptotimes.io/2026/07/11/custodia-bank-officially-takes-crypto-fight-against-fed-to-u-s-supreme-court/
+Coverage (reporting filing): crypto.news via Cryptonews.net — &#x27;Three weeks to 2030: the seven-Democrat math that decides the CLARITY Act&#x27;, July 11 2026 (corroborated by TechTimes July 12 and The Hill July 1) — https://cryptonews.net/news/legal/33135563/
 
-Relevant to: crypto banks, Wyoming SPDIs, state-chartered fintech banks, crypto custody providers
-
-For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
-
-RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
-    </item>
-    <item>
-      <title>Senate sources: new CLARITY Act merged draft due week of July 14; July 20 floor vote targeted</title>
-      <link>https://tg3online.github.io/regrisk-radar/#2026-07-09-clarity-act-new-draft-senate-targets-july-20-floor-vote</link>
-      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-07-09-clarity-act-new-draft-senate-targets-july-20-floor-vote</guid>
-      <pubDate>Sun, 12 Jul 2026 22:00:00 +0000</pubDate>
-      <category>U.S. Senate</category>
-      <description>According to Senate sources cited by CoinDesk (July 9, 2026) and CryptoTimes (July 10, 2026), a new merged draft of the Digital Asset Market Clarity Act — combining the Senate Banking and Agriculture Committee versions — is expected to be released during the week of July 14, 2026. Multiple outlets reported that Senate staff targeted July 20 for a floor vote, though no date has been formally set. The draft reportedly exceeds prior versions by more than 70 pages, retains Banking Regulatory Clarity Act (BRCA) provisions, and faces unresolved issues including an ethics standoff and SEC/CFTC vacancies. The White House had not signed off on the bill as of reporting. No official text had been filed as of July 12, 2026.
-
-Coverage: CryptoTimes (July 10, 2026); first reported by CoinDesk (July 9, 2026); corroborated by TechTimes, Benzinga, and Cryptobriefing — https://www.cryptotimes.io/2026/07/10/new-clarity-act-draft-set-to-drop-next-week-as-senate-eyes-july-20-floor-vote/
-
-Relevant to: crypto exchanges, digital asset issuers, DeFi platforms, stablecoin operators, fintech companies
+Relevant to: crypto exchanges, digital-asset operators, DeFi builders, token issuers, fintech operators, institutional investors
 
 For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
 
 RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
     </item>
     <item>
-      <title>CFTC charges North Carolina commodity pool operator and company with fraud (Release 9264-26)</title>
-      <link>https://tg3online.github.io/regrisk-radar/#2026-07-07-cftc-9264-26-north-carolina-commodity-pool-operator-fraud</link>
-      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-07-07-cftc-9264-26-north-carolina-commodity-pool-operator-fraud</guid>
-      <pubDate>Sun, 12 Jul 2026 22:00:00 +0000</pubDate>
-      <category>CFTC</category>
-      <description>On July 7, 2026, the CFTC issued Press Release 9264-26 announcing charges against a North Carolina commodity pool operator and his company for fraud. The action alleges the operator fraudulently solicited customers to participate in a commodity pool and misappropriated customer funds. The CFTC filed the action in federal court. Details as stated in CFTC Release 9264-26.
+      <title>Arizona Department of Gaming serves cease-and-desist orders on five online gambling operators, alleging felony money laundering and gambling promotion</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-07-10-arizona-adg-cd-five-online-gambling</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-07-10-arizona-adg-cd-five-online-gambling</guid>
+      <pubDate>Fri, 10 Jul 2026 17:00:00 +0000</pubDate>
+      <category>Arizona Department of Gaming</category>
+      <description>On July 10, 2026, the Arizona Department of Gaming (ADG) issued cease-and-desist orders to BetOpenly, Bookmaker, Club WPT Online Poker, Kutt Inc., and Raffle Creator. Each order alleges three Arizona felonies under A.R.S. Title 13, Chapter 33: (1) promotion of gambling, (2) illegal control of an enterprise, and (3) money laundering. ADG additionally alleged underage gambling (under-21 access) at BetOpenly, Club WPT Online Poker, and Raffle Creator; commission-based peer-to-peer wagering (prohibited under Arizona social-gambling law) at BetOpenly and Kutt Inc.; and unlicensed horse racing, casino, and sports betting at Bookmaker; and online poker (illegal in Arizona) at Club WPT. All five are directed to immediately cease all gambling operations in Arizona. Future actions may include criminal charges, civil suits, restitution, and forfeiture. ADG Director Jackie Johnson stated: &#x27;Arizona is taking decisive action against illegal gambling operators that put Arizonans at risk.&#x27; This action expands ADG&#x27;s 2025 sweepstakes-casino enforcement pattern to peer-to-peer wagering platforms, offshore sportsbooks, and unlicensed poker operators.
 
-Primary source: CFTC Press Release 9264-26 (July 7, 2026) — https://www.cftc.gov/PressRoom/PressReleases/9264-26
+Primary source: Arizona Department of Gaming — Press Release, July 10 2026 — https://gaming.az.gov/sites/default/files/July%2026_ADG%20Cease%20and%20Desist%20Orders_Press%20Release.pdf
 
-Relevant to: crypto fund operators, commodity pool operators, CPOs, trading advisors
-
-For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
-
-RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
-    </item>
-    <item>
-      <title>Nevada Supreme Court denies Kalshi emergency stay of geofencing order; contempt hearing set for July 16</title>
-      <link>https://tg3online.github.io/regrisk-radar/#2026-07-06-nevada-supreme-court-denies-kalshi-stay-contempt-july-16</link>
-      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-07-06-nevada-supreme-court-denies-kalshi-stay-contempt-july-16</guid>
-      <pubDate>Sun, 12 Jul 2026 22:00:00 +0000</pubDate>
-      <category>Nevada Supreme Court</category>
-      <description>As reported by CoinDesk (July 5, 2026), the Nevada Supreme Court denied KalshiEx LLC&#x27;s emergency motion for a stay of the First Judicial District Court&#x27;s geofencing order pending appeal. The lower court had ordered Kalshi to geofence Nevada users from its sports-, election-, and entertainment-related event contracts. With the stay denied, that order remains in effect. A contempt hearing is scheduled for July 16, 2026 in the First Judicial District Court in Carson City, where the Nevada Gaming Control Board has sought to hold Kalshi in contempt and impose daily fines for alleged non-compliance. The Nevada GCB originally petitioned for contempt and penalties on June 12, 2026; Kalshi attributed a compliance gap to a technology glitch.
-
-Coverage: CoinDesk (July 5, 2026) — https://www.coindesk.com/policy/2026/07/05/nevada-supreme-court-denies-kalshi-stay/
-
-Relevant to: prediction-market operators, geolocation/compliance vendors, gaming regulators, sportsbooks
+Relevant to: online gaming operators with Arizona users; peer-to-peer wagering platforms; offshore sportsbooks; unlicensed poker platforms
 
 For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
 
@@ -241,7 +209,7 @@ RegRisk Radar is regulatory-risk intelligence provided for general informational
 
 Coverage (reporting filing): Gambling Insider (June 18, 2026; covers both Polymarket and Robinhood opinions; direct quotes from rulings; corroborated by Decrypt) — https://www.gamblinginsider.com/news/167546/michigan-judge-denies-polymarket-robinhood-injunctions
 
-Relevant to: prediction-market operators, event-contract platforms, brokerages offering sports contracts, state gaming regulators
+Relevant to: prediction-market platforms, event-contract operators, state gaming regulators, sportsbooks
 
 For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
 
