@@ -1,8 +1,33 @@
 {
-  "generated": "2026-07-13T01:36:26Z",
+  "generated": "2026-07-14T19:35:47Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 33,
+  "count": 34,
   "items": [
+    {
+      "id": "2026-07-14-cftc-kalshiex-emergency-stay",
+      "date": "2026-07-14",
+      "published": "2026-07-14T19:00:00Z",
+      "title": "CFTC invokes emergency authority to stay KalshiEX's own rule change and orders fulfillment of Michigan-resident trades — first federal override targeting a DCM's state-court-directed rule amendment",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-07-14-cftc-kalshiex-emergency-stay",
+      "issuing_body": "CFTC (Commodity Futures Trading Commission)",
+      "source_url": "https://www.cftc.gov/PressRoom/PressReleases/9267-26",
+      "source_label": "CFTC Press Release 9267-26 (July 14, 2026)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction-market platforms, CFTC-registered entities (DCMs, FCMs, DCOs), event-contract operators, sportsbooks, state gaming regulators",
+      "tags": [
+        "CFTC",
+        "Kalshi",
+        "emergency-authority",
+        "prediction-markets",
+        "Michigan",
+        "event-contracts",
+        "preemption",
+        "enforcement",
+        "DCM",
+        "state-court"
+      ]
+    },
     {
       "id": "2026-07-12-clarity-act-senate-unified-draft-3wk-window",
       "date": "2026-07-12",

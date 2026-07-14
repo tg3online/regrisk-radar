@@ -5,8 +5,24 @@
     <link>https://tg3online.github.io/regrisk-radar/</link>
     <description>Daily facts-only regulatory radar — crypto, gaming, payments &amp; fintech. Verified against primary sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Jul 2026 01:36:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 19:35:47 +0000</lastBuildDate>
     <atom:link href="https://tg3online.github.io/regrisk-radar/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CFTC invokes emergency authority to stay KalshiEX&#x27;s own rule change and orders fulfillment of Michigan-resident trades — first federal override targeting a DCM&#x27;s state-court-directed rule amendment</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-07-14-cftc-kalshiex-emergency-stay</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-07-14-cftc-kalshiex-emergency-stay</guid>
+      <pubDate>Tue, 14 Jul 2026 19:00:00 +0000</pubDate>
+      <category>CFTC (Commodity Futures Trading Commission)</category>
+      <description>On July 14, 2026, the CFTC issued Press Release 9267-26, announcing it had exercised emergency authority under the Commodity Exchange Act to stay a KalshiEX rule change and order KalshiEX to fulfill pending trades. Background: a Michigan state court issued a temporary restraining order directing KalshiEX to cancel all executed trades by Michigan-resident customers; KalshiEX filed an emergency rule change with the CFTC to comply with that state court order. The CFTC stayed the KalshiEX rule change and ordered KalshiEX to fulfill all pending trades per normal exchange practices. CFTC Chairman Brian Quintenz Selig stated the action was &#x27;unprecedented,&#x27; noting Michigan is &#x27;the first state to attempt to directly interfere with already-executed transactions on a federally regulated exchange.&#x27; As of the release, the CFTC has filed preemption suits against nine states: Arizona, Connecticut, Illinois, Kentucky, Minnesota, New Mexico, New York, Rhode Island, and Wisconsin.
+
+Primary source: CFTC Press Release 9267-26 (July 14, 2026) — https://www.cftc.gov/PressRoom/PressReleases/9267-26
+
+Relevant to: prediction-market platforms, CFTC-registered entities (DCMs, FCMs, DCOs), event-contract operators, sportsbooks, state gaming regulators
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
     <item>
       <title>CLARITY Act: Senate staff expected to release unified crypto market-structure draft this week; floor vote targeted July 20; August 7 recess is the hard deadline — passage odds at 50%</title>
       <link>https://tg3online.github.io/regrisk-radar/#2026-07-12-clarity-act-senate-unified-draft-3wk-window</link>
