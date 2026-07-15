@@ -5,7 +5,58 @@
   <id>https://tg3online.github.io/regrisk-radar/</id>
   <link href="https://tg3online.github.io/regrisk-radar/" />
   <link href="https://tg3online.github.io/regrisk-radar/atom.xml" rel="self" type="application/atom+xml" />
-  <updated>2026-07-14T22:20:38Z</updated>
+  <updated>2026-07-15T08:12:23Z</updated>
+  <entry>
+    <title>CFTC stays KalshiEX rule change and uses emergency authority to order fulfillment of Michigan trades a state court directed be canceled (Release 9267-26)</title>
+    <id>https://tg3online.github.io/regrisk-radar/#2026-07-14-cftc-stays-kalshi-rule-change-michigan</id>
+    <link href="https://tg3online.github.io/regrisk-radar/#2026-07-14-cftc-stays-kalshi-rule-change-michigan" rel="alternate" />
+    <updated>2026-07-15T09:00:00Z</updated>
+    <published>2026-07-15T09:00:00Z</published>
+    <category term="U.S. Commodity Futures Trading Commission (CFTC)" />
+    <content type="text">On July 14, 2026, the Commodity Futures Trading Commission announced (Release 9267-26) that it exercised its authority to stay an emergency rule change proposed by KalshiEX, LLC in response to a Michigan state court order directing the company to cancel certain previously executed trades involving Michigan residents, and separately exercised its emergency authority to order KalshiEX to fulfill the open trades in accordance with its normal practices. Chairman Michael S. Selig stated that &#x27;a state cannot force a DCM to violate its obligations, and federal law does not permit a DCM to discriminate against a state&#x27;s residents,&#x27; and called canceling already-executed trades an &#x27;unprecedented step&#x27; that risks a cascading effect on the marketplace. The Commission noted that Michigan is the first state to attempt to interfere directly with executed derivatives transactions and that it has filed lawsuits against Arizona, Connecticut, Illinois, Kentucky, Minnesota, New Mexico, New York, Rhode Island, and Wisconsin to protect its jurisdiction.
+
+Primary source: CFTC Press Release 9267-26 (July 14, 2026; primary source retrieved) — https://www.cftc.gov/PressRoom/PressReleases/9267-26
+
+Relevant to: prediction-market platforms and event-contract DCMs, designated contract markets, state gaming regulators, exchanges operating across state lines
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</content>
+  </entry>
+  <entry>
+    <title>OFAC sanctions ransomware-supporting malware and infrastructure providers, adding numerous cryptocurrency wallet addresses to the SDN List</title>
+    <id>https://tg3online.github.io/regrisk-radar/#2026-07-13-ofac-cyber-ransomware-crypto-sdn</id>
+    <link href="https://tg3online.github.io/regrisk-radar/#2026-07-13-ofac-cyber-ransomware-crypto-sdn" rel="alternate" />
+    <updated>2026-07-15T09:00:00Z</updated>
+    <published>2026-07-15T09:00:00Z</published>
+    <category term="U.S. Treasury — Office of Foreign Assets Control (OFAC)" />
+    <content type="text">On July 13, 2026, the U.S. Treasury&#x27;s Office of Foreign Assets Control added individuals and an entity to its Specially Designated Nationals (SDN) List under its cyber-related authority (CYBER4) for supporting ransomware attacks against Americans, including Ukrainian national Dmytro Rashevskyi, Belarusian national Yevgeniy Vladimirovich Silayev, and the entity First VPN Service (Dnipro, Ukraine). The designations list multiple blocked cryptocurrency wallet addresses spanning Bitcoin, Ethereum, Litecoin, Zcash, Dash, Tron, Dogecoin, and Solana. The action was announced alongside separate Cuba-related designations and a new Cuba-related FAQ (FAQ 1262); the related Treasury press release is SB0559.
+
+Primary source: OFAC Recent Actions — Cyber-related Designations (July 13, 2026; primary source retrieved) — https://ofac.treasury.gov/recent-actions/20260713
+
+Relevant to: crypto exchanges and VASPs, blockchain analytics and compliance teams, custodians, payment processors screening sanctioned wallets
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</content>
+  </entry>
+  <entry>
+    <title>GENIUS Act stablecoin rulemaking deadline (July 18, 2026) one week out — six agencies had not finalized implementing rules as of July 11</title>
+    <id>https://tg3online.github.io/regrisk-radar/#2026-07-11-genius-act-stablecoin-rulemaking-july-18-deadline</id>
+    <link href="https://tg3online.github.io/regrisk-radar/#2026-07-11-genius-act-stablecoin-rulemaking-july-18-deadline" rel="alternate" />
+    <updated>2026-07-14T23:00:00Z</updated>
+    <published>2026-07-14T23:00:00Z</published>
+    <category term="OCC / FDIC / NCUA / U.S. Treasury / FinCEN / OFAC" />
+    <content type="text">As of July 11, 2026, six federal agencies — the Office of the Comptroller of the Currency (OCC), the Federal Deposit Insurance Corporation (FDIC), the National Credit Union Administration (NCUA), the U.S. Treasury Department, the Financial Crimes Enforcement Network (FinCEN), and the Office of Foreign Assets Control (OFAC) — faced a statutory July 18, 2026 deadline (one year after the GENIUS Act&#x27;s July 18, 2025 enactment) to finalize implementing rules for permitted payment stablecoin issuers (PPSIs), and had not yet issued final rules. Comment periods on the proposed rules closed by early June 2026. The proposed framework requires PPSIs to hold 1:1 reserves in cash, insured deposits, and short-term U.S. Treasuries, and treats issuers as financial institutions under the Bank Secrecy Act. Source: Tech Times (July 11, 2026); corroborated by CryptoSlate and rulemaking trackers (Chapman &amp; Cutler, Paradigm).
+
+Coverage (reporting filing): Tech Times (July 11, 2026); corroborated by CryptoSlate and rulemaking trackers — https://www.techtimes.com/articles/320179/20260711/digital-dollar-banned-until-2031-stablecoin-rulemaking-one-week-away.htm
+
+Relevant to: payment stablecoin issuers, banks and credit unions entering stablecoins, digital-asset custodians, BSA/AML compliance teams
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</content>
+  </entry>
   <entry>
     <title>SEC regulatory agenda targets July 2026 for three crypto rulemakings (digital-asset offerings, broker-dealer custody, market structure)</title>
     <id>https://tg3online.github.io/regrisk-radar/#2026-07-11-sec-agenda-three-crypto-rulemakings-july-2026</id>
@@ -24,30 +75,13 @@ For operator-impact analysis and watchlist implications, join RegRisk Radar. htt
 RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</content>
   </entry>
   <entry>
-    <title>GENIUS Act stablecoin rulemaking deadline (July 18, 2026) one week out — six agencies had not finalized implementing rules as of July 11</title>
-    <id>https://tg3online.github.io/regrisk-radar/#2026-07-11-genius-act-stablecoin-rulemaking-july-18-deadline</id>
-    <link href="https://tg3online.github.io/regrisk-radar/#2026-07-11-genius-act-stablecoin-rulemaking-july-18-deadline" rel="alternate" />
-    <updated>2026-07-14T23:00:00Z</updated>
-    <published>2026-07-14T23:00:00Z</published>
-    <category term="OCC / FDIC / NCUA / U.S. Treasury / FinCEN / OFAC" />
-    <content type="text">As of July 11, 2026, six federal agencies — the OCC, FDIC, NCUA, U.S. Treasury, FinCEN, and OFAC — faced a statutory July 18, 2026 deadline (one year after the GENIUS Act&#x27;s July 18, 2025 enactment) to finalize implementing rules for permitted payment stablecoin issuers (PPSIs), and had not yet issued final rules. Comment periods on the proposed rules closed by early June 2026. The proposed framework requires PPSIs to hold 1:1 reserves in cash, insured deposits, and short-term U.S. Treasuries, and treats issuers as financial institutions under the Bank Secrecy Act. Source: Tech Times (July 11, 2026); corroborated by CryptoSlate and rulemaking trackers (Chapman &amp; Cutler, Paradigm).
-
-Coverage (reporting filing): Tech Times (July 11, 2026); corroborated by CryptoSlate and rulemaking trackers — https://www.techtimes.com/articles/320179/20260711/digital-dollar-banned-until-2031-stablecoin-rulemaking-one-week-away.htm
-
-Relevant to: payment stablecoin issuers, banks and credit unions entering stablecoins, digital-asset custodians, BSA/AML compliance teams
-
-For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
-
-RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</content>
-  </entry>
-  <entry>
     <title>First U.S. statutory ban on a Federal Reserve CBDC takes effect via the 21st Century ROAD to Housing Act (H.R.6644 §1101)</title>
     <id>https://tg3online.github.io/regrisk-radar/#2026-07-10-road-to-housing-act-cbdc-ban-enacted</id>
     <link href="https://tg3online.github.io/regrisk-radar/#2026-07-10-road-to-housing-act-cbdc-ban-enacted" rel="alternate" />
     <updated>2026-07-14T23:00:00Z</updated>
     <published>2026-07-14T23:00:00Z</published>
     <category term="U.S. Congress (21st Century ROAD to Housing Act, H.R.6644 §1101)" />
-    <content type="text">On July 10, 2026, the 21st Century ROAD to Housing Act (H.R.6644) became law without President Trump&#x27;s signature. Per coverage by The Cryptonomist (July 10, 2026), corroborated by Tech Times (July 11, 2026) and CoinDesk (July 9-10, 2026), Section 1101 prohibits the Federal Reserve from issuing a central bank digital currency (CBDC) or any substantially similar digital asset through December 31, 2030. The bill passed the Senate 85-5 (June 22) and the House 358-32. Coverage reports a carve-out for open, permissionless, privately issued dollar-denominated digital assets (understood to include stablecoins). Statutory text cited by coverage but not independently retrieved. Follows the Senate-passage entry (2026-06-19-senate-passes-road-housing-cbdc-ban) and bill-text entry (2026-06-18-congress-cbdc-ban-road-to-housing-act).
+    <content type="text">On July 10, 2026, the 21st Century ROAD to Housing Act (H.R.6644) became law without President Trump&#x27;s signature. Per coverage by The Cryptonomist (July 10, 2026), corroborated by Tech Times (July 11, 2026) and CoinDesk (July 9-10, 2026), Section 1101 prohibits the Federal Reserve from issuing a central bank digital currency (CBDC) or any substantially similar digital asset, directly or through an intermediary, through December 31, 2030. The bill passed the Senate 85-5 (June 22, 2026) and the House 358-32. Coverage reports a carve-out for open, permissionless, privately issued dollar-denominated digital assets (understood by coverage to include stablecoins). Statutory text cited by coverage but not independently retrieved. This supersedes and follows the Senate-passage entry (2026-06-19-senate-passes-road-housing-cbdc-ban) and bill-text entry (2026-06-18-congress-cbdc-ban-road-to-housing-act).
 
 Coverage (reporting filing): The Cryptonomist (July 10, 2026); corroborated by Tech Times (July 11, 2026) and CoinDesk (July 9-10, 2026); statute text not independently retrieved — https://en.cryptonomist.ch/2026/07/10/us-digital-dollar-ban/
 
@@ -64,7 +98,7 @@ RegRisk Radar is regulatory-risk intelligence provided for general informational
     <updated>2026-07-14T23:00:00Z</updated>
     <published>2026-07-14T23:00:00Z</published>
     <category term="OCC (Office of the Comptroller of the Currency)" />
-    <content type="text">On July 10, 2026, the Office of the Comptroller of the Currency granted Circle Internet Group final approval to establish First National Digital Currency Bank, N.A. (operating as Circle National Trust), a national trust bank that will provide fiduciary digital-asset custody for Circle and its affiliates. Circle applied to the OCC on June 30, 2025 and received conditional approval in December 2025 before final approval on July 10, 2026. As reported, this is the first national trust bank charter granted to a stablecoin issuer. Source: Circle press release (July 10, 2026); corroborated by American Banker, CoinDesk, CNBC, and BusinessWire. OCC decision letter not independently retrieved.
+    <content type="text">On July 10, 2026, the Office of the Comptroller of the Currency granted Circle Internet Group final approval to establish First National Digital Currency Bank, N.A. (operating as Circle National Trust), a national trust bank that will provide fiduciary digital-asset custody for Circle and its affiliates. Circle applied to the OCC on June 30, 2025 and received conditional approval in December 2025 before final approval on July 10, 2026. As reported, this is the first national trust bank charter granted to a stablecoin issuer; Circle plans for the bank to serve as the primary custodial entity for USDC reserves and related digital-asset custody functions. Source: Circle press release (July 10, 2026); corroborated by American Banker, CoinDesk, CNBC, and BusinessWire. OCC decision letter not independently retrieved.
 
 Coverage (reporting filing): Circle Press Release (July 10, 2026); corroborated by American Banker, CoinDesk, CNBC, BusinessWire; OCC decision letter not independently retrieved — https://www.circle.com/pressroom/circle-receives-final-occ-approval-to-establish-national-trust-bank
 
@@ -92,85 +126,306 @@ For operator-impact analysis and watchlist implications, join RegRisk Radar. htt
 RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</content>
   </entry>
   <entry>
-    <title>CFTC invokes emergency authority to stay KalshiEX&#x27;s own rule change and orders fulfillment of Michigan-resident trades — first federal override targeting a DCM&#x27;s state-court-directed rule amendment</title>
-    <id>https://tg3online.github.io/regrisk-radar/#2026-07-14-cftc-kalshiex-emergency-stay</id>
-    <link href="https://tg3online.github.io/regrisk-radar/#2026-07-14-cftc-kalshiex-emergency-stay" rel="alternate" />
-    <updated>2026-07-14T19:00:00Z</updated>
-    <published>2026-07-14T19:00:00Z</published>
-    <category term="CFTC (Commodity Futures Trading Commission)" />
-    <content type="text">On July 14, 2026, the CFTC issued Press Release 9267-26, announcing it had exercised emergency authority under the Commodity Exchange Act to stay a KalshiEX rule change and order KalshiEX to fulfill pending trades. Background: a Michigan state court issued a temporary restraining order directing KalshiEX to cancel all executed trades by Michigan-resident customers; KalshiEX filed an emergency rule change with the CFTC to comply with that state court order. The CFTC stayed the KalshiEX rule change and ordered KalshiEX to fulfill all pending trades per normal exchange practices. CFTC Chairman Brian Quintenz Selig stated the action was &#x27;unprecedented,&#x27; noting Michigan is &#x27;the first state to attempt to directly interfere with already-executed transactions on a federally regulated exchange.&#x27; As of the release, the CFTC has filed preemption suits against nine states: Arizona, Connecticut, Illinois, Kentucky, Minnesota, New Mexico, New York, Rhode Island, and Wisconsin.
+    <title>SDNY judge denies Kalshi&#x27;s preliminary injunction against the New York State Gaming Commission; holds the CEA does not preempt state gambling laws as applied to sports-event contracts</title>
+    <id>https://tg3online.github.io/regrisk-radar/#2026-07-07-sdny-denies-kalshi-preliminary-injunction-new-york</id>
+    <link href="https://tg3online.github.io/regrisk-radar/#2026-07-07-sdny-denies-kalshi-preliminary-injunction-new-york" rel="alternate" />
+    <updated>2026-07-08T07:45:00Z</updated>
+    <published>2026-07-08T07:45:00Z</published>
+    <category term="U.S. District Court, Southern District of New York" />
+    <content type="text">On July 7, 2026, U.S. District Judge Analisa Torres (S.D.N.Y.) denied KalshiEX LLC&#x27;s motion for a preliminary injunction in KalshiEX LLC v. Williams (No. 1:25-cv-08846), a suit against the New York State Gaming Commission. The order states that &#x27;New York gambling laws as applied to Kalshi&#x27;s sports-event contracts are not preempted by the CEA and Kalshi has not, therefore, made a clear or substantial showing that it is likely to succeed on the merits.&#x27; The court declined to read the Commodity Exchange Act&#x27;s grant of exclusive jurisdiction as leaving no room for state gambling regulation, found Kalshi&#x27;s alleged injuries were largely monetary, and noted that nothing prevents Kalshi from obtaining a license under New York law. As reported by The Block (July 8, 2026), Kalshi has appealed the decision to the U.S. Court of Appeals for the Second Circuit.
 
-Primary source: CFTC Press Release 9267-26 (July 14, 2026) — https://www.cftc.gov/PressRoom/PressReleases/9267-26
+Coverage (reporting filing): The Block (July 8, 2026), reporting and quoting the S.D.N.Y. order (docket 1:25-cv-08846, ECF No. 106); court order not independently retrieved — https://www.theblock.co/post/407529/judge-denies-kalshi-motion-new-york
 
-Relevant to: prediction-market platforms, CFTC-registered entities (DCMs, FCMs, DCOs), event-contract operators, sportsbooks, state gaming regulators
-
-For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
-
-RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</content>
-  </entry>
-  <entry>
-    <title>CLARITY Act: Senate staff expected to release unified crypto market-structure draft this week; floor vote targeted July 20; August 7 recess is the hard deadline — passage odds at 50%</title>
-    <id>https://tg3online.github.io/regrisk-radar/#2026-07-12-clarity-act-senate-unified-draft-3wk-window</id>
-    <link href="https://tg3online.github.io/regrisk-radar/#2026-07-12-clarity-act-senate-unified-draft-3wk-window" rel="alternate" />
-    <updated>2026-07-12T20:00:00Z</updated>
-    <published>2026-07-12T20:00:00Z</published>
-    <category term="U.S. Senate / Senate Banking &amp; Agriculture Committees (via staff)" />
-    <content type="text">Multiple credible outlets (crypto.news, TechTimes, The Hill) reported on July 11-12, 2026 that Senate staff are expected to release a unified draft of the Digital Asset Market Clarity Act (H.R. 3633) during the week of July 13, 2026, merging parallel Senate Banking and Agriculture Committee texts. Floor action is targeted for the week of July 20. The Senate leaves for its August recess on August 7, 2026, leaving approximately three working weeks. Galaxy Research has reduced 2026 passage odds to 50%, citing calendar compression, down from 60% earlier in July. Three disputes remain unresolved: (1) ethics/conflict-of-interest rules covering senior officials with crypto holdings; (2) CFTC commissioner vacancies; (3) Section 604 blockchain developer shield. H.R. 3633 passed the House 294-134 on July 17, 2025; cleared Senate Banking Committee 15-9 on May 14, 2026; placed on Senate Calendar No. 423 on June 1, 2026.
-
-Coverage (reporting filing): crypto.news via Cryptonews.net — &#x27;Three weeks to 2030: the seven-Democrat math that decides the CLARITY Act&#x27;, July 11 2026 (corroborated by TechTimes July 12 and The Hill July 1) — https://cryptonews.net/news/legal/33135563/
-
-Relevant to: crypto exchanges, digital-asset operators, DeFi builders, token issuers, fintech operators, institutional investors
+Relevant to: prediction-market platforms, event-contract exchanges, state-licensed gaming operators, CFTC-registered DCMs
 
 For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
 
 RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</content>
   </entry>
   <entry>
-    <title>Arizona Department of Gaming serves cease-and-desist orders on five online gambling operators, alleging felony money laundering and gambling promotion</title>
-    <id>https://tg3online.github.io/regrisk-radar/#2026-07-10-arizona-adg-cd-five-online-gambling</id>
-    <link href="https://tg3online.github.io/regrisk-radar/#2026-07-10-arizona-adg-cd-five-online-gambling" rel="alternate" />
-    <updated>2026-07-10T17:00:00Z</updated>
-    <published>2026-07-10T17:00:00Z</published>
-    <category term="Arizona Department of Gaming" />
-    <content type="text">On July 10, 2026, the Arizona Department of Gaming (ADG) issued cease-and-desist orders to BetOpenly, Bookmaker, Club WPT Online Poker, Kutt Inc., and Raffle Creator. Each order alleges three Arizona felonies under A.R.S. Title 13, Chapter 33: (1) promotion of gambling, (2) illegal control of an enterprise, and (3) money laundering. ADG additionally alleged underage gambling (under-21 access) at BetOpenly, Club WPT Online Poker, and Raffle Creator; commission-based peer-to-peer wagering (prohibited under Arizona social-gambling law) at BetOpenly and Kutt Inc.; and unlicensed horse racing, casino, and sports betting at Bookmaker; and online poker (illegal in Arizona) at Club WPT. All five are directed to immediately cease all gambling operations in Arizona. Future actions may include criminal charges, civil suits, restitution, and forfeiture. ADG Director Jackie Johnson stated: &#x27;Arizona is taking decisive action against illegal gambling operators that put Arizonans at risk.&#x27; This action expands ADG&#x27;s 2025 sweepstakes-casino enforcement pattern to peer-to-peer wagering platforms, offshore sportsbooks, and unlicensed poker operators.
+    <title>CFTC charges North Carolina commodity pool operator and company with fraud involving crypto assets and equity index futures ($14M+, 60+ victims)</title>
+    <id>https://tg3online.github.io/regrisk-radar/#2026-07-07-cftc-nc-commodity-pool-crypto-fraud</id>
+    <link href="https://tg3online.github.io/regrisk-radar/#2026-07-07-cftc-nc-commodity-pool-crypto-fraud" rel="alternate" />
+    <updated>2026-07-07T23:00:00Z</updated>
+    <published>2026-07-07T23:00:00Z</published>
+    <category term="CFTC" />
+    <content type="text">On July 7, 2026, the CFTC filed a civil enforcement complaint in the U.S. District Court for the Western District of North Carolina (Press Release 9264-26) against Trevor L. Vernon and Argent Capital Management LLC. The complaint alleges that from approximately March 2022 through February 2026, Vernon and Argent Capital solicited approximately $14 million from more than 60 participants for a commodity pool that purported to trade equity index futures contracts, options on equity index futures, and crypto assets, among other purported investments. The CFTC alleges Vernon misappropriated pool funds and operated a Ponzi-like scheme, making lulling payments to earlier participants with funds from newer investors. The complaint seeks restitution, civil monetary penalties, disgorgement, and permanent trading and registration bans.
 
-Primary source: Arizona Department of Gaming — Press Release, July 10 2026 — https://gaming.az.gov/sites/default/files/July%2026_ADG%20Cease%20and%20Desist%20Orders_Press%20Release.pdf
+Primary source: CFTC Press Release 9264-26 (July 7, 2026; primary source retrieved) — https://www.cftc.gov/PressRoom/PressReleases/9264-26
 
-Relevant to: online gaming operators with Arizona users; peer-to-peer wagering platforms; offshore sportsbooks; unlicensed poker platforms
-
-For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
-
-RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</content>
-  </entry>
-  <entry>
-    <title>North Carolina Governor Stein signs $34B SB 257 budget enacting 6% prediction-market tax on net trading-fee revenue, effective 2027</title>
-    <id>https://tg3online.github.io/regrisk-radar/#2026-07-08-north-carolina-governor-signs-sb257-prediction-market-tax</id>
-    <link href="https://tg3online.github.io/regrisk-radar/#2026-07-08-north-carolina-governor-signs-sb257-prediction-market-tax" rel="alternate" />
-    <updated>2026-07-08T22:00:00Z</updated>
-    <published>2026-07-08T22:00:00Z</published>
-    <category term="North Carolina Office of the Governor" />
-    <content type="text">On July 8, 2026, North Carolina Governor Josh Stein signed Senate Bill 257, the state&#x27;s approximately $34 billion fiscal year 2026 budget. As reported by GamblingNews (July 8, 2026), the enacted budget includes a 6% tax on the net trading fee revenue earned by prediction market operators with North Carolina users; platforms named in reporting include Kalshi and Polymarket. The tax is scheduled to take effect in 2027. The enacted budget does not impose state gambling licensing, know-your-customer, or responsible-gaming requirements on prediction-market platforms. This item supersedes the July 6 item (2026-07-06-north-carolina-prediction-market-tax), which covered SB 257 at conference committee stage; the Governor&#x27;s signing converts it to enacted law.
-
-Coverage: GamblingNews (July 8, 2026; reporting the Governor&#x27;s signing of SB 257) — https://www.gamblingnews.com/news/north-carolina-governor-signs-budget-prediction-market-tax/
-
-Relevant to: prediction-market platforms, sports-betting operators, tax and compliance teams serving operators with North Carolina users
+Relevant to: commodity pool operators, crypto asset traders, CFTC-registered entities, CPO compliance programs, investment fraud compliance teams
 
 For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
 
 RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</content>
   </entry>
   <entry>
-    <title>New Jersey Senate Budget Committee approves amended S4447 (9% prediction-market gross income tax) 9-4; amended bill explicitly recognizes CFTC as federal regulator</title>
-    <id>https://tg3online.github.io/regrisk-radar/#2026-07-08-new-jersey-senate-committee-approves-s4447-prediction-market-tax</id>
-    <link href="https://tg3online.github.io/regrisk-radar/#2026-07-08-new-jersey-senate-committee-approves-s4447-prediction-market-tax" rel="alternate" />
-    <updated>2026-07-08T22:00:00Z</updated>
-    <published>2026-07-08T22:00:00Z</published>
-    <category term="New Jersey Senate Budget and Appropriations Committee" />
-    <content type="text">As reported by GamblingNews (July 8, 2026), the New Jersey Senate Budget and Appropriations Committee approved amendments to S4447 by a 9-4 vote. The amended bill imposes a 9% tax on prediction market gross income for operators offering event contracts to New Jersey residents. The amended version explicitly recognizes the CFTC as the federal regulator of prediction markets and drops prior self-exclusion requirements. The New Jersey Office of Legislative Services estimated the tax would generate approximately $10.3 million to $15.3 million annually. The bill requires a full Senate vote, Assembly action, and the Governor&#x27;s signature before becoming law.
+    <title>Nevada Supreme Court denies Kalshi&#x27;s emergency stay, leaving geofencing mandate in force as July 16 contempt hearing is set</title>
+    <id>https://tg3online.github.io/regrisk-radar/#2026-07-06-nevada-supreme-court-denies-kalshi-stay</id>
+    <link href="https://tg3online.github.io/regrisk-radar/#2026-07-06-nevada-supreme-court-denies-kalshi-stay" rel="alternate" />
+    <updated>2026-07-06T07:38:32Z</updated>
+    <published>2026-07-06T07:38:32Z</published>
+    <category term="Nevada Supreme Court" />
+    <content type="text">As reported by CoinDesk and Tech Times (July 5, 2026), the Nevada Supreme Court on or about July 1, 2026 denied KalshiEx, LLC&#x27;s emergency motion for a stay pending appeal, so Kalshi must continue to geofence and block Nevada users from prohibited event contracts while the state&#x27;s lawsuit proceeds. Per the coverage, a three-justice panel (Linda Marie Bell, Ron D. Parraguirre, and Kristina Pickering) said it was &#x27;not persuaded&#x27; by the emergency motion. Separately, the Nevada Gaming Control Board has asked the First Judicial District Court to hold Kalshi in contempt for allegedly failing to geofence the state, and a full-day evidentiary hearing on that question is scheduled for July 16, 2026.
 
-Coverage: GamblingNews (July 8, 2026; reporting the Committee vote on S4447) — https://www.gamblingnews.com/news/new-jersey-senate-committee-approves-s4447-prediction-market-tax/
+Coverage (reporting filing): CoinDesk (citing Nevada Supreme Court docket) — https://www.coindesk.com/news-analysis/2026/07/02/kalshi-and-prediction-market-sector-embroiled-in-mixed-bag-of-legal-fights-across-u-s
 
-Relevant to: prediction-market platforms, tax and compliance teams, payment processors serving operators with New Jersey users
+Relevant to: prediction-market platforms, event-contract exchanges, sportsbook operators
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</content>
+  </entry>
+  <entry>
+    <title>North Carolina budget deal (SB 257) adds a 6% tax on prediction-market trading-fee revenue, without bringing platforms under state gambling rules</title>
+    <id>https://tg3online.github.io/regrisk-radar/#2026-07-06-north-carolina-prediction-market-tax</id>
+    <link href="https://tg3online.github.io/regrisk-radar/#2026-07-06-north-carolina-prediction-market-tax" rel="alternate" />
+    <updated>2026-07-06T07:38:32Z</updated>
+    <published>2026-07-06T07:38:32Z</published>
+    <category term="North Carolina General Assembly" />
+    <content type="text">As reported by CoinDesk and Tech Times (July 5, 2026) and corroborated by WRAL and Bloomberg Tax, North Carolina lawmakers included a 6% tax on prediction-market operators&#x27; net in-state trading-fee revenue in the state&#x27;s roughly $34 billion conference budget bill (SB 257), reported the week of June 30-July 2, 2026. Per the coverage, the tax would take effect in 2027 and apply to platforms such as Kalshi and Polymarket, but the budget language does not place prediction-market platforms under North Carolina&#x27;s gambling licensing, know-your-customer, or responsible-gaming rules; the same budget raises the state&#x27;s online sports-betting tax from 18% to 23%.
+
+Coverage (reporting filing): CoinDesk (citing N.C. General Assembly budget bill SB 257) — https://www.coindesk.com/news-analysis/2026/07/02/kalshi-and-prediction-market-sector-embroiled-in-mixed-bag-of-legal-fights-across-u-s
+
+Relevant to: prediction-market platforms, sports-betting operators, tax and compliance teams
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</content>
+  </entry>
+  <entry>
+    <title>SCOTUS rules 6-3 that for-cause removal protections for SEC and CFTC commissioners are unconstitutional (Trump v. Slaughter, No. 25-332)</title>
+    <id>https://tg3online.github.io/regrisk-radar/#2026-07-03-scotus-trump-v-slaughter</id>
+    <link href="https://tg3online.github.io/regrisk-radar/#2026-07-03-scotus-trump-v-slaughter" rel="alternate" />
+    <updated>2026-07-03T21:45:00Z</updated>
+    <published>2026-07-03T21:45:00Z</published>
+    <category term="U.S. Supreme Court" />
+    <content type="text">On June 29, 2026, the Supreme Court of the United States issued its 6-3 opinion in Trump v. Slaughter (No. 25-332), authored by Chief Justice Roberts, overturning Humphrey&#x27;s Executor v. United States (1935). The Court held that the for-cause removal protection in the FTC&#x27;s enabling statute — and by structural extension the SEC and CFTC, which operate under identical removal provisions — is contrary to the separation of powers under the Constitution. Effective immediately, the President may remove SEC and CFTC commissioners without cause. A companion order in Trump v. Cook (No. 25A312, June 29, 2026) denied a government application to stay a preliminary injunction protecting Federal Reserve Governor Lisa Cook; the Federal Reserve&#x27;s statutory structure was not directly addressed by the majority opinion. The opinion is published on the Court&#x27;s official slip opinion list for October Term 2025.
+
+Primary source: U.S. Supreme Court — Official Slip Opinion List, October Term 2025 (primary source; retrieved July 3, 2026); Opinion PDF: https://www.supremecourt.gov/opinions/25pdf/25-322_new_4gcj.pdf — https://www.supremecourt.gov/opinions/slipopinion/25
+
+Relevant to: crypto exchanges, digital asset issuers, fintech platforms, prediction-market operators, CFTC-registered entities, and all operators subject to SEC or CFTC jurisdiction
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</content>
+  </entry>
+  <entry>
+    <title>Digital Asset Market Clarity Act (H.R. 3633) misses July 4 Senate floor vote target as bipartisan talks collapse</title>
+    <id>https://tg3online.github.io/regrisk-radar/#2026-07-03-clarity-act-senate-floor-vote-stalled</id>
+    <link href="https://tg3online.github.io/regrisk-radar/#2026-07-03-clarity-act-senate-floor-vote-stalled" rel="alternate" />
+    <updated>2026-07-03T21:18:36Z</updated>
+    <published>2026-07-03T21:18:36Z</published>
+    <category term="U.S. Senate" />
+    <content type="text">As of July 2, 2026, the Digital Asset Market Clarity Act (H.R. 3633) did not receive a Senate floor vote before the July 4 recess deadline targeted by White House crypto adviser Patrick Witt. According to the Bitcoin Foundation (July 2, 2026; corroborated by Elliptic, Crypto.news, PYMNTS, and Yahoo Finance/BeInCrypto), bipartisan negotiations failed to secure the minimum 7 Democratic votes needed to clear the Senate&#x27;s 60-vote cloture threshold. Outstanding disputes included DeFi oversight provisions, stablecoin rewards provisions, AML reporting requirements, and Section 604 (Blockchain Regulatory Certainty Act). The bill remains on the Senate Legislative Calendar (General Orders, Calendar No. 423) and is not dead; a floor vote has been pushed to after the July 4 recess at earliest. Multiple trade outlets reported prediction market passage odds fell from approximately 74% approximately one month prior to approximately 48% as of the July 2 reporting date.
+
+Coverage: Bitcoin Foundation, July 2, 2026 (corroborated by Elliptic, Crypto.news, PYMNTS, Yahoo Finance/BeInCrypto) — https://bitcoinfoundation.org/news/regulation/clarity-act-blocked-before-july-4-senate-delay-sparks-uncertainty-what-happens-next/
+
+Relevant to: crypto exchanges, token platforms, stablecoin issuers, DeFi protocols, fintech and payments operators awaiting US market structure clarity
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</content>
+  </entry>
+  <entry>
+    <title>OFAC adds Monero (XMR) and 100+ TRON addresses to ISIS-K SDN entry; designates Brazilian payments company Pixwave under SDGT and narco-trafficking EO</title>
+    <id>https://tg3online.github.io/regrisk-radar/#2026-07-01-ofac-isis-k-crypto-pixwave-sdn</id>
+    <link href="https://tg3online.github.io/regrisk-radar/#2026-07-01-ofac-isis-k-crypto-pixwave-sdn" rel="alternate" />
+    <updated>2026-07-01T12:00:00Z</updated>
+    <published>2026-07-01T12:00:00Z</published>
+    <category term="U.S. Department of the Treasury, Office of Foreign Assets Control (OFAC)" />
+    <content type="text">On July 1, 2026, OFAC published two actions on its recent-actions page. First, OFAC updated the existing SDGT entry for ISIS-K to add three Monero (XMR) cryptocurrency wallet addresses and more than 100 TRON (TRC-20) blockchain addresses — including USDT-TRC20 stablecoin addresses — to the SDN List. Second, OFAC designated Pixwave Soluções de Pagamentos Ltda, a Brazilian payment-technology company, under the SDGT authority (E.O. 13224) and Executive Order 14059 (ILLICIT-DRUGS-EO14059), alleging Pixwave provided payment-processing services to the Primeiro Comando da Capital (PCC), a Brazilian narco-trafficking organization. Both designations are effective July 1, 2026.
+
+Primary source: OFAC Recent Actions — July 1, 2026 (primary source; retrieved) — https://ofac.treasury.gov/recent-actions/20260701
+
+Relevant to: crypto exchanges, virtual asset service providers (VASPs), payment processors, money transmitters, and any US person transacting in Monero or TRON-chain assets (including USDT-TRC20)
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</content>
+  </entry>
+  <entry>
+    <title>SEC seeks public comment on registration and disclosure rules for novel exchange-traded funds (Release 33-11426) — crypto-asset and event-contract ETFs expressly in scope</title>
+    <id>https://tg3online.github.io/regrisk-radar/#2026-07-01-sec-novel-etfs-request-for-comment</id>
+    <link href="https://tg3online.github.io/regrisk-radar/#2026-07-01-sec-novel-etfs-request-for-comment" rel="alternate" />
+    <updated>2026-07-01T07:40:00Z</updated>
+    <published>2026-07-01T07:40:00Z</published>
+    <category term="U.S. Securities and Exchange Commission (SEC)" />
+    <content type="text">On June 30, 2026, the SEC released Release 33-11426, a request for public comment on potential amendments to its registration and disclosure rules for novel types of exchange-traded funds, including crypto-asset ETFs and ETFs holding event-contract or prediction-market exposures. The release asks whether current disclosure frameworks adequately address risks specific to non-standard ETF product types and whether the Commission should take additional steps, including potential Commission-initiated delay of automatic effectiveness of registration statements under Rule 485. Comments are due 60 days after Federal Register publication.
+
+Primary source: SEC Press Release (June 30, 2026) — Release 33-11426 — https://www.sec.gov/newsroom/press-releases/2026-60-sec-seeks-public-comment-novel-exchange-traded-funds
+
+Relevant to: crypto-asset ETF sponsors, investment companies, fund managers, broker-dealers, prediction-market ETF applicants
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</content>
+  </entry>
+  <entry>
+    <title>SEC obtains $5.4M default judgment against NanoBit Limited for operating a fake cryptocurrency trading platform (pig-butchering / relationship-investment scam)</title>
+    <id>https://tg3online.github.io/regrisk-radar/#2026-06-30-nanobit-sec-pig-butchering-default-judgment</id>
+    <link href="https://tg3online.github.io/regrisk-radar/#2026-06-30-nanobit-sec-pig-butchering-default-judgment" rel="alternate" />
+    <updated>2026-06-30T22:00:00Z</updated>
+    <published>2026-06-30T22:00:00Z</published>
+    <category term="U.S. Securities and Exchange Commission / U.S. District Court, Southern District of New York" />
+    <content type="text">On June 25, 2026, the SDNY entered a final judgment by default against NanoBit Limited and co-defendants in SEC v. NanoBit Limited et al. (No. 1:24-cv-09413). NanoBit operated a fraudulent cryptocurrency trading platform where victims were recruited through social media and dating apps. The final default judgment orders disgorgement, prejudgment interest, and civil monetary penalties totaling approximately $5.4 million. The SEC published the order as Litigation Release No. LR-26576 on June 29, 2026.
+
+Primary source: SEC Litigation Release No. LR-26576 (June 29, 2026; primary source retrieved) — https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26576
+
+Relevant to: crypto exchanges, digital-asset trading platforms, fintech platforms with crypto products, AML and fraud compliance teams
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</content>
+  </entry>
+  <entry>
+    <title>CFTC has ongoing investigation into Polymarket over deceptive marketing; bipartisan senators Curtis and Schiff send letter to CFTC Chairman Selig demanding disclosure of scope of probe</title>
+    <id>https://tg3online.github.io/regrisk-radar/#2026-06-30-polymarket-cftc-investigation-senate-letter</id>
+    <link href="https://tg3online.github.io/regrisk-radar/#2026-06-30-polymarket-cftc-investigation-senate-letter" rel="alternate" />
+    <updated>2026-06-30T22:00:00Z</updated>
+    <published>2026-06-30T22:00:00Z</published>
+    <category term="CFTC (investigation) / U.S. Senate — Senators John Curtis (R-UT) and Adam Schiff (D-CA)" />
+    <content type="text">As reported by the Wall Street Journal, CNBC, Forbes, and the New York Times on June 26, 2026, the CFTC has an ongoing investigation into Polymarket. The prior CFTC and DOJ investigation was dropped in July 2025. The reported probe follows a WSJ investigation documenting that Polymarket paid social-media content creators to post videos of staged winning outcomes. On June 26, 2026, Senators Curtis (R-UT) and Schiff (D-CA) sent a bipartisan letter to CFTC Chairman Michael Selig requesting disclosure of the scope and status of the investigation.
+
+Coverage: Forbes (Alicia Park, June 26, 2026; secondary source; corroborated by Wall Street Journal, CNBC, and New York Times, all June 26, 2026) — https://www.forbes.com/sites/aliciapark/2026/06/26/regulators-are-investigating-polymarket-reports-say-as-senators-demand-a-federal-probe/
+
+Relevant to: prediction-market operators, event-contract platforms, CFTC-registered entities, fintech and gaming platforms with prediction-market exposure, marketing compliance teams
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</content>
+  </entry>
+  <entry>
+    <title>Michigan AG secures state-court TRO temporarily halting Kalshi internet sports wagers; 14-day order through July 13 with geolocation mandate and $120,000/day non-compliance fine</title>
+    <id>https://tg3online.github.io/regrisk-radar/#2026-06-30-michigan-ag-kalshi-tro</id>
+    <link href="https://tg3online.github.io/regrisk-radar/#2026-06-30-michigan-ag-kalshi-tro" rel="alternate" />
+    <updated>2026-06-30T07:45:00Z</updated>
+    <published>2026-06-30T07:45:00Z</published>
+    <category term="Michigan Department of Attorney General (Dana Nessel) / Ingham County Circuit Court" />
+    <content type="text">On June 29, 2026, Michigan AG Dana Nessel announced a temporary restraining order in the Ingham County Circuit Court (Case No. 26-1087-CZ, Hon. Rosemarie Aquilina) halting KalshiEx from offering or advertising internet sports betting to Michigan residents. The order runs 14 days through July 13, 2026, requires Kalshi to use a MGCB-licensed third-party geolocation provider to block Michigan users, and imposes a $120,000-per-day fine for non-compliance.
+
+Primary source: Michigan Dept. of Attorney General press release (June 29, 2026; primary source retrieved); corroborated by The Detroit News and CBS News Detroit (June 29, 2026) — https://www.michigan.gov/ag/news/press-releases/2026/06/29/ag-nessel-secures-order-temporarily-halting-unlawful-kalshi-michigan-operations
+
+Relevant to: prediction-market operators, sportsbooks, brokerages offering event contracts, crypto exchanges with Michigan nexus, geolocation/geofencing and compliance vendors
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</content>
+  </entry>
+  <entry>
+    <title>ICBA launches six-figure DC ad campaign against CLARITY Act stablecoin yield; passage odds fall to 42-50%</title>
+    <id>https://tg3online.github.io/regrisk-radar/#2026-06-29-clarity-act-icba-opposition</id>
+    <link href="https://tg3online.github.io/regrisk-radar/#2026-06-29-clarity-act-icba-opposition" rel="alternate" />
+    <updated>2026-06-29T22:00:00Z</updated>
+    <published>2026-06-29T22:00:00Z</published>
+    <category term="Independent Community Bankers of America (ICBA)" />
+    <content type="text">As reported by The Guardian (June 28, 2026), the ICBA launched a six-figure advertising campaign in Washington D.C. opposing CLARITY Act provisions that would allow stablecoin issuers to pay yield on holdings. ICBA argues the provisions could draw $1.3 trillion in deposits away from community banks. Galaxy Research reduced its passage estimate to approximately 50%; Polymarket priced passage at approximately 42%. A unified updated draft was expected during the July 4 weekend.
+
+Coverage: The Guardian (June 28, 2026; secondary source; corroborated by Blockhead.co, StartupFortune, Bitcoin Magazine, Bitget/CryptoRank, June 28-29) — https://www.theguardian.com/technology/2026/jun/28/crypto-v-community-local-lenders-fight-stablecoins-law
+
+Relevant to: crypto exchanges, stablecoin issuers, fintech platforms, banks, digital-asset market participants
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</content>
+  </entry>
+  <entry>
+    <title>OCC proposes AML/CFT and sanctions compliance program rules for permitted payment stablecoin issuers under the GENIUS Act (Federal Register 2026-12692)</title>
+    <id>https://tg3online.github.io/regrisk-radar/#2026-06-27-occ-ppsi-aml-cft-sanctions-nprm</id>
+    <link href="https://tg3online.github.io/regrisk-radar/#2026-06-27-occ-ppsi-aml-cft-sanctions-nprm" rel="alternate" />
+    <updated>2026-06-27T21:00:00Z</updated>
+    <published>2026-06-27T21:00:00Z</published>
+    <category term="Office of the Comptroller of the Currency (OCC), in coordination with FinCEN and OFAC" />
+    <content type="text">On June 24, 2026, the OCC — in coordination with FinCEN and OFAC — published a Notice of Proposed Rulemaking (document 2026-12692) proposing Bank Secrecy Act and sanctions compliance program standards for permitted payment stablecoin issuers (PPSIs) under the GENIUS Act. The proposal builds on a March 2, 2026 proposed rule; a public comment period is open.
+
+Primary source: Federal Register — OCC NPRM document 2026-12692 (published June 24, 2026; primary source retrieved) — https://www.federalregister.gov/documents/2026/06/24/2026-12692/permitted-payment-stablecoin-issuer-anti-money-launderingcountering-the-financing-of-terrorism-and
+
+Relevant to: permitted payment stablecoin issuers, crypto exchanges and custodians, BSA/AML compliance teams
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</content>
+  </entry>
+  <entry>
+    <title>Iowa SF 2289 grants Iowa Racing and Gaming Commission cease-and-desist and injunctive relief powers over unlicensed sweepstakes casinos; effective July 1, 2026</title>
+    <id>https://tg3online.github.io/regrisk-radar/#2026-06-27-iowa-sf2289-sweepstakes-ban</id>
+    <link href="https://tg3online.github.io/regrisk-radar/#2026-06-27-iowa-sf2289-sweepstakes-ban" rel="alternate" />
+    <updated>2026-06-27T21:00:00Z</updated>
+    <published>2026-06-27T21:00:00Z</published>
+    <category term="State of Iowa (Governor Kim Reynolds)" />
+    <content type="text">Iowa Governor Kim Reynolds signed Senate File 2289 on May 15, 2026. Effective July 1, 2026, the law grants the Iowa Racing and Gaming Commission authority to issue cease-and-desist orders and seek injunctive relief against unlicensed online sweepstakes casino operators. Platforms including High 5 Casino, Baba Casino, and Lucky Bunny Casino announced they would cut off Iowa player access effective June 30-July 1, 2026.
+
+Primary source: Iowa Legislature — SF 2289 bill page (legis.iowa.gov; primary source retrieved) — https://www.legis.iowa.gov/legislation/BillBook?ga=91&amp;ba=SF2289
+
+Relevant to: sweepstakes casino operators, dual-currency gaming platforms serving Iowa players, gaming compliance teams
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</content>
+  </entry>
+  <entry>
+    <title>Senate Democrats ask Appropriations Committee to bar CFTC from funding state prediction market preemption suits</title>
+    <id>https://tg3online.github.io/regrisk-radar/#2026-06-27-senate-cftc-appropriations-prediction-markets</id>
+    <link href="https://tg3online.github.io/regrisk-radar/#2026-06-27-senate-cftc-appropriations-prediction-markets" rel="alternate" />
+    <updated>2026-06-27T17:00:00Z</updated>
+    <published>2026-06-27T17:00:00Z</published>
+    <category term="U.S. Senate (17 Democrats)" />
+    <content type="text">On June 26, 2026, seventeen Democratic senators sent a letter to the Senate Appropriations Subcommittee on Financial Services and General Government requesting that the FY2027 appropriations bill prohibit the CFTC from using federal funds to prevent states and Tribes from enforcing their gambling laws against online prediction markets. The letter identifies eight states already sued by the CFTC.
+
+Primary source: Sen. Schiff Press Release — schiff.senate.gov (June 26, 2026; primary source retrieved) — https://www.schiff.senate.gov/news/press-releases/news-sens-schiff-padilla-join-blumenthal-merkley-in-push-to-end-cftc-assault-on-state-prediction-markets-oversight/
+
+Relevant to: Prediction market operators; gaming, fintech, and crypto platforms with US state regulatory exposure
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</content>
+  </entry>
+  <entry>
+    <title>CFTC proposes formal data-reporting rules for event contracts, ending eight-plus years of no-action relief (NPRM 9261-26)</title>
+    <id>https://tg3online.github.io/regrisk-radar/#2026-06-26-cftc-event-contracts-data-reporting-nprm</id>
+    <link href="https://tg3online.github.io/regrisk-radar/#2026-06-26-cftc-event-contracts-data-reporting-nprm" rel="alternate" />
+    <updated>2026-06-26T14:30:00Z</updated>
+    <published>2026-06-26T14:30:00Z</published>
+    <category term="CFTC" />
+    <content type="text">On June 25, 2026, the CFTC published a Notice of Proposed Rulemaking (Press Release 9261-26) proposing amendments to Parts 15, 16, and 17 of CFTC regulations to establish an alternate data-reporting framework for fully collateralized event contracts, replacing an informal reporting regime that has operated under staff no-action letters since 2017.
+
+Primary source: CFTC Press Release 9261-26 (June 25, 2026) — https://www.cftc.gov/PressRoom/PressReleases/9261-26
+
+Relevant to: prediction-market platforms, FCMs, clearing members, foreign brokers dealing in event contracts
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</content>
+  </entry>
+  <entry>
+    <title>Kalshi files federal lawsuit against Illinois over SB3019&#x27;s 15% sports prediction market gross receipts tax and state licensing requirement for DCMs; TRO and PI sought ahead of July 1 effective date</title>
+    <id>https://tg3online.github.io/regrisk-radar/#2026-06-25-kalshi-v-illinois-sb3019</id>
+    <link href="https://tg3online.github.io/regrisk-radar/#2026-06-25-kalshi-v-illinois-sb3019" rel="alternate" />
+    <updated>2026-06-25T23:50:00Z</updated>
+    <published>2026-06-25T23:50:00Z</published>
+    <category term="KalshiEx LLC (plaintiff) v. Governor JB Pritzker, Attorney General Kwame Raoul, Illinois Gaming Board — U.S. District Court, Northern District of Illinois" />
+    <content type="text">Kalshi filed a 31-page federal complaint in the N.D. Illinois on June 23, 2026. SB3019 imposes: (a) a 15% gross-receipts tax on sports prediction market revenues; (b) a state licensing requirement for CFTC-registered DCMs. Both provisions took effect July 1, 2026. Kalshi argues both provisions are preempted by the Commodity Exchange Act&#x27;s exclusive-jurisdiction clause (7 U.S.C. § 2(a)(1)(A)). The complaint seeks a TRO, preliminary injunction, and permanent injunction.
+
+Coverage (reporting filing): Courthouse News Service (June 24, 2026; corroborated by The Block, SBC Americas, CryptoTimes, Crain&#x27;s Chicago Business) — https://www.courthousenews.com/kalshi-sues-illinois-over-new-tax-on-prediction-markets/
+
+Relevant to: CFTC-registered DCMs, prediction-market operators, payment processors supporting prediction markets, crypto exchanges with Illinois nexus
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</content>
+  </entry>
+  <entry>
+    <title>Lummis publicly commits to CLARITY Act Senate floor vote in July; week of July 13 targeted; law enforcement coalition and Catholic leaders file Section 604 opposition letters</title>
+    <id>https://tg3online.github.io/regrisk-radar/#2026-06-25-clarity-act-lummis-july-floor-deadline</id>
+    <link href="https://tg3online.github.io/regrisk-radar/#2026-06-25-clarity-act-lummis-july-floor-deadline" rel="alternate" />
+    <updated>2026-06-25T23:50:00Z</updated>
+    <published>2026-06-25T23:50:00Z</published>
+    <category term="U.S. Senate (Senator Cynthia Lummis / CLARITY Act floor scheduling)" />
+    <content type="text">Senator Cynthia Lummis stated on Fox Business on June 24, 2026 that the CLARITY Act will reach the Senate floor in July, with the week of July 13 identified as the target window. Galaxy Research put passage-before-recess probability at approximately 60%. The House Financial Services Committee scheduled a July 17, 2026 field hearing. On June 23, 2026, a law enforcement coalition wrote to Acting AG Todd Blanche opposing Section 604.
+
+Coverage (reporting filing): The Defiant/Converge (June 24, 2026; corroborated by The Block and PYMNTS) — https://thedefiant.io/converge/regulation/lummis-sets-july-as-senate-floor-deadline-for-clarity-act-tells-dimon-to-read-the-bill
+
+Relevant to: crypto exchanges, stablecoin issuers, prediction-market platforms, DeFi protocols, digital asset market participants
 
 For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
 
@@ -302,7 +557,7 @@ RegRisk Radar is regulatory-risk intelligence provided for general informational
     <updated>2026-06-19T23:45:00Z</updated>
     <published>2026-06-19T23:45:00Z</published>
     <category term="U.S. Senate" />
-    <content type="text">On June 18, 2026, the U.S. Senate invoked cloture (84-8) and passed H.R. 6644. The bill includes a provision banning the Federal Reserve from issuing or creating a CBDC through December 31, 2030. The amended bill returns to the House for concurrence.
+    <content type="text">On June 18, 2026, the U.S. Senate invoked cloture (84-8) and passed H.R. 6644. The bill includes a provision banning the Federal Reserve from issuing or creating a central bank digital currency (CBDC) through December 31, 2030. The amended bill returns to the House for concurrence.
 
 Coverage (reporting filing): U.S. Senate Daily Press (June 18, 2026; corroborated by NACo and Latham Watkins analysis) — https://www.dailypress.senate.gov/thursday-june-18-2026/
 
