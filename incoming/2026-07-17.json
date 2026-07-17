@@ -1,0 +1,28 @@
+{
+  "_note": "Radar drop file (batch_2026-07-17). One facts-only entry: the House Financial Services digital-assets subcommittee CLARITY Act field hearing at Federal Hall (July 17). Official Tier 2 primary retrieved from docs.house.gov. Merged into items.json by merge_incoming.py; idempotent on id.",
+  "entries": [
+    {
+      "id": "2026-07-17-house-clarity-act-field-hearing",
+      "date": "2026-07-17",
+      "published": "2026-07-17T00:00:00Z",
+      "issuing_body": "U.S. House Committee on Financial Services, Subcommittee on Digital Assets, Financial Technology, and Artificial Intelligence",
+      "title": "House Financial Services digital assets subcommittee convenes CLARITY Act field hearing at Federal Hall, with H.Res. 111 and the American Reserve Modernization Act noticed",
+      "facts": "The U.S. House Committee on Financial Services Subcommittee on Digital Assets, Financial Technology, and Artificial Intelligence noticed a field hearing titled 'Building the Future of Finance: How the CLARITY Act Unlocks Innovation' for Friday, July 17, 2026 at 10:00 AM local time at Federal Hall National Memorial, 15 Pine Street, New York, NY. The Committee Repository entry for the hearing was first published July 10, 2026 and last updated July 15, 2026, when witness testimony, Truth in Testimony forms, and biographies were posted. Four witnesses are listed: Sarah Aberg, Chief Legal Officer, Nova Labs Inc.; Randi Abernethy, Head of Clearing and Group Risk, Bullish; Ryan Louvar, Chief Legal Officer, WisdomTree; and Jason Somensatto, Director of Policy, Coin Center. Two measures are noticed as text of legislation for the hearing: H.Res. 111, 'Expressing support for blockchain technology and digital assets,' and H.R. 8957, the American Reserve Modernization Act. A hearing notice and a committee memorandum are posted as support documents. The hearing is a legislative hearing; no markup, vote, or committee action on the CLARITY Act is noticed on the event page.",
+      "source_url": "https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=119461",
+      "source_label": "U.S. House Committee Repository — hearing event page (notice, witness testimony, and noticed legislation), July 17, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "digital asset exchanges, token issuers, custodians, stablecoin issuers, crypto market infrastructure providers",
+      "tags": [
+        "crypto",
+        "fintech",
+        "clarity-act",
+        "congress",
+        "house-financial-services",
+        "hearing",
+        "market-structure",
+        "digital-assets"
+      ]
+    }
+  ]
+}
