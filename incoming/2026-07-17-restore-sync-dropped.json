@@ -1,0 +1,79 @@
+{
+  "_note": "Restore drop file. These 3 entries were published to the public feed July 8-12 and were silently dropped on 2026-07-15 when commit bd659f3 replaced items.json with the private repo's 54-item copy (which had never synced them back). Restoring repairs their already-distributed guids/permalinks. The other 2 entries dropped by that commit are intentionally NOT restored: 2026-07-14-cftc-kalshiex-emergency-stay (LEGAL-flagged per logs/2026-07-14.md, radar-ineligible per SPEC, and duplicates live id 2026-07-14-cftc-stays-kalshi-rule-change-michigan) and 2026-07-10-arizona-adg-cd-five-online-gambling (duplicates live id 2026-07-10-arizona-gaming-cease-desist-five-operators). Merged by merge_incoming.py; idempotent on id.",
+  "entries": [
+    {
+      "id": "2026-07-12-clarity-act-senate-unified-draft-3wk-window",
+      "date": "2026-07-12",
+      "published": "2026-07-12T20:00:00Z",
+      "issuing_body": "U.S. Senate / Senate Banking & Agriculture Committees (via staff)",
+      "title": "CLARITY Act: Senate staff expected to release unified crypto market-structure draft this week; floor vote targeted July 20; August 7 recess is the hard deadline — passage odds at 50%",
+      "facts": "Multiple credible outlets (crypto.news, TechTimes, The Hill) reported on July 11-12, 2026 that Senate staff are expected to release a unified draft of the Digital Asset Market Clarity Act (H.R. 3633) during the week of July 13, 2026, merging parallel Senate Banking and Agriculture Committee texts. Floor action is targeted for the week of July 20. The Senate leaves for its August recess on August 7, 2026, leaving approximately three working weeks. Galaxy Research has reduced 2026 passage odds to 50%, citing calendar compression, down from 60% earlier in July. Three disputes remain unresolved: (1) ethics/conflict-of-interest rules covering senior officials with crypto holdings; (2) CFTC commissioner vacancies; (3) Section 604 blockchain developer shield. H.R. 3633 passed the House 294-134 on July 17, 2025; cleared Senate Banking Committee 15-9 on May 14, 2026; placed on Senate Calendar No. 423 on June 1, 2026.",
+      "source_url": "https://cryptonews.net/news/legal/33135563/",
+      "source_label": "crypto.news via Cryptonews.net — 'Three weeks to 2030: the seven-Democrat math that decides the CLARITY Act', July 11 2026 (corroborated by TechTimes July 12 and The Hill July 1)",
+      "source_type": "coverage_reporting_filing",
+      "primary_source_status": "cited_by_coverage_not_retrieved",
+      "relevant_to": "crypto exchanges, digital-asset operators, DeFi builders, token issuers, fintech operators, institutional investors",
+      "tags": [
+        "clarity-act",
+        "crypto-market-structure",
+        "senate",
+        "legislation",
+        "hard-deadline",
+        "cftc",
+        "sec",
+        "defi",
+        "stablecoin"
+      ]
+    },
+    {
+      "id": "2026-07-08-north-carolina-governor-signs-sb257-prediction-market-tax",
+      "date": "2026-07-08",
+      "published": "2026-07-08T22:00:00Z",
+      "issuing_body": "North Carolina Office of the Governor",
+      "title": "North Carolina Governor Stein signs $34B SB 257 budget enacting 6% prediction-market tax on net trading-fee revenue, effective 2027",
+      "facts": "On July 8, 2026, North Carolina Governor Josh Stein signed Senate Bill 257, the state's approximately $34 billion fiscal year 2026 budget. As reported by GamblingNews (July 8, 2026), the enacted budget includes a 6% tax on the net trading fee revenue earned by prediction market operators with North Carolina users; platforms named in reporting include Kalshi and Polymarket. The tax is scheduled to take effect in 2027. The enacted budget does not impose state gambling licensing, know-your-customer, or responsible-gaming requirements on prediction-market platforms. This item supersedes the July 6 item (2026-07-06-north-carolina-prediction-market-tax), which covered SB 257 at conference committee stage; the Governor's signing converts it to enacted law.",
+      "source_url": "https://www.gamblingnews.com/news/north-carolina-governor-signs-budget-prediction-market-tax/",
+      "source_label": "GamblingNews (July 8, 2026; reporting the Governor's signing of SB 257)",
+      "tags": [
+        "gaming",
+        "prediction-markets",
+        "tax",
+        "North-Carolina",
+        "state-legislation",
+        "SB-257",
+        "enacted-law",
+        "Kalshi",
+        "Polymarket",
+        "budget"
+      ],
+      "source_type": "media_coverage",
+      "primary_source_status": "cited_by_coverage_not_retrieved",
+      "relevant_to": "prediction-market platforms, sports-betting operators, tax and compliance teams serving operators with North Carolina users"
+    },
+    {
+      "id": "2026-07-08-new-jersey-senate-committee-approves-s4447-prediction-market-tax",
+      "date": "2026-07-08",
+      "published": "2026-07-08T22:00:00Z",
+      "issuing_body": "New Jersey Senate Budget and Appropriations Committee",
+      "title": "New Jersey Senate Budget Committee approves amended S4447 (9% prediction-market gross income tax) 9-4; amended bill explicitly recognizes CFTC as federal regulator",
+      "facts": "As reported by GamblingNews (July 8, 2026), the New Jersey Senate Budget and Appropriations Committee approved amendments to S4447 by a 9-4 vote. The amended bill imposes a 9% tax on prediction market gross income for operators offering event contracts to New Jersey residents. The amended version explicitly recognizes the CFTC as the federal regulator of prediction markets and drops prior self-exclusion requirements. The New Jersey Office of Legislative Services estimated the tax would generate approximately $10.3 million to $15.3 million annually. The bill requires a full Senate vote, Assembly action, and the Governor's signature before becoming law.",
+      "source_url": "https://www.gamblingnews.com/news/new-jersey-senate-committee-approves-s4447-prediction-market-tax/",
+      "source_label": "GamblingNews (July 8, 2026; reporting the Committee vote on S4447)",
+      "tags": [
+        "gaming",
+        "prediction-markets",
+        "tax",
+        "New-Jersey",
+        "state-legislation",
+        "S4447",
+        "committee-vote",
+        "CFTC",
+        "Kalshi",
+        "Polymarket"
+      ],
+      "source_type": "media_coverage",
+      "primary_source_status": "cited_by_coverage_not_retrieved",
+      "relevant_to": "prediction-market platforms, tax and compliance teams, payment processors serving operators with New Jersey users"
+    }
+  ]
+}
