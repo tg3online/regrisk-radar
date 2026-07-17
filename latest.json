@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-15T08:12:23Z",
+  "generated": "2026-07-17T00:50:43Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 54,
+  "count": 58,
   "items": [
     {
       "id": "2026-07-14-cftc-stays-kalshi-rule-change-michigan",
@@ -169,6 +169,96 @@
         "stablecoin",
         "CFTC",
         "SEC"
+      ]
+    },
+    {
+      "id": "2026-07-14-us-uk-transatlantic-taskforce-stablecoin-recommendations",
+      "date": "2026-07-14",
+      "published": "2026-07-14T00:00:00Z",
+      "title": "U.S.-UK Transatlantic Taskforce publishes recommendations on capital markets and digital assets, plus a joint statement on stablecoins",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-07-14-us-uk-transatlantic-taskforce-stablecoin-recommendations",
+      "issuing_body": "U.S. Department of the Treasury / HM Treasury",
+      "source_url": "https://home.treasury.gov/news/press-releases/sb0560",
+      "source_label": "U.S. Treasury Press Release SB0560 (July 14, 2026)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "stablecoin issuers, payment processors, tokenization platforms with U.S.-UK footprints",
+      "tags": [
+        "crypto",
+        "payments",
+        "fintech",
+        "stablecoins",
+        "tokenization",
+        "treasury",
+        "cross-border",
+        "policy-statement"
+      ]
+    },
+    {
+      "id": "2026-07-13-michigan-kalshi-geofencing-aug-12-deadline",
+      "date": "2026-07-13",
+      "published": "2026-07-13T00:00:00Z",
+      "title": "Michigan judge extends Kalshi sports-contract restraining order and sets Aug. 12 geofencing deadline with $500,000-per-day fines",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-07-13-michigan-kalshi-geofencing-aug-12-deadline",
+      "issuing_body": "Ingham County Circuit Court (Michigan) — Judge Rosemarie Aquilina",
+      "source_url": "https://www.legalsportsreport.com/269718/michigans-ban-on-kalshi-sports-contracts-extended-into-august/",
+      "source_label": "Legal Sports Report (July 14, 2026); corroborated by Gaming America (July 14, 2026)",
+      "source_type": "coverage_reporting_filing",
+      "primary_source_status": "cited_by_coverage_not_retrieved",
+      "relevant_to": "prediction-market platforms, sportsbooks, gaming operators with Michigan users",
+      "tags": [
+        "gaming",
+        "prediction-markets",
+        "michigan",
+        "geofencing",
+        "hard-deadline",
+        "preemption",
+        "Kalshi",
+        "state-enforcement"
+      ]
+    },
+    {
+      "id": "2026-07-13-icba-aba-clarity-act-stablecoin-yield-letter",
+      "date": "2026-07-13",
+      "published": "2026-07-13T00:00:00Z",
+      "title": "ICBA, ABA and 76 state banking associations urge Senate leaders to tighten CLARITY Act Section 404 stablecoin yield provisions",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-07-13-icba-aba-clarity-act-stablecoin-yield-letter",
+      "issuing_body": "Independent Community Bankers of America / American Bankers Association",
+      "source_url": "https://www.icba.org/web/payments/w/icba-aba-join-state-associations-in-urging-senate-to-strengthen-stablecoin-yield-provisions-in-clarity-act",
+      "source_label": "ICBA announcement (July 13, 2026)",
+      "source_type": "coverage_reporting_filing",
+      "primary_source_status": "cited_by_coverage_not_retrieved",
+      "relevant_to": "stablecoin issuers, exchanges running rewards programs, payments and fintech operators",
+      "tags": [
+        "crypto",
+        "payments",
+        "fintech",
+        "stablecoins",
+        "clarity-act",
+        "congress",
+        "advocacy"
+      ]
+    },
+    {
+      "id": "2026-07-10-arizona-gaming-cease-desist-five-operators",
+      "date": "2026-07-10",
+      "published": "2026-07-10T00:00:00Z",
+      "title": "Arizona Department of Gaming issues cease-and-desist orders to five online gambling operators alleging felony promotion of gambling, illegal control of an enterprise, and money laundering",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-07-10-arizona-gaming-cease-desist-five-operators",
+      "issuing_body": "Arizona Department of Gaming",
+      "source_url": "https://gaming.az.gov/sites/default/files/July%2026_ADG%20Cease%20and%20Desist%20Orders_Press%20Release.pdf",
+      "source_label": "Arizona Department of Gaming press release (July 10, 2026)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "sweepstakes and social-casino operators, online sportsbooks, DFS and raffle platforms",
+      "tags": [
+        "gaming",
+        "sweepstakes",
+        "state-enforcement",
+        "cease-and-desist",
+        "arizona",
+        "unlicensed-operators",
+        "underage"
       ]
     },
     {
