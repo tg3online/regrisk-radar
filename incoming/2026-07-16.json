@@ -1,0 +1,73 @@
+{
+  "_note": "Daily radar drop file (batch_2026-07-16). Merged into items.json by .github/workflows/merge.yml (merge_incoming.py), which deletes this file in the merge commit. Idempotent on id. The fourth batch entry (2026-07-10-arizona-gaming-cease-desist-five-operators) is HELD in the private repo pending TG's client-conflict check.",
+  "entries": [
+    {
+      "id": "2026-07-14-us-uk-transatlantic-taskforce-stablecoin-recommendations",
+      "date": "2026-07-14",
+      "published": "2026-07-14T00:00:00Z",
+      "issuing_body": "U.S. Department of the Treasury / HM Treasury",
+      "title": "U.S.-UK Transatlantic Taskforce publishes recommendations on capital markets and digital assets, plus a joint statement on stablecoins",
+      "facts": "On July 14, 2026, the U.S. Department of the Treasury and HM Treasury jointly published recommendations of the Transatlantic Taskforce for Markets of the Future (Treasury press release SB0560). Treasury states the recommendations aim to deepen cross-border financial activity between the United States and the United Kingdom, reduce unnecessary frictions, and advance open, market-based standards, and that they identify opportunities to enhance cross-border capital raising, update supervisory cooperation, and provide clarity for tokenized financial activity. Following one of the Taskforce's recommendations, the United States and the UK released a joint statement on stablecoins the same day, which Treasury says supports dynamic cross-border stablecoin activity and highlights the key role of the private sector in the provision of money and payments. Treasury Secretary Scott Bessent said the Taskforce 'reflects the strength and depth of U.S. and UK markets and our shared commitment to fostering economic growth and advancing global standards that reward innovation and competition.' The Taskforce was established by Secretary Bessent and UK Chancellor of the Exchequer Rachel Reeves in September 2025 and is co-chaired by U.S. Treasury and HM Treasury with participants from U.S. and UK financial sector regulatory agencies.",
+      "source_url": "https://home.treasury.gov/news/press-releases/sb0560",
+      "source_label": "U.S. Treasury Press Release SB0560 (July 14, 2026)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "stablecoin issuers, payment processors, tokenization platforms with U.S.-UK footprints",
+      "tags": [
+        "crypto",
+        "payments",
+        "fintech",
+        "stablecoins",
+        "tokenization",
+        "treasury",
+        "cross-border",
+        "policy-statement"
+      ]
+    },
+    {
+      "id": "2026-07-13-michigan-kalshi-geofencing-aug-12-deadline",
+      "date": "2026-07-13",
+      "published": "2026-07-13T00:00:00Z",
+      "issuing_body": "Ingham County Circuit Court (Michigan) — Judge Rosemarie Aquilina",
+      "title": "Michigan judge extends Kalshi sports-contract restraining order and sets Aug. 12 geofencing deadline with $500,000-per-day fines",
+      "facts": "As reported by Legal Sports Report and Gaming America on July 14, 2026, Ingham County Circuit Court Judge Rosemarie Aquilina heard arguments from the State of Michigan and KalshiEX on Monday, July 13, 2026, and extended the temporary restraining order against Kalshi's sports event contracts without setting an expiration date, ordering Kalshi to geofence the state by the end of day August 12, 2026. Per that coverage, if Kalshi does not geofence by that date it could face a $500,000 daily fine for violating the order, and Aquilina said Kalshi could also be punished under the initial $120,000-per-day penalties if it delays within the 30-day period, stating 'If you sit on it for 29 days, there will be sanctions.' Kalshi argued it falls under CFTC and Commodity Exchange Act regulation; Aquilina found conflict preemption did not apply because Kalshi can comply with both state and federal law simultaneously. The parties are scheduled to appear in court again the following week. The written order was not published on a free public docket and was not retrieved.",
+      "source_url": "https://www.legalsportsreport.com/269718/michigans-ban-on-kalshi-sports-contracts-extended-into-august/",
+      "source_label": "Legal Sports Report (July 14, 2026); corroborated by Gaming America (July 14, 2026)",
+      "source_type": "coverage_reporting_filing",
+      "primary_source_status": "cited_by_coverage_not_retrieved",
+      "relevant_to": "prediction-market platforms, sportsbooks, gaming operators with Michigan users",
+      "tags": [
+        "gaming",
+        "prediction-markets",
+        "michigan",
+        "geofencing",
+        "hard-deadline",
+        "preemption",
+        "Kalshi",
+        "state-enforcement"
+      ]
+    },
+    {
+      "id": "2026-07-13-icba-aba-clarity-act-stablecoin-yield-letter",
+      "date": "2026-07-13",
+      "published": "2026-07-13T00:00:00Z",
+      "issuing_body": "Independent Community Bankers of America / American Bankers Association",
+      "title": "ICBA, ABA and 76 state banking associations urge Senate leaders to tighten CLARITY Act Section 404 stablecoin yield provisions",
+      "facts": "As announced by the Independent Community Bankers of America on July 13, 2026, the American Bankers Association and ICBA, joined by 76 state associations, sent a letter to Senate Majority Leader John Thune and Minority Leader Charles Schumer urging targeted changes to the CLARITY Act to provide greater certainty that payment stablecoins cannot function as substitutes for bank deposits. The associations wrote that 'significant questions remain regarding whether the current language in Section 404 provides sufficient clarity and certainty to achieve that objective' and that 'ambiguities within the bill could encourage stablecoin arrangements to effectively function as substitutes for deposits, despite Congress's longstanding and clearly stated intent that payment stablecoins should serve as transaction tools rather than store-of-value products.' They urge revisions clarifying the prohibition on interest and yield, replacing the bill's 'functional and economic equivalent' standard with a 'substantially similar' standard, and removing language they believe could create ambiguity regarding rewards tied to stablecoin balances, duration or tenure. The underlying letter is linked from the announcement and was not independently retrieved.",
+      "source_url": "https://www.icba.org/web/payments/w/icba-aba-join-state-associations-in-urging-senate-to-strengthen-stablecoin-yield-provisions-in-clarity-act",
+      "source_label": "ICBA announcement (July 13, 2026)",
+      "source_type": "coverage_reporting_filing",
+      "primary_source_status": "cited_by_coverage_not_retrieved",
+      "relevant_to": "stablecoin issuers, exchanges running rewards programs, payments and fintech operators",
+      "tags": [
+        "crypto",
+        "payments",
+        "fintech",
+        "stablecoins",
+        "clarity-act",
+        "congress",
+        "advocacy"
+      ]
+    }
+  ]
+}

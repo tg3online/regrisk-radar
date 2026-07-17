@@ -1,10 +1,28 @@
 # RegRisk Radar — render & publish protocol
 
 The public site **design + all distribution endpoints live in `render.py`**, not
-in any agent/Cowork prompt. `render.py` reads `items.json` (the only file you edit
-to publish) and regenerates every output file.
+in any agent/Cowork prompt. `render.py` reads `items.json` (the data source for
+every output) and regenerates every output file.
 
-## Publishing a new item (Cowork task)
+## Publishing new items — drop-file path (agents / Cowork). THE publish path.
+
+`items.json` outgrew the GitHub connector's read/write limits (~84KB as of
+2026-07-16), so agents must **NOT** read or edit `items.json` directly. To
+publish:
+
+1. Write a small drop file `incoming/YYYY-MM-DD.json` containing ONLY the new
+   item objects (schema below): `{"entries": [ ... ]}`. A top-level `_note`
+   key is allowed and ignored. If that day's file already merged, use a suffix
+   (`incoming/YYYY-MM-DDb.json`).
+2. Push it to `main`. Touch nothing else.
+3. `.github/workflows/merge.yml` runs `merge_incoming.py` — validates the
+   public-safe schema (an entry carrying any gated-layer or unknown field fails
+   the WHOLE merge; nothing publishes), skips ids already in `items.json`
+   (idempotent on re-push), keeps items sorted by `published` desc — then runs
+   `render.py` and commits `items.json` + all rendered outputs, deleting the
+   processed drop file in the same commit.
+
+## Publishing by hand (TG, manual fallback)
 1. Read `items.json`.
 2. Prepend the new item object(s) to the `items` array (schema below).
    Keep it facts-only; verify every claim against the source.
@@ -33,8 +51,9 @@ to publish) and regenerates every output file.
   "For operator-impact analysis and watchlist implications, join RegRisk Radar."
 
 ## Per-item schema — PUBLIC-SAFE FIELDS ONLY
-This repo is **public** (world-readable), so anything in `items.json` is public
-even if not rendered. Only these fields belong here:
+This repo is **public** (world-readable), so anything in `items.json` — or in an
+`incoming/` drop file — is public even if not rendered. Only these fields belong
+here:
 
 - `id` (`YYYY-MM-DD-<slug>`), `date`, `published` (ISO `...Z`)
 - `issuing_body`, `title`, `facts` (facts-only, RSS-safe)
@@ -54,10 +73,13 @@ Label honestly; never call media a primary source.
 ## DO NOT put the gated layer in this repo
 severity, operator_exposure, why_it_matters, deadline_or_next_date,
 watchlist_implication, non_obvious_signal — the paid + legal-judgment layer —
-must NEVER be added to `items.json`. They live in the private repo + Beehiiv,
-human/attorney-reviewed, never auto-published.
+must NEVER be added to `items.json` or any `incoming/` drop file. They live in
+the private repo + Beehiiv, human/attorney-reviewed, never auto-published.
+`merge_incoming.py` enforces this: a drop-file entry carrying a gated or unknown
+field fails the merge and nothing is committed.
 
 ## Hard rule (this is what broke before)
-Do NOT hand-write or template any HTML/feed in the task prompt. Only edit
-`items.json` and run `render.py`. Any design / branding / distribution change goes
-in `render.py` (brand + CTA constants are at the top).
+Do NOT hand-write or template any HTML/feed in the task prompt. Only push
+`incoming/` drop files (agents) or edit `items.json` + run `render.py` (TG, by
+hand). Any design / branding / distribution change goes in `render.py` (brand +
+CTA constants are at the top).
