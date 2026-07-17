@@ -1,8 +1,31 @@
 {
-  "generated": "2026-07-17T00:50:43Z",
+  "generated": "2026-07-17T20:10:57Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 58,
+  "count": 62,
   "items": [
+    {
+      "id": "2026-07-17-house-clarity-act-field-hearing",
+      "date": "2026-07-17",
+      "published": "2026-07-17T00:00:00Z",
+      "title": "House Financial Services digital assets subcommittee convenes CLARITY Act field hearing at Federal Hall, with H.Res. 111 and the American Reserve Modernization Act noticed",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-07-17-house-clarity-act-field-hearing",
+      "issuing_body": "U.S. House Committee on Financial Services, Subcommittee on Digital Assets, Financial Technology, and Artificial Intelligence",
+      "source_url": "https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=119461",
+      "source_label": "U.S. House Committee Repository — hearing event page (notice, witness testimony, and noticed legislation), July 17, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "digital asset exchanges, token issuers, custodians, stablecoin issuers, crypto market infrastructure providers",
+      "tags": [
+        "crypto",
+        "fintech",
+        "clarity-act",
+        "congress",
+        "house-financial-services",
+        "hearing",
+        "market-structure",
+        "digital-assets"
+      ]
+    },
     {
       "id": "2026-07-14-cftc-stays-kalshi-rule-change-michigan",
       "date": "2026-07-14",
@@ -240,6 +263,30 @@
       ]
     },
     {
+      "id": "2026-07-12-clarity-act-senate-unified-draft-3wk-window",
+      "date": "2026-07-12",
+      "published": "2026-07-12T20:00:00Z",
+      "title": "CLARITY Act: Senate staff expected to release unified crypto market-structure draft this week; floor vote targeted July 20; August 7 recess is the hard deadline — passage odds at 50%",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-07-12-clarity-act-senate-unified-draft-3wk-window",
+      "issuing_body": "U.S. Senate / Senate Banking & Agriculture Committees (via staff)",
+      "source_url": "https://cryptonews.net/news/legal/33135563/",
+      "source_label": "crypto.news via Cryptonews.net — 'Three weeks to 2030: the seven-Democrat math that decides the CLARITY Act', July 11 2026 (corroborated by TechTimes July 12 and The Hill July 1)",
+      "source_type": "coverage_reporting_filing",
+      "primary_source_status": "cited_by_coverage_not_retrieved",
+      "relevant_to": "crypto exchanges, digital-asset operators, DeFi builders, token issuers, fintech operators, institutional investors",
+      "tags": [
+        "clarity-act",
+        "crypto-market-structure",
+        "senate",
+        "legislation",
+        "hard-deadline",
+        "cftc",
+        "sec",
+        "defi",
+        "stablecoin"
+      ]
+    },
+    {
       "id": "2026-07-10-arizona-gaming-cease-desist-five-operators",
       "date": "2026-07-10",
       "published": "2026-07-10T00:00:00Z",
@@ -259,6 +306,56 @@
         "arizona",
         "unlicensed-operators",
         "underage"
+      ]
+    },
+    {
+      "id": "2026-07-08-north-carolina-governor-signs-sb257-prediction-market-tax",
+      "date": "2026-07-08",
+      "published": "2026-07-08T22:00:00Z",
+      "title": "North Carolina Governor Stein signs $34B SB 257 budget enacting 6% prediction-market tax on net trading-fee revenue, effective 2027",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-07-08-north-carolina-governor-signs-sb257-prediction-market-tax",
+      "issuing_body": "North Carolina Office of the Governor",
+      "source_url": "https://www.gamblingnews.com/news/north-carolina-governor-signs-budget-prediction-market-tax/",
+      "source_label": "GamblingNews (July 8, 2026; reporting the Governor's signing of SB 257)",
+      "source_type": "media_coverage",
+      "primary_source_status": "cited_by_coverage_not_retrieved",
+      "relevant_to": "prediction-market platforms, sports-betting operators, tax and compliance teams serving operators with North Carolina users",
+      "tags": [
+        "gaming",
+        "prediction-markets",
+        "tax",
+        "North-Carolina",
+        "state-legislation",
+        "SB-257",
+        "enacted-law",
+        "Kalshi",
+        "Polymarket",
+        "budget"
+      ]
+    },
+    {
+      "id": "2026-07-08-new-jersey-senate-committee-approves-s4447-prediction-market-tax",
+      "date": "2026-07-08",
+      "published": "2026-07-08T22:00:00Z",
+      "title": "New Jersey Senate Budget Committee approves amended S4447 (9% prediction-market gross income tax) 9-4; amended bill explicitly recognizes CFTC as federal regulator",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-07-08-new-jersey-senate-committee-approves-s4447-prediction-market-tax",
+      "issuing_body": "New Jersey Senate Budget and Appropriations Committee",
+      "source_url": "https://www.gamblingnews.com/news/new-jersey-senate-committee-approves-s4447-prediction-market-tax/",
+      "source_label": "GamblingNews (July 8, 2026; reporting the Committee vote on S4447)",
+      "source_type": "media_coverage",
+      "primary_source_status": "cited_by_coverage_not_retrieved",
+      "relevant_to": "prediction-market platforms, tax and compliance teams, payment processors serving operators with New Jersey users",
+      "tags": [
+        "gaming",
+        "prediction-markets",
+        "tax",
+        "New-Jersey",
+        "state-legislation",
+        "S4447",
+        "committee-vote",
+        "CFTC",
+        "Kalshi",
+        "Polymarket"
       ]
     },
     {
