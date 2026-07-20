@@ -31,11 +31,17 @@ jobs:
         run: python3 render.py
       - name: Commit merged data and rendered outputs
         run: |
-          FILES="items.json index.html feed.xml atom.xml feed.json latest.json sitemap.xml robots.txt incoming merge_incoming.py render.py"
-          if [ -n "$(git status --porcelain $FILES)" ]; then
+          FILES="items.json index.html feed.xml atom.xml feed.json latest.json sitemap.xml robots.txt merge_incoming.py render.py"
+          STATUS="$(git status --porcelain $FILES incoming 2>/dev/null || git status --porcelain $FILES)"
+          if [ -n "$STATUS" ]; then
             git config user.name "regrisk-merge-bot"
             git config user.email "github-actions[bot]@users.noreply.github.com"
             git add $FILES
+            if [ -d incoming ]; then
+              git add incoming
+            else
+              git add -u incoming 2>/dev/null || true
+            fi
             git commit -m "radar: merge incoming drops [auto]"
             git push
           fi
