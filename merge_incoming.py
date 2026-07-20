@@ -125,7 +125,15 @@ def main():
           (": " + ", ".join(added)) if added else ""))
     if skipped:
         print("skipped %d already-present id(s): %s" % (len(skipped), ", ".join(skipped)))
+    # Delete processed drop files only after every entry in every file has
+    # validated and items.json has been written. This keeps incoming/ as a
+    # true queue: failed merges leave the drop files in place for inspection;
+    # successful merges commit the data and remove the processed drops.
+    for path in drops:
+        os.remove(path)
+
     print("items.json now holds %d items" % len(items))
+    print("deleted %d processed drop file(s) from incoming/" % len(drops))
 
 
 if __name__ == "__main__":

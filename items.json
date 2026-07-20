@@ -8,6 +8,52 @@
   },
   "items": [
     {
+      "id": "2026-07-18-warsh-house-testimony-crypto-no-bailout",
+      "date": "2026-07-14",
+      "published": "2026-07-18T21:00:00Z",
+      "issuing_body": "Federal Reserve Board",
+      "title": "Fed Chair Warsh testifies to House Financial Services: no Federal Reserve bailout for crypto or stablecoins; Fed 'racing' to meet GENIUS Act stablecoin rulemaking deadline; nonbank fintech payment access pressed",
+      "facts": "Federal Reserve Chairman Kevin Warsh testified before the House Committee on Financial Services on July 14, 2026, as part of the Semiannual Monetary Policy Report (2128 Rayburn House Office Building, 10:00 AM). The official prepared statement focused on price stability, monetary policy, and internal Fed task forces. During the Q&A, Warsh made three statements directly relevant to crypto, stablecoin, and fintech operators: (1) No Federal Reserve bailout for crypto or stablecoins: Pressed by Rep. Brad Sherman on whether the Fed would provide the kind of support it gave money market funds in 2008, Warsh stated 'We do not want to be in the bailout business, full stop.' He added that the Fed would 'do everything we can to mitigate... extraordinary risks' but would not bail out crypto. He did not fully rule out marginal systemic-spillover mitigation. (2) GENIUS Act rulemaking urgency: Warsh told lawmakers the Fed is 'racing' to finalize its portion of the GENIUS Act stablecoin implementing rules ahead of the July 18, 2026 one-year statutory deadline. The deadline has since been confirmed missed (the Federal Register contains no in-scope publication; July 18 is a Saturday; earliest possible publication is Monday July 20). (3) Nonbank fintech payment-system access: Rep. Sherman separately pressed on Kraken's pending bank application and nonbank crypto firms seeking direct access to the payment system; Warsh invoked systemic-risk considerations without making a specific commitment. Background: Warsh is the most crypto-sympathetic Fed Chair on record, having previously disclosed venture stakes in Bitcoin payments, a crypto index manager, Bitwise, and a stablecoin venture â all divested under Fed ethics rules prior to confirmation in May 2026. A 2026 New York Fed staff report cited in contemporaneous coverage found stablecoin activity can transmit liquidity stress to banks and complicate monetary policy. This is Warsh's first congressional testimony since his confirmation. Secondary coverage: Law360, July 14, 2026 ('Fed Racing To Hit Genius Act Rules Deadline, Warsh Says'); CCN via Yahoo Finance, July 15, 2026 ('Fed Chair Kevin Warsh Says Crypto and Stablecoins Are On Their Own in a Crisis').",
+      "source_url": "https://www.federalreserve.gov/newsevents/testimony/warsh20260714a.htm",
+      "source_label": "Federal Reserve Board â Semiannual Monetary Policy Report Testimony, Chairman Kevin Warsh, House Committee on Financial Services, July 14, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "stablecoin issuers, crypto banks, nonbank payment providers, fintech firms seeking Fed master accounts, crypto exchanges with pending bank applications",
+      "tags": [
+        "stablecoin",
+        "digital-assets",
+        "fintech",
+        "crypto-banking",
+        "fed",
+        "testimony",
+        "genius-act",
+        "no-bailout",
+        "master-account",
+        "payment-system-access"
+      ]
+    },
+    {
+      "id": "2026-07-19-water-street-labs-cftc-dcm",
+      "date": "2026-07-19",
+      "published": "2026-07-17T08:42:00Z",
+      "issuing_body": "Commodity Futures Trading Commission (CFTC)",
+      "title": "CFTC Approves Water Street Labs, LLC as New Designated Contract Market for Fully Collateralized Event Contract Products",
+      "facts": "The CFTC approved Water Street Labs, LLC's application to become a designated contract market (DCM), as reported by Gambling Insider and DeFiRate (July 17, 2026). Both reports attribute the approval to an official CFTC designation order. According to the reports, Water Street Labs plans to offer fully collateralized products through both a central limit order book and a parimutuel auction model. No formal CFTC press release number was located on cftc.gov corresponding to this designation at time of publication.",
+      "source_url": "https://www.gamblinginsider.com/news/175442/prediction-markets-weekly-roundup-court-battles-cftc-kalshi-products",
+      "source_label": "Gambling Insider â Prediction Markets Weekly Roundup (July 17, 2026), corroborated by DeFiRate",
+      "tags": [
+        "prediction-markets",
+        "cftc",
+        "dcm",
+        "event-contracts",
+        "fintech",
+        "water-street-labs"
+      ],
+      "source_type": "media_coverage",
+      "primary_source_status": "cited_by_coverage_not_retrieved",
+      "relevant_to": "Prediction-market platforms, event-contract exchanges, fintech operators in the derivatives and event-contracts space"
+    },
+    {
       "id": "2026-07-17-house-clarity-act-field-hearing",
       "date": "2026-07-17",
       "published": "2026-07-17T00:00:00Z",
@@ -29,6 +75,27 @@
         "market-structure",
         "digital-assets"
       ]
+    },
+    {
+      "id": "2026-07-19-nc-sweepstakes-supreme-court-amicus",
+      "date": "2026-07-19",
+      "published": "2026-07-16T00:00:00Z",
+      "issuing_body": "North Carolina Supreme Court (amicus filers: NC Sheriffs' Association, NC Association of Chiefs of Police, NC Conference of District Attorneys, NC Family Policy Council)",
+      "title": "NC Law Enforcement Groups and Family Policy Council File Amicus Briefs Against Video Sweepstakes Operator at NC Supreme Court; Oral Arguments Set for September 2026",
+      "facts": "On July 16, 2026, the North Carolina Sheriffs' Association, North Carolina Association of Chiefs of Police, and North Carolina Conference of District Attorneys filed a joint amicus brief in No Limit Games v. Sheriff of Robeson County at the North Carolina Supreme Court, urging the court to uphold the Court of Appeals' 2-1 December 2024 ruling that No Limit Games' video sweepstakes devices violate N.C. Gen. Stat. Â§ 14-306.4. The North Carolina Family Policy Council filed a separate amicus brief the same day. Oral arguments are scheduled for September 2026. The case involves whether No Limit's sweepstakes system â which includes an optional skill-based 'Instant Reveal' function â falls outside the statutory prohibition on video games of chance used in the entry or reveal of sweepstakes prizes. A trial court granted an injunction in No Limit's favor in 2023; the Court of Appeals reversed 2-1 in December 2024.",
+      "source_url": "https://www.carolinajournal.com/video-sweepstakes-case-at-top-nc-court-attracts-outside-interest/",
+      "source_label": "Carolina Journal â Video sweepstakes case at top NC court attracts outside interest (July 16, 2026); amicus briefs filed at ncappellatecourts.org",
+      "tags": [
+        "sweepstakes",
+        "gaming",
+        "nc-supreme-court",
+        "skill-gaming",
+        "amicus",
+        "state-enforcement"
+      ],
+      "source_type": "coverage_reporting_filing",
+      "primary_source_status": "cited_by_coverage_not_retrieved",
+      "relevant_to": "Sweepstakes casino operators, skill-gaming platforms, gaming companies with North Carolina exposure"
     },
     {
       "id": "2026-07-14-cftc-stays-kalshi-rule-change-michigan",
@@ -78,6 +145,29 @@
         "compliance",
         "BSA"
       ]
+    },
+    {
+      "id": "2026-07-19-kalshi-sdny-injunction-appeal",
+      "date": "2026-07-19",
+      "published": "2026-07-15T00:00:00Z",
+      "issuing_body": "KalshiEX LLC / U.S. District Court, Southern District of New York (No. 25-cv-08846-AT, Judge Analisa Torres)",
+      "title": "Kalshi Seeks Emergency Injunction Pending Appeal in SDNY Case; New York Agrees to No-Enforcement Standstill Through July 30, Kalshi to Seek Second Circuit Relief July 23",
+      "facts": "On July 15, 2026, KalshiEX LLC filed a letter motion in KalshiEX LLC v. Williams (No. 25-cv-08846-AT, S.D.N.Y., Judge Analisa Torres) seeking an emergency injunction pending appeal of the court's prior denial of a preliminary injunction. The filing states that defendants (New York state officials) agreed not to bring an enforcement action against Kalshi under New York law through July 30, 2026, while the motion is pending. If the court does not grant relief, Kalshi intends to seek a Second Circuit injunction pending appeal on July 23, 2026. The motion argues that the case presents serious legal questions about whether the Commodity Exchange Act preempts state gambling laws, noting the Third Circuit ruled for Kalshi in KalshiEX LLC v. Flaherty (172 F.4th 220, 3d Cir. 2026), while a separate federal preemption suit (CFTC v. New York, No. 26-cv-3404, S.D.N.Y., Judge Marrero) is pending in the same district. Source: primary court document (Docket 110, letter motion filed by Grant Mainland, Milbank) retrieved via CourtListener/RECAP.",
+      "source_url": "https://storage.courtlistener.com/recap/gov.uscourts.nysd.651836/gov.uscourts.nysd.651836.110.0.pdf",
+      "source_label": "KalshiEX LLC v. Williams, No. 25-cv-08846-AT (S.D.N.Y.) â Motion for Injunction Pending Appeal, filed July 15, 2026 (via CourtListener/RECAP, Docket 110)",
+      "tags": [
+        "prediction-markets",
+        "kalshi",
+        "preemption",
+        "sdny",
+        "second-circuit",
+        "injunction",
+        "cftc",
+        "state-enforcement"
+      ],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "Prediction-market platforms, CFTC-registered exchanges, gaming operators with New York exposure"
     },
     {
       "id": "2026-07-11-genius-act-stablecoin-rulemaking-july-18-deadline",

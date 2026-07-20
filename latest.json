@@ -1,8 +1,54 @@
 {
-  "generated": "2026-07-17T20:10:57Z",
+  "generated": "2026-07-20T17:15:57Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 62,
+  "count": 66,
   "items": [
+    {
+      "id": "2026-07-18-warsh-house-testimony-crypto-no-bailout",
+      "date": "2026-07-14",
+      "published": "2026-07-18T21:00:00Z",
+      "title": "Fed Chair Warsh testifies to House Financial Services: no Federal Reserve bailout for crypto or stablecoins; Fed 'racing' to meet GENIUS Act stablecoin rulemaking deadline; nonbank fintech payment access pressed",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-07-18-warsh-house-testimony-crypto-no-bailout",
+      "issuing_body": "Federal Reserve Board",
+      "source_url": "https://www.federalreserve.gov/newsevents/testimony/warsh20260714a.htm",
+      "source_label": "Federal Reserve Board â Semiannual Monetary Policy Report Testimony, Chairman Kevin Warsh, House Committee on Financial Services, July 14, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "stablecoin issuers, crypto banks, nonbank payment providers, fintech firms seeking Fed master accounts, crypto exchanges with pending bank applications",
+      "tags": [
+        "stablecoin",
+        "digital-assets",
+        "fintech",
+        "crypto-banking",
+        "fed",
+        "testimony",
+        "genius-act",
+        "no-bailout",
+        "master-account",
+        "payment-system-access"
+      ]
+    },
+    {
+      "id": "2026-07-19-water-street-labs-cftc-dcm",
+      "date": "2026-07-19",
+      "published": "2026-07-17T08:42:00Z",
+      "title": "CFTC Approves Water Street Labs, LLC as New Designated Contract Market for Fully Collateralized Event Contract Products",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-07-19-water-street-labs-cftc-dcm",
+      "issuing_body": "Commodity Futures Trading Commission (CFTC)",
+      "source_url": "https://www.gamblinginsider.com/news/175442/prediction-markets-weekly-roundup-court-battles-cftc-kalshi-products",
+      "source_label": "Gambling Insider â Prediction Markets Weekly Roundup (July 17, 2026), corroborated by DeFiRate",
+      "source_type": "media_coverage",
+      "primary_source_status": "cited_by_coverage_not_retrieved",
+      "relevant_to": "Prediction-market platforms, event-contract exchanges, fintech operators in the derivatives and event-contracts space",
+      "tags": [
+        "prediction-markets",
+        "cftc",
+        "dcm",
+        "event-contracts",
+        "fintech",
+        "water-street-labs"
+      ]
+    },
     {
       "id": "2026-07-17-house-clarity-act-field-hearing",
       "date": "2026-07-17",
@@ -24,6 +70,27 @@
         "hearing",
         "market-structure",
         "digital-assets"
+      ]
+    },
+    {
+      "id": "2026-07-19-nc-sweepstakes-supreme-court-amicus",
+      "date": "2026-07-19",
+      "published": "2026-07-16T00:00:00Z",
+      "title": "NC Law Enforcement Groups and Family Policy Council File Amicus Briefs Against Video Sweepstakes Operator at NC Supreme Court; Oral Arguments Set for September 2026",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-07-19-nc-sweepstakes-supreme-court-amicus",
+      "issuing_body": "North Carolina Supreme Court (amicus filers: NC Sheriffs' Association, NC Association of Chiefs of Police, NC Conference of District Attorneys, NC Family Policy Council)",
+      "source_url": "https://www.carolinajournal.com/video-sweepstakes-case-at-top-nc-court-attracts-outside-interest/",
+      "source_label": "Carolina Journal â Video sweepstakes case at top NC court attracts outside interest (July 16, 2026); amicus briefs filed at ncappellatecourts.org",
+      "source_type": "coverage_reporting_filing",
+      "primary_source_status": "cited_by_coverage_not_retrieved",
+      "relevant_to": "Sweepstakes casino operators, skill-gaming platforms, gaming companies with North Carolina exposure",
+      "tags": [
+        "sweepstakes",
+        "gaming",
+        "nc-supreme-court",
+        "skill-gaming",
+        "amicus",
+        "state-enforcement"
       ]
     },
     {
@@ -73,6 +140,29 @@
         "wallet-addresses",
         "compliance",
         "BSA"
+      ]
+    },
+    {
+      "id": "2026-07-19-kalshi-sdny-injunction-appeal",
+      "date": "2026-07-19",
+      "published": "2026-07-15T00:00:00Z",
+      "title": "Kalshi Seeks Emergency Injunction Pending Appeal in SDNY Case; New York Agrees to No-Enforcement Standstill Through July 30, Kalshi to Seek Second Circuit Relief July 23",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-07-19-kalshi-sdny-injunction-appeal",
+      "issuing_body": "KalshiEX LLC / U.S. District Court, Southern District of New York (No. 25-cv-08846-AT, Judge Analisa Torres)",
+      "source_url": "https://storage.courtlistener.com/recap/gov.uscourts.nysd.651836/gov.uscourts.nysd.651836.110.0.pdf",
+      "source_label": "KalshiEX LLC v. Williams, No. 25-cv-08846-AT (S.D.N.Y.) â Motion for Injunction Pending Appeal, filed July 15, 2026 (via CourtListener/RECAP, Docket 110)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "Prediction-market platforms, CFTC-registered exchanges, gaming operators with New York exposure",
+      "tags": [
+        "prediction-markets",
+        "kalshi",
+        "preemption",
+        "sdny",
+        "second-circuit",
+        "injunction",
+        "cftc",
+        "state-enforcement"
       ]
     },
     {

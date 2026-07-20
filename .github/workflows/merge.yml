@@ -1,0 +1,41 @@
+name: Merge incoming radar drops
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'incoming/*.json'
+      - 'merge_incoming.py'
+      - 'render.py'
+      - '.github/workflows/merge.yml'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: merge-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - name: Merge incoming drop files
+        run: python3 merge_incoming.py
+      - name: Render outputs from items.json
+        run: python3 render.py
+      - name: Commit merged data and rendered outputs
+        run: |
+          FILES="items.json index.html feed.xml atom.xml feed.json latest.json sitemap.xml robots.txt incoming merge_incoming.py render.py"
+          if [ -n "$(git status --porcelain $FILES)" ]; then
+            git config user.name "regrisk-merge-bot"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add $FILES
+            git commit -m "radar: merge incoming drops [auto]"
+            git push
+          fi
