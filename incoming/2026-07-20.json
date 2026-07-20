@@ -1,0 +1,18 @@
+{
+  "entries": [
+    {
+      "id": "2026-07-20-fdic-genius-act-ppsi-reporting-forms",
+      "date": "2026-07-20",
+      "published": "2026-07-20",
+      "issuing_body": "Federal Deposit Insurance Corporation",
+      "title": "FDIC publishes GENIUS Act PPSI reporting forms for PRA comment (FR Doc. 2026-14589, 91 FR 45274)",
+      "facts": "On July 20, 2026 (filed on public inspection July 17), the FDIC published a Paperwork Reduction Act notice (FR Doc. 2026-14589, 91 FR 45274) requesting 60-day public comment on proposed weekly and quarterly reporting forms for FDIC-supervised Permitted Payment Stablecoin Issuers (PPSIs). The notice is associated with the FDIC's GENIUS Act PPSI NPRM (April 10, 2026, 91 FR 18534). Weekly Form PS-01 (for PPSIs with $1 billion or more in total outstanding issuance value or $100 million or more in average daily transaction volume) includes eight schedules covering top holders, top exchanges, trading volume, top counterparties, capital, issuance and redemption, and reserve assets disaggregated by type (cash and deposits, U.S. Treasuries by CUSIP, reverse repurchase agreements, money market mutual funds, and other instruments). Weekly Form PS-01a (smaller PPSIs) has three schedules. Quarterly Form PS-02 covers income statement, balance sheet, off-balance sheet items, capital and operational backstop, and memoranda including blockchain activity, redemption metrics, and custody activities. The FDIC estimates approximately 30 FDIC-supervised institutions would perform PPSI activities; ongoing weekly reporting burden estimated at 2,080 hours per year and quarterly at 800 hours. The publication confirms the FDIC GENIUS Act implementing final rule was not published as of the July 18, 2026 statutory one-year deadline. Comment period closes September 18, 2026.",
+      "source_url": "https://www.federalregister.gov/documents/2026/07/20/2026-14589/reporting-forms-and-instructions-associated-with-requirements-and-standards-for-fdic-supervised",
+      "source_label": "Federal Register — FDIC Notice, FR Doc. 2026-14589 (91 FR 45274), July 20, 2026",
+      "tags": ["stablecoin", "genius-act", "fdic", "rulemaking", "reporting", "ppsi", "crypto", "payments"],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": ["stablecoin issuers", "FDIC-supervised institutions", "payment-stablecoin operators", "crypto exchanges", "compliance counsel"]
+    }
+  ]
+}
