@@ -6,7 +6,6 @@ on:
     paths:
       - 'incoming/*.json'
       - 'merge_incoming.py'
-      - 'render.py'
       - '.github/workflows/merge.yml'
   workflow_dispatch: {}
 
@@ -27,11 +26,9 @@ jobs:
           python-version: '3.x'
       - name: Merge incoming drop files
         run: python3 merge_incoming.py
-      - name: Render outputs from items.json
-        run: python3 render.py
-      - name: Commit merged data and rendered outputs
+      - name: Commit merged data
         run: |
-          FILES="items.json index.html feed.xml atom.xml feed.json latest.json sitemap.xml robots.txt merge_incoming.py render.py"
+          FILES="items.json merge_incoming.py"
           STATUS="$(git status --porcelain $FILES incoming 2>/dev/null || git status --porcelain $FILES)"
           if [ -n "$STATUS" ]; then
             git config user.name "regrisk-merge-bot"
