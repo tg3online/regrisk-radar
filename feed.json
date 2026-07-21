@@ -6,6 +6,23 @@
   "description": "Daily facts-only regulatory radar — crypto, gaming, payments & fintech. Verified against primary sources.",
   "items": [
     {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-07-20-fdic-genius-act-ppsi-reporting-forms",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-07-20-fdic-genius-act-ppsi-reporting-forms",
+      "title": "FDIC publishes GENIUS Act PPSI reporting forms for PRA comment (FR Doc. 2026-14589, 91 FR 45274)",
+      "content_text": "On July 20, 2026 (filed on public inspection July 17), the FDIC published a Paperwork Reduction Act notice (FR Doc. 2026-14589, 91 FR 45274) requesting 60-day public comment on proposed weekly and quarterly reporting forms for FDIC-supervised Permitted Payment Stablecoin Issuers (PPSIs). The notice is associated with the FDIC's GENIUS Act PPSI NPRM (April 10, 2026, 91 FR 18534). Weekly Form PS-01 (for PPSIs with $1 billion or more in total outstanding issuance value or $100 million or more in average daily transaction volume) includes eight schedules covering top holders, top exchanges, trading volume, top counterparties, capital, issuance and redemption, and reserve assets disaggregated by type (cash and deposits, U.S. Treasuries by CUSIP, reverse repurchase agreements, money market mutual funds, and other instruments). Weekly Form PS-01a (smaller PPSIs) has three schedules. Quarterly Form PS-02 covers income statement, balance sheet, off-balance sheet items, capital and operational backstop, and memoranda including blockchain activity, redemption metrics, and custody activities. The FDIC estimates approximately 30 FDIC-supervised institutions would perform PPSI activities; ongoing weekly reporting burden estimated at 2,080 hours per year and quarterly at 800 hours. The publication confirms the FDIC GENIUS Act implementing final rule was not published as of the July 18, 2026 statutory one-year deadline. Comment period closes September 18, 2026.\n\nPrimary source: Federal Register — FDIC Notice, FR Doc. 2026-14589 (91 FR 45274), July 20, 2026 — https://www.federalregister.gov/documents/2026/07/20/2026-14589/reporting-forms-and-instructions-associated-with-requirements-and-standards-for-fdic-supervised\n\nRelevant to: stablecoin issuers, FDIC-supervised institutions, payment-stablecoin operators, crypto exchanges, compliance counsel\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-07-20T00:00:00Z",
+      "tags": [
+        "stablecoin",
+        "genius-act",
+        "fdic",
+        "rulemaking",
+        "reporting",
+        "ppsi",
+        "crypto",
+        "payments"
+      ]
+    },
+    {
       "id": "https://tg3online.github.io/regrisk-radar/#2026-07-18-warsh-house-testimony-crypto-no-bailout",
       "url": "https://tg3online.github.io/regrisk-radar/#2026-07-18-warsh-house-testimony-crypto-no-bailout",
       "title": "Fed Chair Warsh testifies to House Financial Services: no Federal Reserve bailout for crypto or stablecoins; Fed 'racing' to meet GENIUS Act stablecoin rulemaking deadline; nonbank fintech payment access pressed",

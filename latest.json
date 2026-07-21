@@ -1,8 +1,31 @@
 {
-  "generated": "2026-07-20T17:18:11Z",
+  "generated": "2026-07-21T18:29:18Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 66,
+  "count": 67,
   "items": [
+    {
+      "id": "2026-07-20-fdic-genius-act-ppsi-reporting-forms",
+      "date": "2026-07-20",
+      "published": "2026-07-20T00:00:00Z",
+      "title": "FDIC publishes GENIUS Act PPSI reporting forms for PRA comment (FR Doc. 2026-14589, 91 FR 45274)",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-07-20-fdic-genius-act-ppsi-reporting-forms",
+      "issuing_body": "Federal Deposit Insurance Corporation",
+      "source_url": "https://www.federalregister.gov/documents/2026/07/20/2026-14589/reporting-forms-and-instructions-associated-with-requirements-and-standards-for-fdic-supervised",
+      "source_label": "Federal Register — FDIC Notice, FR Doc. 2026-14589 (91 FR 45274), July 20, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "stablecoin issuers, FDIC-supervised institutions, payment-stablecoin operators, crypto exchanges, compliance counsel",
+      "tags": [
+        "stablecoin",
+        "genius-act",
+        "fdic",
+        "rulemaking",
+        "reporting",
+        "ppsi",
+        "crypto",
+        "payments"
+      ]
+    },
     {
       "id": "2026-07-18-warsh-house-testimony-crypto-no-bailout",
       "date": "2026-07-14",
