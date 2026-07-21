@@ -74,6 +74,10 @@ def esc(s):
 
 
 def rfc822(iso):
+    # Some incoming drop files use YYYY-MM-DD for published. Treat that as
+    # midnight UTC so one malformed timestamp cannot block the public radar.
+    if len(iso) == 10 and iso.count("-") == 2:
+        iso = iso + "T00:00:00Z"
     dt = datetime.strptime(iso, "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc)
     return dt.strftime("%a, %d %b %Y %H:%M:%S +0000")
 

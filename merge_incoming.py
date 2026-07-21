@@ -79,6 +79,12 @@ def validate(entry, path):
     ps = entry.get("primary_source_status")
     if ps is not None and ps not in PRIMARY_STATUSES:
         fail("%s: entry %s has invalid primary_source_status '%s'" % (path, eid, ps))
+    pub = entry.get("published")
+    if isinstance(pub, str) and len(pub) == 10 and pub.count("-") == 2:
+        entry["published"] = pub + "T00:00:00Z"
+    relto = entry.get("relevant_to")
+    if isinstance(relto, list):
+        entry["relevant_to"] = ", ".join(str(x) for x in relto)
 
 
 def sort_key(item):
