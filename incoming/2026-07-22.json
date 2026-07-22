@@ -1,0 +1,61 @@
+{
+  "_note": "RegRisk Radar daily drop file for 2026-07-22. Facts-only, public-safe fields only. Merged by merge_incoming.py.",
+  "entries": [
+    {
+      "id": "2026-07-22-ftc-celsius-founders-16-5m-order",
+      "date": "2026-07-22",
+      "published": "2026-07-20T18:14:22Z",
+      "issuing_body": "Federal Trade Commission",
+      "title": "FTC: Celsius Network founders to pay $16.5 million; banned from marketing asset deposit and withdrawal products",
+      "facts": "The FTC announced on July 20, 2026 that Alexander Mashinsky, former CEO of cryptocurrency platform Celsius Network Inc., and business partners Shlomi Daniel Leon and Hanoch \"Nuke\" Goldstein will pay a total of $16.5 million to resolve FTC charges that they deceived users by falsely promising that deposits made to their cryptocurrency platform would be safe and always available. Mashinsky pays $10 million, Leon $4.1 million and Goldstein $2.4 million. Mashinsky and Leon also agreed to a ban on marketing or selling products or services that can be used to deposit, exchange, invest or withdraw assets; Goldstein agreed to a ban covering retail products or services used to buy, sell, deposit, withdraw, distribute or trade cryptocurrency. The orders, filed in the U.S. District Court for the Southern District of New York, also prohibit misrepresentations about any product or service and violations of the Gramm-Leach-Bliley Act. The Commission vote on the Mashinsky order was 3-0; the votes on the Leon and Goldstein orders were 2-0.",
+      "source_url": "https://www.ftc.gov/news-events/news/press-releases/2026/07/founders-celsius-network-ordered-pay-165-million-resolve-ftc-charges",
+      "source_label": "FTC press release, July 20, 2026",
+      "tags": ["crypto", "enforcement", "ftc", "consumer-protection", "gramm-leach-bliley"],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "crypto platforms, digital asset custodians, yield and earn products, fintech marketers"
+    },
+    {
+      "id": "2026-07-22-house-fincen-oversight-hearing",
+      "date": "2026-07-22",
+      "published": "2026-07-21T14:00:00Z",
+      "issuing_body": "U.S. House Committee on Financial Services, Subcommittee on National Security, Illicit Finance, and International Financial Institutions",
+      "title": "House Financial Services subcommittee holds FinCEN oversight hearing with Director Andrea Gacki",
+      "facts": "The Subcommittee on National Security, Illicit Finance, and International Financial Institutions held a hearing entitled \"Oversight of the Financial Crimes Enforcement Network\" on Tuesday, July 21, 2026 at 10:00 a.m. in 2128 Rayburn House Office Building. The committee event page lists one witness: Andrea Gacki, Director of the Financial Crimes Enforcement Network (FinCEN). The page links a Committee Memorandum and Gacki's written statement on docs.house.gov, along with a livestream recording of the hearing.",
+      "source_url": "https://financialservices.house.gov/calendar/eventsingle.aspx?EventID=411177",
+      "source_label": "House Financial Services Committee event page",
+      "tags": ["bsa-aml", "fincen", "congress", "crypto", "payments", "fintech"],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "MSBs, crypto exchanges, payment processors, bank BSA/AML teams"
+    },
+    {
+      "id": "2026-07-22-clarity-act-ethics-language-agreed",
+      "date": "2026-07-22",
+      "published": "2026-07-21T18:14:39Z",
+      "issuing_body": "The White House / U.S. Senate (as reported)",
+      "title": "Reported: White House agrees to CLARITY Act ethics provision and sends language to Senate Republicans; terms not public",
+      "facts": "As reported by CoinDesk on July 21, 2026, a White House official speaking on condition of anonymity said President Trump \"has agreed to the most comprehensive and wide-ranging ethics provision in history\" for the Digital Asset Market CLARITY Act, that no details of the agreed restrictions have been released, and that Democratic lawmakers had not been briefed on the concession. As reported by Disruption Banking the same day, the agreement was reached on the evening of July 20 and the language went to a group of Senate Republicans that afternoon; the outlet notes the bill needs 60 votes while Republicans hold 53 seats, and that the Senate breaks for recess around August 8. The text of the ethics provision has not been published.",
+      "source_url": "https://www.coindesk.com/policy/2026/07/21/white-house-pushes-senate-democrats-to-take-historic-crypto-clarity-act-ethics-deal",
+      "source_label": "CoinDesk, July 21, 2026 (corroborated by Disruption Banking, July 21, 2026)",
+      "tags": ["crypto", "legislation", "clarity-act", "market-structure", "congress"],
+      "source_type": "media_coverage",
+      "primary_source_status": "unavailable",
+      "relevant_to": "digital asset issuers, exchanges, DeFi developers, crypto compliance teams"
+    },
+    {
+      "id": "2026-07-22-clarity-act-updated-senate-text-july-17",
+      "date": "2026-07-22",
+      "published": "2026-07-17T13:36:51Z",
+      "issuing_body": "U.S. Senate Republicans (as reported)",
+      "title": "Reported: Senate Republicans released updated CLARITY Act text on July 17 with no Senate Democrat support indicated",
+      "facts": "As reported by Disruption Banking on July 17, 2026, Senate Republicans planned to release the updated text of the Digital Asset Market CLARITY Act that day immediately after a White House meeting with President Trump, and Senator Bernie Moreno confirmed the text would be distributed \"right after the meeting.\" The outlet reported that no Senate Democrat had indicated support for the draft, that the bill needs 60 votes so at least seven Democrats must cross over before the August 8 recess, and that the Senate Banking Committee advanced the bill 15-9 on May 14 with Democrats Ruben Gallego and Angela Alsobrooks joining Republicans. The release fell one year after the House passed H.R. 3633 by a 294-134 vote on July 17, 2025.",
+      "source_url": "https://www.disruptionbanking.com/2026/07/17/clarity-act-text-drops-today-no-democrats-on-board-and-60-votes-to-find/",
+      "source_label": "Disruption Banking, July 17, 2026",
+      "tags": ["crypto", "legislation", "clarity-act", "market-structure", "congress"],
+      "source_type": "media_coverage",
+      "primary_source_status": "unavailable",
+      "relevant_to": "digital asset issuers, exchanges, DeFi developers, crypto compliance teams"
+    }
+  ]
+}
