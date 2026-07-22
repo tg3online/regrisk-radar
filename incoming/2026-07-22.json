@@ -56,6 +56,20 @@
       "source_type": "media_coverage",
       "primary_source_status": "unavailable",
       "relevant_to": "digital asset issuers, exchanges, DeFi developers, crypto compliance teams"
+    },
+    {
+      "id": "2026-07-22-house-ag-prediction-markets-hearing",
+      "date": "2026-07-22",
+      "published": "2026-07-21T15:00:00Z",
+      "issuing_body": "U.S. House Committee on Agriculture, Subcommittee on Commodity Markets, Digital Assets, and Rural Development",
+      "title": "House Agriculture subcommittee examines prediction market customer protections and CFTC authority over sports event contracts",
+      "facts": "The Subcommittee on Commodity Markets, Digital Assets, and Rural Development held a hearing titled 'Examining Prediction Markets: Customer Protections and Market Integrity in Sports Event Markets' on July 21, 2026, chaired by Rep. Dusty Johnson (R-SD). Five witnesses testified: Robert Schwartz (partner, Morgan Lewis; former CFTC general counsel), Carl Kennedy (derivatives attorney, Katten Muchin Rosenman), Chris Cylke (SVP government relations, American Gaming Association), David Bean (chairman, Indian Gaming Association), and Asaf Meir (co-founder and CEO, Solidus Labs). Schwartz and Kennedy defended CFTC jurisdiction under the Commodity Exchange Act; Cylke and Bean argued sports event contracts are gambling subject to state police powers and the Indian Gaming Regulatory Act, with Bean urging advancement of H.R. 7840 (Event Contract Enforcement Act). Cylke cited Kalshi's sports-related trading volume exceeding $111 billion through H1 2026 and noted that 45% of all online sports betting advertising now comes from prediction market operators. Rep. Kristen McDonald Rivet (D-MI) pressed witnesses on the CFTC's order directing Kalshi to defy a Michigan state court order; Schwartz described the order as extraordinary, stating: 'It certainly was a flex.' Rep. Angie Craig (D-MN) questioned whether a single-commissioner CFTC had the capability to police prediction markets given proposed budget cuts. Chairman Johnson closed by stating: 'Courts are acting in this space. The commission is acting in this space. I do not think that this committee, Congress, should be silent. We have an obligation to drive toward finding out what is the common ground.' Testimony documents are posted at agriculture.house.gov.",
+      "source_url": "https://agriculture.house.gov/calendar/EventSingle.aspx?EventID=8189",
+      "source_label": "House Agriculture Committee hearing page, July 21, 2026",
+      "tags": ["gaming", "prediction-markets", "cftc", "congress", "sports-contracts", "fintech", "h7840"],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction market operators, CFTC-regulated exchanges, sports betting operators, gaming and tribal compliance teams, fintech legislative monitors"
     }
   ]
 }
