@@ -1,0 +1,27 @@
+{
+  "_note": "RegRisk Radar daily drop file for 2026-07-24. Facts-only, public-safe fields only. Merged by merge_incoming.py.",
+  "entries": [
+    {
+      "id": "2026-07-22-fincen-huione-comment-extension",
+      "date": "2026-07-22",
+      "published": "2026-07-22T12:00:00Z",
+      "issuing_body": "Financial Crimes Enforcement Network (FinCEN)",
+      "title": "FinCEN extends comment period to August 2, 2026 for NPRM amending the definition of 'Huione Group' to include H-Pay Service PLC and successor entities",
+      "facts": "On July 22, 2026, the Financial Crimes Enforcement Network (FinCEN) announced it is extending the comment period for the notice of proposed rulemaking (NPRM) it published in June 2026 to amend the existing definition of 'Huione Group' to include H-Pay Service PLC and any successor entity. FinCEN stated the extension is due to a technological issue that prevented the public from electronically filing comments for several days, and that written comments on the NPRM now must be submitted on or before August 2, 2026.",
+      "source_url": "https://www.fincen.gov/news/news-releases/fincen-extends-comment-period-proposed-rule-amend-definition-huione-group",
+      "source_label": "FinCEN.gov — news release, July 22, 2026",
+      "tags": [
+        "fincen",
+        "bsa-aml",
+        "huione",
+        "section-311",
+        "crypto",
+        "payments",
+        "nprm"
+      ],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "money services businesses, crypto payment processors, banks and fintechs with cross-border BSA/AML exposure"
+    }
+  ]
+}
