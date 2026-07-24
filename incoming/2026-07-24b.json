@@ -1,0 +1,33 @@
+{
+  "_note": "RegRisk Radar intraday alert drop for 2026-07-24 (afternoon scan, 19:12Z). Facts-only, public-safe fields only. Merged by merge_incoming.py.",
+  "entries": [
+    {
+      "id": "2026-07-24-ofac-iran-zedcex-zanjani-network",
+      "date": "2026-07-24",
+      "published": "2026-07-24T19:12:50Z",
+      "issuing_body": "U.S. Department of the Treasury / OFAC",
+      "title": "OFAC designates 4 individuals and 9 entities supporting Iranian digital asset exchanges Zedcex and Zedxion; Istanbul fintech Zedpay and Dubai-based Zedx DMCC among designees",
+      "facts": "On July 24, 2026, the U.S. Department of the Treasury’s Office of Foreign Assets Control (OFAC) designated four individuals and nine entities that form key components of Babak Zanjani’s Iranian sanctions evasion network. The action targets support infrastructure for the previously-designated digital asset exchanges Zedcex Exchange Limited and Zedxion Exchange Limited (both designated January 30, 2026). OFAC stated that multiple Zedcex and Zedxion-attributed addresses have processed funds on behalf of wallets attributed to the Islamic Revolutionary Guard Corps (IRGC). Among the newly designated entities is Istanbul-based Zedpay Finansal Sistem Ve Hizmetleri Anonim Sirketi (Zedpay), a financial technology company that provided digital wallet and global transfer services and was directly integrated into the Zedxion trading platform, giving Zedxion fiat settlement and cross-border payment capabilities. Dubai-based Zedx DMCC acted on Zedcex’s behalf with regard to Zedcex’s exchange wallets. Dubai-based BZ Diamond FZCO, a diamond dealer managed by Zanjani’s sister Bahareh Morteza Zanjani, conducted transactions with Zedxion and Zedcex wallets and promoted Zedxion’s NFT marketplace. Six Iran-based entities comprising the Dot One conglomerate are also designated, including DotOne Gold Company, which operates Tala Token (an allegedly gold-backed digital asset token); significant quantities of Tala Token passed through Zedcex infrastructure in early 2025. Designated individuals: Mehdi Rezazadeh (Zedpay chairperson, Istanbul), Sukhrob Oimakhmadov (Zedx DMCC manager, Dubai), Bahareh Morteza Zanjani (BZ Diamond FZCO manager, Dubai), and Solmaz Bani (registered websites for Zanjani companies). Designations issued pursuant to Executive Order 13902.",
+      "source_url": "https://home.treasury.gov/news/press-releases/sb0576",
+      "source_label": "U.S. Department of the Treasury Press Release sb0576 — July 24, 2026",
+      "tags": ["ofac", "iran", "sanctions", "crypto", "digital-assets", "sdn", "irgc", "fintech", "payments", "e013902"],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "crypto exchanges, VASPs, fintech payment processors, banks with Turkish or UAE-based fintech integration partners — immediate SDN screening required for 13 newly-designated entities and individuals"
+    },
+    {
+      "id": "2026-07-23-ofac-hamas-el-kahira-crypto",
+      "date": "2026-07-23",
+      "published": "2026-07-23T12:00:00Z",
+      "issuing_body": "U.S. Department of the Treasury / OFAC",
+      "title": "OFAC designates Hamas money exchange El-Kahira for General Trading (Türkiye) that serviced 'both fiat and cryptocurrencies'; 7 total designees in Hamas/Muslim Brotherhood action",
+      "facts": "On July 23, 2026, the U.S. Department of the Treasury’s Office of Foreign Assets Control (OFAC) designated a senior Egyptian Muslim Brotherhood (EMB) official, along with three individuals and three entities that provided material support to Hamas. Among the designated entities is Türkiye-based El-Kahira for General Trading, which OFAC states provided underground banking services, ‘servicing both fiat and cryptocurrencies,’ to Hamas and to known Sweden-based organized crime groups including the Foxtrot Network. El-Kahira transferred hundreds of thousands of dollars for Hamas. El-Kahira’s owner Khuldun Khamis Zakaria Alden and shareholders Zaid Issam Ahmed Al-Jebouri and Abdullah Issam Ahmad Al-Jebouri are also designated. The two other designated entities are Tujah Bulah Global (Indonesia, also known as Seven Spikes Global, a Hamas fundraising charity) and Madad Palestine Charitable Society (Gaza, a Hamas front charity whose funds were diverted to Hamas’s military wing). The designated EMB official is Mahmoud al-Abyari, UK-based Secretary General of the Muslim Brotherhood General Secretariat. Designations issued pursuant to Executive Order 13224, as amended. This action follows prior Hamas/MB OFAC actions on January 21, 2026 and March 12, 2026.",
+      "source_url": "https://home.treasury.gov/news/press-releases/sb0572",
+      "source_label": "U.S. Department of the Treasury Press Release sb0572 — July 23, 2026",
+      "tags": ["ofac", "sanctions", "crypto", "hamas", "counterterrorism", "sdgt", "underground-banking", "e013224"],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "crypto exchanges, VASPs, and payment processors — El-Kahira and associated individuals now on SDN list; entity provided unlicensed crypto and fiat exchange services to designated terrorist organization"
+    }
+  ]
+}
