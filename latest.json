@@ -1,8 +1,334 @@
 {
-  "generated": "2026-07-21T18:30:23Z",
+  "generated": "2026-07-25T20:09:27Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 67,
+  "count": 83,
   "items": [
+    {
+      "id": "2026-07-24-cftc-event-contract-self-certification-advisory",
+      "date": "2026-07-25",
+      "published": "2026-07-25T14:30:00Z",
+      "title": "CFTC staff advisory warns designated contract markets against broad, template-style self-certifications of event contract series",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-07-24-cftc-event-contract-self-certification-advisory",
+      "issuing_body": "U.S. Commodity Futures Trading Commission (Division of Market Oversight)",
+      "source_url": "https://www.cftc.gov/PressRoom/PressReleases/9273-26",
+      "source_label": "CFTC Press Release 9273-26 (Division of Market Oversight advisory; CFTC Staff Letter No. 26-22) — July 24, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction-market operators and other designated contract markets that list event contracts, and their compliance/listing teams — self-certification submissions must provide full per-contract Reg 40.2 analysis rather than broad template-style filings",
+      "tags": [
+        "cftc",
+        "event-contracts",
+        "prediction-markets",
+        "self-certification",
+        "gaming",
+        "dcm",
+        "reg-40"
+      ]
+    },
+    {
+      "id": "2026-07-24-cftc-kraken-derivatives-dcm-noaction",
+      "date": "2026-07-25",
+      "published": "2026-07-25T14:30:00Z",
+      "title": "CFTC staff issues time-limited no-action position to Kraken Derivatives Exchange Inc. on designated contract market dormancy procedures",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-07-24-cftc-kraken-derivatives-dcm-noaction",
+      "issuing_body": "U.S. Commodity Futures Trading Commission (Division of Market Oversight)",
+      "source_url": "https://www.cftc.gov/PressRoom/PressReleases/9272-26",
+      "source_label": "CFTC Press Release 9272-26 (Division of Market Oversight no-action position; CFTC Staff Letter No. 26-21) — July 24, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "designated contract markets and crypto-derivatives venues tracking CFTC staff no-action practice on DCM operational procedures",
+      "tags": [
+        "cftc",
+        "crypto",
+        "dcm",
+        "no-action-letter",
+        "kraken",
+        "dormancy"
+      ]
+    },
+    {
+      "id": "2026-07-24-occ-wise-charter-denial",
+      "date": "2026-07-24",
+      "published": "2026-07-24T23:58:00Z",
+      "title": "OCC denies Wise's application for a US national trust bank charter, citing AML/CFT compliance deficiencies and a July 2025 multi-state consent order; Wise shares fall ~10%",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-07-24-occ-wise-charter-denial",
+      "issuing_body": "Office of the Comptroller of the Currency (OCC)",
+      "source_url": "https://thedefiant.io/converge/tradfi-and-fintech/occ-denies-wise-s-us-national-trust-bank-charter",
+      "source_label": "The Defiant, 'OCC Denies Wise's US National Trust Bank Charter' — July 24, 2026 (reporting on Wise RNS announcement and Law360 review of OCC decision letter)",
+      "source_type": "coverage_reporting_filing",
+      "primary_source_status": "cited_by_coverage_not_retrieved",
+      "relevant_to": "fintech operators seeking or considering OCC national bank or trust charters, payments and MSB operators assessing US federal licensing pathways, compliance teams tracking OCC AML-as-licensing-condition precedents in the post-GENIUS Act charter wave",
+      "tags": [
+        "occ",
+        "fintech",
+        "payments",
+        "charter",
+        "licensing",
+        "aml",
+        "wise",
+        "genius-act"
+      ]
+    },
+    {
+      "id": "2026-07-24-ofac-iran-zedcex-zanjani-network",
+      "date": "2026-07-24",
+      "published": "2026-07-24T19:12:50Z",
+      "title": "OFAC designates 4 individuals and 9 entities supporting Iranian digital asset exchanges Zedcex and Zedxion; Istanbul fintech Zedpay and Dubai-based Zedx DMCC among designees",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-07-24-ofac-iran-zedcex-zanjani-network",
+      "issuing_body": "U.S. Department of the Treasury / OFAC",
+      "source_url": "https://home.treasury.gov/news/press-releases/sb0576",
+      "source_label": "U.S. Department of the Treasury Press Release sb0576 — July 24, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "crypto exchanges, VASPs, fintech payment processors, banks with Turkish or UAE-based fintech integration partners — immediate SDN screening required for 13 newly-designated entities and individuals",
+      "tags": [
+        "ofac",
+        "iran",
+        "sanctions",
+        "crypto",
+        "digital-assets",
+        "sdn",
+        "irgc",
+        "fintech",
+        "payments",
+        "e013902"
+      ]
+    },
+    {
+      "id": "2026-07-23-clarity-act-senate-passage-likely-miss",
+      "date": "2026-07-23",
+      "published": "2026-07-23T20:16:00Z",
+      "title": "Senate Majority Leader Thune signals CLARITY Act likely to miss pre-recess floor vote; Russia sanctions bill takes priority",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-07-23-clarity-act-senate-passage-likely-miss",
+      "issuing_body": "U.S. Senate (reported)",
+      "source_url": "https://www.coindesk.com/policy/2026/07/23/clarity-act-expected-to-miss-its-window-before-congress-summer-break-leadership-says",
+      "source_label": "CoinDesk",
+      "source_type": "media_coverage",
+      "primary_source_status": "cited_by_coverage_not_retrieved",
+      "relevant_to": "Crypto operators, exchanges, token issuers, stablecoin issuers, and DeFi platforms planning for the federal market-structure framework — pre-recess passage now unlikely; first week of August is the remaining window before August 7 recess",
+      "tags": [
+        "legislation",
+        "clarity-act",
+        "congress",
+        "crypto",
+        "market-structure",
+        "senate",
+        "floor-timing"
+      ]
+    },
+    {
+      "id": "2026-07-23-ofac-hamas-el-kahira-crypto",
+      "date": "2026-07-23",
+      "published": "2026-07-23T12:00:00Z",
+      "title": "OFAC designates Hamas money exchange El-Kahira for General Trading (Turkiye) that serviced 'both fiat and cryptocurrencies'; 7 total designees in Hamas/Muslim Brotherhood action",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-07-23-ofac-hamas-el-kahira-crypto",
+      "issuing_body": "U.S. Department of the Treasury / OFAC",
+      "source_url": "https://home.treasury.gov/news/press-releases/sb0572",
+      "source_label": "U.S. Department of the Treasury Press Release sb0572 — July 23, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "crypto exchanges, VASPs, and payment processors — El-Kahira and associated individuals now on SDN list; entity provided unlicensed crypto and fiat exchange services to designated terrorist organization",
+      "tags": [
+        "ofac",
+        "sanctions",
+        "crypto",
+        "hamas",
+        "counterterrorism",
+        "sdgt",
+        "underground-banking",
+        "e013224"
+      ]
+    },
+    {
+      "id": "2026-07-23-sec-coinbase-foia-settlement-gensler-texts",
+      "date": "2026-07-23",
+      "published": "2026-07-23T00:00:00Z",
+      "title": "SEC agrees to pay $150,000 and produce records to settle Coinbase FOIA lawsuit; settlement confirms Gensler texts deleted 2022-2023 and 21 officials' phones wiped",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-07-23-sec-coinbase-foia-settlement-gensler-texts",
+      "issuing_body": "U.S. Securities and Exchange Commission",
+      "source_url": "https://www.coindesk.com/policy/2026/07/23/sec-agrees-to-end-lawsuit-over-missing-ethereum-records-will-pay-usd150-000-in-fees",
+      "source_label": "CoinDesk",
+      "source_type": "coverage_reporting_filing",
+      "primary_source_status": "cited_by_coverage_not_retrieved",
+      "relevant_to": "Crypto platforms and exchanges subject to prior SEC enforcement or investigation 2022-2023; FOIA practitioners monitoring SEC records and institutional accountability",
+      "tags": [
+        "sec",
+        "foia",
+        "coinbase",
+        "ethereum",
+        "gensler",
+        "record-keeping"
+      ]
+    },
+    {
+      "id": "2026-07-23-clarity-act-new-draft-ethics-ban",
+      "date": "2026-07-23",
+      "published": "2026-07-22T16:15:55Z",
+      "title": "Reported: New would-be-final CLARITY Act draft circulated July 22 with DOJ-enforced ethics ban on federal officials issuing digital assets",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-07-23-clarity-act-new-draft-ethics-ban",
+      "issuing_body": "U.S. Senate (as reported)",
+      "source_url": "https://www.coindesk.com/policy/2026/07/22/new-clarity-act-emerges-that-s-a-start-on-the-final-draft-makes-ethics-rule-temporary",
+      "source_label": "CoinDesk, July 22, 2026 (corroborated by CNBC, Roll Call, American Banker, Disruption Banking)",
+      "source_type": "media_coverage",
+      "primary_source_status": "unavailable",
+      "relevant_to": "digital asset issuers, exchanges, DeFi developers, crypto compliance teams",
+      "tags": [
+        "crypto",
+        "legislation",
+        "clarity-act",
+        "market-structure",
+        "congress"
+      ]
+    },
+    {
+      "id": "2026-07-23-sec-peirce-crypto-vaults-lending",
+      "date": "2026-07-23",
+      "published": "2026-07-22T12:00:00Z",
+      "title": "SEC Commissioner Peirce: some crypto vaults and onchain lending strategies may fall within federal securities laws",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-07-23-sec-peirce-crypto-vaults-lending",
+      "issuing_body": "U.S. Securities and Exchange Commission (Commissioner Hester M. Peirce)",
+      "source_url": "https://www.sec.gov/newsroom/speeches-statements/peirce-statement-crypto-vaults-lending-strategies-072226",
+      "source_label": "SEC.gov — Commissioner Hester M. Peirce statement, July 22, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "DeFi vault operators and curators, onchain lending platforms, exchanges offering stablecoin yield",
+      "tags": [
+        "crypto",
+        "defi",
+        "sec",
+        "securities-law",
+        "vaults",
+        "onchain-lending"
+      ]
+    },
+    {
+      "id": "2026-07-22-fincen-huione-comment-extension",
+      "date": "2026-07-22",
+      "published": "2026-07-22T12:00:00Z",
+      "title": "FinCEN extends comment period to August 2, 2026 for NPRM amending the definition of 'Huione Group' to include H-Pay Service PLC and successor entities",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-07-22-fincen-huione-comment-extension",
+      "issuing_body": "Financial Crimes Enforcement Network (FinCEN)",
+      "source_url": "https://www.fincen.gov/news/news-releases/fincen-extends-comment-period-proposed-rule-amend-definition-huione-group",
+      "source_label": "FinCEN.gov — news release, July 22, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "money services businesses, crypto payment processors, banks and fintechs with cross-border BSA/AML exposure",
+      "tags": [
+        "fincen",
+        "bsa-aml",
+        "huione",
+        "section-311",
+        "crypto",
+        "payments",
+        "nprm"
+      ]
+    },
+    {
+      "id": "2026-07-22-clarity-act-ethics-language-agreed",
+      "date": "2026-07-22",
+      "published": "2026-07-21T18:14:39Z",
+      "title": "Reported: White House agrees to CLARITY Act ethics provision and sends language to Senate Republicans; terms not public",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-07-22-clarity-act-ethics-language-agreed",
+      "issuing_body": "The White House / U.S. Senate (as reported)",
+      "source_url": "https://www.coindesk.com/policy/2026/07/21/white-house-pushes-senate-democrats-to-take-historic-crypto-clarity-act-ethics-deal",
+      "source_label": "CoinDesk, July 21, 2026 (corroborated by Disruption Banking, July 21, 2026)",
+      "source_type": "media_coverage",
+      "primary_source_status": "unavailable",
+      "relevant_to": "digital asset issuers, exchanges, DeFi developers, crypto compliance teams",
+      "tags": [
+        "crypto",
+        "legislation",
+        "clarity-act",
+        "market-structure",
+        "congress"
+      ]
+    },
+    {
+      "id": "2026-07-22-house-ag-prediction-markets-hearing",
+      "date": "2026-07-22",
+      "published": "2026-07-21T15:00:00Z",
+      "title": "House Agriculture subcommittee examines prediction market customer protections and CFTC authority over sports event contracts",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-07-22-house-ag-prediction-markets-hearing",
+      "issuing_body": "U.S. House Committee on Agriculture, Subcommittee on Commodity Markets, Digital Assets, and Rural Development",
+      "source_url": "https://agriculture.house.gov/calendar/EventSingle.aspx?EventID=8189",
+      "source_label": "House Agriculture Committee hearing page, July 21, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction market operators, CFTC-regulated exchanges, sports betting operators, gaming and tribal compliance teams, fintech legislative monitors",
+      "tags": [
+        "gaming",
+        "prediction-markets",
+        "cftc",
+        "congress",
+        "sports-contracts",
+        "fintech",
+        "h7840"
+      ]
+    },
+    {
+      "id": "2026-07-22-house-fincen-oversight-hearing",
+      "date": "2026-07-22",
+      "published": "2026-07-21T14:00:00Z",
+      "title": "House Financial Services subcommittee holds FinCEN oversight hearing with Director Andrea Gacki",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-07-22-house-fincen-oversight-hearing",
+      "issuing_body": "U.S. House Committee on Financial Services, Subcommittee on National Security, Illicit Finance, and International Financial Institutions",
+      "source_url": "https://financialservices.house.gov/calendar/eventsingle.aspx?EventID=411177",
+      "source_label": "House Financial Services Committee event page",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "MSBs, crypto exchanges, payment processors, bank BSA/AML teams",
+      "tags": [
+        "bsa-aml",
+        "fincen",
+        "congress",
+        "crypto",
+        "payments",
+        "fintech"
+      ]
+    },
+    {
+      "id": "2026-07-21-washington-kalshi-preliminary-injunction",
+      "date": "2026-07-21",
+      "published": "2026-07-21T12:00:00Z",
+      "title": "Washington State Court Grants Preliminary Injunction Against Kalshi for Violations of State Gambling Act and Consumer Protection Act",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-07-21-washington-kalshi-preliminary-injunction",
+      "issuing_body": "Washington State Office of the Attorney General / King County Superior Court",
+      "source_url": "https://www.atg.wa.gov/news/news-releases/judge-finds-kalshi-s-online-gambling-likely-violates-state-law",
+      "source_label": "Washington State Office of the Attorney General — Press Release, July 21, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction-market operators, gaming operators, and compliance and marketing teams tracking state gambling and consumer-protection enforcement",
+      "tags": [
+        "gaming",
+        "prediction-markets",
+        "kalshi",
+        "state-enforcement",
+        "preliminary-injunction",
+        "washington-gambling-act",
+        "consumer-protection-act",
+        "deceptive-advertising"
+      ]
+    },
+    {
+      "id": "2026-07-22-ftc-celsius-founders-16-5m-order",
+      "date": "2026-07-22",
+      "published": "2026-07-20T18:14:22Z",
+      "title": "FTC: Celsius Network founders to pay $16.5 million; banned from marketing asset deposit and withdrawal products",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-07-22-ftc-celsius-founders-16-5m-order",
+      "issuing_body": "Federal Trade Commission",
+      "source_url": "https://www.ftc.gov/news-events/news/press-releases/2026/07/founders-celsius-network-ordered-pay-165-million-resolve-ftc-charges",
+      "source_label": "FTC press release, July 20, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "crypto platforms, digital asset custodians, yield and earn products, fintech marketers",
+      "tags": [
+        "crypto",
+        "enforcement",
+        "ftc",
+        "consumer-protection",
+        "gramm-leach-bliley"
+      ]
+    },
     {
       "id": "2026-07-20-fdic-genius-act-ppsi-reporting-forms",
       "date": "2026-07-20",
@@ -49,6 +375,26 @@
         "no-bailout",
         "master-account",
         "payment-system-access"
+      ]
+    },
+    {
+      "id": "2026-07-22-clarity-act-updated-senate-text-july-17",
+      "date": "2026-07-22",
+      "published": "2026-07-17T13:36:51Z",
+      "title": "Reported: Senate Republicans released updated CLARITY Act text on July 17 with no Senate Democrat support indicated",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-07-22-clarity-act-updated-senate-text-july-17",
+      "issuing_body": "U.S. Senate Republicans (as reported)",
+      "source_url": "https://www.disruptionbanking.com/2026/07/17/clarity-act-text-drops-today-no-democrats-on-board-and-60-votes-to-find/",
+      "source_label": "Disruption Banking, July 17, 2026",
+      "source_type": "media_coverage",
+      "primary_source_status": "unavailable",
+      "relevant_to": "digital asset issuers, exchanges, DeFi developers, crypto compliance teams",
+      "tags": [
+        "crypto",
+        "legislation",
+        "clarity-act",
+        "market-structure",
+        "congress"
       ]
     },
     {
