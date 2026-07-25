@@ -1,0 +1,4 @@
+Quarantined 2026-07-25T21:21:20Z
+File: 2026-07-25.json
+Reason: invalid JSON: Expecting value: line 1 column 2 (char 1)
+Fix the file content and re-push it as a fresh incoming/<date>.json drop (idempotent on id).
