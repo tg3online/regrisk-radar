@@ -1,0 +1,33 @@
+{
+  "_note": "RegRisk Radar daily drop for 2026-07-25 (Saturday nightly run). Facts-only, public-safe fields only. Merged by merge_incoming.py.",
+  "entries": [
+    {
+      "id": "2026-07-24-cftc-event-contract-self-certification-advisory",
+      "date": "2026-07-25",
+      "published": "2026-07-25T14:30:00Z",
+      "issuing_body": "U.S. Commodity Futures Trading Commission (Division of Market Oversight)",
+      "title": "CFTC staff advisory warns designated contract markets against broad, template-style self-certifications of event contract series",
+      "facts": "On July 24, 2026, the U.S. Commodity Futures Trading Commission's Division of Market Oversight (DMO) issued an advisory reminding designated contract markets (DCMs) about the proper procedures for submitting self-certifications of an event contract series. The advisory addresses concerns about the practice of submitting broad, template-style certifications that combine many potential event contract variations into a single certification. According to the advisory, this approach limits DMO's ability to determine whether a DCM has provided all the information, explanation, and analysis required by Commission Regulation Section 40.2, and whether it has adequately evaluated the settlement methodology, data sources, and core-principles compliance of any contract it intends to list. The guidance reiterates that broad, template-style certifications should not be submitted, and explains when closely related event contracts may be certified as a class or submitted for approval under Commission Regulations Sections 40.2(d) or 40.3. The advisory was issued as CFTC Staff Letter No. 26-22.",
+      "source_url": "https://www.cftc.gov/PressRoom/PressReleases/9273-26",
+      "source_label": "CFTC Press Release 9273-26 (Division of Market Oversight advisory; CFTC Staff Letter No. 26-22) — July 24, 2026",
+      "tags": ["cftc", "event-contracts", "prediction-markets", "self-certification", "gaming", "dcm", "reg-40"],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction-market operators and other designated contract markets that list event contracts, and their compliance/listing teams — self-certification submissions must provide full per-contract Reg 40.2 analysis rather than broad template-style filings"
+    },
+    {
+      "id": "2026-07-24-cftc-kraken-derivatives-dcm-noaction",
+      "date": "2026-07-25",
+      "published": "2026-07-25T14:30:00Z",
+      "issuing_body": "U.S. Commodity Futures Trading Commission (Division of Market Oversight)",
+      "title": "CFTC staff issues time-limited no-action position to Kraken Derivatives Exchange Inc. on designated contract market dormancy procedures",
+      "facts": "On July 24, 2026, the U.S. Commodity Futures Trading Commission's Division of Market Oversight announced it had issued a no-action letter to Kraken Derivatives Exchange Inc., formerly Small Exchange Inc., a designated contract market, addressing certain procedures related to dormancy. The Division stated the no-action position is time-limited and subject to the terms and conditions in the no-action letter. The position was issued in response to a request from Kraken Derivatives Exchange Inc. to extend the no-action position previously granted to the exchange in CFTC Letter No. 25-46. The no-action position was issued as CFTC Staff Letter No. 26-21.",
+      "source_url": "https://www.cftc.gov/PressRoom/PressReleases/9272-26",
+      "source_label": "CFTC Press Release 9272-26 (Division of Market Oversight no-action position; CFTC Staff Letter No. 26-21) — July 24, 2026",
+      "tags": ["cftc", "crypto", "dcm", "no-action-letter", "kraken", "dormancy"],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "designated contract markets and crypto-derivatives venues tracking CFTC staff no-action practice on DCM operational procedures"
+    }
+  ]
+}
