@@ -5,8 +5,24 @@
     <link>https://tg3online.github.io/regrisk-radar/</link>
     <description>Daily facts-only regulatory radar — crypto, gaming, payments &amp; fintech. Verified against primary sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Jul 2026 21:21:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 22:16:30 +0000</lastBuildDate>
     <atom:link href="https://tg3online.github.io/regrisk-radar/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OCC proposes information collection for GENIUS Act payment stablecoin issuer licensing applications and foreign payment stablecoin issuer registrations</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-07-24-occ-genius-act-ppsi-pra-notice</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-07-24-occ-genius-act-ppsi-pra-notice</guid>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+      <category>Office of the Comptroller of the Currency (OCC)</category>
+      <description>The OCC published a Paperwork Reduction Act notice (FR Doc 2026-15088; 91 FR 47032; public inspection July 24, 2026; official Federal Register publication July 27, 2026) proposing a new information collection to implement GENIUS Act licensing requirements for Permitted Payment Stablecoin Issuers (PPSIs) and registration of foreign payment stablecoin issuers. The proposed application package includes a business plan, reserve and redemption policies, a risk management program, AML/CFT compliance history, backgrounds of directors and officers, and an Interagency Biographical and Financial Report. The OCC estimates 50 respondents and 6,250 annual burden hours. The public comment period closes September 25, 2026.
+
+Primary source: Federal Register, FR Doc 2026-15088, 91 FR 47032 — https://www.federalregister.gov/documents/2026/07/27/2026-15088/agency-information-collection-activities-proposed-information-collection-comment-request
+
+Relevant to: entities seeking PPSI licensing or foreign payment stablecoin issuer registration under the GENIUS Act; payment stablecoin issuers with US market access
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
     <item>
       <title>CFTC staff advisory warns designated contract markets against broad, template-style self-certifications of event contract series</title>
       <link>https://tg3online.github.io/regrisk-radar/#2026-07-24-cftc-event-contract-self-certification-advisory</link>

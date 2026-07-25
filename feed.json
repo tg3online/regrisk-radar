@@ -6,6 +6,23 @@
   "description": "Daily facts-only regulatory radar — crypto, gaming, payments & fintech. Verified against primary sources.",
   "items": [
     {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-07-24-occ-genius-act-ppsi-pra-notice",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-07-24-occ-genius-act-ppsi-pra-notice",
+      "title": "OCC proposes information collection for GENIUS Act payment stablecoin issuer licensing applications and foreign payment stablecoin issuer registrations",
+      "content_text": "The OCC published a Paperwork Reduction Act notice (FR Doc 2026-15088; 91 FR 47032; public inspection July 24, 2026; official Federal Register publication July 27, 2026) proposing a new information collection to implement GENIUS Act licensing requirements for Permitted Payment Stablecoin Issuers (PPSIs) and registration of foreign payment stablecoin issuers. The proposed application package includes a business plan, reserve and redemption policies, a risk management program, AML/CFT compliance history, backgrounds of directors and officers, and an Interagency Biographical and Financial Report. The OCC estimates 50 respondents and 6,250 annual burden hours. The public comment period closes September 25, 2026.\n\nPrimary source: Federal Register, FR Doc 2026-15088, 91 FR 47032 — https://www.federalregister.gov/documents/2026/07/27/2026-15088/agency-information-collection-activities-proposed-information-collection-comment-request\n\nRelevant to: entities seeking PPSI licensing or foreign payment stablecoin issuer registration under the GENIUS Act; payment stablecoin issuers with US market access\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-07-27T00:00:00Z",
+      "tags": [
+        "occ",
+        "genius-act",
+        "stablecoin",
+        "ppsi",
+        "fintech",
+        "payments",
+        "licensing",
+        "comment-period"
+      ]
+    },
+    {
       "id": "https://tg3online.github.io/regrisk-radar/#2026-07-24-cftc-event-contract-self-certification-advisory",
       "url": "https://tg3online.github.io/regrisk-radar/#2026-07-24-cftc-event-contract-self-certification-advisory",
       "title": "CFTC staff advisory warns designated contract markets against broad, template-style self-certifications of event contract series",
