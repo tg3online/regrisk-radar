@@ -23,6 +23,37 @@
       ]
     },
     {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-07-25-kalshi-nevada-ngcb-joint-stipulation",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-07-25-kalshi-nevada-ngcb-joint-stipulation",
+      "title": "Kalshi Agrees to Third-Party Geofencing in Nevada Under Court Stipulation",
+      "content_text": "KalshiEX LLC and the Nevada Gaming Control Board filed a joint stipulation in Carson City District Court on July 24, 2026, cancelling a pending contempt hearing. Under the agreement, Kalshi must implement GeoComply, a third-party geolocation service, to block Nevada users from accessing sports, election, and entertainment event contracts by August 12, 2026; failure to meet the deadline triggers a $120,000 per-day fine. NGCB Chair Mike Dreitzer stated: 'This agreement will ensure that Kalshi fully complies with Nevada law moving forward, or it will face stiff penalties.'\n\nCoverage (reporting filing): Gambling Insider (reporting on Carson City District Court joint stipulation; primary document at gaming.nv.gov) — https://www.gamblinginsider.com/news/178764/kalshi-third-party-geolocation-to-keep-sports-markets-out-of-nevada\n\nRelevant to: prediction-market platforms, DCM operators, gaming compliance teams operating in Nevada or facing state court geofencing orders\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-07-26T20:30:00Z",
+      "tags": [
+        "prediction-markets",
+        "gaming",
+        "nevada",
+        "geolocation",
+        "geocomply",
+        "court-order",
+        "kalshi"
+      ]
+    },
+    {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-07-22-pennsylvania-hb2711-prediction-markets",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-07-22-pennsylvania-hb2711-prediction-markets",
+      "title": "Pennsylvania HB 2711 Proposes Regulatory Framework for Prediction Markets",
+      "content_text": "On July 22, 2026, Pennsylvania Representative Tarik Khan and more than two dozen bipartisan co-sponsors introduced House Bill 2711, which would create a regulatory framework for prediction markets in Pennsylvania. The bill establishes operational standards and consumer protections including a 21-year minimum age, prohibitions on death markets and contracts involving minors, and fraud and manipulation safeguards. Enforcement authority would vest in the Pennsylvania Attorney General and local district attorneys rather than the Pennsylvania Gaming Control Board, with civil penalties up to $1 million per day for post-injunction violations. The bill does not prohibit most sports prediction markets and does not impose a revenue tax. HB 2711 was referred to the House Consumer Protection, Technology and Utilities Committee.\n\nCoverage (reporting filing): Gambling Insider (reporting on PA HB 2711; bill text at palegis.us via legiscan.com/PA/bill/HB2711/2025) — https://www.gamblinginsider.com/news/178344/pennsylvania-prediction-market-bill\n\nRelevant to: prediction-market platforms operating in or considering entry into Pennsylvania, gaming compliance and legislative monitoring teams\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-07-26T20:30:00Z",
+      "tags": [
+        "prediction-markets",
+        "gaming",
+        "pennsylvania",
+        "legislation",
+        "hb2711",
+        "state-bill"
+      ]
+    },
+    {
       "id": "https://tg3online.github.io/regrisk-radar/#2026-07-24-cftc-event-contract-self-certification-advisory",
       "url": "https://tg3online.github.io/regrisk-radar/#2026-07-24-cftc-event-contract-self-certification-advisory",
       "title": "CFTC staff advisory warns designated contract markets against broad, template-style self-certifications of event contract series",

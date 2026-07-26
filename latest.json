@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-26T08:45:31Z",
+  "generated": "2026-07-26T21:21:29Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 84,
+  "count": 86,
   "items": [
     {
       "id": "2026-07-24-occ-genius-act-ppsi-pra-notice",
@@ -24,6 +24,49 @@
         "payments",
         "licensing",
         "comment-period"
+      ]
+    },
+    {
+      "id": "2026-07-25-kalshi-nevada-ngcb-joint-stipulation",
+      "date": "2026-07-25",
+      "published": "2026-07-26T20:30:00Z",
+      "title": "Kalshi Agrees to Third-Party Geofencing in Nevada Under Court Stipulation",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-07-25-kalshi-nevada-ngcb-joint-stipulation",
+      "issuing_body": "Nevada Gaming Control Board",
+      "source_url": "https://www.gamblinginsider.com/news/178764/kalshi-third-party-geolocation-to-keep-sports-markets-out-of-nevada",
+      "source_label": "Gambling Insider (reporting on Carson City District Court joint stipulation; primary document at gaming.nv.gov)",
+      "source_type": "coverage_reporting_filing",
+      "primary_source_status": "cited_by_coverage_not_retrieved",
+      "relevant_to": "prediction-market platforms, DCM operators, gaming compliance teams operating in Nevada or facing state court geofencing orders",
+      "tags": [
+        "prediction-markets",
+        "gaming",
+        "nevada",
+        "geolocation",
+        "geocomply",
+        "court-order",
+        "kalshi"
+      ]
+    },
+    {
+      "id": "2026-07-22-pennsylvania-hb2711-prediction-markets",
+      "date": "2026-07-22",
+      "published": "2026-07-26T20:30:00Z",
+      "title": "Pennsylvania HB 2711 Proposes Regulatory Framework for Prediction Markets",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-07-22-pennsylvania-hb2711-prediction-markets",
+      "issuing_body": "Pennsylvania General Assembly (House)",
+      "source_url": "https://www.gamblinginsider.com/news/178344/pennsylvania-prediction-market-bill",
+      "source_label": "Gambling Insider (reporting on PA HB 2711; bill text at palegis.us via legiscan.com/PA/bill/HB2711/2025)",
+      "source_type": "coverage_reporting_filing",
+      "primary_source_status": "cited_by_coverage_not_retrieved",
+      "relevant_to": "prediction-market platforms operating in or considering entry into Pennsylvania, gaming compliance and legislative monitoring teams",
+      "tags": [
+        "prediction-markets",
+        "gaming",
+        "pennsylvania",
+        "legislation",
+        "hb2711",
+        "state-bill"
       ]
     },
     {
