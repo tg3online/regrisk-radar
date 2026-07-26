@@ -1,0 +1,70 @@
+{
+  "_note": "Remediation re-drop for 2026-07-26. The 2026-07-25 evening drop was quarantined (invalid JSON). The two CFTC entries already merged/live (idempotent no-op); the OCC GENIUS Act PPSI PRA notice never published and publishes with this drop. Idempotent on id.",
+  "entries": [
+    {
+      "id": "2026-07-24-cftc-event-contract-self-certification-advisory",
+      "date": "2026-07-26",
+      "published": "2026-07-26T12:00:00Z",
+      "issuing_body": "U.S. Commodity Futures Trading Commission (Division of Market Oversight)",
+      "title": "CFTC Division of Market Oversight issues advisory on self-certification procedures for event contract series, warning against broad template-style certifications",
+      "facts": "The CFTC Division of Market Oversight (DMO) issued an advisory (CFTC Staff Letter No. 26-22) reminding designated contract markets (DCMs) that broad, template-style self-certifications for event contract series do not satisfy Commission Regulation Section 40.2 requirements. The advisory states that DCMs must provide full information, explanation, and analysis covering settlement methodology, data sources, and core-principles compliance for each contract or closely related class of contracts. The guidance also explains when closely related event contracts may be certified as a class or submitted for approval under Commission Regulations Sections 40.2(d) or 40.3.",
+      "source_url": "https://www.cftc.gov/PressRoom/PressReleases/9273-26",
+      "source_label": "CFTC Press Release 9273-26; Staff Letter No. 26-22",
+      "tags": [
+        "cftc",
+        "event-contracts",
+        "prediction-markets",
+        "self-certification",
+        "gaming",
+        "dcm"
+      ],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "designated contract markets and prediction-market operators self-certifying event contract series under CFTC Regulation 40.2"
+    },
+    {
+      "id": "2026-07-24-cftc-kraken-derivatives-dcm-noaction",
+      "date": "2026-07-26",
+      "published": "2026-07-26T12:00:00Z",
+      "issuing_body": "U.S. Commodity Futures Trading Commission (Division of Market Oversight)",
+      "title": "CFTC staff issues time-limited no-action position to Kraken Derivatives Exchange Inc. on designated contract market dormancy procedures",
+      "facts": "The CFTC Division of Market Oversight issued a time-limited no-action letter (Staff Letter No. 26-21) to Kraken Derivatives Exchange Inc. (formerly Small Exchange Inc.), extending a prior no-action position (CFTC Letter No. 25-46) regarding certain designated contract market dormancy procedures. The no-action position is subject to the terms and conditions set out in the letter.",
+      "source_url": "https://www.cftc.gov/PressRoom/PressReleases/9272-26",
+      "source_label": "CFTC Press Release 9272-26; Staff Letter No. 26-21",
+      "tags": [
+        "cftc",
+        "crypto",
+        "dcm",
+        "no-action",
+        "kraken",
+        "dormancy"
+      ],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "Kraken Derivatives Exchange Inc. and designated contract markets monitoring CFTC no-action practice on DCM dormancy procedures"
+    },
+    {
+      "id": "2026-07-24-occ-genius-act-ppsi-pra-notice",
+      "date": "2026-07-26",
+      "published": "2026-07-26T12:00:00Z",
+      "issuing_body": "Office of the Comptroller of the Currency (OCC)",
+      "title": "OCC proposes information collection for GENIUS Act payment stablecoin issuer licensing applications and foreign payment stablecoin issuer registrations",
+      "facts": "The OCC published a Paperwork Reduction Act notice (FR Doc 2026-15088; 91 FR 47032; public inspection July 24, 2026; official Federal Register publication July 27, 2026) proposing a new information collection to implement GENIUS Act licensing requirements for Permitted Payment Stablecoin Issuers (PPSIs) and registration of foreign payment stablecoin issuers. The proposed application package includes a business plan, reserve and redemption policies, a risk management program, AML/CFT compliance history, backgrounds of directors and officers, and an Interagency Biographical and Financial Report. The OCC estimates 50 respondents and 6,250 annual burden hours. The public comment period closes September 25, 2026.",
+      "source_url": "https://www.federalregister.gov/documents/2026/07/27/2026-15088/agency-information-collection-activities-proposed-information-collection-comment-request",
+      "source_label": "Federal Register, FR Doc 2026-15088, 91 FR 47032",
+      "tags": [
+        "occ",
+        "genius-act",
+        "stablecoin",
+        "ppsi",
+        "fintech",
+        "payments",
+        "licensing",
+        "comment-period"
+      ],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "entities seeking PPSI licensing or foreign payment stablecoin issuer registration under the GENIUS Act; payment stablecoin issuers with US market access"
+    }
+  ]
+}
