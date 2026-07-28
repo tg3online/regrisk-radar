@@ -6,6 +6,23 @@
   "description": "Daily facts-only regulatory radar — crypto, gaming, payments & fintech. Verified against primary sources.",
   "items": [
     {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-07-27-minnesota-prediction-market-ban-preliminary-injunction",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-07-27-minnesota-prediction-market-ban-preliminary-injunction",
+      "title": "Federal judge grants Kalshi, Polymarket, and the CFTC a preliminary injunction against Minnesota's law criminalizing prediction markets",
+      "content_text": "On July 27, 2026, Judge Katherine Menendez of the U.S. District Court for the District of Minnesota granted KalshiEX LLC, Polymarket US, and the U.S. Commodity Futures Trading Commission a preliminary injunction against Minnesota's law criminalizing the operation of prediction markets, ruling that the plaintiffs are likely to succeed on their claim that the state law is expressly preempted by the federal Commodity Exchange Act as applied to event contracts that qualify as 'swaps.' The court wrote that plaintiffs 'have met their burden to show they are likely to succeed on the merits of their express-preemption claims, at least as to the application of Minnesota's law to many of the trades listed on Kalshi's and Polymarket US's platforms,' while noting the state ban might still reach some contracts (such as bets on entertainment outcomes) that do not qualify as swaps. The preliminary injunction remains in effect until a final decision on the merits is reached. Minnesota's law, signed May 18, 2026, was the first in the country to classify prediction-market operation as a criminal offense. As reported by CoinDesk and corroborated by the Star Tribune, NBC News, The Hill, Courthouse News Service, and other outlets.\n\nCoverage (reporting filing): CoinDesk (quoting the court's ruling) — https://www.coindesk.com/policy/2026/07/27/kalshi-polymarket-win-pause-against-minnesota-s-prediction-market-ban\n\nRelevant to: prediction-market platforms, DCM operators, and gaming compliance teams tracking state-law bans and CEA preemption\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-07-27T23:29:38Z",
+      "tags": [
+        "gaming",
+        "prediction-markets",
+        "kalshi",
+        "polymarket",
+        "cftc",
+        "minnesota",
+        "cea-preemption",
+        "litigation"
+      ]
+    },
+    {
       "id": "https://tg3online.github.io/regrisk-radar/#2026-07-24-occ-genius-act-ppsi-pra-notice",
       "url": "https://tg3online.github.io/regrisk-radar/#2026-07-24-occ-genius-act-ppsi-pra-notice",
       "title": "OCC proposes information collection for GENIUS Act payment stablecoin issuer licensing applications and foreign payment stablecoin issuer registrations",

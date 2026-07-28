@@ -1,8 +1,31 @@
 {
-  "generated": "2026-07-26T22:36:13Z",
+  "generated": "2026-07-28T07:41:23Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 86,
+  "count": 87,
   "items": [
+    {
+      "id": "2026-07-27-minnesota-prediction-market-ban-preliminary-injunction",
+      "date": "2026-07-27",
+      "published": "2026-07-27T23:29:38Z",
+      "title": "Federal judge grants Kalshi, Polymarket, and the CFTC a preliminary injunction against Minnesota's law criminalizing prediction markets",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-07-27-minnesota-prediction-market-ban-preliminary-injunction",
+      "issuing_body": "U.S. District Court for the District of Minnesota",
+      "source_url": "https://www.coindesk.com/policy/2026/07/27/kalshi-polymarket-win-pause-against-minnesota-s-prediction-market-ban",
+      "source_label": "CoinDesk (quoting the court's ruling)",
+      "source_type": "coverage_reporting_filing",
+      "primary_source_status": "cited_by_coverage_not_retrieved",
+      "relevant_to": "prediction-market platforms, DCM operators, and gaming compliance teams tracking state-law bans and CEA preemption",
+      "tags": [
+        "gaming",
+        "prediction-markets",
+        "kalshi",
+        "polymarket",
+        "cftc",
+        "minnesota",
+        "cea-preemption",
+        "litigation"
+      ]
+    },
     {
       "id": "2026-07-24-occ-genius-act-ppsi-pra-notice",
       "date": "2026-07-24",
