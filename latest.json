@@ -1,8 +1,29 @@
 {
-  "generated": "2026-07-28T08:42:27Z",
+  "generated": "2026-07-30T16:52:23Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 87,
+  "count": 88,
   "items": [
+    {
+      "id": "2026-07-29-1908-ofac-iran-hormuz-digital-assets",
+      "date": "2026-07-29",
+      "published": "2026-07-29T00:00:00Z",
+      "title": "OFAC designates Iranian Strait of Hormuz maritime-insurance network, citing payments in digital assets used to evade sanctions",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-07-29-1908-ofac-iran-hormuz-digital-assets",
+      "issuing_body": "U.S. Department of the Treasury, Office of Foreign Assets Control (OFAC)",
+      "source_url": "https://home.treasury.gov/news/press-releases/sb0581",
+      "source_label": "U.S. Treasury press release (OFAC), July 29, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "digital-asset exchanges, payment processors, and sanctions-compliance teams screening for OFAC-designated counterparties",
+      "tags": [
+        "crypto",
+        "sanctions",
+        "ofac",
+        "iran",
+        "digital-assets",
+        "us-federal"
+      ]
+    },
     {
       "id": "2026-07-27-minnesota-prediction-market-ban-preliminary-injunction",
       "date": "2026-07-27",

@@ -6,6 +6,21 @@
   "description": "Daily facts-only regulatory radar — crypto, gaming, payments & fintech. Verified against primary sources.",
   "items": [
     {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-07-29-1908-ofac-iran-hormuz-digital-assets",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-07-29-1908-ofac-iran-hormuz-digital-assets",
+      "title": "OFAC designates Iranian Strait of Hormuz maritime-insurance network, citing payments in digital assets used to evade sanctions",
+      "content_text": "On July 29, 2026, the U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) designated two Iran-based firms — Persian Gulf Marine Insurance Company and HormuzSafe Marine Services Authority — as part of what Treasury described as an Islamic Revolutionary Guard Corps (IRGC)-backed extortion scheme requiring commercial vessels to purchase mandatory maritime 'insurance' to transit the Strait of Hormuz. Treasury's press release stated that the regime 'brokers IRGC-approved policies designed to extract revenue under the guise of maritime services, including payments in digital assets to evade sanctions.' The same action added eight shipping and ship-management companies registered in Hong Kong and the Marshall Islands, and eight tankers, to OFAC's Specially Designated Nationals (SDN) List under the Iran sanctions authority Executive Order 13902. Both designated Iranian firms are identified in the SDN listing as 'Organization Type: Financial and Insurance Activities' and are marked subject to secondary sanctions.\n\nPrimary source: U.S. Treasury press release (OFAC), July 29, 2026 — https://home.treasury.gov/news/press-releases/sb0581\n\nRelevant to: digital-asset exchanges, payment processors, and sanctions-compliance teams screening for OFAC-designated counterparties\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-07-29T00:00:00Z",
+      "tags": [
+        "crypto",
+        "sanctions",
+        "ofac",
+        "iran",
+        "digital-assets",
+        "us-federal"
+      ]
+    },
+    {
       "id": "https://tg3online.github.io/regrisk-radar/#2026-07-27-minnesota-prediction-market-ban-preliminary-injunction",
       "url": "https://tg3online.github.io/regrisk-radar/#2026-07-27-minnesota-prediction-market-ban-preliminary-injunction",
       "title": "Federal judge grants Kalshi, Polymarket, and the CFTC a preliminary injunction against Minnesota's law criminalizing prediction markets",

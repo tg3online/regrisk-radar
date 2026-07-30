@@ -5,8 +5,24 @@
     <link>https://tg3online.github.io/regrisk-radar/</link>
     <description>Daily facts-only regulatory radar — crypto, gaming, payments &amp; fintech. Verified against primary sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Jul 2026 08:42:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 16:52:23 +0000</lastBuildDate>
     <atom:link href="https://tg3online.github.io/regrisk-radar/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OFAC designates Iranian Strait of Hormuz maritime-insurance network, citing payments in digital assets used to evade sanctions</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-07-29-1908-ofac-iran-hormuz-digital-assets</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-07-29-1908-ofac-iran-hormuz-digital-assets</guid>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+      <category>U.S. Department of the Treasury, Office of Foreign Assets Control (OFAC)</category>
+      <description>On July 29, 2026, the U.S. Department of the Treasury&#x27;s Office of Foreign Assets Control (OFAC) designated two Iran-based firms — Persian Gulf Marine Insurance Company and HormuzSafe Marine Services Authority — as part of what Treasury described as an Islamic Revolutionary Guard Corps (IRGC)-backed extortion scheme requiring commercial vessels to purchase mandatory maritime &#x27;insurance&#x27; to transit the Strait of Hormuz. Treasury&#x27;s press release stated that the regime &#x27;brokers IRGC-approved policies designed to extract revenue under the guise of maritime services, including payments in digital assets to evade sanctions.&#x27; The same action added eight shipping and ship-management companies registered in Hong Kong and the Marshall Islands, and eight tankers, to OFAC&#x27;s Specially Designated Nationals (SDN) List under the Iran sanctions authority Executive Order 13902. Both designated Iranian firms are identified in the SDN listing as &#x27;Organization Type: Financial and Insurance Activities&#x27; and are marked subject to secondary sanctions.
+
+Primary source: U.S. Treasury press release (OFAC), July 29, 2026 — https://home.treasury.gov/news/press-releases/sb0581
+
+Relevant to: digital-asset exchanges, payment processors, and sanctions-compliance teams screening for OFAC-designated counterparties
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
     <item>
       <title>Federal judge grants Kalshi, Polymarket, and the CFTC a preliminary injunction against Minnesota&#x27;s law criminalizing prediction markets</title>
       <link>https://tg3online.github.io/regrisk-radar/#2026-07-27-minnesota-prediction-market-ban-preliminary-injunction</link>

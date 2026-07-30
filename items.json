@@ -8,6 +8,27 @@
   },
   "items": [
     {
+      "id": "2026-07-29-1908-ofac-iran-hormuz-digital-assets",
+      "date": "2026-07-29",
+      "published": "2026-07-29T00:00:00Z",
+      "issuing_body": "U.S. Department of the Treasury, Office of Foreign Assets Control (OFAC)",
+      "title": "OFAC designates Iranian Strait of Hormuz maritime-insurance network, citing payments in digital assets used to evade sanctions",
+      "facts": "On July 29, 2026, the U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) designated two Iran-based firms — Persian Gulf Marine Insurance Company and HormuzSafe Marine Services Authority — as part of what Treasury described as an Islamic Revolutionary Guard Corps (IRGC)-backed extortion scheme requiring commercial vessels to purchase mandatory maritime 'insurance' to transit the Strait of Hormuz. Treasury's press release stated that the regime 'brokers IRGC-approved policies designed to extract revenue under the guise of maritime services, including payments in digital assets to evade sanctions.' The same action added eight shipping and ship-management companies registered in Hong Kong and the Marshall Islands, and eight tankers, to OFAC's Specially Designated Nationals (SDN) List under the Iran sanctions authority Executive Order 13902. Both designated Iranian firms are identified in the SDN listing as 'Organization Type: Financial and Insurance Activities' and are marked subject to secondary sanctions.",
+      "source_url": "https://home.treasury.gov/news/press-releases/sb0581",
+      "source_label": "U.S. Treasury press release (OFAC), July 29, 2026",
+      "tags": [
+        "crypto",
+        "sanctions",
+        "ofac",
+        "iran",
+        "digital-assets",
+        "us-federal"
+      ],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "digital-asset exchanges, payment processors, and sanctions-compliance teams screening for OFAC-designated counterparties"
+    },
+    {
       "id": "2026-07-27-minnesota-prediction-market-ban-preliminary-injunction",
       "date": "2026-07-27",
       "published": "2026-07-27T23:29:38Z",
