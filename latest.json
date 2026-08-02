@@ -1,8 +1,31 @@
 {
-  "generated": "2026-08-02T16:13:29Z",
+  "generated": "2026-08-02T21:49:08Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 90,
+  "count": 92,
   "items": [
+    {
+      "id": "2026-07-31-cftc-emergency-motion-new-york-kalshi",
+      "date": "2026-07-31",
+      "published": "2026-07-31T18:00:00Z",
+      "title": "CFTC reported to have filed an emergency motion in Manhattan federal court to stop New York applying state gambling law to Kalshi",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-07-31-cftc-emergency-motion-new-york-kalshi",
+      "issuing_body": "U.S. Commodity Futures Trading Commission (as reported)",
+      "source_url": "https://www.aljazeera.com/economy/2026/7/31/new-york-sues-kalshi-says-its-prediction-markets-are-illegal-gambling",
+      "source_label": "Al Jazeera (AP and Reuters copy), July 31, 2026; corroborated by PYMNTS and NY1 (Spectrum News), July 31, 2026",
+      "source_type": "coverage_reporting_filing",
+      "primary_source_status": "cited_by_coverage_not_retrieved",
+      "relevant_to": "prediction-market platforms, event-contract venues, designated contract markets, sportsbooks and licensed gaming operators, exchanges",
+      "tags": [
+        "gaming",
+        "prediction-markets",
+        "cftc",
+        "preemption",
+        "exclusive-jurisdiction",
+        "litigation",
+        "new-york",
+        "state-vs-federal"
+      ]
+    },
     {
       "id": "2026-07-31-ny-ag-sues-kalshiex-illegal-gambling",
       "date": "2026-07-31",
@@ -44,6 +67,29 @@
         "conflicts-of-interest",
         "crypto",
         "prediction-markets"
+      ]
+    },
+    {
+      "id": "2026-07-30-sec-amends-commodity-trust-shares-generic-listing-standards",
+      "date": "2026-07-30",
+      "published": "2026-07-30T12:00:00Z",
+      "title": "SEC approves amended generic listing standards for Commodity-Based Trust Shares, adding a 15% digital-commodity buffer and allowing actively managed products",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-07-30-sec-amends-commodity-trust-shares-generic-listing-standards",
+      "issuing_body": "U.S. Securities and Exchange Commission",
+      "source_url": "https://www.federalregister.gov/documents/2026/07/30/2026-15327/self-regulatory-organizations-the-nasdaq-stock-market-llc-order-granting-approval-of-a-proposed-rule",
+      "source_label": "Federal Register: SEC Release No. 34-105995, SR-NASDAQ-2026-032, 91 FR 48204 (July 30, 2026)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "crypto ETP issuers and sponsors, exchanges and listing venues, asset managers, broker-dealers",
+      "tags": [
+        "crypto",
+        "sec",
+        "etp",
+        "generic-listing-standards",
+        "commodity-based-trust-shares",
+        "digital-commodity",
+        "actively-managed",
+        "market-structure"
       ]
     },
     {

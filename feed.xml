@@ -5,8 +5,24 @@
     <link>https://tg3online.github.io/regrisk-radar/</link>
     <description>Daily facts-only regulatory radar — crypto, gaming, payments &amp; fintech. Verified against primary sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Aug 2026 16:13:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 21:49:08 +0000</lastBuildDate>
     <atom:link href="https://tg3online.github.io/regrisk-radar/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CFTC reported to have filed an emergency motion in Manhattan federal court to stop New York applying state gambling law to Kalshi</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-07-31-cftc-emergency-motion-new-york-kalshi</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-07-31-cftc-emergency-motion-new-york-kalshi</guid>
+      <pubDate>Fri, 31 Jul 2026 18:00:00 +0000</pubDate>
+      <category>U.S. Commodity Futures Trading Commission (as reported)</category>
+      <description>As reported by Al Jazeera on July 31, 2026 carrying Associated Press and Reuters copy, the U.S. Commodity Futures Trading Commission filed an emergency motion in federal court late on Thursday night to stop New York from subjecting the prediction market Kalshi to state gambling laws, describing the state&#x27;s action as overreach that would irreparably harm the agency and the markets it regulates. The same report states that the CFTC has claimed exclusive jurisdiction to regulate transactions offered in prediction markets and has challenged regulatory activity in at least nine states, including New York, which it sued in April, and that on Wednesday the federal appeals court in Manhattan rejected Kalshi&#x27;s request to avoid possible enforcement activity while it appeals U.S. District Judge Analisa Torres&#x27;s July 8 refusal to issue an injunction against the state. The report states that Kalshi sought to move New York&#x27;s action to Manhattan federal court eight hours after the attorney general filed it, and quotes Kalshi as saying that New York seeks to place itself in the position of a nationwide derivatives regulator. PYMNTS reported the same day that the CFTC has sued to stop New York&#x27;s attempt to halt Kalshi&#x27;s operations, and PYMNTS and NY1 both quote CFTC Chairman Michael S. Selig as stating that New York seeks to force an unprecedented sudden shutdown of prediction markets nationwide and that the CFTC has already sued to stop this and will continue to defend its jurisdiction. No official CFTC press release or public statement on this filing was located on cftc.gov, and the court filing itself was not retrieved.
+
+Coverage (reporting filing): Al Jazeera (AP and Reuters copy), July 31, 2026; corroborated by PYMNTS and NY1 (Spectrum News), July 31, 2026 — https://www.aljazeera.com/economy/2026/7/31/new-york-sues-kalshi-says-its-prediction-markets-are-illegal-gambling
+
+Relevant to: prediction-market platforms, event-contract venues, designated contract markets, sportsbooks and licensed gaming operators, exchanges
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
     <item>
       <title>New York sues KalshiEX, LLC in state court, alleging its prediction market is an unlicensed gambling operation</title>
       <link>https://tg3online.github.io/regrisk-radar/#2026-07-31-ny-ag-sues-kalshiex-illegal-gambling</link>
@@ -34,6 +50,22 @@ RegRisk Radar is regulatory-risk intelligence provided for general informational
 Primary source: CFTC press release 9274-26 (July 30, 2026) — https://www.cftc.gov/PressRoom/PressReleases/9274-26
 
 Relevant to: derivatives clearing organizations, designated contract markets, swap execution facilities, futures commission merchants, crypto-derivatives and prediction-market platforms
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+    <item>
+      <title>SEC approves amended generic listing standards for Commodity-Based Trust Shares, adding a 15% digital-commodity buffer and allowing actively managed products</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-07-30-sec-amends-commodity-trust-shares-generic-listing-standards</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-07-30-sec-amends-commodity-trust-shares-generic-listing-standards</guid>
+      <pubDate>Thu, 30 Jul 2026 12:00:00 +0000</pubDate>
+      <category>U.S. Securities and Exchange Commission</category>
+      <description>In three orders published in the Federal Register between July 30 and August 3, 2026, the Securities and Exchange Commission approved amendments to the generic listing standards for Commodity-Based Trust Shares at Nasdaq, NYSE Arca and Cboe BZX. In Release No. 34-105995 (July 27, 2026; File No. SR-NASDAQ-2026-032), the Commission approved new Nasdaq Rule 5711(d)(iv)(C), which provides that up to 15 percent of a Commodity-Based Trust Share&#x27;s net asset value in the aggregate may consist of digital commodities that do not meet the existing criteria for commodities, or securities that do not meet the existing criteria for securities, with any derivative calculated on its gross notional value. The rule defines &#x27;digital commodity&#x27; to mean a commodity that is a digital asset and is intrinsically linked to and derives its value from the programmatic operation of a functional crypto system, as well as supply and demand dynamics, rather than from the expectation of profits from the essential managerial efforts of others. The exchanges state that this definition is informed by the joint interpretive guidance issued by the Commission and the Commodity Futures Trading Commission published at 91 FR 13714 on March 23, 2026, and that each exchange will submit a rule filing to conform the definition if legislation is enacted defining the term. The same orders remove the requirement that Commodity-Based Trust Shares be designed to reflect the performance of one or more reference assets or an index of reference assets, which permits actively managed products to be listed under the generic standards, and add a trading-halt requirement where portfolio information is not disseminated to all market participants at the same time, together with a requirement that persons with access to non-public portfolio information be subject to procedures designed to prevent its use and dissemination. At least 85 percent of net asset value must remain in assets already permitted under the standards, and the Cboe BZX order states that the sponsor must monitor compliance with the 85 percent threshold daily and promptly notify the exchange of any breach. The companion orders are Release No. 34-106001 (July 28, 2026; File No. SR-NYSEARCA-2026-42), amending NYSE Arca Rule 8.201-E (Generic), and Release No. 34-106011 (July 29, 2026; File No. SR-CboeBZX-2026-061), amending Cboe BZX Rule 14.11(e)(4).
+
+Primary source: Federal Register: SEC Release No. 34-105995, SR-NASDAQ-2026-032, 91 FR 48204 (July 30, 2026) — https://www.federalregister.gov/documents/2026/07/30/2026-15327/self-regulatory-organizations-the-nasdaq-stock-market-llc-order-granting-approval-of-a-proposed-rule
+
+Relevant to: crypto ETP issuers and sponsors, exchanges and listing venues, asset managers, broker-dealers
 
 For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
 
