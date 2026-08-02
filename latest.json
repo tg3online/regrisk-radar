@@ -1,8 +1,51 @@
 {
-  "generated": "2026-07-30T16:52:23Z",
+  "generated": "2026-08-02T16:13:29Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 88,
+  "count": 90,
   "items": [
+    {
+      "id": "2026-07-31-ny-ag-sues-kalshiex-illegal-gambling",
+      "date": "2026-07-31",
+      "published": "2026-07-31T16:00:00Z",
+      "title": "New York sues KalshiEX, LLC in state court, alleging its prediction market is an unlicensed gambling operation",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-07-31-ny-ag-sues-kalshiex-illegal-gambling",
+      "issuing_body": "New York State Office of the Attorney General",
+      "source_url": "https://ag.ny.gov/press-release/2026/governor-hochul-and-attorney-general-james-announce-new-york-has-sued-kalshi",
+      "source_label": "New York State Office of the Attorney General press release (July 31, 2026)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction-market platforms, event-contract venues, sports-betting operators, crypto exchanges listing event contracts",
+      "tags": [
+        "gaming",
+        "prediction-markets",
+        "enforcement",
+        "state-ag",
+        "new-york",
+        "licensing"
+      ]
+    },
+    {
+      "id": "2026-07-30-cftc-affiliations-conflicts-nprm",
+      "date": "2026-07-30",
+      "published": "2026-07-30T14:00:00Z",
+      "title": "CFTC proposes conflicts-of-interest and affiliation rules for vertically integrated market structures",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-07-30-cftc-affiliations-conflicts-nprm",
+      "issuing_body": "U.S. Commodity Futures Trading Commission",
+      "source_url": "https://www.cftc.gov/PressRoom/PressReleases/9274-26",
+      "source_label": "CFTC press release 9274-26 (July 30, 2026)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "derivatives clearing organizations, designated contract markets, swap execution facilities, futures commission merchants, crypto-derivatives and prediction-market platforms",
+      "tags": [
+        "cftc",
+        "nprm",
+        "market-structure",
+        "affiliations",
+        "conflicts-of-interest",
+        "crypto",
+        "prediction-markets"
+      ]
+    },
     {
       "id": "2026-07-29-1908-ofac-iran-hormuz-digital-assets",
       "date": "2026-07-29",

@@ -5,8 +5,40 @@
     <link>https://tg3online.github.io/regrisk-radar/</link>
     <description>Daily facts-only regulatory radar — crypto, gaming, payments &amp; fintech. Verified against primary sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Jul 2026 16:52:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 16:13:29 +0000</lastBuildDate>
     <atom:link href="https://tg3online.github.io/regrisk-radar/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New York sues KalshiEX, LLC in state court, alleging its prediction market is an unlicensed gambling operation</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-07-31-ny-ag-sues-kalshiex-illegal-gambling</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-07-31-ny-ag-sues-kalshiex-illegal-gambling</guid>
+      <pubDate>Fri, 31 Jul 2026 16:00:00 +0000</pubDate>
+      <category>New York State Office of the Attorney General</category>
+      <description>On July 31, 2026, New York Governor Kathy Hochul and Attorney General Letitia James announced that New York has sued KalshiEX, LLC for running an illegal gambling operation in New York through its prediction market platform. The Office of the Attorney General states that its investigation found Kalshi&#x27;s prediction market is an illegal, unlicensed gambling operation, and that the lawsuit alleges Kalshi&#x27;s prediction markets meet the legal definition of gambling because the outcomes of the events users bet on are uncertain and outside the control of the bettor or hinge on a game of chance. The release states Kalshi has failed to obtain a license from the New York State Gaming Commission, and that Kalshi&#x27;s markets are available to users between the ages of 18 and 20 even though New York law requires a person to be at least 21 to participate in mobile sports betting. The Attorney General is asking the court to order Kalshi to stop operating as an unlicensed gambling business, forfeit all illegal gains, distribute restitution to consumers who were harmed, and pay fines equal to three times the gains the company made. The release notes prior related New York actions, including an October 2025 New York State Gaming Commission cease-and-desist letter to Kalshi and April 2026 suits against Coinbase and Gemini over alleged illegal gambling platforms. The matter is handled by the OAG Investor Protection Bureau.
+
+Primary source: New York State Office of the Attorney General press release (July 31, 2026) — https://ag.ny.gov/press-release/2026/governor-hochul-and-attorney-general-james-announce-new-york-has-sued-kalshi
+
+Relevant to: prediction-market platforms, event-contract venues, sports-betting operators, crypto exchanges listing event contracts
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+    <item>
+      <title>CFTC proposes conflicts-of-interest and affiliation rules for vertically integrated market structures</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-07-30-cftc-affiliations-conflicts-nprm</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-07-30-cftc-affiliations-conflicts-nprm</guid>
+      <pubDate>Thu, 30 Jul 2026 14:00:00 +0000</pubDate>
+      <category>U.S. Commodity Futures Trading Commission</category>
+      <description>On July 30, 2026, the U.S. Commodity Futures Trading Commission published a Notice of Proposed Rulemaking, release 9274-26, seeking public comment on amendments to Part 37, Part 38, and Part 39 of the CFTC&#x27;s regulations, as well as Commission regulations 1.52 and 1.55. The release states that the Commission has continued to observe growth in the number of affiliations between CFTC-regulated entities, including derivatives clearing organizations, designated contract markets, swap execution facilities, futures commission merchants, and other market participants such as market makers, and that in light of these developments the Commission proposes new rules and amendments to its existing regulations to address issues that may arise in connection with such firms, including with respect to perceived and potential conflicts of interest. Chairman Michael S. Selig is quoted as saying that by setting forth principles-based regulations for vertically integrated market structures, the CFTC is taking a significant step in its continued efforts to support responsible innovation in U.S. derivatives markets, and that the proposal would institute purpose-fit rules of the road that bolster market integrity without stifling novel market structures or imposing excessive compliance costs on registrants. The release states comments will be accepted for 60 days following publication in the Federal Register. As of August 2, 2026 the notice had not yet appeared in the Federal Register.
+
+Primary source: CFTC press release 9274-26 (July 30, 2026) — https://www.cftc.gov/PressRoom/PressReleases/9274-26
+
+Relevant to: derivatives clearing organizations, designated contract markets, swap execution facilities, futures commission merchants, crypto-derivatives and prediction-market platforms
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
     <item>
       <title>OFAC designates Iranian Strait of Hormuz maritime-insurance network, citing payments in digital assets used to evade sanctions</title>
       <link>https://tg3online.github.io/regrisk-radar/#2026-07-29-1908-ofac-iran-hormuz-digital-assets</link>
