@@ -1,0 +1,32 @@
+{
+  "entries": [
+    {
+      "id": "2026-07-31-ny-ag-sues-kalshiex-illegal-gambling",
+      "date": "2026-07-31",
+      "published": "2026-07-31T16:00:00Z",
+      "issuing_body": "New York State Office of the Attorney General",
+      "title": "New York sues KalshiEX, LLC in state court, alleging its prediction market is an unlicensed gambling operation",
+      "facts": "On July 31, 2026, New York Governor Kathy Hochul and Attorney General Letitia James announced that New York has sued KalshiEX, LLC for running an illegal gambling operation in New York through its prediction market platform. The Office of the Attorney General states that its investigation found Kalshi's prediction market is an illegal, unlicensed gambling operation, and that the lawsuit alleges Kalshi's prediction markets meet the legal definition of gambling because the outcomes of the events users bet on are uncertain and outside the control of the bettor or hinge on a game of chance. The release states Kalshi has failed to obtain a license from the New York State Gaming Commission, and that Kalshi's markets are available to users between the ages of 18 and 20 even though New York law requires a person to be at least 21 to participate in mobile sports betting. The Attorney General is asking the court to order Kalshi to stop operating as an unlicensed gambling business, forfeit all illegal gains, distribute restitution to consumers who were harmed, and pay fines equal to three times the gains the company made. The release notes prior related New York actions, including an October 2025 New York State Gaming Commission cease-and-desist letter to Kalshi and April 2026 suits against Coinbase and Gemini over alleged illegal gambling platforms. The matter is handled by the OAG Investor Protection Bureau.",
+      "source_url": "https://ag.ny.gov/press-release/2026/governor-hochul-and-attorney-general-james-announce-new-york-has-sued-kalshi",
+      "source_label": "New York State Office of the Attorney General press release (July 31, 2026)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction-market platforms, event-contract venues, sports-betting operators, crypto exchanges listing event contracts",
+      "tags": ["gaming", "prediction-markets", "enforcement", "state-ag", "new-york", "licensing"]
+    },
+    {
+      "id": "2026-07-30-cftc-affiliations-conflicts-nprm",
+      "date": "2026-07-30",
+      "published": "2026-07-30T14:00:00Z",
+      "issuing_body": "U.S. Commodity Futures Trading Commission",
+      "title": "CFTC proposes conflicts-of-interest and affiliation rules for vertically integrated market structures",
+      "facts": "On July 30, 2026, the U.S. Commodity Futures Trading Commission published a Notice of Proposed Rulemaking, release 9274-26, seeking public comment on amendments to Part 37, Part 38, and Part 39 of the CFTC's regulations, as well as Commission regulations 1.52 and 1.55. The release states that the Commission has continued to observe growth in the number of affiliations between CFTC-regulated entities, including derivatives clearing organizations, designated contract markets, swap execution facilities, futures commission merchants, and other market participants such as market makers, and that in light of these developments the Commission proposes new rules and amendments to its existing regulations to address issues that may arise in connection with such firms, including with respect to perceived and potential conflicts of interest. Chairman Michael S. Selig is quoted as saying that by setting forth principles-based regulations for vertically integrated market structures, the CFTC is taking a significant step in its continued efforts to support responsible innovation in U.S. derivatives markets, and that the proposal would institute purpose-fit rules of the road that bolster market integrity without stifling novel market structures or imposing excessive compliance costs on registrants. The release states comments will be accepted for 60 days following publication in the Federal Register. As of August 2, 2026 the notice had not yet appeared in the Federal Register.",
+      "source_url": "https://www.cftc.gov/PressRoom/PressReleases/9274-26",
+      "source_label": "CFTC press release 9274-26 (July 30, 2026)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "derivatives clearing organizations, designated contract markets, swap execution facilities, futures commission merchants, crypto-derivatives and prediction-market platforms",
+      "tags": ["cftc", "nprm", "market-structure", "affiliations", "conflicts-of-interest", "crypto", "prediction-markets"]
+    }
+  ]
+}
