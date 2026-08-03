@@ -5,8 +5,24 @@
     <link>https://tg3online.github.io/regrisk-radar/</link>
     <description>Daily facts-only regulatory radar — crypto, gaming, payments &amp; fintech. Verified against primary sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Aug 2026 21:49:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 09:45:01 +0000</lastBuildDate>
     <atom:link href="https://tg3online.github.io/regrisk-radar/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SEC grants CME Group&#x27;s petition for review of Nasdaq PHLX Bitcoin Index options approval and keeps the approval stayed</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-08-03-sec-stays-nasdaq-phlx-bitcoin-index-options</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-08-03-sec-stays-nasdaq-phlx-bitcoin-index-options</guid>
+      <pubDate>Mon, 03 Aug 2026 09:00:00 +0000</pubDate>
+      <category>U.S. Securities and Exchange Commission</category>
+      <description>In Release No. 34-106005 (File No. SR-Phlx-2025-50), dated July 29, 2026 and published in the Federal Register on August 3, 2026 at 91 FR 48968, the Securities and Exchange Commission granted CME Group Inc.&#x27;s petition for review of the Division of Trading and Markets&#x27; accelerated approval of Nasdaq PHLX LLC&#x27;s proposed rule change to list and trade Nasdaq Bitcoin Index options. The Division approved the filing, as modified by Amendment No. 1, on an accelerated basis on May 22, 2026 under delegated authority (Release No. 34-105549, 91 FR 31769). CME filed a notice of intention to petition for review on June 11, 2026 and a petition for review on June 18, 2026. The order states that under Rule 431(e) of the Commission&#x27;s Rules of Practice, a notice of intention to petition for review results in an automatic stay of the action taken by delegated authority until the Commission orders otherwise. The Commission ordered that CME&#x27;s petition is granted, that any party or other person may file a statement in support of or in opposition to the delegated action on or before August 24, 2026, and that the Approval Order shall remain stayed pending further order of the Commission.
+
+Primary source: SEC order, Federal Register (Release No. 34-106005, File No. SR-Phlx-2025-50) — https://www.federalregister.gov/documents/2026/08/03/2026-15615/in-the-matter-of-nasdaq-phlx-llc-order-granting-petition-for-review-and-scheduling-filing-of
+
+Relevant to: crypto derivatives venues, listing exchanges, ETP and index-product issuers, market makers
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
     <item>
       <title>CFTC reported to have filed an emergency motion in Manhattan federal court to stop New York applying state gambling law to Kalshi</title>
       <link>https://tg3online.github.io/regrisk-radar/#2026-07-31-cftc-emergency-motion-new-york-kalshi</link>
@@ -34,6 +50,22 @@ RegRisk Radar is regulatory-risk intelligence provided for general informational
 Primary source: New York State Office of the Attorney General press release (July 31, 2026) — https://ag.ny.gov/press-release/2026/governor-hochul-and-attorney-general-james-announce-new-york-has-sued-kalshi
 
 Relevant to: prediction-market platforms, event-contract venues, sports-betting operators, crypto exchanges listing event contracts
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+    <item>
+      <title>CFTC settles manipulation charges over trading of a State of the Union event contract, with $17,569.98 disgorgement, a $17,500 penalty and a three-year trading ban</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-07-31-cftc-order-santos-event-contract-manipulation</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-07-31-cftc-order-santos-event-contract-manipulation</guid>
+      <pubDate>Fri, 31 Jul 2026 16:00:00 +0000</pubDate>
+      <category>U.S. Commodity Futures Trading Commission</category>
+      <description>On July 31, 2026 the Commodity Futures Trading Commission entered a settled Order Instituting Proceedings under Section 6(c) and (d) of the Commodity Exchange Act against George Anthony Devolder Santos, CFTC Docket No. 26-05, announced as CFTC Release 9276-26. The Commission found that between February 12, 2026 and February 25, 2026 Santos violated Section 6(c)(1) of the Act, 7 U.S.C. 9(1), and Regulation 180.1(a)(1), (3). The order states that KalshiEX LLC, a designated contract market, offered an event contract titled &quot;Who will attend the State of the Union?&quot; and a market on whether Santos would attend the 2026 State of the Union, and that Santos traded both Yes and No positions in that market while making social media statements about his attendance, exiting the No position on February 25 for a profit of $14,390.57. The order states that event contracts are a type of swap as defined by the Act, and that Santos violated Section 6(c)(1) and Regulation 180.1(a) when he traded in an event contract where he could influence the outcome of the underlying event and engaged in activity designed to affect the price of the swap. Santos consented to the order without admitting the findings or conclusions. The order requires him to cease and desist, to disgorge $17,569.98, to pay a $17,500 civil monetary penalty within thirty days, and prohibits him from trading on or subject to the rules of any registered entity for three years. KalshiEX LLC is identified in the order as the venue that listed the contract and is not a respondent.
+
+Primary source: CFTC Order Instituting Proceedings, Docket No. 26-05 (PDF) — https://www.cftc.gov/media/14451/ENF_SantosOrder073126/download
+
+Relevant to: prediction-market and event-contract platforms, designated contract markets, market surveillance and compliance teams
 
 For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
 

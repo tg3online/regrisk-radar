@@ -1,8 +1,30 @@
 {
-  "generated": "2026-08-02T21:49:08Z",
+  "generated": "2026-08-03T09:45:01Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 92,
+  "count": 94,
   "items": [
+    {
+      "id": "2026-08-03-sec-stays-nasdaq-phlx-bitcoin-index-options",
+      "date": "2026-08-03",
+      "published": "2026-08-03T09:00:00Z",
+      "title": "SEC grants CME Group's petition for review of Nasdaq PHLX Bitcoin Index options approval and keeps the approval stayed",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-08-03-sec-stays-nasdaq-phlx-bitcoin-index-options",
+      "issuing_body": "U.S. Securities and Exchange Commission",
+      "source_url": "https://www.federalregister.gov/documents/2026/08/03/2026-15615/in-the-matter-of-nasdaq-phlx-llc-order-granting-petition-for-review-and-scheduling-filing-of",
+      "source_label": "SEC order, Federal Register (Release No. 34-106005, File No. SR-Phlx-2025-50)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "crypto derivatives venues, listing exchanges, ETP and index-product issuers, market makers",
+      "tags": [
+        "crypto",
+        "sec",
+        "bitcoin",
+        "index-options",
+        "market-structure",
+        "delegated-authority",
+        "federal-register"
+      ]
+    },
     {
       "id": "2026-07-31-cftc-emergency-motion-new-york-kalshi",
       "date": "2026-07-31",
@@ -45,6 +67,28 @@
         "state-ag",
         "new-york",
         "licensing"
+      ]
+    },
+    {
+      "id": "2026-07-31-cftc-order-santos-event-contract-manipulation",
+      "date": "2026-07-31",
+      "published": "2026-07-31T16:00:00Z",
+      "title": "CFTC settles manipulation charges over trading of a State of the Union event contract, with $17,569.98 disgorgement, a $17,500 penalty and a three-year trading ban",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-07-31-cftc-order-santos-event-contract-manipulation",
+      "issuing_body": "U.S. Commodity Futures Trading Commission",
+      "source_url": "https://www.cftc.gov/media/14451/ENF_SantosOrder073126/download",
+      "source_label": "CFTC Order Instituting Proceedings, Docket No. 26-05 (PDF)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction-market and event-contract platforms, designated contract markets, market surveillance and compliance teams",
+      "tags": [
+        "gaming",
+        "crypto",
+        "cftc",
+        "enforcement",
+        "event-contracts",
+        "prediction-markets",
+        "market-manipulation"
       ]
     },
     {
