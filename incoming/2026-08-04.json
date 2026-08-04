@@ -1,0 +1,46 @@
+{
+  "entries": [
+    {
+      "id": "2026-08-03-fincen-ubs-financial-services-bsa-penalty",
+      "date": "2026-08-03",
+      "published": "2026-08-03T00:00:00Z",
+      "issuing_body": "Financial Crimes Enforcement Network (FinCEN), U.S. Department of the Treasury",
+      "title": "FinCEN assesses a $125 million penalty against UBS Financial Services for willful Bank Secrecy Act violations, its largest ever against a broker-dealer",
+      "facts": "On August 3, 2026 the Treasury Department's Financial Crimes Enforcement Network assessed a $125,000,000 civil money penalty against UBS Financial Services Inc. (UBSFS) for willful violations of the Bank Secrecy Act. FinCEN states this is the largest penalty ever imposed against a broker-dealer for BSA violations to date, and that it is FinCEN's second enforcement action against UBSFS after a December 2018 consent order carrying a $14.5 million penalty that had also found UBSFS failed to adequately monitor foreign currency wires. FinCEN states that despite assurances it would remediate, UBSFS did not, and subsequently failed to appropriately monitor over 50,000 foreign currency wires with an aggregate value of more than $10 billion, and did not disclose these failings to FinCEN, which learned of them through an investigation opened after a regulatory examination. FinCEN also found failures to perform appropriate customer due diligence for high-risk customers with ties to Russia and Latin America, resulting in a failure to timely report hundreds of suspicious transactions. As part of the resolution UBSFS admits it willfully violated the BSA, including failing to implement and maintain an AML program and to file suspicious activity reports. The consent order requires UBSFS to work with a third party to complete a lookback for undetected suspicious transactions and to undergo an independent review of its AML program covering priority illicit finance risks that FinCEN identifies as the U.S. Southwest border, cartels and possible narcotics trafficking, Iran, Russia and Venezuela. FinCEN states it will waive up to $15 million for expenses incurred on that undertaking upon satisfactory completion. FinCEN states that the Commodity Futures Trading Commission, the Securities and Exchange Commission and FINRA cooperated on the matter.",
+      "source_url": "https://www.fincen.gov/news/news-releases/fincen-assesses-historic-125-million-penalty-against-ubs-financial-services-inc",
+      "source_label": "FinCEN news release, August 3, 2026",
+      "tags": ["payments", "fintech", "fincen", "enforcement", "bsa", "aml", "sar", "customer-due-diligence", "broker-dealer"],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "broker-dealers, futures commission merchants, payment and money-movement compliance teams, KYC and AML vendors"
+    },
+    {
+      "id": "2026-08-03-sec-ubs-financial-services-sar-filing-failures",
+      "date": "2026-08-03",
+      "published": "2026-08-03T00:00:00Z",
+      "issuing_body": "U.S. Securities and Exchange Commission",
+      "title": "SEC censures UBS Financial Services and imposes a $20 million penalty for failing to timely file suspicious activity reports on foreign currency wires",
+      "facts": "On August 3, 2026 the Securities and Exchange Commission instituted and settled administrative and cease-and-desist proceedings against UBS Financial Services Inc. (UBSFS) in Release No. 34-106026 and Advisers Act Release No. IA-6985, File No. 3-22665. The Commission found that UBSFS willfully violated Section 17(a) of the Securities Exchange Act of 1934 and Rule 17a-8 thereunder by failing to timely file certain suspicious activity reports. The order finds that from January 2019 through June 2023 UBSFS failed to adequately monitor customers' foreign currency wire transactions as required by its own anti-money laundering policies, because of flaws first in its legacy monitoring system and then in the automated system that replaced it in February 2021, and that UBSFS also failed to appropriately maintain customer risk profiles including red flags tied to high-risk jurisdictions. The order states that from January 2019 through January 2021 UBSFS failed to adequately monitor approximately 52,000 foreign currency wire transactions with a notional value of approximately $7.6 billion, and that from February 2021 through June 2023 it failed to monitor or adequately monitor more than 8,000 of approximately 190,000 such transactions, being 4 percent by count and carrying a notional value of more than $2.7 billion, being 20 percent by value. Lookback reports filed beginning in October 2023 were not timely under the SAR rule and concerned thousands of suspicious transactions totalling approximately $250 million. The Commission ordered UBSFS to cease and desist, censured it, and ordered payment of a $20 million civil money penalty within 30 days. UBSFS consented without admitting the findings, except as to admissions contained in its consent to the FinCEN assessment.",
+      "source_url": "https://www.sec.gov/files/litigation/admin/2026/34-106026.pdf",
+      "source_label": "SEC order, Release No. 34-106026 / IA-6985, File No. 3-22665, August 3, 2026",
+      "tags": ["payments", "fintech", "sec", "enforcement", "bsa", "aml", "sar", "rule-17a-8", "broker-dealer"],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "broker-dealers, dually registered advisers, payment and money-movement compliance teams, KYC and AML vendors"
+    },
+    {
+      "id": "2026-08-03-cftc-ubs-financial-services-aml-supervision-order",
+      "date": "2026-08-03",
+      "published": "2026-08-03T00:00:00Z",
+      "issuing_body": "U.S. Commodity Futures Trading Commission",
+      "title": "CFTC orders UBS Financial Services to pay $8 million for failing to diligently supervise AML transaction monitoring of foreign currency wires",
+      "facts": "On August 3, 2026 the Commodity Futures Trading Commission announced, as Release 9277-26, a settled order against UBS Financial Services Inc. (UBS FSI) in CFTC Docket No. 26-04, dated July 31, 2026. The Commission found that from January 2019 through June 2023 UBS FSI, a registered futures commission merchant, failed to adequately configure and administer its anti-money laundering transaction monitoring systems for wire transfers denominated in foreign currencies and effectuated through retail customer accounts, and thereby failed to diligently supervise its business in violation of Commission Regulation 166.3. The order states that UBS FSI estimates more than 28,000 such wires with a total U.S. dollar value of at least $8.9 billion were insufficiently monitored or omitted from monitoring. It records that a manually generated report used until February 2021 did not capture scenarios such as transfers to or from high-risk jurisdictions, round dollar transactions and dormant account activity; that a coding error discovered in October 2020 had suppressed more than 400 alerts; and that after the automated system went live in March 2021 the firm configured it to draw on an intra-day feed rather than a complete end-of-day feed and did not remediate that and a transaction-labelling issue until October 2022. The order states that a violation of Regulation 166.3 is an independent violation for which no underlying violation is necessary. UBS FSI submitted an offer of settlement, admits the facts set out in the order and acknowledges that its conduct violated Regulation 166.3. The order requires UBS FSI to cease and desist and to pay an $8,000,000 civil monetary penalty within thirty days, and imposes cooperation undertakings. The CFTC release states that FinCEN, the SEC and FINRA announced related actions against UBS FSI the same day.",
+      "source_url": "https://www.cftc.gov/media/14456/ENF_UBSFinancial%20ServicesOrder073126/download",
+      "source_label": "CFTC order, Docket No. 26-04, announced as Release 9277-26, August 3, 2026",
+      "tags": ["payments", "fintech", "cftc", "enforcement", "bsa", "aml", "regulation-166-3", "supervision", "futures-commission-merchant"],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "futures commission merchants, designated contract markets, payment and money-movement compliance teams, KYC and AML vendors"
+    }
+  ]
+}
