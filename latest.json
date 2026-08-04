@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-03T09:45:01Z",
+  "generated": "2026-08-04T09:44:14Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 94,
+  "count": 97,
   "items": [
     {
       "id": "2026-08-03-sec-stays-nasdaq-phlx-bitcoin-index-options",
@@ -23,6 +23,78 @@
         "market-structure",
         "delegated-authority",
         "federal-register"
+      ]
+    },
+    {
+      "id": "2026-08-03-fincen-ubs-financial-services-bsa-penalty",
+      "date": "2026-08-03",
+      "published": "2026-08-03T00:00:00Z",
+      "title": "FinCEN assesses a $125 million penalty against UBS Financial Services for willful Bank Secrecy Act violations, its largest ever against a broker-dealer",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-08-03-fincen-ubs-financial-services-bsa-penalty",
+      "issuing_body": "Financial Crimes Enforcement Network (FinCEN), U.S. Department of the Treasury",
+      "source_url": "https://www.fincen.gov/news/news-releases/fincen-assesses-historic-125-million-penalty-against-ubs-financial-services-inc",
+      "source_label": "FinCEN news release, August 3, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "broker-dealers, futures commission merchants, payment and money-movement compliance teams, KYC and AML vendors",
+      "tags": [
+        "payments",
+        "fintech",
+        "fincen",
+        "enforcement",
+        "bsa",
+        "aml",
+        "sar",
+        "customer-due-diligence",
+        "broker-dealer"
+      ]
+    },
+    {
+      "id": "2026-08-03-sec-ubs-financial-services-sar-filing-failures",
+      "date": "2026-08-03",
+      "published": "2026-08-03T00:00:00Z",
+      "title": "SEC censures UBS Financial Services and imposes a $20 million penalty for failing to timely file suspicious activity reports on foreign currency wires",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-08-03-sec-ubs-financial-services-sar-filing-failures",
+      "issuing_body": "U.S. Securities and Exchange Commission",
+      "source_url": "https://www.sec.gov/files/litigation/admin/2026/34-106026.pdf",
+      "source_label": "SEC order, Release No. 34-106026 / IA-6985, File No. 3-22665, August 3, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "broker-dealers, dually registered advisers, payment and money-movement compliance teams, KYC and AML vendors",
+      "tags": [
+        "payments",
+        "fintech",
+        "sec",
+        "enforcement",
+        "bsa",
+        "aml",
+        "sar",
+        "rule-17a-8",
+        "broker-dealer"
+      ]
+    },
+    {
+      "id": "2026-08-03-cftc-ubs-financial-services-aml-supervision-order",
+      "date": "2026-08-03",
+      "published": "2026-08-03T00:00:00Z",
+      "title": "CFTC orders UBS Financial Services to pay $8 million for failing to diligently supervise AML transaction monitoring of foreign currency wires",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-08-03-cftc-ubs-financial-services-aml-supervision-order",
+      "issuing_body": "U.S. Commodity Futures Trading Commission",
+      "source_url": "https://www.cftc.gov/media/14456/ENF_UBSFinancial%20ServicesOrder073126/download",
+      "source_label": "CFTC order, Docket No. 26-04, announced as Release 9277-26, August 3, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "futures commission merchants, designated contract markets, payment and money-movement compliance teams, KYC and AML vendors",
+      "tags": [
+        "payments",
+        "fintech",
+        "cftc",
+        "enforcement",
+        "bsa",
+        "aml",
+        "regulation-166-3",
+        "supervision",
+        "futures-commission-merchant"
       ]
     },
     {
