@@ -1,8 +1,51 @@
 {
-  "generated": "2026-08-04T09:44:14Z",
+  "generated": "2026-08-05T09:41:20Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 97,
+  "count": 99,
   "items": [
+    {
+      "id": "2026-08-05-cboe-bitcoin-etf-index-options-fees",
+      "date": "2026-08-05",
+      "published": "2026-08-05T08:45:00Z",
+      "title": "SEC publishes Cboe's immediately effective fee change for Cboe Bitcoin U.S. ETF Index options (CBTX) and Cboe Mini Bitcoin U.S. ETF Index options (MBTX)",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-08-05-cboe-bitcoin-etf-index-options-fees",
+      "issuing_body": "U.S. Securities and Exchange Commission",
+      "source_url": "https://www.federalregister.gov/documents/2026/08/05/2026-15829/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-and-immediate-effectiveness-of-a",
+      "source_label": "Federal Register (SEC Release No. 34-106020, File No. SR-CBOE-2026-064), 91 FR 50576, published August 5, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "options market makers, proprietary trading firms, crypto ETF and index product traders, exchanges",
+      "tags": [
+        "crypto",
+        "bitcoin",
+        "options",
+        "exchange-fees",
+        "market-structure",
+        "SEC",
+        "Cboe"
+      ]
+    },
+    {
+      "id": "2026-08-05-sec-phlx-bitcoin-index-options-correction",
+      "date": "2026-08-05",
+      "published": "2026-08-05T08:45:00Z",
+      "title": "SEC corrects its order approving Nasdaq PHLX's proposal to list and trade Nasdaq Bitcoin Index Options",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-08-05-sec-phlx-bitcoin-index-options-correction",
+      "issuing_body": "U.S. Securities and Exchange Commission",
+      "source_url": "https://www.federalregister.gov/documents/2026/08/05/2026-15837/self-regulatory-organizations-nasdaq-phlx-llc-notice-of-filing-of-amendment-no-1-and-order-granting",
+      "source_label": "Federal Register (SEC Release No. 34-105549A, File No. SR-Phlx-2025-50), 91 FR 50573, published August 5, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "exchanges, options market participants, crypto index and ETF product issuers",
+      "tags": [
+        "crypto",
+        "bitcoin",
+        "options",
+        "SEC",
+        "Nasdaq-PHLX",
+        "listing-approval"
+      ]
+    },
     {
       "id": "2026-08-03-sec-stays-nasdaq-phlx-bitcoin-index-options",
       "date": "2026-08-03",

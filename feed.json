@@ -6,6 +6,37 @@
   "description": "Daily facts-only regulatory radar — crypto, gaming, payments & fintech. Verified against primary sources.",
   "items": [
     {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-08-05-cboe-bitcoin-etf-index-options-fees",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-08-05-cboe-bitcoin-etf-index-options-fees",
+      "title": "SEC publishes Cboe's immediately effective fee change for Cboe Bitcoin U.S. ETF Index options (CBTX) and Cboe Mini Bitcoin U.S. ETF Index options (MBTX)",
+      "content_text": "The Securities and Exchange Commission published notice (Release No. 34-106020, File No. SR-CBOE-2026-064, dated July 31, 2026) that Cboe Exchange, Inc. filed on July 20, 2026 a proposed rule change amending standard transaction fees for Cboe Bitcoin U.S. ETF Index options (CBTX) and Cboe Mini Bitcoin U.S. ETF Index options (MBTX). For CBTX the filing adopts a $1.50 per contract fee on Non-Customer orders contra to non-customers that remove liquidity electronically and a $0.75 per contract rebate for Market-Maker orders contra to non-customers that add liquidity electronically; the corresponding MBTX rates are $1.00 and $0.50. The Exchange states the structure addresses what it describes as opportunistic non-customer aggression against passive Market-Maker quotes. The notice states the rule change has become effective pursuant to Section 19(b)(3)(A) of the Securities Exchange Act of 1934 and Rule 19b-4(f) thereunder, that the Commission may summarily suspend the rule change within 60 days of filing, and that comments are due on or before August 26, 2026.\n\nPrimary source: Federal Register (SEC Release No. 34-106020, File No. SR-CBOE-2026-064), 91 FR 50576, published August 5, 2026 — https://www.federalregister.gov/documents/2026/08/05/2026-15829/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-and-immediate-effectiveness-of-a\n\nRelevant to: options market makers, proprietary trading firms, crypto ETF and index product traders, exchanges\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-08-05T08:45:00Z",
+      "tags": [
+        "crypto",
+        "bitcoin",
+        "options",
+        "exchange-fees",
+        "market-structure",
+        "SEC",
+        "Cboe"
+      ]
+    },
+    {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-08-05-sec-phlx-bitcoin-index-options-correction",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-08-05-sec-phlx-bitcoin-index-options-correction",
+      "title": "SEC corrects its order approving Nasdaq PHLX's proposal to list and trade Nasdaq Bitcoin Index Options",
+      "content_text": "The Securities and Exchange Commission published a correction (Release No. 34-105549A, File No. SR-Phlx-2025-50) stating that its May 28, 2026 Federal Register document granting accelerated approval of the Nasdaq PHLX LLC proposed rule change to list and trade Nasdaq Bitcoin Index Options contained an error. The correction adds to FR Doc. 2026-10537 at 91 FR 31769, page 31794, following the ordering paragraph, a paragraph stating: \"For the Commission, by the Division of Trading and Markets, pursuant to delegated authority,\" citing 17 CFR 200.30-3(a)(12). The Federal Register record for File No. SR-Phlx-2025-50 now lists six documents dated from September 29, 2025 to this correction, including an August 3, 2026 order granting a petition for review of the approval.\n\nPrimary source: Federal Register (SEC Release No. 34-105549A, File No. SR-Phlx-2025-50), 91 FR 50573, published August 5, 2026 — https://www.federalregister.gov/documents/2026/08/05/2026-15837/self-regulatory-organizations-nasdaq-phlx-llc-notice-of-filing-of-amendment-no-1-and-order-granting\n\nRelevant to: exchanges, options market participants, crypto index and ETF product issuers\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-08-05T08:45:00Z",
+      "tags": [
+        "crypto",
+        "bitcoin",
+        "options",
+        "SEC",
+        "Nasdaq-PHLX",
+        "listing-approval"
+      ]
+    },
+    {
       "id": "https://tg3online.github.io/regrisk-radar/#2026-08-03-sec-stays-nasdaq-phlx-bitcoin-index-options",
       "url": "https://tg3online.github.io/regrisk-radar/#2026-08-03-sec-stays-nasdaq-phlx-bitcoin-index-options",
       "title": "SEC grants CME Group's petition for review of Nasdaq PHLX Bitcoin Index options approval and keeps the approval stayed",
