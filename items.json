@@ -8,6 +8,27 @@
   },
   "items": [
     {
+      "id": "2026-08-05-nydfs-order-express-part-500-settlement",
+      "date": "2026-08-05",
+      "published": "2026-08-05T20:00:00Z",
+      "issuing_body": "New York State Department of Financial Services",
+      "title": "NYDFS settles with money transmitter Order Express for $250,000 over cybersecurity regulation violations",
+      "facts": "The New York State Department of Financial Services announced on August 5, 2026 that Order Express, Inc., a licensed money transmitter, will pay a $250,000 penalty for violations of the Department's cybersecurity regulation, 23 NYCRR Part 500. According to the Department, its investigators identified deficiencies in the company's cybersecurity program and controls required under the regulation, including a failure to maintain adequate cybersecurity policies for system updates and inadequate risk assessments. The Department states that Order Express has remediated the deficiencies identified by the investigation, and that based on its limited revenue Order Express is exempt from many of Part 500's requirements. The announcement notes that the Part 500 regulation took effect in March 2017 with an amendment effective November 2023.",
+      "source_url": "https://www.dfs.ny.gov/reports_and_publications/press_releases/pr20260805",
+      "source_label": "NYDFS press release, August 5, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "money transmitters, payment processors, fintechs licensed in New York",
+      "tags": [
+        "payments",
+        "money-transmitter",
+        "nydfs",
+        "cybersecurity",
+        "enforcement",
+        "new-york"
+      ]
+    },
+    {
       "id": "2026-08-05-cboe-bitcoin-etf-index-options-fees",
       "date": "2026-08-05",
       "published": "2026-08-05T08:45:00Z",
@@ -49,6 +70,28 @@
       "source_type": "primary_source",
       "primary_source_status": "retrieved",
       "relevant_to": "exchanges, options market participants, crypto index and ETF product issuers"
+    },
+    {
+      "id": "2026-08-05-us-uk-frwg-summer-2026-joint-statement",
+      "date": "2026-08-05",
+      "published": "2026-08-04T18:00:00Z",
+      "issuing_body": "U.S. Department of the Treasury",
+      "title": "Treasury publishes U.S.-UK Financial Regulatory Working Group joint statement recording US update on GENIUS Act stablecoin implementation",
+      "facts": "The U.S. Department of the Treasury published on August 4, 2026 the joint statement of the 13th meeting of the UK-U.S. Financial Regulatory Working Group, hosted by HM Treasury in London on July 8, 2026. The statement records that U.S. Treasury and HM Treasury officials were joined by representatives of the Bank of England, the Financial Conduct Authority, the Federal Reserve Board, the Commodity Futures Trading Commission, the Federal Deposit Insurance Corporation, the Office of the Comptroller of the Currency and the Securities and Exchange Commission. It states that authorities provided updates on their respective regulatory regimes for digital assets, including stablecoins, and on their work to modernize payment services more broadly, and that U.S. authorities provided an update on implementing the GENIUS Act for stablecoins and on digital asset market structure. The discussion also covered the G20 Cross-border Payments Roadmap and priorities for tokenisation. The statement records that the U.S.-UK Transatlantic Taskforce for Markets of the Future announced initial recommendations on July 14 along with a U.S.-UK joint statement on stablecoins, and that the Working Group plans to reconvene in early 2027.",
+      "source_url": "https://home.treasury.gov/news/press-releases/sb0586",
+      "source_label": "U.S. Treasury press release sb0586, August 4, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "stablecoin issuers, digital asset platforms, payment providers, cross-border payments firms",
+      "tags": [
+        "crypto",
+        "payments",
+        "fintech",
+        "stablecoins",
+        "genius-act",
+        "treasury",
+        "digital-asset-market-structure"
+      ]
     },
     {
       "id": "2026-08-03-sec-stays-nasdaq-phlx-bitcoin-index-options",

@@ -1,8 +1,29 @@
 {
-  "generated": "2026-08-05T09:41:20Z",
+  "generated": "2026-08-05T21:45:05Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 99,
+  "count": 101,
   "items": [
+    {
+      "id": "2026-08-05-nydfs-order-express-part-500-settlement",
+      "date": "2026-08-05",
+      "published": "2026-08-05T20:00:00Z",
+      "title": "NYDFS settles with money transmitter Order Express for $250,000 over cybersecurity regulation violations",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-08-05-nydfs-order-express-part-500-settlement",
+      "issuing_body": "New York State Department of Financial Services",
+      "source_url": "https://www.dfs.ny.gov/reports_and_publications/press_releases/pr20260805",
+      "source_label": "NYDFS press release, August 5, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "money transmitters, payment processors, fintechs licensed in New York",
+      "tags": [
+        "payments",
+        "money-transmitter",
+        "nydfs",
+        "cybersecurity",
+        "enforcement",
+        "new-york"
+      ]
+    },
     {
       "id": "2026-08-05-cboe-bitcoin-etf-index-options-fees",
       "date": "2026-08-05",
@@ -44,6 +65,28 @@
         "SEC",
         "Nasdaq-PHLX",
         "listing-approval"
+      ]
+    },
+    {
+      "id": "2026-08-05-us-uk-frwg-summer-2026-joint-statement",
+      "date": "2026-08-05",
+      "published": "2026-08-04T18:00:00Z",
+      "title": "Treasury publishes U.S.-UK Financial Regulatory Working Group joint statement recording US update on GENIUS Act stablecoin implementation",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-08-05-us-uk-frwg-summer-2026-joint-statement",
+      "issuing_body": "U.S. Department of the Treasury",
+      "source_url": "https://home.treasury.gov/news/press-releases/sb0586",
+      "source_label": "U.S. Treasury press release sb0586, August 4, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "stablecoin issuers, digital asset platforms, payment providers, cross-border payments firms",
+      "tags": [
+        "crypto",
+        "payments",
+        "fintech",
+        "stablecoins",
+        "genius-act",
+        "treasury",
+        "digital-asset-market-structure"
       ]
     },
     {
