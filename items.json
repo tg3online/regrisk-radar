@@ -8,6 +8,28 @@
   },
   "items": [
     {
+      "id": "2026-08-06-novig-sdny-cea-preemption-suit-new-york",
+      "date": "2026-08-06",
+      "published": "2026-08-06T10:10:00Z",
+      "issuing_body": "U.S. District Court for the Southern District of New York",
+      "title": "Novig sues New York Attorney General and Gaming Commission in federal court over event-contract trading",
+      "facts": "Ludlow Exchange, LLC d/b/a Novig filed a complaint for declaratory and injunctive relief in the U.S. District Court for the Southern District of New York on August 5, 2026 (Case 1:26-cv-06676, Document 3) against New York Attorney General Letitia James, New York State Gaming Commission Executive Director Robert Williams, Chair Brian O'Dwyer, and the Commission's commissioners, each sued in an official capacity. The complaint states that Novig \"brings this action to enjoin Defendants from enforcing New York's preempted gambling and sports wagering laws to federally regulated transactions that Congress placed within the exclusive jurisdiction of the Commodity Futures Trading Commission,\" and that \"New York has moved aggressively against federally regulated event-contract trading within its borders, suing both KalshiEX LLC and Coinbase Financial Markets, Inc. under Executive Law Section 63(12) for offering the type of contracts at issue here.\" It further states that the CFTC designated Novig a Designated Contract Market on June 16, 2026, and that Novig \"began offering these event contracts to customers located in New York today.\" The filed document was retrieved; pages 1 through 5 of 45 were read.",
+      "source_url": "https://www.sportsbettingdime.com/app/uploads/2026/08/gov.uscourts.nysd_.669887.3.0.pdf",
+      "source_label": "Complaint for Declaratory and Injunctive Relief, Ludlow Exchange, LLC d/b/a Novig v. James, No. 1:26-cv-06676 (S.D.N.Y. filed Aug. 5, 2026), Doc. 3 (docket PDF copy hosted by Sports Betting Dime)",
+      "tags": [
+        "gaming",
+        "prediction-markets",
+        "event-contracts",
+        "cea-preemption",
+        "litigation",
+        "us-ny",
+        "cftc"
+      ],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction-market platforms, event-contract exchanges, sports betting and gaming operators, CFTC-designated contract markets"
+    },
+    {
       "id": "2026-08-05-nydfs-order-express-part-500-settlement",
       "date": "2026-08-05",
       "published": "2026-08-05T20:00:00Z",

@@ -1,8 +1,30 @@
 {
-  "generated": "2026-08-05T21:45:05Z",
+  "generated": "2026-08-06T09:44:29Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 101,
+  "count": 102,
   "items": [
+    {
+      "id": "2026-08-06-novig-sdny-cea-preemption-suit-new-york",
+      "date": "2026-08-06",
+      "published": "2026-08-06T10:10:00Z",
+      "title": "Novig sues New York Attorney General and Gaming Commission in federal court over event-contract trading",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-08-06-novig-sdny-cea-preemption-suit-new-york",
+      "issuing_body": "U.S. District Court for the Southern District of New York",
+      "source_url": "https://www.sportsbettingdime.com/app/uploads/2026/08/gov.uscourts.nysd_.669887.3.0.pdf",
+      "source_label": "Complaint for Declaratory and Injunctive Relief, Ludlow Exchange, LLC d/b/a Novig v. James, No. 1:26-cv-06676 (S.D.N.Y. filed Aug. 5, 2026), Doc. 3 (docket PDF copy hosted by Sports Betting Dime)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction-market platforms, event-contract exchanges, sports betting and gaming operators, CFTC-designated contract markets",
+      "tags": [
+        "gaming",
+        "prediction-markets",
+        "event-contracts",
+        "cea-preemption",
+        "litigation",
+        "us-ny",
+        "cftc"
+      ]
+    },
     {
       "id": "2026-08-05-nydfs-order-express-part-500-settlement",
       "date": "2026-08-05",
