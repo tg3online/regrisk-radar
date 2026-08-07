@@ -5,7 +5,75 @@
   <id>https://tg3online.github.io/regrisk-radar/</id>
   <link href="https://tg3online.github.io/regrisk-radar/" />
   <link href="https://tg3online.github.io/regrisk-radar/atom.xml" rel="self" type="application/atom+xml" />
-  <updated>2026-08-07T09:43:09Z</updated>
+  <updated>2026-08-07T21:47:08Z</updated>
+  <entry>
+    <title>OFAC designates two Iranian-linked digital asset exchanges, Shelbit and Aban Tether, with crypto addresses on the SDN entries</title>
+    <id>https://tg3online.github.io/regrisk-radar/#2026-08-07-ofac-sanctions-iranian-digital-asset-exchanges-shelbit-aban-tether</id>
+    <link href="https://tg3online.github.io/regrisk-radar/#2026-08-07-ofac-sanctions-iranian-digital-asset-exchanges-shelbit-aban-tether" rel="alternate" />
+    <updated>2026-08-07T18:00:00Z</updated>
+    <published>2026-08-07T18:00:00Z</published>
+    <category term="U.S. Department of the Treasury, Office of Foreign Assets Control (OFAC)" />
+    <content type="text">On August 7, 2026 the U.S. Department of the Treasury announced that OFAC &quot;is moving against digital asset exchanges that the Iranian regime relies on to launder billions of dollars, maintain covert access to international financial systems, and support the Islamic Revolutionary Guard Corps (IRGC), among other terrorist groups.&quot; Treasury states the action targets two major digital asset exchanges used by Tehran along with the ringleader of a multi-jurisdiction front-company network. Siavash Kayvanpour, who operates Republic of Georgia-based SHPS Shelbit and the Shelbit Exchange, is designated under Executive Order 13224, as amended; Treasury states that digital currency addresses belonging to the IRGC sent the equivalent of over $1 million in digital assets to Shelbit Exchange addresses, that more than the equivalent of $2 million was transferred from Shelbit Exchange addresses to IRGC addresses, and that addresses controlled by Kayvanpour sent over $2 million in digital assets to U.S.-designated Nobitex. Also designated under E.O. 13224 are UAE-based Shelbit General Trading LLC, Poland-based Shelbit Technologies Ltd, and UAE-based Crypto Home DMCC and NFT Home DMCC. Iran-based Aban Tether, which Treasury states has processed millions of dollars&#x27; worth of transactions involving previously designated Iranian digital asset exchanges including Nobitex, Wallex, Bitpin and Ramzinex, is designated under E.O. 13902. The corresponding SDN listing (OFAC recent action 20260807) records Bitcoin, Ethereum, Tron, BNB and Solana addresses across the Kayvanpour, SHPS Shelbit and Crypto Home DMCC entries, and marks the E.O. 13224 entries as carrying secondary sanctions risk under section 1(b) of E.O. 13224, as amended by E.O. 13886. Treasury states that all property and interests in property of the designated persons in the United States or in the possession or control of U.S. persons are blocked and must be reported to OFAC, that entities owned 50 percent or more by blocked persons are also blocked, and that OFAC may impose civil penalties for sanctions violations on a strict liability basis. Treasury points to FAQ 1250 and amended FAQ 1257 for sanctions risk associated with Iranian digital asset exchanges, including secondary sanctions risk, and states the action was developed in coordination with IRS-Criminal Investigation.
+
+Primary source: U.S. Department of the Treasury press release sb0598, August 7, 2026 (SDN listing: OFAC recent action 20260807) — https://home.treasury.gov/news/press-releases/sb0598
+
+Relevant to: digital asset exchanges, custodians, VASPs, payment processors, sanctions and AML compliance teams
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</content>
+  </entry>
+  <entry>
+    <title>OFAC designates Dubai exchange-house fronts and Hong Kong and Singapore shell companies in its eighth 2026 action against Iran&#x27;s shadow banking networks</title>
+    <id>https://tg3online.github.io/regrisk-radar/#2026-08-07-ofac-iran-shadow-banking-exchange-house-designations</id>
+    <link href="https://tg3online.github.io/regrisk-radar/#2026-08-07-ofac-iran-shadow-banking-exchange-house-designations" rel="alternate" />
+    <updated>2026-08-07T18:00:00Z</updated>
+    <published>2026-08-07T18:00:00Z</published>
+    <category term="U.S. Department of the Treasury, Office of Foreign Assets Control (OFAC)" />
+    <content type="text">On August 7, 2026 the U.S. Department of the Treasury announced that OFAC &quot;took action against multiple networks spanning several countries for enabling Iran&#x27;s rahbar banking system to move hundreds of millions of dollars,&quot; pursuant to Executive Order 13902. Treasury states this is OFAC&#x27;s eighth action in 2026 targeting Iran&#x27;s shadow banking apparatus. Per the release, Iran&#x27;s Shahr Bank relies on two Dubai-based exchange house fronts, Titan Exchange (also operating as Titan Land Petrochemicals Trading L.L.C and Titan Energy Petroleum Products Trading Co. L.L.C) and Alps International L.L.C-FZ, and Titan Exchange held tens of millions of dollars on behalf of Shahr Bank as of early 2026. Treasury states that rahbar company Farab Soroush Afagh Qeshm operates an illicit payment network to facilitate transactions with China- and UAE-based shell companies, that a UAE-based team identified as the &quot;Safe Group&quot; carries out funds transfers and handles documentation for Chinese shell companies receiving money through intermediary accounts, and that in 2026 Alps International enabled hundreds of millions of dollars of transactions in multiple currencies. Designated individuals include Shahr Bank employee Saeed Ghasempour, FSAQ employees Shima Sharifi and Peivand Mohammad, and information technology specialist Amir Hendi. Designated entities include Hong Kong-based Oviedo Overseas Company Limited, Blue Dash General Trading Company Limited and Gleaming HK Trading Limited, Singapore-based Cailafang Pte. Ltd., and Dubai-based Aydeniz General Trading L.L.C. OFAC separately designated Basheer Abdulkadhim Alwan al-Shabbani under E.O. 13224, as amended. Treasury states that engaging in certain transactions involving the persons designated may risk the imposition of secondary sanctions on participating foreign financial institutions, and that OFAC can prohibit or impose strict conditions on opening or maintaining a U.S. correspondent account or payable-through account of a foreign financial institution that knowingly facilitates significant transactions for a designated person.
+
+Primary source: U.S. Department of the Treasury press release sb0596, August 7, 2026 (SDN listing: OFAC recent action 20260807) — https://home.treasury.gov/news/press-releases/sb0596
+
+Relevant to: banks, money transmitters, correspondent banking and trade finance teams, sanctions screening and AML compliance
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</content>
+  </entry>
+  <entry>
+    <title>FinCEN renews the Minnesota fraud Geographic Targeting Order covering banks and money transmitters in Hennepin and Ramsey Counties</title>
+    <id>https://tg3online.github.io/regrisk-radar/#2026-08-07-fincen-renews-minnesota-fraud-geographic-targeting-order</id>
+    <link href="https://tg3online.github.io/regrisk-radar/#2026-08-07-fincen-renews-minnesota-fraud-geographic-targeting-order" rel="alternate" />
+    <updated>2026-08-07T18:00:00Z</updated>
+    <published>2026-08-07T18:00:00Z</published>
+    <category term="Financial Crimes Enforcement Network (FinCEN), U.S. Department of the Treasury" />
+    <content type="text">On August 7, 2026 the U.S. Department of the Treasury announced that FinCEN renewed its Geographic Targeting Order (GTO) &quot;designed to combat fraud in Minnesota and protect U.S. taxpayers.&quot; Treasury states that the GTO &quot;requires banks and money transmitters located in Hennepin and Ramsey Counties in Minnesota to report additional information about funds transfers of $3,000 or more to beneficiaries, recipients, or banks outside of the United States,&quot; and that &quot;The terms of this GTO are effective for 180 days after publication on the Federal Register.&quot; Treasury further states that on February 27, 2026 FinCEN issued an order exempting a subset of banks from the GTO&#x27;s requirement to record or report funds transfers where the originator falls into certain categories, that this exemption has been incorporated into the renewed GTO, and that the reporting requirements are otherwise unchanged from those in the February 2026 GTO. Treasury describes the underlying conduct as extensive schemes that fraudulently diverted state and Federal dollars intended for people who lack housing, are food insecure, have disabilities, or are otherwise eligible to receive government benefits, costing Minnesota potentially billions of dollars, a portion of which was laundered overseas. The release links the renewed order, a frequently asked questions document, a submission template and a template dictionary on fincen.gov.
+
+Primary source: U.S. Department of the Treasury press release sb0597, August 7, 2026 (FinCEN) — https://home.treasury.gov/news/press-releases/sb0597
+
+Relevant to: banks and money transmitters operating in Hennepin and Ramsey Counties Minnesota, money services businesses, remittance providers, BSA compliance teams
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</content>
+  </entry>
+  <entry>
+    <title>FTC issues a policy statement that it will not pursue disparate-impact or &#x27;unfair discrimination&#x27; claims</title>
+    <id>https://tg3online.github.io/regrisk-radar/#2026-08-07-ftc-policy-statement-disparate-impact-claims</id>
+    <link href="https://tg3online.github.io/regrisk-radar/#2026-08-07-ftc-policy-statement-disparate-impact-claims" rel="alternate" />
+    <updated>2026-08-07T12:40:00Z</updated>
+    <published>2026-08-07T12:40:00Z</published>
+    <category term="Federal Trade Commission" />
+    <content type="text">On August 7, 2026 the Federal Trade Commission announced &quot;a policy statement clarifying that the Commission will not pursue claims based on disparate-impact or &#x27;unfair discrimination&#x27; theories.&quot; Chairman Andrew N. Ferguson is quoted in the release: &quot;Disparate-impact claims are nearly impossible to square with our colorblind Constitution. They impose liability for discrimination without any evidence that anyone intended to discriminate, which pushes businesses to make race-based decisions in order to avoid liability. The Commission never had authority to impose disparate-impact liability. Today, we announce that the Commission will never do so again.&quot; The FTC states that the policy statement follows a Presidential executive order on &quot;Restoring Equality of Opportunity and Meritocracy,&quot; and that the statement explains the Commission lacks the statutory authority to consider claims under this theory. On what remains, the release states: &quot;The statement sets forth how the Commission will pursue discrimination claims in appropriate contexts. For example, it will continue to assert disparate-treatment claims under the Equal Credit and Opportunity Act, but it will treat Section 5 of the FTC Act as the consumer-protection statute it has always been.&quot; The FTC also states that under the new policy it reviewed past decisions based on statistical analyses designed to show disparate-impact liability and entered into agreements to modify certain compliance-related obligations for Napleton Inc., Passport Auto Group and an individual previously associated with Coulter Motor Company LLC. The release states the Commission vote authorizing the policy statement and approving the agreements was 2-0.
+
+Primary source: Federal Trade Commission press release, August 7, 2026 — https://www.ftc.gov/news-events/news/press-releases/2026/08/ftc-ditches-disparate-impact
+
+Relevant to: non-bank lenders, BNPL and earned-wage-access providers, payments and fintech consumer-compliance teams, credit marketing and underwriting functions
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</content>
+  </entry>
   <entry>
     <title>Senate will not vote on the Digital Asset Market Clarity Act before its August recess; Majority Leader says a vote comes when the Senate returns September 14</title>
     <id>https://tg3online.github.io/regrisk-radar/#2026-08-07-senate-no-clarity-act-vote-before-august-recess</id>
