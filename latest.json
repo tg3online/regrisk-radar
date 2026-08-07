@@ -1,8 +1,59 @@
 {
-  "generated": "2026-08-06T09:44:29Z",
+  "generated": "2026-08-07T09:43:09Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 102,
+  "count": 105,
   "items": [
+    {
+      "id": "2026-08-07-senate-no-clarity-act-vote-before-august-recess",
+      "date": "2026-08-07",
+      "published": "2026-08-07T02:14:00Z",
+      "title": "Senate will not vote on the Digital Asset Market Clarity Act before its August recess; Majority Leader says a vote comes when the Senate returns September 14",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-08-07-senate-no-clarity-act-vote-before-august-recess",
+      "issuing_body": "U.S. Senate (as reported by CoinDesk)",
+      "source_url": "https://www.coindesk.com/policy/2026/08/06/senate-won-t-vote-on-crypto-clarity-act-before-its-summer-break",
+      "source_label": "CoinDesk — \"Senate won't vote on crypto Clarity Act before its summer break,\" published August 7, 2026 (media coverage; no official primary record exists for an absence of scheduled floor action)",
+      "source_type": "media_coverage",
+      "primary_source_status": "unavailable",
+      "relevant_to": "digital-asset exchanges and brokers, token issuers, custodians, stablecoin issuers, crypto-derivatives and prediction-market platforms, fintech firms awaiting federal market-structure rules",
+      "tags": [
+        "congress",
+        "senate",
+        "legislation",
+        "clarity-act",
+        "hr3633",
+        "market-structure",
+        "crypto",
+        "us-federal"
+      ]
+    },
+    {
+      "id": "2026-08-06-cftc-conflicts-and-affiliations-nprm-federal-register",
+      "date": "2026-08-06",
+      "published": "2026-08-06T21:45:00Z",
+      "title": "CFTC proposed rule \"Conflicts and Affiliations\" published in the Federal Register; comments due October 5, 2026",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-08-06-cftc-conflicts-and-affiliations-nprm-federal-register",
+      "issuing_body": "Commodity Futures Trading Commission",
+      "source_url": "https://www.federalregister.gov/documents/2026/08/06/2026-15948/conflicts-and-affiliations",
+      "source_label": "Federal Register — Commodity Futures Trading Commission, Proposed Rule, 08/06/2026 (Doc. 2026-15948, RIN 3038-AF76)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "designated contract markets, derivatives clearing organizations, swap execution facilities, futures commission merchants, prediction-market and crypto-derivatives platforms",
+      "tags": [
+        "cftc",
+        "proposed-rule",
+        "conflicts-of-interest",
+        "affiliations",
+        "dcm",
+        "dco",
+        "sef",
+        "fcm",
+        "prediction-markets",
+        "event-contracts",
+        "crypto-derivatives",
+        "comment-deadline",
+        "us-federal"
+      ]
+    },
     {
       "id": "2026-08-06-novig-sdny-cea-preemption-suit-new-york",
       "date": "2026-08-06",
@@ -44,6 +95,32 @@
         "cybersecurity",
         "enforcement",
         "new-york"
+      ]
+    },
+    {
+      "id": "2026-08-05-sdny-few-and-far-taj-tarsha-saft-fraud-indictment",
+      "date": "2026-08-05",
+      "published": "2026-08-05T14:25:00Z",
+      "title": "SDNY indicts NFT startup founder for securities and wire fraud over a $10 million SAFT raise",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-08-05-sdny-few-and-far-taj-tarsha-saft-fraud-indictment",
+      "issuing_body": "U.S. Attorney's Office, Southern District of New York (DOJ)",
+      "source_url": "https://www.justice.gov/usao-sdny/pr/nft-startup-founder-charged-fraud",
+      "source_label": "U.S. Department of Justice — U.S. Attorney's Office, Southern District of New York, Press Release 26-231, August 5, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "token issuers, NFT and digital-asset marketplaces, SAFT and pre-token fundraising sponsors, crypto venture investors, digital-asset compliance counsel",
+      "tags": [
+        "doj",
+        "sdny",
+        "enforcement",
+        "indictment",
+        "securities-fraud",
+        "wire-fraud",
+        "saft",
+        "nft",
+        "token-offering",
+        "crypto",
+        "us-federal"
       ]
     },
     {

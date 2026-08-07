@@ -6,6 +6,45 @@
   "description": "Daily facts-only regulatory radar — crypto, gaming, payments & fintech. Verified against primary sources.",
   "items": [
     {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-08-07-senate-no-clarity-act-vote-before-august-recess",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-08-07-senate-no-clarity-act-vote-before-august-recess",
+      "title": "Senate will not vote on the Digital Asset Market Clarity Act before its August recess; Majority Leader says a vote comes when the Senate returns September 14",
+      "content_text": "As reported by CoinDesk on August 7, 2026, \"the U.S. Senate will not vote on the crypto market structure bill before it breaks for the rest of the month,\" with industry participants still expecting a vote in September. CoinDesk reports that Senate Majority Leader John Thune confirmed through a spokesperson that there would not be a vote on the Clarity Act in August but that there would be one the following month, quoting the statement: \"The Dems are insistent on no Clarity vote... I worked with sponsors of the bill. [Senator Cynthia Lummis] was great, and we're getting that queued up first thing when we come back.\" Per the same report, the Senate returns to Washington on September 14, 2026; its remaining scheduled business before recess is a continuing resolution to fund the federal government, a Russia sanctions bill and a group of nominations; the Clarity Act had no time agreement limiting debate; the bill would require 60 votes to advance; and the outstanding issues include an ethics provision, Agriculture Committee provisions and law-enforcement concerns. The bill, H.R. 3633, previously received independent approvals from the Senate Banking Committee and the Senate Agriculture Committee. CoinDesk credits Politico with first reporting the expected absence of a pre-recess vote.\n\nCoverage: CoinDesk — \"Senate won't vote on crypto Clarity Act before its summer break,\" published August 7, 2026 (media coverage; no official primary record exists for an absence of scheduled floor action) — https://www.coindesk.com/policy/2026/08/06/senate-won-t-vote-on-crypto-clarity-act-before-its-summer-break\n\nRelevant to: digital-asset exchanges and brokers, token issuers, custodians, stablecoin issuers, crypto-derivatives and prediction-market platforms, fintech firms awaiting federal market-structure rules\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-08-07T02:14:00Z",
+      "tags": [
+        "congress",
+        "senate",
+        "legislation",
+        "clarity-act",
+        "hr3633",
+        "market-structure",
+        "crypto",
+        "us-federal"
+      ]
+    },
+    {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-08-06-cftc-conflicts-and-affiliations-nprm-federal-register",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-08-06-cftc-conflicts-and-affiliations-nprm-federal-register",
+      "title": "CFTC proposed rule \"Conflicts and Affiliations\" published in the Federal Register; comments due October 5, 2026",
+      "content_text": "The Commodity Futures Trading Commission's proposed rule \"Conflicts and Affiliations\" was published in the Federal Register on August 6, 2026 as document 2026-15948, RIN 3038-AF76. The published document states that the Commission \"is proposing new rules and amendments to its existing regulations for futures commission merchants (‘FCMs’), swap execution facilities (‘SEFs’), designated contract markets (‘DCMs’), and derivatives clearing organizations (‘DCOs’)\" and that the proposal \"addresses requirements relating to financial oversight of FCMs by self-regulatory organizations (‘SROs’) and designated self-regulatory organizations (‘DSROs’), as well as disclosure requirements by FCMs regarding affiliate relationships that an FCM has with a SEF, DCM, or DCO.\" For SEFs, DCMs and DCOs, the document states the proposal \"would also establish requirements, including conflicts of interest rules, to address those registered entities' relationships with certain affiliates, such as FCM affiliates and affiliated principal trading firms,\" and includes guidance on safeguards to protect the impartiality of SEFs, DCMs and DCOs, addressing \"the sharing of resources including staffing, technology, and office space, and limitations on the sharing of non-public information.\" The DATES section states: \"Comments must be in writing and received by October 5, 2026.\" Comments are to be identified by \"Conflicts and Affiliations\" and RIN 3038-AF76.\n\nPrimary source: Federal Register — Commodity Futures Trading Commission, Proposed Rule, 08/06/2026 (Doc. 2026-15948, RIN 3038-AF76) — https://www.federalregister.gov/documents/2026/08/06/2026-15948/conflicts-and-affiliations\n\nRelevant to: designated contract markets, derivatives clearing organizations, swap execution facilities, futures commission merchants, prediction-market and crypto-derivatives platforms\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-08-06T21:45:00Z",
+      "tags": [
+        "cftc",
+        "proposed-rule",
+        "conflicts-of-interest",
+        "affiliations",
+        "dcm",
+        "dco",
+        "sef",
+        "fcm",
+        "prediction-markets",
+        "event-contracts",
+        "crypto-derivatives",
+        "comment-deadline",
+        "us-federal"
+      ]
+    },
+    {
       "id": "https://tg3online.github.io/regrisk-radar/#2026-08-06-novig-sdny-cea-preemption-suit-new-york",
       "url": "https://tg3online.github.io/regrisk-radar/#2026-08-06-novig-sdny-cea-preemption-suit-new-york",
       "title": "Novig sues New York Attorney General and Gaming Commission in federal court over event-contract trading",
@@ -34,6 +73,26 @@
         "cybersecurity",
         "enforcement",
         "new-york"
+      ]
+    },
+    {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-08-05-sdny-few-and-far-taj-tarsha-saft-fraud-indictment",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-08-05-sdny-few-and-far-taj-tarsha-saft-fraud-indictment",
+      "title": "SDNY indicts NFT startup founder for securities and wire fraud over a $10 million SAFT raise",
+      "content_text": "The U.S. Attorney's Office for the Southern District of New York announced on August 5, 2026 (Press Release 26-231) that Taj Tarsha, founder of Few and Far Limited, \"has been indicted for securities and wire fraud for defrauding investors of the crypto startup he founded by making false and misleading statements regarding the use of investor funds and subsequently misappropriating those funds.\" According to the release, beginning in February 2022 Tarsha solicited investments through Simple Agreements for Future Tokens (SAFTs), under which investors paid upfront for rights to receive FAR tokens at a later date, and \"raised over $10 million from the sale of 95 million FAR tokens to at least 67 investors.\" The offering materials promised that funds would be used to advance development of a decentralized marketplace for non-fungible tokens. The release states that \"almost immediately\" Tarsha began misappropriating investor funds for personal use \"including gambling at an online casino and purchasing speculative cryptocurrencies,\" that a June 2023 audit uncovered the misappropriation, and that when the FAR token launched in May 2024 \"it was effectively worthless and soon ceased trading.\" Tarsha, 34, of Miami, Florida, was arrested on June 6, 2026; the case is assigned to U.S. District Judge Lewis A. Kaplan; each charge carries a maximum sentence of 20 years in prison. The Office states that \"the charges contained in the Indictment are merely accusations, and the defendant is presumed innocent unless and until proven guilty.\"\n\nPrimary source: U.S. Department of Justice — U.S. Attorney's Office, Southern District of New York, Press Release 26-231, August 5, 2026 — https://www.justice.gov/usao-sdny/pr/nft-startup-founder-charged-fraud\n\nRelevant to: token issuers, NFT and digital-asset marketplaces, SAFT and pre-token fundraising sponsors, crypto venture investors, digital-asset compliance counsel\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-08-05T14:25:00Z",
+      "tags": [
+        "doj",
+        "sdny",
+        "enforcement",
+        "indictment",
+        "securities-fraud",
+        "wire-fraud",
+        "saft",
+        "nft",
+        "token-offering",
+        "crypto",
+        "us-federal"
       ]
     },
     {
