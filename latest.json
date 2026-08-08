@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-07T21:47:08Z",
+  "generated": "2026-08-08T09:44:15Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 109,
+  "count": 111,
   "items": [
     {
       "id": "2026-08-07-ofac-sanctions-iranian-digital-asset-exchanges-shelbit-aban-tether",
@@ -85,6 +85,34 @@
       ]
     },
     {
+      "id": "2026-08-07-fincen-minnesota-gto-order-effective-dates",
+      "date": "2026-08-07",
+      "published": "2026-08-07T18:00:00Z",
+      "title": "FinCEN's renewed Minnesota Geographic Targeting Order is effective August 11, 2026 and ends February 6, 2027, and requires money transmitters to report whether a transmittal was a convertible virtual currency transmission",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-08-07-fincen-minnesota-gto-order-effective-dates",
+      "issuing_body": "Financial Crimes Enforcement Network (FinCEN), U.S. Department of the Treasury",
+      "source_url": "https://www.fincen.gov/system/files/2026-08/Minnesota-GTO-Order.pdf",
+      "source_label": "FinCEN — Minnesota Geographic Targeting Order (order text, fincen.gov)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "banks, money transmitters and money services businesses, payment processors, virtual-currency transmitters, BSA/AML compliance teams",
+      "tags": [
+        "fincen",
+        "treasury",
+        "gto",
+        "bsa",
+        "aml",
+        "money-transmitters",
+        "convertible-virtual-currency",
+        "cross-border-transfers",
+        "reporting-obligation",
+        "payments",
+        "crypto",
+        "us-federal",
+        "us-mn"
+      ]
+    },
+    {
       "id": "2026-08-07-ftc-policy-statement-disparate-impact-claims",
       "date": "2026-08-07",
       "published": "2026-08-07T12:40:00Z",
@@ -96,6 +124,31 @@
       "source_type": "primary_source",
       "primary_source_status": "retrieved",
       "relevant_to": "non-bank lenders, BNPL and earned-wage-access providers, payments and fintech consumer-compliance teams, credit marketing and underwriting functions",
+      "tags": [
+        "ftc",
+        "policy-statement",
+        "disparate-impact",
+        "ecoa",
+        "ftc-act-section-5",
+        "fair-lending",
+        "consumer-protection",
+        "credit",
+        "fintech",
+        "us-federal"
+      ]
+    },
+    {
+      "id": "2026-08-07-ftc-disparate-impact-policy-statement-text",
+      "date": "2026-08-07",
+      "published": "2026-08-07T12:40:00Z",
+      "title": "FTC policy statement text: the Commission will no longer pursue disparate-impact claims in any context and will bring no antidiscrimination claims under Section 5, while the statement disclaims binding effect",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-08-07-ftc-disparate-impact-policy-statement-text",
+      "issuing_body": "Federal Trade Commission",
+      "source_url": "https://www.ftc.gov/legal-library/browse/disparate-impact-unfair-discrimination-claims",
+      "source_label": "FTC Legal Library — Policy Statement Regarding Disparate-Impact and \"Unfair Discrimination\" Claims",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "non-bank lenders, BNPL and earned-wage-access providers, consumer-finance and payments firms, fintech marketing and compliance teams",
       "tags": [
         "ftc",
         "policy-statement",
