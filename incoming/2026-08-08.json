@@ -1,0 +1,57 @@
+{
+  "entries": [
+    {
+      "id": "2026-08-07-fincen-minnesota-gto-order-effective-dates",
+      "date": "2026-08-07",
+      "published": "2026-08-07T18:00:00Z",
+      "issuing_body": "Financial Crimes Enforcement Network (FinCEN), U.S. Department of the Treasury",
+      "title": "FinCEN's renewed Minnesota Geographic Targeting Order is effective August 11, 2026 and ends February 6, 2027, and requires money transmitters to report whether a transmittal was a convertible virtual currency transmission",
+      "facts": "The order document \"Geographic Targeting Order Imposing Recordkeeping and Reporting Requirements on Certain Financial Institutions in Minnesota\" (31 CFR Part 1010), signed by FinCEN Deputy Director Jimmy L. Kirby, states: \"DATES: Effective Date: This action is effective on August 11, 2026,\" and \"The terms of this Order are effective on August 11, 2026, and end on February 6, 2027.\" A \"Covered Business\" is \"any bank, as defined in 31 CFR 1010.100(d), or a money transmitter, as defined in 31 CFR 1010.100(ff)(5), with a branch, subsidiary, or office located in the Covered Geographic Area,\" which the order defines as \"Hennepin County and Ramsey County, Minnesota.\" A Covered Transaction is a funds transfer of $3,000 or more where the originator or transmittor provides an address in the covered area, is not publicly traded on an SEC-regulated exchange, is not a financial institution subject to Bank Secrecy Act anti-money-laundering program requirements, and where \"[e]ither the beneficiary or recipient is located outside of the United States or the financial institution used by the beneficiary or recipient to receive the funds is located outside of the United States.\" Money transmitters must report the recipient's name, address, date of birth, phone number and email address; whether the transmittal was sourced from currency, check, credit or debit card, or other; whether the source of funds includes payments from any federal, state or local government contract or benefit program; \"The form of transmittal (wire, convertible virtual currency transmission, ledger entry, or other)\"; and \"If the transmittal is a ledger entry that tracks credits and debits with hawaladars located internationally, whether the money transmitter uses cash couriers to settle those debits.\" Reports are due \"by the end of the month following the month in which the Covered Transaction took place,\" filed as a CSV through FinCEN's Financial Industry Portal under file type \"Special Measures\" with identifier FIN-65547-X3M6T. Records must be retained \"for a period of five years from the last day that this Order is effective.\" The order states that a Covered Business and \"any of its officers, directors, employees, and agents, may be liable, without limitation, for civil or criminal penalties for willfully violating any of the terms of this Order,\" and that it \"is being publicly issued, and its terms are not confidential.\" The information collection carries OMB control number 1506-0056.",
+      "source_url": "https://www.fincen.gov/system/files/2026-08/Minnesota-GTO-Order.pdf",
+      "source_label": "FinCEN — Minnesota Geographic Targeting Order (order text, fincen.gov)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "banks, money transmitters and money services businesses, payment processors, virtual-currency transmitters, BSA/AML compliance teams",
+      "tags": [
+        "fincen",
+        "treasury",
+        "gto",
+        "bsa",
+        "aml",
+        "money-transmitters",
+        "convertible-virtual-currency",
+        "cross-border-transfers",
+        "reporting-obligation",
+        "payments",
+        "crypto",
+        "us-federal",
+        "us-mn"
+      ]
+    },
+    {
+      "id": "2026-08-07-ftc-disparate-impact-policy-statement-text",
+      "date": "2026-08-07",
+      "published": "2026-08-07T12:40:00Z",
+      "issuing_body": "Federal Trade Commission",
+      "title": "FTC policy statement text: the Commission will no longer pursue disparate-impact claims in any context and will bring no antidiscrimination claims under Section 5, while the statement disclaims binding effect",
+      "facts": "The FTC \"Policy Statement Regarding Disparate-Impact Claims and 'Unfair Discrimination' Claims,\" listed in the FTC Legal Library under date August 7, 2026, states in its Introduction: \"The FTC has previously pursued disparate-impact claims in two contexts: under Section 5 of the FTC Act (where they have been styled as 'unfair discrimination' claims), and under the Equal Credit Opportunity Act ('ECOA'). In both instances, the FTC acted ultra vires. Section 5 contains no antidiscrimination cause of action, let alone a disparate-impact one. And while ECOA does prohibit intentional discrimination, it does not authorize disparate-impact claims.\" It concludes: \"Accordingly, in light of (1) the FTC's lack of statutory authority to bring disparate-impact claims and (2) the fundamental legal and policy defects of disparate-impact liability laid out in President Trump's executive order, the FTC will no longer pursue disparate-impact claims in any context. In addition, because Section 5 does not create an antidiscrimination cause of action, the Commission will not bring any such claims under Section 5.\" The statement identifies the order as \"Exec. Order No. 14281, Restoring Equality of Opportunity and Meritocracy, 90 Fed. Reg. 17537 (Apr. 23, 2025)\" and says it directs agencies, including the FTC, to \"deprioritize enforcement of all statutes and regulations to the extent they include disparate-impact liability.\" On what survives, the statement says \"Intentional discrimination can be combatted through traditional disparate-treatment claims, and the Commission remains firmly committed to bringing such claims where the law allows,\" citing a July 17, 2025 concurring statement in the Asbury Automotive Group matter (Matter No. 2223135) stating the Commission \"will not hesitate to bring disparate-treatment claims under ECOA where the facts support such claims.\" Footnote 1 states: \"This Policy Statement does not confer any rights on any person and does not operate to bind the FTC or the public. In any enforcement action, the Commission must prove the challenged act or practice violates one or more existing statutory or regulatory requirements. In addition, this Policy Statement does not preempt federal, state, or local laws. Compliance with those laws, however, will not necessarily preclude Commission law enforcement action under the FTC Act or other statutes.\" The same footnote records that the Office of Information and Regulatory Affairs designated the Policy Statement as not a \"major rule\" as defined by 5 U.S.C. 804(2). The quoted passages are taken from the Introduction and the opening of Part II of the document; the remainder of the document was not read.",
+      "source_url": "https://www.ftc.gov/legal-library/browse/disparate-impact-unfair-discrimination-claims",
+      "source_label": "FTC Legal Library — Policy Statement Regarding Disparate-Impact and \"Unfair Discrimination\" Claims",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "non-bank lenders, BNPL and earned-wage-access providers, consumer-finance and payments firms, fintech marketing and compliance teams",
+      "tags": [
+        "ftc",
+        "policy-statement",
+        "disparate-impact",
+        "ecoa",
+        "ftc-act-section-5",
+        "fair-lending",
+        "consumer-protection",
+        "credit",
+        "fintech",
+        "us-federal"
+      ]
+    }
+  ]
+}
