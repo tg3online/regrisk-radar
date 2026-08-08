@@ -1,8 +1,33 @@
 {
-  "generated": "2026-08-08T09:44:15Z",
+  "generated": "2026-08-08T21:47:06Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 111,
+  "count": 114,
   "items": [
+    {
+      "id": "2026-08-07-cftc-event-contract-odds-pricing-display-letter",
+      "date": "2026-08-07",
+      "published": "2026-08-07T20:00:00Z",
+      "title": "CFTC staff letter tells event-contract markets that bookmaker-style 'American odds' pricing displays are likely to mislead, with receipt to be confirmed by August 31, 2026",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-08-07-cftc-event-contract-odds-pricing-display-letter",
+      "issuing_body": "Commodity Futures Trading Commission",
+      "source_url": "https://www.cftc.gov/PressRoom/PressReleases/9278-26",
+      "source_label": "CFTC Release Number 9278-26 (August 7, 2026), and the linked Division of Market Oversight / Market Participants Division letter 'Misleading or Deceptive Practices'",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction-market platforms, designated contract markets, futures commission merchants, introducing brokers, event-contract affiliates and marketing partners",
+      "tags": [
+        "cftc",
+        "event-contracts",
+        "prediction-markets",
+        "american-odds",
+        "regulation-180-1",
+        "anti-manipulation",
+        "marketing-and-disclosure",
+        "deadline",
+        "gaming",
+        "us-federal"
+      ]
+    },
     {
       "id": "2026-08-07-ofac-sanctions-iranian-digital-asset-exchanges-shelbit-aban-tether",
       "date": "2026-08-07",
@@ -345,6 +370,53 @@
         "genius-act",
         "treasury",
         "digital-asset-market-structure"
+      ]
+    },
+    {
+      "id": "2026-08-04-sec-desalvo-blazar-token-settlement",
+      "date": "2026-08-04",
+      "published": "2026-08-04T12:00:00Z",
+      "title": "SEC settles Blazar Token crypto offering-fraud case with a permanent conduct-based injunction and $681,105 in disgorgement offset by criminal restitution",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-08-04-sec-desalvo-blazar-token-settlement",
+      "issuing_body": "U.S. Securities and Exchange Commission",
+      "source_url": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26599",
+      "source_label": "SEC Litigation Release No. 26599 (August 4, 2026)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "token issuers, digital-asset fundraising platforms, compliance teams reviewing offering and marketing claims",
+      "tags": [
+        "sec",
+        "enforcement",
+        "crypto",
+        "token-offering",
+        "unregistered-offering",
+        "offering-fraud",
+        "settlement",
+        "us-federal",
+        "us-nj"
+      ]
+    },
+    {
+      "id": "2026-08-03-sec-gotbit-crypto-wash-trading-settlement",
+      "date": "2026-08-03",
+      "published": "2026-08-03T12:00:00Z",
+      "title": "SEC files proposed final judgment settling crypto market-manipulation and wash-trading claims against Gotbit Consulting, and dismisses claims against Fedor Kedrov",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-08-03-sec-gotbit-crypto-wash-trading-settlement",
+      "issuing_body": "U.S. Securities and Exchange Commission",
+      "source_url": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26598",
+      "source_label": "SEC Litigation Release No. 26598 (August 3, 2026)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "token issuers, crypto market makers and liquidity providers, digital-asset trading venues",
+      "tags": [
+        "sec",
+        "enforcement",
+        "crypto",
+        "market-manipulation",
+        "wash-trading",
+        "market-maker",
+        "settlement",
+        "us-federal"
       ]
     },
     {

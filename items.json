@@ -8,6 +8,31 @@
   },
   "items": [
     {
+      "id": "2026-08-07-cftc-event-contract-odds-pricing-display-letter",
+      "date": "2026-08-07",
+      "published": "2026-08-07T20:00:00Z",
+      "issuing_body": "Commodity Futures Trading Commission",
+      "title": "CFTC staff letter tells event-contract markets that bookmaker-style 'American odds' pricing displays are likely to mislead, with receipt to be confirmed by August 31, 2026",
+      "facts": "In Release 9278-26, dated August 7, 2026, the CFTC stated that its Division of Market Oversight and Market Participants Division \"recently issued a letter to remind Commission-regulated entities involved in the listing, soliciting, or acceptance of event contracts of their responsibility not to mislead consumers, including the obligation to display clear and accurate pricing information for derivatives products.\" The release stated that staff \"warned that displaying pricing information in the 'American' odds format used by casino gambling bookmakers is likely to mislead market participants about the nature of the transaction and may deprive users of access to indicia of market depth and pricing impact,\" and that \"displaying misleading pricing information in connection with any regulated product risks violating federal law prohibiting the use of manipulative devices.\" The underlying letter, addressed to \"CFTC-Regulated Entities and Affiliates\" under the subject \"Misleading or Deceptive Practices\" and signed by DJ Hennes, Director of the Market Participants Division and Acting Director of the Division of Market Oversight, cites the prohibition on misleading practices in 7 U.S.C. 9 and Commission Regulation 180.1, notes that the same requirements are \"mirrored in other rules governing CFTC-regulated entities and their affiliates, for example in National Futures Association Compliance Rule 2-29,\" and states that designated contract markets \"have an obligation to protect market participants from abusive, noncompetitive, or unfair actions by other parties involved in the transaction\" under Core Principle 12. The letter states that the divisions \"request that CFTC-regulated entities that list, solicit, or accept orders for event contract derivatives products review their pricing displays, marketing material, and other information, as well as information displayed or used by their partners and affiliates and confirm receipt of this letter by August 31, 2026,\" directing introducing brokers and futures commission merchants to confirm to MPDAlerts@CFTC.gov and designated contract markets to confirm to DMOLetters@CFTC.gov.",
+      "source_url": "https://www.cftc.gov/PressRoom/PressReleases/9278-26",
+      "source_label": "CFTC Release Number 9278-26 (August 7, 2026), and the linked Division of Market Oversight / Market Participants Division letter 'Misleading or Deceptive Practices'",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction-market platforms, designated contract markets, futures commission merchants, introducing brokers, event-contract affiliates and marketing partners",
+      "tags": [
+        "cftc",
+        "event-contracts",
+        "prediction-markets",
+        "american-odds",
+        "regulation-180-1",
+        "anti-manipulation",
+        "marketing-and-disclosure",
+        "deadline",
+        "gaming",
+        "us-federal"
+      ]
+    },
+    {
       "id": "2026-08-07-ofac-sanctions-iranian-digital-asset-exchanges-shelbit-aban-tether",
       "date": "2026-08-07",
       "published": "2026-08-07T18:00:00Z",
@@ -349,6 +374,53 @@
         "genius-act",
         "treasury",
         "digital-asset-market-structure"
+      ]
+    },
+    {
+      "id": "2026-08-04-sec-desalvo-blazar-token-settlement",
+      "date": "2026-08-04",
+      "published": "2026-08-04T12:00:00Z",
+      "issuing_body": "U.S. Securities and Exchange Commission",
+      "title": "SEC settles Blazar Token crypto offering-fraud case with a permanent conduct-based injunction and $681,105 in disgorgement offset by criminal restitution",
+      "facts": "SEC Litigation Release No. 26599, dated August 4, 2026, states that on August 4, 2026 the SEC filed a consent and proposed final judgment in the U.S. District Court for the District of New Jersey as to John A. DeSalvo, a former New Jersey corrections officer, in an action alleging \"crypto offering and investment fraud schemes.\" The release states that the Commission's August 2023 complaint alleges DeSalvo \"fraudulently raised at least $623,888 from approximately 222 investors in connection with the so-called Blazar Token,\" and that he \"claimed that the Blazar Token would replace traditional state pension systems and falsely told investors that Blazar Token was registered with the SEC; that he had arranged for Blazar Token to be purchased by automatic payroll deduction; and that investors were guaranteed to receive extraordinary returns.\" The complaint further alleges that in an earlier scheme beginning in late January 2021 he raised approximately $95,000 from 17 investors for a program he claimed would invest in stocks, options and crypto assets. The release states DeSalvo consented to entry of a final judgment, subject to court approval, permanently enjoining him from violating Sections 5(a), 5(c) and 17(a) of the Securities Act of 1933 and Section 10(b) of the Exchange Act of 1934 and Rule 10b-5, imposing a conduct-based injunction permanently barring him from participating in the issuance, offer or sale of any security, and ordering him liable for disgorgement of $681,105, \"which shall be deemed satisfied by the order of restitution entered against him in a parallel criminal matter.\"",
+      "source_url": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26599",
+      "source_label": "SEC Litigation Release No. 26599 (August 4, 2026)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "token issuers, digital-asset fundraising platforms, compliance teams reviewing offering and marketing claims",
+      "tags": [
+        "sec",
+        "enforcement",
+        "crypto",
+        "token-offering",
+        "unregistered-offering",
+        "offering-fraud",
+        "settlement",
+        "us-federal",
+        "us-nj"
+      ]
+    },
+    {
+      "id": "2026-08-03-sec-gotbit-crypto-wash-trading-settlement",
+      "date": "2026-08-03",
+      "published": "2026-08-03T12:00:00Z",
+      "issuing_body": "U.S. Securities and Exchange Commission",
+      "title": "SEC files proposed final judgment settling crypto market-manipulation and wash-trading claims against Gotbit Consulting, and dismisses claims against Fedor Kedrov",
+      "facts": "SEC Litigation Release No. 26598, dated August 3, 2026, states that on July 28, 2026 the SEC filed a proposed final judgment in the U.S. District Court for the District of Massachusetts as to its claims against Gotbit Consulting LLC a/k/a Gotbit Hedge Fund, and that if approved the judgment \"would settle the Commission's previously-filed fraud and market manipulation claims against Gotbit.\" The Commission previously filed a notice of voluntary dismissal as to its pending claims against Fedor Kedrov. The release states that the SEC's October 2024 complaint \"alleged that Gotbit engaged in a scheme to manipulate the market for a crypto asset that was offered and sold subject to an investment contract, including by generating artificial trading volume for the crypto asset,\" by \"self-trading (commonly referred to as 'wash trading') or by engaging in other trading practices that likewise served no economic purpose.\" Gotbit consented to entry of a final judgment, subject to court approval, permanently enjoining it from violating Section 17(a)(1) and (3) of the Securities Act of 1933 and Sections 9(a)(2) and 10(b) of the Securities Exchange Act of 1934 and Rule 10b-5(a) and (c), and from participating directly or indirectly in any issuance, purchase, offer or sale of any securities. The release also states that in a parallel criminal proceeding Gotbit pleaded guilty to wire fraud and conspiracy to commit market manipulation and wire fraud, and was sentenced in June 2025 to five years' probation.",
+      "source_url": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26598",
+      "source_label": "SEC Litigation Release No. 26598 (August 3, 2026)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "token issuers, crypto market makers and liquidity providers, digital-asset trading venues",
+      "tags": [
+        "sec",
+        "enforcement",
+        "crypto",
+        "market-manipulation",
+        "wash-trading",
+        "market-maker",
+        "settlement",
+        "us-federal"
       ]
     },
     {
