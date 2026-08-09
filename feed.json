@@ -6,6 +6,25 @@
   "description": "Daily facts-only regulatory radar — crypto, gaming, payments & fintech. Verified against primary sources.",
   "items": [
     {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-08-08-senate-cloture-filed-hr3633-clarity-act",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-08-08-senate-cloture-filed-hr3633-clarity-act",
+      "title": "Senate Majority Leader files cloture on the motion to proceed to H.R. 3633, the Digital Asset Market Clarity Act",
+      "content_text": "The U.S. Senate Daily Press Gallery floor log for the legislative day of Friday, August 7, 2026 - a session that ran into the early hours of Saturday, August 8 - records at 4:52 a.m. that Majority Leader Thune filed cloture on the nomination of Matthew R. Byrne to be United States District Judge for the Southern District of Ohio, and then filed cloture on the motion to proceed to H.R. 3633, Digital Asset Market Clarity Act. The same log records at 4:46 a.m. that the Senate stands adjourned until 3:00 p.m. on Monday, September 14, 2026, that following Leader Remarks the Senate will be in a period of morning business, and that at 5:30 p.m. cloture will ripen on the Byrne nomination. The log records no vote on H.R. 3633, and states no date or time for a cloture vote on the motion to proceed to H.R. 3633.\n\nPrimary source: U.S. Senate Daily Press Gallery - floor log, Friday, August 7, 2026 — https://www.dailypress.senate.gov/friday-august-7-2026/\n\nRelevant to: digital-asset exchanges, token issuers, custodians, crypto market makers, DeFi protocols\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-08-08T08:52:00Z",
+      "tags": [
+        "congress",
+        "senate",
+        "hr3633",
+        "clarity-act",
+        "market-structure",
+        "crypto",
+        "digital-assets",
+        "sec",
+        "cftc",
+        "us-federal"
+      ]
+    },
+    {
       "id": "https://tg3online.github.io/regrisk-radar/#2026-08-07-cftc-event-contract-odds-pricing-display-letter",
       "url": "https://tg3online.github.io/regrisk-radar/#2026-08-07-cftc-event-contract-odds-pricing-display-letter",
       "title": "CFTC staff letter tells event-contract markets that bookmaker-style 'American odds' pricing displays are likely to mislead, with receipt to be confirmed by August 31, 2026",

@@ -1,8 +1,33 @@
 {
-  "generated": "2026-08-09T09:47:10Z",
+  "generated": "2026-08-09T21:51:05Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 115,
+  "count": 116,
   "items": [
+    {
+      "id": "2026-08-08-senate-cloture-filed-hr3633-clarity-act",
+      "date": "2026-08-08",
+      "published": "2026-08-08T08:52:00Z",
+      "title": "Senate Majority Leader files cloture on the motion to proceed to H.R. 3633, the Digital Asset Market Clarity Act",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-08-08-senate-cloture-filed-hr3633-clarity-act",
+      "issuing_body": "United States Senate",
+      "source_url": "https://www.dailypress.senate.gov/friday-august-7-2026/",
+      "source_label": "U.S. Senate Daily Press Gallery - floor log, Friday, August 7, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "digital-asset exchanges, token issuers, custodians, crypto market makers, DeFi protocols",
+      "tags": [
+        "congress",
+        "senate",
+        "hr3633",
+        "clarity-act",
+        "market-structure",
+        "crypto",
+        "digital-assets",
+        "sec",
+        "cftc",
+        "us-federal"
+      ]
+    },
     {
       "id": "2026-08-07-cftc-event-contract-odds-pricing-display-letter",
       "date": "2026-08-07",
