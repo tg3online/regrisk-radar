@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-08T21:47:06Z",
+  "generated": "2026-08-09T09:47:10Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 114,
+  "count": 115,
   "items": [
     {
       "id": "2026-08-07-cftc-event-contract-odds-pricing-display-letter",
@@ -135,6 +135,29 @@
         "crypto",
         "us-federal",
         "us-mn"
+      ]
+    },
+    {
+      "id": "2026-08-07-ny-oag-gold-bar-scam-consumer-alert",
+      "date": "2026-08-07",
+      "published": "2026-08-07T16:00:00Z",
+      "title": "NY Attorney General issues consumer alert on \"gold bar scams\" that move victims' savings out of bank accounts",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-08-07-ny-oag-gold-bar-scam-consumer-alert",
+      "issuing_body": "Office of the New York State Attorney General",
+      "source_url": "https://ag.ny.gov/press-release/2026/attorney-general-james-warns-new-yorkers-gold-bar-scam-targeting-seniors",
+      "source_label": "Office of the New York State Attorney General — consumer alert, August 7, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "banks and credit unions, money transmitters, payment processors, fraud and scam-prevention teams, elder-financial-abuse programs",
+      "tags": [
+        "ny-oag",
+        "consumer-alert",
+        "payments",
+        "banking",
+        "fraud",
+        "elder-fraud",
+        "social-engineering",
+        "us-ny"
       ]
     },
     {

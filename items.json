@@ -142,6 +142,29 @@
       ]
     },
     {
+      "id": "2026-08-07-ny-oag-gold-bar-scam-consumer-alert",
+      "date": "2026-08-07",
+      "published": "2026-08-07T16:00:00Z",
+      "issuing_body": "Office of the New York State Attorney General",
+      "title": "NY Attorney General issues consumer alert on \"gold bar scams\" that move victims' savings out of bank accounts",
+      "facts": "On August 7, 2026 New York Attorney General Letitia James issued a consumer alert warning of \"increasingly common 'gold bar scams'\" targeting seniors. The alert states the scams \"usually start with a fake pop-up message on victims' computers, claiming their computer or financial accounts have been compromised or linked to criminal activity,\" that scammers \"convince the victim to give them remote access to their computer and then persuade the victim to convert their money into gold bars to protect their life savings,\" and that \"These gold bars are later collected and laundered by the scammers.\" According to the alert, \"The New York City Police Department (NYPD) has investigated more than 100 gold bar scam cases over the past two years, with total losses exceeding $100 million.\" The alert states that victims are connected to \"an individual posing as a law enforcement officer or government investigator\" who tells them they \"must withdraw their savings and purchase gold bars or coins from legitimate dealers and turn these bars over to the purported authorities,\" that \"Victims are instructed to keep the matter confidential and not discuss it with bank employees or family members,\" and that \"The scammers will then use couriers to collect the gold from the victim.\" Published consumer tips include \"Never move money out of your bank account at the urging of someone over the phone\" and, if someone claims there is an issue with a bank account, to \"hang up and contact your financial institution by calling the number printed on your bank statement instead.\" The alert directs New York City residents to contact their local NYPD precinct and others to file a complaint with the OAG or call 1-800-771-7755.",
+      "source_url": "https://ag.ny.gov/press-release/2026/attorney-general-james-warns-new-yorkers-gold-bar-scam-targeting-seniors",
+      "source_label": "Office of the New York State Attorney General — consumer alert, August 7, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "banks and credit unions, money transmitters, payment processors, fraud and scam-prevention teams, elder-financial-abuse programs",
+      "tags": [
+        "ny-oag",
+        "consumer-alert",
+        "payments",
+        "banking",
+        "fraud",
+        "elder-fraud",
+        "social-engineering",
+        "us-ny"
+      ]
+    },
+    {
       "id": "2026-08-07-ftc-policy-statement-disparate-impact-claims",
       "date": "2026-08-07",
       "published": "2026-08-07T12:40:00Z",
