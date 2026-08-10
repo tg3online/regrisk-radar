@@ -1,8 +1,75 @@
 {
-  "generated": "2026-08-09T21:51:05Z",
+  "generated": "2026-08-10T21:49:23Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 116,
+  "count": 119,
   "items": [
+    {
+      "id": "2026-08-10-ftc-credit-glory-temporary-halt",
+      "date": "2026-08-10",
+      "published": "2026-08-10T13:51:14Z",
+      "title": "FTC obtains court order temporarily halting Credit Glory credit repair operation",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-08-10-ftc-credit-glory-temporary-halt",
+      "issuing_body": "Federal Trade Commission",
+      "source_url": "https://www.ftc.gov/news-events/news/press-releases/2026/08/ftc-stops-sprawling-credit-repair-scheme-scammed-consumers-out-nearly-200-million",
+      "source_label": "Federal Trade Commission press release, August 10, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "credit repair and consumer finance operators, subscription and negative-option billing platforms, telemarketers",
+      "tags": [
+        "fintech",
+        "enforcement",
+        "ROSCA",
+        "negative-option",
+        "EFTA",
+        "GLBA",
+        "US-Federal",
+        "FTC"
+      ]
+    },
+    {
+      "id": "2026-08-10-irs-backup-withholding-third-party-network-transactions",
+      "date": "2026-08-10",
+      "published": "2026-08-10T00:00:00Z",
+      "title": "Treasury and IRS finalize backup withholding rules for third party network transactions, effective immediately",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-08-10-irs-backup-withholding-third-party-network-transactions",
+      "issuing_body": "U.S. Department of the Treasury / Internal Revenue Service",
+      "source_url": "https://www.federalregister.gov/documents/2026/08/10/2026-16269/backup-withholding-on-third-party-network-transactions",
+      "source_label": "Federal Register, 91 FR 51391 (TD 10053), August 10, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "payment platforms, online marketplaces, payment apps and other third party settlement organizations",
+      "tags": [
+        "payments",
+        "fintech",
+        "final-rule",
+        "backup-withholding",
+        "1099-K",
+        "US-Federal",
+        "Treasury",
+        "IRS"
+      ]
+    },
+    {
+      "id": "2026-08-10-cftc-innovation-advisory-committee-inaugural-meeting",
+      "date": "2026-08-10",
+      "published": "2026-08-10T00:00:00Z",
+      "title": "CFTC Innovation Advisory Committee sets inaugural meeting for August 20, 2026",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-08-10-cftc-innovation-advisory-committee-inaugural-meeting",
+      "issuing_body": "Commodity Futures Trading Commission",
+      "source_url": "https://www.cftc.gov/PressRoom/PressReleases/9279-26",
+      "source_label": "CFTC Release Number 9279-26, August 10, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "digital asset firms, derivatives and event-contract platforms, fintech firms engaging with the CFTC",
+      "tags": [
+        "crypto",
+        "fintech",
+        "CFTC",
+        "advisory-committee",
+        "meeting-notice",
+        "US-Federal"
+      ]
+    },
     {
       "id": "2026-08-08-senate-cloture-filed-hr3633-clarity-act",
       "date": "2026-08-08",
