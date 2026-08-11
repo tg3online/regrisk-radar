@@ -1,8 +1,72 @@
 {
-  "generated": "2026-08-10T21:49:23Z",
+  "generated": "2026-08-11T09:51:28Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 119,
+  "count": 123,
   "items": [
+    {
+      "id": "2026-08-11-cftc-innovation-advisory-committee-fr-notice",
+      "date": "2026-08-11",
+      "published": "2026-08-11T12:05:00Z",
+      "title": "CFTC Federal Register notice: Innovation Advisory Committee meets August 20 on crypto assets, AI and prediction markets; written statements due August 27",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-08-11-cftc-innovation-advisory-committee-fr-notice",
+      "issuing_body": "Commodity Futures Trading Commission",
+      "source_url": "https://www.federalregister.gov/documents/2026/08/11/2026-16328/innovation-advisory-committee",
+      "source_label": "Federal Register, 91 FR 51697 (CFTC Notice of Meeting, doc. 2026-16328)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction-market platforms, crypto exchanges, derivatives intermediaries, fintech firms",
+      "tags": [
+        "cftc",
+        "crypto",
+        "prediction-markets",
+        "advisory-committee",
+        "comment-deadline",
+        "US-Federal"
+      ]
+    },
+    {
+      "id": "2026-08-11-fincen-minnesota-gto-federal-register",
+      "date": "2026-08-11",
+      "published": "2026-08-11T12:00:00Z",
+      "title": "FinCEN Minnesota Geographic Targeting Order published in the Federal Register, effective August 11, 2026 through February 6, 2027",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-08-11-fincen-minnesota-gto-federal-register",
+      "issuing_body": "Financial Crimes Enforcement Network (FinCEN), U.S. Department of the Treasury",
+      "source_url": "https://www.federalregister.gov/documents/2026/08/11/2026-16365/geographic-targeting-order-imposing-recordkeeping-and-reporting-requirements-on-certain-financial",
+      "source_label": "Federal Register, 91 FR 51588 (FinCEN Order, doc. 2026-16365)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "money transmitters, banks, payment platforms, convertible virtual currency businesses operating in Minnesota",
+      "tags": [
+        "payments",
+        "fincen",
+        "bsa",
+        "gto",
+        "money-transmission",
+        "convertible-virtual-currency",
+        "US-MN"
+      ]
+    },
+    {
+      "id": "2026-08-11-senate-clarity-act-cloture-september-15",
+      "date": "2026-08-10",
+      "published": "2026-08-10T16:52:00Z",
+      "title": "Senate floor log: cloture motion on H.R. 3633, the Digital Asset Market Clarity Act, ripens Tuesday, September 15, 2026 at 2:15 p.m.",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-08-11-senate-clarity-act-cloture-september-15",
+      "issuing_body": "United States Senate (Senate Daily Press Gallery floor log)",
+      "source_url": "https://www.dailypress.senate.gov/monday-august-10-2026/",
+      "source_label": "U.S. Senate Daily Press Gallery, floor log for Monday, August 10, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "crypto exchanges, token issuers, custodians, digital-asset market participants",
+      "tags": [
+        "crypto",
+        "congress",
+        "market-structure",
+        "clarity-act",
+        "cloture",
+        "US-Federal"
+      ]
+    },
     {
       "id": "2026-08-10-ftc-credit-glory-temporary-halt",
       "date": "2026-08-10",
@@ -227,6 +291,27 @@
         "crypto",
         "us-federal",
         "us-mn"
+      ]
+    },
+    {
+      "id": "2026-08-11-doj-money-broker-crypto-laundering-plea",
+      "date": "2026-08-07",
+      "published": "2026-08-07T16:24:00Z",
+      "title": "DOJ: Mexican \"money broker\" pleads guilty to laundering more than $1.9 million in drug proceeds returned via cryptocurrency or wire transfers",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-08-11-doj-money-broker-crypto-laundering-plea",
+      "issuing_body": "U.S. Department of Justice, Criminal Division and U.S. Attorney's Office, Eastern District of Kentucky",
+      "source_url": "https://www.justice.gov/opa/pr/mexican-national-pleads-guilty-laundering-more-19-million-drug-proceeds",
+      "source_label": "U.S. Department of Justice press release 26-905",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "crypto exchanges, money services businesses, AML and financial-crime compliance teams",
+      "tags": [
+        "crypto",
+        "aml",
+        "money-laundering",
+        "doj",
+        "enforcement",
+        "US-Federal"
       ]
     },
     {
