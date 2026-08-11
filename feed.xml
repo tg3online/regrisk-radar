@@ -5,8 +5,40 @@
     <link>https://tg3online.github.io/regrisk-radar/</link>
     <description>Daily facts-only regulatory radar — crypto, gaming, payments &amp; fintech. Verified against primary sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Aug 2026 09:51:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 21:47:30 +0000</lastBuildDate>
     <atom:link href="https://tg3online.github.io/regrisk-radar/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NYDFS alerts all DFS-regulated entities to an active campaign exploiting the N-central remote monitoring vulnerability</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-08-11-nydfs-n-central-cybersecurity-industry-letter</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-08-11-nydfs-n-central-cybersecurity-industry-letter</guid>
+      <pubDate>Tue, 11 Aug 2026 22:05:00 +0000</pubDate>
+      <category>New York State Department of Financial Services</category>
+      <description>The New York State Department of Financial Services issued an Industry Letter dated August 11, 2026, addressed to all DFS-regulated entities and captioned “Cybersecurity Threat Alert – N-central Vulnerability.” The letter states that DFS is issuing the alert regarding an active cybersecurity campaign targeting a security vulnerability in the remote monitoring and management system N-central, developed and maintained by N-able, which is used by some managed service providers to centrally monitor, patch, and remotely access their customers’ services and endpoints. According to the letter, threat actors are targeting a Known Exploited Vulnerability in N-central to compromise managed service provider environments; once access is obtained, threat actors may create or register for new services, allowing continued access even after compromised N-central credentials are revoked; and attackers are using a compromised provider’s environment to move laterally into their customer’s networks and information systems with administrator network privileges. DFS states that regulated entities should promptly determine whether N-central is used within their environment or by any managed service provider or other third-party service provider that supports their information systems, and, where it is used, work with those providers to review N-central activity for evidence of unauthorized or persistent access, verify that applicable security updates and other mitigation steps have been implemented, and evaluate whether any systems or credentials were affected. The letter states that the senior governing bodies and senior officers of DFS-regulated entities must actively engage in cybersecurity risk management, including through monitoring and oversight of third-party service providers, and that entities should ensure they continue to report all Cybersecurity Incidents to DFS, including those originating at third-party service providers, as required by 23 NYCRR § 500.17. The letter links N-able’s August 6, 2026 security update, the records for CVE-2026-18556 and CVE-2026-18577, and the Department’s October 21, 2025 guidance on managing risks related to third-party service providers.
+
+Primary source: NYDFS Industry Letter, August 11, 2026 — Cybersecurity Alert: N-central Vulnerability Affecting Some Managed Service Providers — https://www.dfs.ny.gov/industry-guidance/industry-letters/il20260811-cyber-threat-alert-n-central
+
+Relevant to: virtual currency businesses and money transmitters licensed in New York, banks, insurers, and any DFS-regulated entity using a managed service provider
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+    <item>
+      <title>DOJ announces Arms Export Control Act guilty plea in which roughly $30,000 in USDT was paid for export-controlled military communications hardware</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-08-11-doj-usdt-export-control-guilty-plea</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-08-11-doj-usdt-export-control-guilty-plea</guid>
+      <pubDate>Tue, 11 Aug 2026 22:05:00 +0000</pubDate>
+      <category>U.S. Department of Justice, National Security Division</category>
+      <description>The U.S. Department of Justice announced on August 10, 2026, in press release 26-909, that Dingwei Chen, a 29-year-old citizen of the People’s Republic of China, pleaded guilty in federal court in Salt Lake City to violating the Arms Export Control Act. Sentencing is scheduled for October 19 and Chen faces a maximum penalty of 20 years in prison. According to the release, Chen attempted to purchase military-grade satellite modems and radios manufactured for the U.S. military by American companies, hardware that may not be legally exported from the United States without a license from the State Department’s Directorate of Defense Trade Controls, which the release states generally does not issue licenses to export military goods and services to China. On the payment arrangements, the release states that after making an initial down payment of over $40,000 U.S. dollars, Chen and his co-conspirators switched to cryptocurrency, noting that “cold wallets are essentially anonymous bank accounts. Each transaction processed through them is private and untraceable,” and that they went on to pay roughly $30,000 worth of USDT, which the release describes as a type of cryptocurrency; the release states these down payments related to the purchase of 10 modems. The release further states that Chen worked with others in China to acquire the systems from foreign arms dealers on the black market, that the group discussed transshipment through Switzerland, pickup in Saipan and finally smuggling through Mexico, and that they communicated using an encrypted app through which Chen claimed the transaction was an initial deal and that he had funding to buy tens of millions of dollars’ worth of additional military equipment. The case was investigated by ICE Homeland Security Investigations and the Defense Criminal Investigative Service and is being prosecuted by the National Security Division’s Counterintelligence and Export Control Section.
+
+Primary source: U.S. Department of Justice press release 26-909, August 10, 2026 — https://www.justice.gov/opa/pr/chinese-national-pleads-guilty-trying-obtain-us-military-equipment
+
+Relevant to: stablecoin issuers and exchanges, crypto compliance and AML teams, payment processors, and firms screening for export-control and sanctions typologies
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
     <item>
       <title>CFTC Federal Register notice: Innovation Advisory Committee meets August 20 on crypto assets, AI and prediction markets; written statements due August 27</title>
       <link>https://tg3online.github.io/regrisk-radar/#2026-08-11-cftc-innovation-advisory-committee-fr-notice</link>
