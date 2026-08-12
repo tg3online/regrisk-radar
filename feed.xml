@@ -5,8 +5,88 @@
     <link>https://tg3online.github.io/regrisk-radar/</link>
     <description>Daily facts-only regulatory radar — crypto, gaming, payments &amp; fintech. Verified against primary sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Aug 2026 21:47:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 09:50:26 +0000</lastBuildDate>
     <atom:link href="https://tg3online.github.io/regrisk-radar/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CFTC exercises emergency authority after KalshiEX reports a market emergency, ordering the exchange to keep operating amid the New York Attorney General&#x27;s suit</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-08-12-cftc-emergency-order-kalshi-new-york</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-08-12-cftc-emergency-order-kalshi-new-york</guid>
+      <pubDate>Wed, 12 Aug 2026 10:15:00 +0000</pubDate>
+      <category>Commodity Futures Trading Commission</category>
+      <description>The CFTC announced on August 11, 2026 (Release 9281-26) that it &quot;exercised its emergency authority in response to KalshiEX, LLC&#x27;s notification of a market emergency and ordered the exchange to continue to operate in accordance with the Commodity Exchange Act&#x27;s Core Principles.&quot; The Commission states that KalshiEX notified it of the emergency after New York Attorney General Letitia James filed a complaint against the exchange in state court on July 31, in which, per the release, &quot;New York seeks a temporary restraining order prohibiting KalshiEX, LLC from offering all event contracts nationwide and more than $36 billion in damages.&quot; Chairman Michael S. Selig is quoted saying that &quot;Congress did not intend for derivatives exchanges to be regulated under a patchwork of state gaming laws&quot; and that &quot;New York has no business regulating these interstate financial markets.&quot; The release states that the CFTC has filed lawsuits against Arizona, Connecticut, Illinois, Kentucky, Minnesota, New Mexico, New York, Rhode Island and Wisconsin, and has filed amicus briefs in the U.S. Court of Appeals for the Sixth and Ninth Circuits and the Supreme Judicial Court of Massachusetts. An Emergency Order titled &quot;Market Emergency Declaration&quot; dated August 11, 2026 is linked from the release.
+
+Primary source: CFTC Release 9281-26 (August 11, 2026) — https://www.cftc.gov/PressRoom/PressReleases/9281-26
+
+Relevant to: prediction-market platforms, event-contract exchanges and designated contract markets, sportsbook and gaming operators, state gaming and consumer-protection regulators
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+    <item>
+      <title>FinCEN issues a final rule permanently ending Corporate Transparency Act beneficial-ownership reporting for U.S. companies and U.S. persons, and will delete data already reported</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-08-12-fincen-cta-beneficial-ownership-final-rule</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-08-12-fincen-cta-beneficial-ownership-final-rule</guid>
+      <pubDate>Wed, 12 Aug 2026 10:15:00 +0000</pubDate>
+      <category>Financial Crimes Enforcement Network (FinCEN), U.S. Department of the Treasury</category>
+      <description>Treasury announced on August 11, 2026 (release sb0603) that FinCEN &quot;is issuing a final rule that permanently removes the requirement for U.S. companies and U.S. persons to report beneficial ownership information to FinCEN under the Corporate Transparency Act,&quot; and that &quot;The final rule is effective on its publication in the Federal Register.&quot; Treasury states that FinCEN &quot;will delete previously reported information by U.S. persons—now exempt from the reporting requirements—from the beneficial ownership information database.&quot; Per the release, the final rule adopts the exemptions set out in the March 2025 interim final rule and makes the rollback permanent; exempts U.S. persons holding FinCEN IDs from any obligation to update or correct the information they provided to obtain them; eliminates the requirement for foreign companies to report U.S.-person &quot;company applicants&quot;; exempts foreign pooled investment vehicles registered in the United States from reporting a controlling U.S. person; and confirms deletion of information about any individual FinCEN reasonably believes is a U.S. person. The release states that &quot;Under the final rule, foreign entities that are reporting companies will still be required to report beneficial ownership information for foreign individuals,&quot; and that FinCEN has issued Frequently Asked Questions. As of the August 12, 2026 Federal Register issue, the rule had not yet appeared in the Federal Register.
+
+Primary source: U.S. Department of the Treasury press release sb0603 (August 11, 2026) — https://home.treasury.gov/news/press-releases/sb0603
+
+Relevant to: money services businesses, payments companies, digital-asset firms, fintech startups and their banking partners, compliance and onboarding teams
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+    <item>
+      <title>CFTC and SEC file parallel complaints against Goliath Ventures and CEO Christopher Delgado over an alleged crypto-asset Ponzi scheme, following a criminal guilty plea in June</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-08-12-cftc-sec-goliath-ventures-crypto-ponzi</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-08-12-cftc-sec-goliath-ventures-crypto-ponzi</guid>
+      <pubDate>Wed, 12 Aug 2026 10:15:00 +0000</pubDate>
+      <category>Commodity Futures Trading Commission; U.S. Securities and Exchange Commission</category>
+      <description>On August 11, 2026 the CFTC announced (Release 9280-26) that it filed a complaint in the U.S. District Court for the Middle District of Florida against Goliath Ventures Inc. and CEO Christopher Delgado, alleging &quot;a Ponzi scheme by fraudulently soliciting and accepting funds from the public for crypto asset trading, including in bitcoin and ether,&quot; and stating that &quot;approximately 1,600 customers contributed at least $397 million to the defendants&#x27; fraud.&quot; The CFTC seeks restitution, disgorgement, civil monetary penalties, trading and registration bans and a permanent injunction. The same day the SEC filed its own complaint in the same court (Litigation Release No. 26608), stating that the defendants raised &quot;at least $425 million from over 1,300 investors&quot; through an unregistered securities offering in which investors would &quot;partner&quot; with Goliath to invest in &quot;purported crypto asset liquidity pools,&quot; with promised monthly distributions of 3% to 10% and guaranteed return of principal. The SEC alleges that no investor funds or crypto assets were ever placed into any liquidity pool and that Delgado misappropriated at least $51 million. The SEC charges Securities Act Sections 5(a), 5(c) and 17(a) and Exchange Act Section 10(b) and Rule 10b-5, and charges Delgado under Exchange Act Section 15(a)(1); Delgado has consented to a bifurcated settlement subject to court approval. The CFTC release states that Delgado pleaded guilty to related federal criminal charges in June 2026 in a case brought by the U.S. Attorney&#x27;s Office for the Middle District of Florida. The two agencies&#x27; complaints state different victim counts and dollar figures, as quoted above.
+
+Primary source: CFTC Release 9280-26 (August 11, 2026); see also SEC Litigation Release No. 26608 (August 11, 2026) — https://www.cftc.gov/PressRoom/PressReleases/9280-26
+
+Relevant to: crypto exchanges and trading platforms, digital-asset fund managers, broker-dealers, investor-protection and compliance teams
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+    <item>
+      <title>CFTC renews its Innovation Advisory Committee for two years, stating that its anti-fraud and anti-manipulation authority covers certain crypto assets</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-08-12-cftc-innovation-advisory-committee-renewal</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-08-12-cftc-innovation-advisory-committee-renewal</guid>
+      <pubDate>Wed, 12 Aug 2026 10:15:00 +0000</pubDate>
+      <category>Commodity Futures Trading Commission</category>
+      <description>The CFTC published a notice of renewal in the Federal Register on August 12, 2026 (91 FR 52047, document 2026-16423) announcing the renewal of the Innovation Advisory Committee and stating that &quot;The Commission has determined that the renewal of the IAC is necessary and in the public&#x27;s interest.&quot; The notice states that the committee &quot;will operate for two years from the date of renewal unless the Commission directs that the IAC terminate on an earlier date.&quot; In its Commission-approved public interest determination the CFTC states that &quot;Innovations that may significantly impact our markets include those involving blockchain technologies, artificial intelligence, machine learning, prediction markets, and cybersecurity innovations,&quot; and that &quot;The CFTC has statutory anti-fraud and anti-manipulation authority over commodities, which includes certain crypto assets and environmental-based products.&quot; The notice records that in FY 2024 the committee approved five recommendations relating to artificial intelligence and six recommendations on decentralized finance, that membership is expected to run to approximately 40-45 uncompensated members drawn from market participants, CFTC registrants, financial technology providers, market infrastructure firms, self-regulatory organizations, public interest groups and academics, and that estimated annual operating cost is $83,581.88. The notice is dated August 10, 2026 and signed by Christopher Kirkpatrick, Secretary of the Commission. The committee&#x27;s next meeting is scheduled for August 20, 2026, with written public statements due August 27, 2026.
+
+Primary source: Federal Register, 91 FR 52047, CFTC document 2026-16423 (August 12, 2026) — https://www.federalregister.gov/documents/2026/08/12/2026-16423/renewal-of-the-innovation-advisory-committee
+
+Relevant to: crypto and derivatives market participants, CFTC registrants, financial technology providers, prediction-market platforms
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+    <item>
+      <title>SEC charges Regulation Crowdfunding platform operator Netcapital and five individuals with overstating revenue by roughly 345 percent through sham consulting agreements</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-08-12-sec-netcapital-reg-cf-revenue-fraud</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-08-12-sec-netcapital-reg-cf-revenue-fraud</guid>
+      <pubDate>Wed, 12 Aug 2026 10:15:00 +0000</pubDate>
+      <category>U.S. Securities and Exchange Commission</category>
+      <description>SEC Litigation Release No. 26607, dated August 11, 2026, announces that on August 10, 2026 the Commission filed charges in federal district court in Boston against Netcapital Inc. and five affiliated individuals &quot;for allegedly participating in a fraudulent scheme to overstate Netcapital&#x27;s revenue while raising more than $25 million from investors.&quot; The release states that &quot;from approximately October 2021 through January 2024, Netcapital improperly recognized nearly $14 million in revenue from sham consulting agreements, some of which were forged, which amounted to Netcapital overstating its revenue by approximately 345 percent,&quot; and that the inflated revenue appeared in public SEC filings and securities offering materials. Per the release, &quot;The alleged fraudulent scheme involved a Netcapital subsidiary that purportedly entered into consulting agreements with startups or other small companies seeking investment from the public under SEC Regulation Crowdfunding (Reg. CF),&quot; and &quot;the consulting agreements were fictitious.&quot; The named defendants alongside the company are John Fanning, Coreen Kraysler, Martin Kay, Paul Riss and Cecilia Lenk. The complaint charges anti-fraud, reporting, certification and books-and-records provisions and seeks permanent and conduct-based injunctions, disgorgement, officer-and-director bars and civil penalties. Lenk consented to a final judgment, subject to court approval, including permanent injunctions and a $50,000 civil penalty.
+
+Primary source: SEC Litigation Release No. 26607 (August 11, 2026) — https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26607
+
+Relevant to: Regulation Crowdfunding platforms and funding portals, capital-formation fintechs, issuer finance and audit teams
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
     <item>
       <title>NYDFS alerts all DFS-regulated entities to an active campaign exploiting the N-central remote monitoring vulnerability</title>
       <link>https://tg3online.github.io/regrisk-radar/#2026-08-11-nydfs-n-central-cybersecurity-industry-letter</link>
