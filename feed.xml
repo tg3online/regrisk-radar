@@ -5,8 +5,40 @@
     <link>https://tg3online.github.io/regrisk-radar/</link>
     <description>Daily facts-only regulatory radar — crypto, gaming, payments &amp; fintech. Verified against primary sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Aug 2026 09:50:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 09:44:47 +0000</lastBuildDate>
     <atom:link href="https://tg3online.github.io/regrisk-radar/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CFTC staff advisory sets expectations for prediction-market incentive-program self-certifications</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-08-13-cftc-advisory-prediction-market-incentive-programs</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-08-13-cftc-advisory-prediction-market-incentive-programs</guid>
+      <pubDate>Thu, 13 Aug 2026 10:00:00 +0000</pubDate>
+      <category>CFTC</category>
+      <description>On August 12, 2026 the CFTC&#x27;s Division of Market Oversight issued Staff Advisory 26-23, announced as Release 9282-26, reminding designated contract markets of their obligations under the Commodity Exchange Act and Part 40 of the Commission&#x27;s regulations when submitting rule self-certifications for market-maker, liquidity, trading or incentive programs under Rules 40.5 and 40.6. The advisory states that staff have observed an increase in incentive-program rule filings relating to event contract products that are &quot;procedurally or substantively deficient.&quot; It states that volume-based rewards with steep tiers or threshold bonuses &quot;can encourage participants to trade solely to reach volume targets, heightening risks of wash-trading, pre-arranged trading, or other fraudulent, manipulative, or disruptive trading practices,&quot; that market-maker programs guaranteeing net profits or covering participant losses &quot;may incentivize artificial strategies,&quot; and that &quot;sweepstakes-like or randomized rewards programs or prizes based, in whole or in part, on pure chance, rather than pre-defined performance metrics, likely run afoul of Core Principle 2.&quot; A footnote adds that rewards &quot;should not be offered through gamified, casino-style, or other chance-based mechanisms, including spin-the-wheel promotions.&quot; DMO staff recommend that all designated contract markets that have previously submitted incentive programs under Rule 40.6(a) review those programs for compliance and submit amendments reasonably within the scope of the advisory under Rule 40.6(a) or Rule 40.6(d) by September 14, 2026. The advisory states that it is informational, does not create new obligations, and represents only the views of DMO staff.
+
+Primary source: CFTC Release 9282-26 and DMO Staff Letter No. 26-23 (August 12, 2026) — https://www.cftc.gov/PressRoom/PressReleases/9282-26
+
+Relevant to: prediction-market platforms, designated contract markets, event-contract market makers, exchange operators
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+    <item>
+      <title>SEC publishes Nasdaq ISE proposal to set listing criteria for options on trusts holding digital commodities</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-08-13-sec-ise-options-digital-commodity-trusts</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-08-13-sec-ise-options-digital-commodity-trusts</guid>
+      <pubDate>Thu, 13 Aug 2026 10:00:00 +0000</pubDate>
+      <category>SEC</category>
+      <description>The SEC published on August 13, 2026 a notice of filing of a proposed rule change by Nasdaq ISE, LLC, Release No. 34-106067, File No. SR-ISE-2026-42, at 91 FR 52387. The filing would amend ISE Options 4, Section 3 to adopt listing criteria for options on Commodity-Based Trusts that hold one or more digital commodities. It replaces the term &quot;crypto asset&quot; with &quot;digital commodity,&quot; defined as a commodity that is a digital asset and is &quot;intrinsically linked to, and derives its value from, the programmatic operation of a functional crypto system, as well as supply and demand dynamics, rather than from the expectations of profits from the essential managerial efforts of others.&quot; The exchange states that this definition &quot;is informed by the joint interpretative guidance issued by the SEC and the Commodity Futures Trading Commission, effective March 23, 2026,&quot; published at 91 FR 13714. Under the proposal each underlying digital commodity must have a total global supply with an average daily market value of at least $700 million over the last 12 months, and up to 15 percent of the trust&#x27;s net asset value in the aggregate may consist of digital commodities that do not underlie a derivatives contract trading on a market covered by a comprehensive surveillance sharing agreement. The notice states the exchange has comprehensive surveillance sharing agreements with CME and Coinbase Derivatives through common membership in the Intermarket Surveillance Group. Comments are due on or before September 3, 2026.
+
+Primary source: Federal Register, 91 FR 52387 (SEC Release No. 34-106067; File No. SR-ISE-2026-42) — https://www.federalregister.gov/documents/2026/08/13/2026-16460/self-regulatory-organizations-nasdaq-ise-llc-notice-of-filing-of-proposed-rule-change-to-amend-the
+
+Relevant to: crypto ETP issuers, options exchanges, digital-asset trading platforms, broker-dealers
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
     <item>
       <title>CFTC exercises emergency authority after KalshiEX reports a market emergency, ordering the exchange to keep operating amid the New York Attorney General&#x27;s suit</title>
       <link>https://tg3online.github.io/regrisk-radar/#2026-08-12-cftc-emergency-order-kalshi-new-york</link>

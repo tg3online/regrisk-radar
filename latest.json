@@ -1,8 +1,52 @@
 {
-  "generated": "2026-08-12T09:50:26Z",
+  "generated": "2026-08-13T09:44:47Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 130,
+  "count": 132,
   "items": [
+    {
+      "id": "2026-08-13-cftc-advisory-prediction-market-incentive-programs",
+      "date": "2026-08-13",
+      "published": "2026-08-13T10:00:00Z",
+      "title": "CFTC staff advisory sets expectations for prediction-market incentive-program self-certifications",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-08-13-cftc-advisory-prediction-market-incentive-programs",
+      "issuing_body": "CFTC",
+      "source_url": "https://www.cftc.gov/PressRoom/PressReleases/9282-26",
+      "source_label": "CFTC Release 9282-26 and DMO Staff Letter No. 26-23 (August 12, 2026)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction-market platforms, designated contract markets, event-contract market makers, exchange operators",
+      "tags": [
+        "cftc",
+        "prediction-markets",
+        "event-contracts",
+        "incentive-programs",
+        "core-principles",
+        "market-structure",
+        "gaming"
+      ]
+    },
+    {
+      "id": "2026-08-13-sec-ise-options-digital-commodity-trusts",
+      "date": "2026-08-13",
+      "published": "2026-08-13T10:00:00Z",
+      "title": "SEC publishes Nasdaq ISE proposal to set listing criteria for options on trusts holding digital commodities",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-08-13-sec-ise-options-digital-commodity-trusts",
+      "issuing_body": "SEC",
+      "source_url": "https://www.federalregister.gov/documents/2026/08/13/2026-16460/self-regulatory-organizations-nasdaq-ise-llc-notice-of-filing-of-proposed-rule-change-to-amend-the",
+      "source_label": "Federal Register, 91 FR 52387 (SEC Release No. 34-106067; File No. SR-ISE-2026-42)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "crypto ETP issuers, options exchanges, digital-asset trading platforms, broker-dealers",
+      "tags": [
+        "sec",
+        "crypto",
+        "digital-commodity",
+        "options",
+        "commodity-based-trust",
+        "etp",
+        "sro-notice"
+      ]
+    },
     {
       "id": "2026-08-12-cftc-emergency-order-kalshi-new-york",
       "date": "2026-08-12",

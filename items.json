@@ -8,6 +8,50 @@
   },
   "items": [
     {
+      "id": "2026-08-13-cftc-advisory-prediction-market-incentive-programs",
+      "date": "2026-08-13",
+      "published": "2026-08-13T10:00:00Z",
+      "issuing_body": "CFTC",
+      "title": "CFTC staff advisory sets expectations for prediction-market incentive-program self-certifications",
+      "facts": "On August 12, 2026 the CFTC's Division of Market Oversight issued Staff Advisory 26-23, announced as Release 9282-26, reminding designated contract markets of their obligations under the Commodity Exchange Act and Part 40 of the Commission's regulations when submitting rule self-certifications for market-maker, liquidity, trading or incentive programs under Rules 40.5 and 40.6. The advisory states that staff have observed an increase in incentive-program rule filings relating to event contract products that are \"procedurally or substantively deficient.\" It states that volume-based rewards with steep tiers or threshold bonuses \"can encourage participants to trade solely to reach volume targets, heightening risks of wash-trading, pre-arranged trading, or other fraudulent, manipulative, or disruptive trading practices,\" that market-maker programs guaranteeing net profits or covering participant losses \"may incentivize artificial strategies,\" and that \"sweepstakes-like or randomized rewards programs or prizes based, in whole or in part, on pure chance, rather than pre-defined performance metrics, likely run afoul of Core Principle 2.\" A footnote adds that rewards \"should not be offered through gamified, casino-style, or other chance-based mechanisms, including spin-the-wheel promotions.\" DMO staff recommend that all designated contract markets that have previously submitted incentive programs under Rule 40.6(a) review those programs for compliance and submit amendments reasonably within the scope of the advisory under Rule 40.6(a) or Rule 40.6(d) by September 14, 2026. The advisory states that it is informational, does not create new obligations, and represents only the views of DMO staff.",
+      "source_url": "https://www.cftc.gov/PressRoom/PressReleases/9282-26",
+      "source_label": "CFTC Release 9282-26 and DMO Staff Letter No. 26-23 (August 12, 2026)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction-market platforms, designated contract markets, event-contract market makers, exchange operators",
+      "tags": [
+        "cftc",
+        "prediction-markets",
+        "event-contracts",
+        "incentive-programs",
+        "core-principles",
+        "market-structure",
+        "gaming"
+      ]
+    },
+    {
+      "id": "2026-08-13-sec-ise-options-digital-commodity-trusts",
+      "date": "2026-08-13",
+      "published": "2026-08-13T10:00:00Z",
+      "issuing_body": "SEC",
+      "title": "SEC publishes Nasdaq ISE proposal to set listing criteria for options on trusts holding digital commodities",
+      "facts": "The SEC published on August 13, 2026 a notice of filing of a proposed rule change by Nasdaq ISE, LLC, Release No. 34-106067, File No. SR-ISE-2026-42, at 91 FR 52387. The filing would amend ISE Options 4, Section 3 to adopt listing criteria for options on Commodity-Based Trusts that hold one or more digital commodities. It replaces the term \"crypto asset\" with \"digital commodity,\" defined as a commodity that is a digital asset and is \"intrinsically linked to, and derives its value from, the programmatic operation of a functional crypto system, as well as supply and demand dynamics, rather than from the expectations of profits from the essential managerial efforts of others.\" The exchange states that this definition \"is informed by the joint interpretative guidance issued by the SEC and the Commodity Futures Trading Commission, effective March 23, 2026,\" published at 91 FR 13714. Under the proposal each underlying digital commodity must have a total global supply with an average daily market value of at least $700 million over the last 12 months, and up to 15 percent of the trust's net asset value in the aggregate may consist of digital commodities that do not underlie a derivatives contract trading on a market covered by a comprehensive surveillance sharing agreement. The notice states the exchange has comprehensive surveillance sharing agreements with CME and Coinbase Derivatives through common membership in the Intermarket Surveillance Group. Comments are due on or before September 3, 2026.",
+      "source_url": "https://www.federalregister.gov/documents/2026/08/13/2026-16460/self-regulatory-organizations-nasdaq-ise-llc-notice-of-filing-of-proposed-rule-change-to-amend-the",
+      "source_label": "Federal Register, 91 FR 52387 (SEC Release No. 34-106067; File No. SR-ISE-2026-42)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "crypto ETP issuers, options exchanges, digital-asset trading platforms, broker-dealers",
+      "tags": [
+        "sec",
+        "crypto",
+        "digital-commodity",
+        "options",
+        "commodity-based-trust",
+        "etp",
+        "sro-notice"
+      ]
+    },
+    {
       "id": "2026-08-12-cftc-emergency-order-kalshi-new-york",
       "date": "2026-08-12",
       "published": "2026-08-12T10:15:00Z",
