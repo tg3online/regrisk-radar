@@ -1,8 +1,31 @@
 {
-  "generated": "2026-08-13T09:44:47Z",
+  "generated": "2026-08-14T21:48:33Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 132,
+  "count": 136,
   "items": [
+    {
+      "id": "2026-08-14-sec-regulatory-flexibility-agenda-crypto-entries",
+      "date": "2026-08-14",
+      "published": "2026-08-14T00:00:00Z",
+      "title": "SEC regulatory agenda carries a crypto assets entry and a transfer-agent rulemaking reaching distributed ledger technology",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-08-14-sec-regulatory-flexibility-agenda-crypto-entries",
+      "issuing_body": "U.S. Securities and Exchange Commission",
+      "source_url": "https://www.federalregister.gov/documents/2026/08/14/2026-16619/regulatory-flexibility-agenda",
+      "source_label": "Federal Register, 91 FR 53164 (August 14, 2026)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "crypto asset issuers and platforms, investment advisers and funds holding crypto assets, transfer agents, tokenized securities projects",
+      "tags": [
+        "sec",
+        "crypto",
+        "regulatory-agenda",
+        "custody",
+        "transfer-agents",
+        "distributed-ledger",
+        "bsa-aml",
+        "comment-deadline"
+      ]
+    },
     {
       "id": "2026-08-13-cftc-advisory-prediction-market-incentive-programs",
       "date": "2026-08-13",
@@ -45,6 +68,75 @@
         "commodity-based-trust",
         "etp",
         "sro-notice"
+      ]
+    },
+    {
+      "id": "2026-08-13-baltimore-kalshi-polymarket-consumer-protection-suits",
+      "date": "2026-08-13",
+      "published": "2026-08-13T00:00:00Z",
+      "title": "Baltimore sues Kalshi and Polymarket under the city consumer protection ordinance over prediction-market sports wagering",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-08-13-baltimore-kalshi-polymarket-consumer-protection-suits",
+      "issuing_body": "City of Baltimore (Mayor and City Council; Baltimore City Law Department)",
+      "source_url": "https://www.baltimorecity.gov/mayor/news-media/press-releases/2026-08-13-mayor-brandon-m-scott-and-the-city-of-baltimore-file-consumer-protection-actions-against-kalshi-and-polymarket-over-illegal-sports-betting-and-prediction-market-gambling",
+      "source_label": "City of Baltimore, Office of the Mayor, press release (August 13, 2026)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction-market platforms, event-contract exchanges, sportsbook operators, payment processors serving wagering platforms",
+      "tags": [
+        "prediction-markets",
+        "event-contracts",
+        "sports-betting",
+        "consumer-protection",
+        "enforcement",
+        "litigation",
+        "gaming",
+        "maryland"
+      ]
+    },
+    {
+      "id": "2026-08-13-ny-western-union-intermex-remittance-commitments",
+      "date": "2026-08-13",
+      "published": "2026-08-13T00:00:00Z",
+      "title": "New York conditions Western Union's Intermex acquisition on three years of branch, corridor and pricing commitments",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-08-13-ny-western-union-intermex-remittance-commitments",
+      "issuing_body": "New York Attorney General and New York State Department of Financial Services",
+      "source_url": "https://ag.ny.gov/press-release/2026/attorney-general-james-and-new-york-state-department-financial-services-secure",
+      "source_label": "New York State Office of the Attorney General, press release (August 13, 2026)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "money transmitters, remittance providers, payment companies pursuing acquisitions under a New York license",
+      "tags": [
+        "payments",
+        "money-transmission",
+        "remittances",
+        "nydfs",
+        "ny-oag",
+        "merger-conditions",
+        "assurance-of-discontinuance",
+        "new-york"
+      ]
+    },
+    {
+      "id": "2026-08-13-cftc-innovation-advisory-committee-inaugural-agenda",
+      "date": "2026-08-13",
+      "published": "2026-08-13T00:00:00Z",
+      "title": "CFTC publishes agenda for the inaugural Innovation Advisory Committee meeting on crypto, AI and prediction markets",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-08-13-cftc-innovation-advisory-committee-inaugural-agenda",
+      "issuing_body": "U.S. Commodity Futures Trading Commission",
+      "source_url": "https://www.cftc.gov/PressRoom/PressReleases/9283-26",
+      "source_label": "CFTC Release Number 9283-26 (August 13, 2026)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "designated contract markets, prediction-market platforms, crypto exchanges and intermediaries, firms deploying AI in trading and compliance",
+      "tags": [
+        "cftc",
+        "prediction-markets",
+        "event-contracts",
+        "crypto",
+        "market-structure",
+        "artificial-intelligence",
+        "advisory-committee",
+        "comment-deadline"
       ]
     },
     {

@@ -5,8 +5,24 @@
     <link>https://tg3online.github.io/regrisk-radar/</link>
     <description>Daily facts-only regulatory radar — crypto, gaming, payments &amp; fintech. Verified against primary sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Aug 2026 09:44:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 21:48:33 +0000</lastBuildDate>
     <atom:link href="https://tg3online.github.io/regrisk-radar/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SEC regulatory agenda carries a crypto assets entry and a transfer-agent rulemaking reaching distributed ledger technology</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-08-14-sec-regulatory-flexibility-agenda-crypto-entries</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-08-14-sec-regulatory-flexibility-agenda-crypto-entries</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <category>U.S. Securities and Exchange Commission</category>
+      <description>The SEC published on August 14, 2026 the Chairman&#x27;s Regulatory Flexibility Agenda at 91 FR 53164 (Release Nos. 33-11416; 34-105483; IA-6963; IC-36153; File No. S7-2026-16), stating that the listed items reflect only the priorities of the Chairman and do not necessarily reflect the views of any individual Commissioner, that the information was accurate as of May 12, 2026, and that comments should be received on or before September 14, 2026. Division of Corporation Finance proposed-rule-stage entries include Sequence No. 483, Crypto Assets, RIN 3235-AN38, printed as a cross-reference to the Regulatory Plan in part II of the same issue. Division of Investment Management entries include Sequence No. 493, Amendments to the Custody Rules, RIN 3235-AN46, likewise printed as a cross-reference. Division of Trading and Markets Sequence No. 499, Transfer Agents, RIN 3235-AL55, carries a full abstract stating the Division is considering recommending that the Commission propose updates to modernize the transfer agent regime, including rules relating to crypto assets and the use of distributed ledger technology by transfer agents, with an advance notice published at 80 FR 81948 in December 2015 and a proposed rule projected for October 2026. The agenda also lists Sequence No. 498, Customer Identification Programs for Registered Investment Advisers and Exempt Reporting Advisers, RIN 3235-AN34, as a long-term action to be issued jointly with the Department of the Treasury under section 326 of the USA PATRIOT Act.
+
+Primary source: Federal Register, 91 FR 53164 (August 14, 2026) — https://www.federalregister.gov/documents/2026/08/14/2026-16619/regulatory-flexibility-agenda
+
+Relevant to: crypto asset issuers and platforms, investment advisers and funds holding crypto assets, transfer agents, tokenized securities projects
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
     <item>
       <title>CFTC staff advisory sets expectations for prediction-market incentive-program self-certifications</title>
       <link>https://tg3online.github.io/regrisk-radar/#2026-08-13-cftc-advisory-prediction-market-incentive-programs</link>
@@ -34,6 +50,54 @@ RegRisk Radar is regulatory-risk intelligence provided for general informational
 Primary source: Federal Register, 91 FR 52387 (SEC Release No. 34-106067; File No. SR-ISE-2026-42) — https://www.federalregister.gov/documents/2026/08/13/2026-16460/self-regulatory-organizations-nasdaq-ise-llc-notice-of-filing-of-proposed-rule-change-to-amend-the
 
 Relevant to: crypto ETP issuers, options exchanges, digital-asset trading platforms, broker-dealers
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+    <item>
+      <title>Baltimore sues Kalshi and Polymarket under the city consumer protection ordinance over prediction-market sports wagering</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-08-13-baltimore-kalshi-polymarket-consumer-protection-suits</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-08-13-baltimore-kalshi-polymarket-consumer-protection-suits</guid>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      <category>City of Baltimore (Mayor and City Council; Baltimore City Law Department)</category>
+      <description>On August 13, 2026 Mayor Brandon M. Scott and the City Council of Baltimore filed lawsuits in the Circuit Court for Baltimore City against prediction market operators Kalshi and Polymarket and their affiliated companies. According to the City&#x27;s announcement, the suits allege the companies violated Baltimore&#x27;s Consumer Protection Ordinance by operating illegal, unlicensed sports-betting platforms and misleading consumers about the legality and regulatory status of their products. The City states that the complaints allege the platforms let Baltimore residents wager on game winners, point spreads, point totals, player statistics and other propositions commonly offered by licensed sportsbooks, and that although the companies describe these wagers as event contracts or prediction-market trades, the complaints contend they function as sports bets and constitute unlawful gambling under Maryland law. The City asserts claims for unfair, abusive and deceptive trade practices and seeks civil penalties, injunctive relief, restitution for affected consumers, disgorgement of profits and other relief authorized by law. City Solicitor Ebony M. Thompson is quoted saying the companies cannot circumvent Baltimore&#x27;s consumer protections by repackaging gambling as something else or claiming federal regulation puts them beyond the reach of city laws. The complaints themselves are hosted by outside counsel and were not retrieved for this entry.
+
+Primary source: City of Baltimore, Office of the Mayor, press release (August 13, 2026) — https://www.baltimorecity.gov/mayor/news-media/press-releases/2026-08-13-mayor-brandon-m-scott-and-the-city-of-baltimore-file-consumer-protection-actions-against-kalshi-and-polymarket-over-illegal-sports-betting-and-prediction-market-gambling
+
+Relevant to: prediction-market platforms, event-contract exchanges, sportsbook operators, payment processors serving wagering platforms
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+    <item>
+      <title>New York conditions Western Union&#x27;s Intermex acquisition on three years of branch, corridor and pricing commitments</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-08-13-ny-western-union-intermex-remittance-commitments</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-08-13-ny-western-union-intermex-remittance-commitments</guid>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      <category>New York Attorney General and New York State Department of Financial Services</category>
+      <description>On August 13, 2026 New York Attorney General Letitia James and NYDFS Acting Superintendent Kaitlin Asrow announced an agreement with The Western Union Company tied to DFS approval of Western Union&#x27;s acquisition of International Money Express, Inc. (Intermex), memorialized in an Assurance of Discontinuance filed by the Office of the Attorney General. For three years Western Union must maintain at least the same physical presence in ZIP codes where Intermex locations operate at the time of the acquisition, offer retail remittance services for New York customers to Ecuador, Guatemala, Honduras, Mexico, Nicaragua and Peru at each of those locations, and limit price increases on retail services to only those that keep pace with inflation. Western Union must report to DFS for three years on service terminations and their reasons, on customer communications regarding availability and pricing, and on the number and amount of retail and digital remittances per location by method and destination country together with fee schedules, and must pay for an independent, DFS-approved auditor to conduct an audit one year after the acquisition. The announcement states the Attorney General will be able to take enforcement action or extend the terms of the agreement if Western Union is found to have breached them. It cites roughly 3,000 Western Union licensed agent locations in New York and states Intermex serves more than 6,000 New York consumers per year.
+
+Primary source: New York State Office of the Attorney General, press release (August 13, 2026) — https://ag.ny.gov/press-release/2026/attorney-general-james-and-new-york-state-department-financial-services-secure
+
+Relevant to: money transmitters, remittance providers, payment companies pursuing acquisitions under a New York license
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+    <item>
+      <title>CFTC publishes agenda for the inaugural Innovation Advisory Committee meeting on crypto, AI and prediction markets</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-08-13-cftc-innovation-advisory-committee-inaugural-agenda</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-08-13-cftc-innovation-advisory-committee-inaugural-agenda</guid>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      <category>U.S. Commodity Futures Trading Commission</category>
+      <description>On August 13, 2026 CFTC Chairman Michael S. Selig released the agenda for the inaugural meeting of the Innovation Advisory Committee, scheduled for Thursday, August 20, 2026 from 1:00 pm to 4:00 pm Eastern and to be streamed live on CFTC.gov (release 9283-26). The release states that attendees will discuss topics related to the regulation of crypto assets, artificial intelligence, and prediction markets. The published agenda lists three sessions. Session I, Crypto&#x27;s Regulatory Evolution: From Uncertainty to Clarity, lists potential topics including the evolution of state licensing regimes and the resulting patchwork of requirements, the absence of a comprehensive federal market structure framework, the impact of overlapping jurisdictions and regulation-by-enforcement policymaking, and opportunities to modernize existing rules using current statutory authority. Session II, Artificial Intelligence: Preparing for Intelligent Markets, lists the rise of agentic finance, autonomous agents capable of executing financial transactions, and the intersection of crypto and AI. Session III, Prediction Markets: Innovation, Jurisdiction, and the Future of Event Contracts, lists the respective roles of federal and state authorities in overseeing prediction markets, recent state litigation and enforcement actions, product design principles for event contracts, and expectations for exchanges listing innovative products. Members of the public may submit comments in connection with the meeting by August 27 through Regulations.gov docket CFTC-2026-1717-0001. The meeting notice appears at 91 FR 51697. The release states the agenda may change and that the views expressed by the Advisory Committees are solely those of the respective Committee.
+
+Primary source: CFTC Release Number 9283-26 (August 13, 2026) — https://www.cftc.gov/PressRoom/PressReleases/9283-26
+
+Relevant to: designated contract markets, prediction-market platforms, crypto exchanges and intermediaries, firms deploying AI in trading and compliance
 
 For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
 
