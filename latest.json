@@ -1,8 +1,33 @@
 {
-  "generated": "2026-08-14T21:48:33Z",
+  "generated": "2026-08-15T09:45:06Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 136,
+  "count": 137,
   "items": [
+    {
+      "id": "2026-08-15-wa-king-county-kalshi-preliminary-injunction",
+      "date": "2026-08-15",
+      "published": "2026-08-15T09:45:00Z",
+      "title": "Washington court orders KalshiEX to stop offering sports, elections, politics, culture, tech and mentions contracts in the state and to geofence by August 19 and September 2",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-08-15-wa-king-county-kalshi-preliminary-injunction",
+      "issuing_body": "King County Superior Court, State of Washington",
+      "source_url": "https://www.atg.wa.gov/news/news-releases/judge-orders-kalshi-cease-numerous-washington-operations",
+      "source_label": "Washington State Office of the Attorney General news release, August 13, 2026, which links the signed 15-page order (both retrieved)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction-market platforms, event-contract exchanges, sportsbook and sweepstakes operators, geolocation and compliance vendors",
+      "tags": [
+        "gaming",
+        "prediction-markets",
+        "event-contracts",
+        "designated-contract-market",
+        "preemption",
+        "commodity-exchange-act",
+        "geofencing",
+        "consumer-protection",
+        "enforcement",
+        "US-WA"
+      ]
+    },
     {
       "id": "2026-08-14-sec-regulatory-flexibility-agenda-crypto-entries",
       "date": "2026-08-14",

@@ -8,6 +8,31 @@
   },
   "items": [
     {
+      "id": "2026-08-15-wa-king-county-kalshi-preliminary-injunction",
+      "date": "2026-08-15",
+      "published": "2026-08-15T09:45:00Z",
+      "issuing_body": "King County Superior Court, State of Washington",
+      "title": "Washington court orders KalshiEX to stop offering sports, elections, politics, culture, tech and mentions contracts in the state and to geofence by August 19 and September 2",
+      "facts": "On August 12, 2026, King County Superior Court Judge John F. McHale signed an Amended and Updated Order Granting Plaintiff State of Washington's Amended Motion for Preliminary Injunction in State of Washington v. KalshiEX, LLC, No. 26-2-10264-3 SEA. The Washington State Office of the Attorney General announced the order on August 13, 2026. The order directs that Kalshi \"shall cease marketing, advertising, promoting, conducting, operating, facilitating, distributing, offering, or accepting event contracts, or other contracts, instruments, or products in Washington, related to sports, elections, politics, entertainment, culture, tech and science, or mentions,\" and states that this \"does not include bets in the following categories, 'Commodities,' 'Climate,' Economics,' and 'Finance.'\" It further orders that \"By no later than August 19, 2026 Kalshi will implement IP address and residency based geofencing, and by no later than September 2, 2026, Kalshi will implement a multi-source geofencing solution provided through GeoComply,\" while providing that \"Kalshi will not prohibit users from exiting positions they already hold.\" If implementation with GeoComply is not complete by September 2, 2026, the order states that Kalshi will either pay the State $120,000.00 each day thereafter until implementation is complete or submit a sworn affidavit explaining why implementation remains incomplete, with penalties in an amount to be determined by the Court if it finds insufficient diligence. The order also requires Kalshi to preserve records reasonably related to Washington consumers, including geolocation determinations and marketing and targeting data, to maintain the status quo as to transaction fees obtained from consumers who identified or self-reported as Washingtonians, and to provide Washington the same GeoComply implementation information it provides to Michigan and Nevada. On preemption, the order concludes that \"The Commodity Exchange Act (CEA) does not preempt Washington State gambling law,\" that 7 U.S.C. 2(a)(1)(A) \"does not contain express preemption language,\" that \"while the CEA preempts the field of regulating on DCMs, it does not preempt the State of Washington's enforcement of gambling law under RCW 9.46,\" and that \"The impartial access rule does not require Kalshi to violate state law,\" describing 17 C.F.R. 38.151(b) as a non-discrimination provision. It finds that the State has shown a likelihood that Kalshi's conduct violates multiple provisions of the Washington Gambling Act and that \"Kalshi's provision, marketing, and advertising of illegal gambling activities constitute unfair and/or deceptive acts or practices in trade or commerce under RCW 19.86.020.\" The order records that on December 9, 2025 the Washington State Gambling Commission issued a notice stating that offering events-based contracts or participating in these markets is not authorized in Washington State, and that Kalshi is subject to a preliminary injunction in Nevada. This is a preliminary injunction entered on a likelihood-of-success standard, not a final judgment on the merits.",
+      "source_url": "https://www.atg.wa.gov/news/news-releases/judge-orders-kalshi-cease-numerous-washington-operations",
+      "source_label": "Washington State Office of the Attorney General news release, August 13, 2026, which links the signed 15-page order (both retrieved)",
+      "tags": [
+        "gaming",
+        "prediction-markets",
+        "event-contracts",
+        "designated-contract-market",
+        "preemption",
+        "commodity-exchange-act",
+        "geofencing",
+        "consumer-protection",
+        "enforcement",
+        "US-WA"
+      ],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction-market platforms, event-contract exchanges, sportsbook and sweepstakes operators, geolocation and compliance vendors"
+    },
+    {
       "id": "2026-08-14-sec-regulatory-flexibility-agenda-crypto-entries",
       "date": "2026-08-14",
       "published": "2026-08-14T00:00:00Z",
