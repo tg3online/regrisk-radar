@@ -1,8 +1,76 @@
 {
-  "generated": "2026-08-15T09:45:06Z",
+  "generated": "2026-08-18T09:47:43Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 137,
+  "count": 140,
   "items": [
+    {
+      "id": "2026-08-18-treasury-genius-act-section-3-stablecoin-nprm",
+      "date": "2026-08-18",
+      "published": "2026-08-18T09:45:00Z",
+      "title": "Treasury proposes rules defining when a payment stablecoin is issued, offered or sold in the United States under GENIUS Act section 3; comments close October 19, 2026",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-08-18-treasury-genius-act-section-3-stablecoin-nprm",
+      "issuing_body": "U.S. Department of the Treasury",
+      "source_url": "https://www.federalregister.gov/documents/2026/08/18/2026-16796/genius-act-regulations-on-payment-stablecoin-issuance-offer-and-sale",
+      "source_label": "Federal Register, 91 FR 53368 (Treasury, proposed rule, August 18, 2026)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "payment stablecoin issuers, digital asset service providers, exchanges, custodians, payment processors",
+      "tags": [
+        "crypto",
+        "payments",
+        "stablecoin",
+        "genius-act",
+        "rulemaking",
+        "federal-register",
+        "comment-deadline",
+        "US-Federal"
+      ]
+    },
+    {
+      "id": "2026-08-18-ftc-doxo-bill-payment-stipulated-order",
+      "date": "2026-08-18",
+      "published": "2026-08-18T09:45:00Z",
+      "title": "FTC announces $2.1 million stipulated final order against bill payment platform Doxo and two co-founders over search-ad biller impersonation, undisclosed fees and subscription charges",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-08-18-ftc-doxo-bill-payment-stipulated-order",
+      "issuing_body": "Federal Trade Commission",
+      "source_url": "https://www.ftc.gov/news-events/news/press-releases/2026/08/bill-payment-firm-doxo-pay-21-million-settle-ftc-allegations-it-deceived-consumers-charged-them-add",
+      "source_label": "Federal Trade Commission press release (August 17, 2026)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "bill payment platforms, payment processors, fintech apps with subscription or add-on fees, performance marketers",
+      "tags": [
+        "payments",
+        "fintech",
+        "enforcement",
+        "consumer-protection",
+        "rosca",
+        "negative-option",
+        "search-advertising",
+        "US-Federal"
+      ]
+    },
+    {
+      "id": "2026-08-18-cfpb-ends-complaint-narrative-publication",
+      "date": "2026-08-18",
+      "published": "2026-08-18T09:45:00Z",
+      "title": "CFPB ceases discretionary publication of consumer complaint narratives and data visualizations, moving previously published narratives to its FOIA reading room",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-08-18-cfpb-ends-complaint-narrative-publication",
+      "issuing_body": "Consumer Financial Protection Bureau",
+      "source_url": "https://www.consumerfinance.gov/about-us/newsroom/the-cfpb-to-cease-discretionary-publication-of-complaint-narratives-and-visualizations/",
+      "source_label": "Consumer Financial Protection Bureau press release (August 14, 2026)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "consumer fintech, payments and prepaid providers, money transmitters, BNPL and lending platforms",
+      "tags": [
+        "fintech",
+        "payments",
+        "cfpb",
+        "consumer-complaints",
+        "disclosure",
+        "foia",
+        "US-Federal"
+      ]
+    },
     {
       "id": "2026-08-15-wa-king-county-kalshi-preliminary-injunction",
       "date": "2026-08-15",
