@@ -1,8 +1,49 @@
 {
-  "generated": "2026-08-18T09:47:43Z",
+  "generated": "2026-08-19T21:44:54Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 140,
+  "count": 144,
   "items": [
+    {
+      "id": "2026-08-19-cftc-ellison-wang-supplemental-consent-orders",
+      "date": "2026-08-19",
+      "published": "2026-08-19T00:00:00Z",
+      "title": "CFTC announces supplemental consent orders against former Alameda CEO Caroline Ellison and Alameda and FTX co-founder Gary Wang",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-08-19-cftc-ellison-wang-supplemental-consent-orders",
+      "issuing_body": "U.S. Commodity Futures Trading Commission",
+      "source_url": "https://www.cftc.gov/PressRoom/PressReleases/9285-26",
+      "source_label": "CFTC Release 9285-26",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "crypto exchanges, digital asset trading firms, enforcement and white-collar counsel",
+      "tags": [
+        "crypto",
+        "cftc",
+        "enforcement",
+        "consent-order",
+        "ftx"
+      ]
+    },
+    {
+      "id": "2026-08-19-occ-gould-genius-final-rule-november",
+      "date": "2026-08-19",
+      "published": "2026-08-19T00:00:00Z",
+      "title": "Comptroller Gould says a GENIUS Act final rule will be out by November and that 23 of 40 new charter applications involve digital asset activity",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-08-19-occ-gould-genius-final-rule-november",
+      "issuing_body": "Office of the Comptroller of the Currency",
+      "source_url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-69.html",
+      "source_label": "OCC News Release 2026-69",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "stablecoin issuers, de novo bank charter applicants, crypto custody providers, bank regulatory counsel",
+      "tags": [
+        "crypto",
+        "payments",
+        "occ",
+        "genius-act",
+        "stablecoin",
+        "bank-charters"
+      ]
+    },
     {
       "id": "2026-08-18-treasury-genius-act-section-3-stablecoin-nprm",
       "date": "2026-08-18",
@@ -69,6 +110,47 @@
         "disclosure",
         "foia",
         "US-Federal"
+      ]
+    },
+    {
+      "id": "2026-08-19-sec-regulation-crypto-assets-proposal",
+      "date": "2026-08-19",
+      "published": "2026-08-18T00:00:00Z",
+      "title": "SEC proposes Regulation Crypto Assets, with two offering exemptions and a conditional investment-contract safe harbor",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-08-19-sec-regulation-crypto-assets-proposal",
+      "issuing_body": "U.S. Securities and Exchange Commission",
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2026-76-sec-proposes-new-regulation-crypto-assets",
+      "source_label": "SEC Press Release 2026-76",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "token issuers, crypto exchanges, digital asset fundraising platforms, securities counsel",
+      "tags": [
+        "crypto",
+        "sec",
+        "rulemaking",
+        "securities-act",
+        "safe-harbor",
+        "state-preemption"
+      ]
+    },
+    {
+      "id": "2026-08-19-cftc-cpo-cta-registration-nprm",
+      "date": "2026-08-19",
+      "published": "2026-08-18T00:00:00Z",
+      "title": "CFTC proposes part 4 amendments adding CPO and CTA registration exemptions and raising the small pool threshold",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-08-19-cftc-cpo-cta-registration-nprm",
+      "issuing_body": "U.S. Commodity Futures Trading Commission",
+      "source_url": "https://www.cftc.gov/PressRoom/PressReleases/9284-26",
+      "source_label": "CFTC Release 9284-26",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "commodity pool operators, trading advisors, digital asset fund managers, registered investment advisers",
+      "tags": [
+        "fintech",
+        "cftc",
+        "rulemaking",
+        "registration",
+        "commodity-pools"
       ]
     },
     {
