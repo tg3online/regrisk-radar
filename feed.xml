@@ -5,8 +5,24 @@
     <link>https://tg3online.github.io/regrisk-radar/</link>
     <description>Daily facts-only regulatory radar — crypto, gaming, payments &amp; fintech. Verified against primary sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Aug 2026 21:44:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 21:45:35 +0000</lastBuildDate>
     <atom:link href="https://tg3online.github.io/regrisk-radar/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OFAC designates ten in a Hizballah cash-courier network that abuses Turkiye-based exchange houses, and re-designates Hizballah under IRGC-Qods Force command</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-08-20-ofac-hizballah-cash-courier-exchange-houses</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-08-20-ofac-hizballah-cash-courier-exchange-houses</guid>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+      <category>U.S. Department of the Treasury, Office of Foreign Assets Control</category>
+      <description>OFAC designated 10 individuals that are part of a network responsible for transferring cash to Hizballah. Treasury states the network uses couriers travelling on commercial airline flights between Lebanon, Turkiye, the UAE and Iran to move up to hundreds of millions of dollars between jurisdictions, &quot;providing an avenue outside the formal financial system for Hizballah to obtain foreign currency and evade sanctions.&quot; OFAC also re-designated Hizballah for service to the Iranian regime under the command of Iran&#x27;s Islamic Revolutionary Guard Corps-Qods Force. The release states that Yunus Alper Yilmaz &quot;abuses certain Turkiye-based exchange houses as fronts for his business dealings and provided front companies and bank accounts for money transfers connected with the IRGC-QF,&quot; and that associates including couriers Halil Ibrahim Kacmaz and Onder Dede &quot;collect cash from the exchange houses,&quot; with Vasfi Akyuz coordinating logistics. The action was taken pursuant to Executive Order 13224, as amended. The corresponding SDN List updates were published the same day.
+
+Primary source: U.S. Department of the Treasury press release sb0611, August 20, 2026 — https://home.treasury.gov/news/press-releases/sb0611
+
+Relevant to: money services businesses and money transmitters, payment processors, banks and fintechs running sanctions screening, BSA and AML compliance teams
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
     <item>
       <title>CFTC announces supplemental consent orders against former Alameda CEO Caroline Ellison and Alameda and FTX co-founder Gary Wang</title>
       <link>https://tg3online.github.io/regrisk-radar/#2026-08-19-cftc-ellison-wang-supplemental-consent-orders</link>
@@ -34,6 +50,38 @@ RegRisk Radar is regulatory-risk intelligence provided for general informational
 Primary source: OCC News Release 2026-69 — https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-69.html
 
 Relevant to: stablecoin issuers, de novo bank charter applicants, crypto custody providers, bank regulatory counsel
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+    <item>
+      <title>Florida Attorney General sues Stake and VGW sweepstakes casino operators and the payment processors that enable them</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-08-19-fl-ag-sweepstakes-casino-lawsuits</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-08-19-fl-ag-sweepstakes-casino-lawsuits</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <category>Florida Office of the Attorney General</category>
+      <description>Florida Attorney General James Uthmeier announced the filing of two lawsuits in Hillsborough County Circuit Court against the operators of major online &quot;sweepstakes&quot; casinos, including Stake and VGW&#x27;s Chumba Casino, LuckyLand and Global Poker, and against the payment processors that enable them. The complaints allege the defendants are operating illegal online gambling enterprises that violate Florida&#x27;s gambling laws and the Florida Deceptive and Unfair Trade Practices Act. According to the complaints, the defendants use a dual-currency model in which players purchase packages of &quot;Gold Coins&quot; bundled with &quot;Stake Cash&quot; or &quot;Sweeps Coins&quot; that function as redeemable wagering credits that can be cashed out for cryptocurrency, gift cards or cash after minimal play-through requirements. The lawsuits seek permanent injunctions prohibiting the defendants from operating or soliciting in Florida, forfeiture and recovery of money lost by Florida consumers, disgorgement, civil penalties under FDUTPA, restitution and attorneys&#x27; fees. The announcement does not name individual payment processors; the two complaints are linked from the release.
+
+Primary source: Florida Office of the Attorney General news release, August 19, 2026 — https://www.myfloridalegal.com/newsrelease/attorney-general-james-uthmeier-files-lawsuits-against-operators-illegal-online-casinos
+
+Relevant to: sweepstakes and social-casino operators, payment processors and PSPs serving gaming merchants, affiliate and influencer marketers, gaming counsel
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+    <item>
+      <title>SEC publishes Cboe BZX proposal to list 3x Bitcoin and 3x Ether ETFs under a rule that prohibits leveraged products; comments due September 9</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-08-19-sec-cboe-bzx-3x-bitcoin-ether-etf-listing</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-08-19-sec-cboe-bzx-3x-bitcoin-ether-etf-listing</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <category>U.S. Securities and Exchange Commission</category>
+      <description>The SEC published notice, under Section 19(b)(1) of the Securities Exchange Act of 1934 and Rule 19b-4, of a proposed rule change filed by Cboe BZX Exchange, Inc. on August 10, 2026 to list and trade shares of 3x Gold ETF, 3x Silver ETF, 3x Bitcoin ETF, 3x Ether ETF, 3x Crude Oil ETF and 3x Natural Gas ETF, each a series of the VS Trust, under BZX Rule 14.11(e)(4) governing Commodity-Based Trust Shares. Each fund seeks daily results, before fees and expenses, corresponding to three times the daily performance of its reference commodity, measured by a benchmark of first- and second-month futures contracts. The notice states that the funds &quot;do not meet the standard set forth in BZX Rule 14.11(e)(4)(F), which prohibits leveraged products,&quot; and that the trust and the funds operate and are registered as commodity pools with the CFTC and are not registered as investment companies under the Investment Company Act of 1940. Volatility Shares LLC is the sponsor. Submissions referring to file number SR-CboeBZX-2026-065 should be submitted on or before September 9, 2026. The Commission will approve, disapprove or institute proceedings within 45 days of publication, extendable to 90 days.
+
+Primary source: Federal Register, SEC Release No. 34-106137, File No. SR-CboeBZX-2026-065, published August 19, 2026 — https://www.federalregister.gov/documents/2026/08/19/2026-16854/self-regulatory-organizations-cboe-bzx-exchange-inc-notice-of-filing-of-a-proposed-rule-change-to
+
+Relevant to: crypto ETP sponsors and issuers, exchanges and market makers, digital-asset fund managers, commodity pool operators
 
 For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
 

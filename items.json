@@ -8,6 +8,27 @@
   },
   "items": [
     {
+      "id": "2026-08-20-ofac-hizballah-cash-courier-exchange-houses",
+      "date": "2026-08-20",
+      "published": "2026-08-20T00:00:00Z",
+      "issuing_body": "U.S. Department of the Treasury, Office of Foreign Assets Control",
+      "title": "OFAC designates ten in a Hizballah cash-courier network that abuses Turkiye-based exchange houses, and re-designates Hizballah under IRGC-Qods Force command",
+      "facts": "OFAC designated 10 individuals that are part of a network responsible for transferring cash to Hizballah. Treasury states the network uses couriers travelling on commercial airline flights between Lebanon, Turkiye, the UAE and Iran to move up to hundreds of millions of dollars between jurisdictions, \"providing an avenue outside the formal financial system for Hizballah to obtain foreign currency and evade sanctions.\" OFAC also re-designated Hizballah for service to the Iranian regime under the command of Iran's Islamic Revolutionary Guard Corps-Qods Force. The release states that Yunus Alper Yilmaz \"abuses certain Turkiye-based exchange houses as fronts for his business dealings and provided front companies and bank accounts for money transfers connected with the IRGC-QF,\" and that associates including couriers Halil Ibrahim Kacmaz and Onder Dede \"collect cash from the exchange houses,\" with Vasfi Akyuz coordinating logistics. The action was taken pursuant to Executive Order 13224, as amended. The corresponding SDN List updates were published the same day.",
+      "source_url": "https://home.treasury.gov/news/press-releases/sb0611",
+      "source_label": "U.S. Department of the Treasury press release sb0611, August 20, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "money services businesses and money transmitters, payment processors, banks and fintechs running sanctions screening, BSA and AML compliance teams",
+      "tags": [
+        "payments",
+        "sanctions",
+        "ofac",
+        "sdn",
+        "aml",
+        "enforcement"
+      ]
+    },
+    {
       "id": "2026-08-19-cftc-ellison-wang-supplemental-consent-orders",
       "date": "2026-08-19",
       "published": "2026-08-19T00:00:00Z",
@@ -47,6 +68,50 @@
       "source_type": "primary_source",
       "primary_source_status": "retrieved",
       "relevant_to": "stablecoin issuers, de novo bank charter applicants, crypto custody providers, bank regulatory counsel"
+    },
+    {
+      "id": "2026-08-19-fl-ag-sweepstakes-casino-lawsuits",
+      "date": "2026-08-19",
+      "published": "2026-08-19T00:00:00Z",
+      "issuing_body": "Florida Office of the Attorney General",
+      "title": "Florida Attorney General sues Stake and VGW sweepstakes casino operators and the payment processors that enable them",
+      "facts": "Florida Attorney General James Uthmeier announced the filing of two lawsuits in Hillsborough County Circuit Court against the operators of major online \"sweepstakes\" casinos, including Stake and VGW's Chumba Casino, LuckyLand and Global Poker, and against the payment processors that enable them. The complaints allege the defendants are operating illegal online gambling enterprises that violate Florida's gambling laws and the Florida Deceptive and Unfair Trade Practices Act. According to the complaints, the defendants use a dual-currency model in which players purchase packages of \"Gold Coins\" bundled with \"Stake Cash\" or \"Sweeps Coins\" that function as redeemable wagering credits that can be cashed out for cryptocurrency, gift cards or cash after minimal play-through requirements. The lawsuits seek permanent injunctions prohibiting the defendants from operating or soliciting in Florida, forfeiture and recovery of money lost by Florida consumers, disgorgement, civil penalties under FDUTPA, restitution and attorneys' fees. The announcement does not name individual payment processors; the two complaints are linked from the release.",
+      "source_url": "https://www.myfloridalegal.com/newsrelease/attorney-general-james-uthmeier-files-lawsuits-against-operators-illegal-online-casinos",
+      "source_label": "Florida Office of the Attorney General news release, August 19, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "sweepstakes and social-casino operators, payment processors and PSPs serving gaming merchants, affiliate and influencer marketers, gaming counsel",
+      "tags": [
+        "gaming",
+        "payments",
+        "enforcement",
+        "sweepstakes",
+        "state-ag",
+        "florida",
+        "crypto"
+      ]
+    },
+    {
+      "id": "2026-08-19-sec-cboe-bzx-3x-bitcoin-ether-etf-listing",
+      "date": "2026-08-19",
+      "published": "2026-08-19T00:00:00Z",
+      "issuing_body": "U.S. Securities and Exchange Commission",
+      "title": "SEC publishes Cboe BZX proposal to list 3x Bitcoin and 3x Ether ETFs under a rule that prohibits leveraged products; comments due September 9",
+      "facts": "The SEC published notice, under Section 19(b)(1) of the Securities Exchange Act of 1934 and Rule 19b-4, of a proposed rule change filed by Cboe BZX Exchange, Inc. on August 10, 2026 to list and trade shares of 3x Gold ETF, 3x Silver ETF, 3x Bitcoin ETF, 3x Ether ETF, 3x Crude Oil ETF and 3x Natural Gas ETF, each a series of the VS Trust, under BZX Rule 14.11(e)(4) governing Commodity-Based Trust Shares. Each fund seeks daily results, before fees and expenses, corresponding to three times the daily performance of its reference commodity, measured by a benchmark of first- and second-month futures contracts. The notice states that the funds \"do not meet the standard set forth in BZX Rule 14.11(e)(4)(F), which prohibits leveraged products,\" and that the trust and the funds operate and are registered as commodity pools with the CFTC and are not registered as investment companies under the Investment Company Act of 1940. Volatility Shares LLC is the sponsor. Submissions referring to file number SR-CboeBZX-2026-065 should be submitted on or before September 9, 2026. The Commission will approve, disapprove or institute proceedings within 45 days of publication, extendable to 90 days.",
+      "source_url": "https://www.federalregister.gov/documents/2026/08/19/2026-16854/self-regulatory-organizations-cboe-bzx-exchange-inc-notice-of-filing-of-a-proposed-rule-change-to",
+      "source_label": "Federal Register, SEC Release No. 34-106137, File No. SR-CboeBZX-2026-065, published August 19, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "crypto ETP sponsors and issuers, exchanges and market makers, digital-asset fund managers, commodity pool operators",
+      "tags": [
+        "crypto",
+        "sec",
+        "sro-filing",
+        "etp",
+        "bitcoin",
+        "ether",
+        "comment-deadline"
+      ]
     },
     {
       "id": "2026-08-18-treasury-genius-act-section-3-stablecoin-nprm",

@@ -1,8 +1,29 @@
 {
-  "generated": "2026-08-19T21:44:54Z",
+  "generated": "2026-08-20T21:45:35Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 144,
+  "count": 147,
   "items": [
+    {
+      "id": "2026-08-20-ofac-hizballah-cash-courier-exchange-houses",
+      "date": "2026-08-20",
+      "published": "2026-08-20T00:00:00Z",
+      "title": "OFAC designates ten in a Hizballah cash-courier network that abuses Turkiye-based exchange houses, and re-designates Hizballah under IRGC-Qods Force command",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-08-20-ofac-hizballah-cash-courier-exchange-houses",
+      "issuing_body": "U.S. Department of the Treasury, Office of Foreign Assets Control",
+      "source_url": "https://home.treasury.gov/news/press-releases/sb0611",
+      "source_label": "U.S. Department of the Treasury press release sb0611, August 20, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "money services businesses and money transmitters, payment processors, banks and fintechs running sanctions screening, BSA and AML compliance teams",
+      "tags": [
+        "payments",
+        "sanctions",
+        "ofac",
+        "sdn",
+        "aml",
+        "enforcement"
+      ]
+    },
     {
       "id": "2026-08-19-cftc-ellison-wang-supplemental-consent-orders",
       "date": "2026-08-19",
@@ -42,6 +63,50 @@
         "genius-act",
         "stablecoin",
         "bank-charters"
+      ]
+    },
+    {
+      "id": "2026-08-19-fl-ag-sweepstakes-casino-lawsuits",
+      "date": "2026-08-19",
+      "published": "2026-08-19T00:00:00Z",
+      "title": "Florida Attorney General sues Stake and VGW sweepstakes casino operators and the payment processors that enable them",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-08-19-fl-ag-sweepstakes-casino-lawsuits",
+      "issuing_body": "Florida Office of the Attorney General",
+      "source_url": "https://www.myfloridalegal.com/newsrelease/attorney-general-james-uthmeier-files-lawsuits-against-operators-illegal-online-casinos",
+      "source_label": "Florida Office of the Attorney General news release, August 19, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "sweepstakes and social-casino operators, payment processors and PSPs serving gaming merchants, affiliate and influencer marketers, gaming counsel",
+      "tags": [
+        "gaming",
+        "payments",
+        "enforcement",
+        "sweepstakes",
+        "state-ag",
+        "florida",
+        "crypto"
+      ]
+    },
+    {
+      "id": "2026-08-19-sec-cboe-bzx-3x-bitcoin-ether-etf-listing",
+      "date": "2026-08-19",
+      "published": "2026-08-19T00:00:00Z",
+      "title": "SEC publishes Cboe BZX proposal to list 3x Bitcoin and 3x Ether ETFs under a rule that prohibits leveraged products; comments due September 9",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-08-19-sec-cboe-bzx-3x-bitcoin-ether-etf-listing",
+      "issuing_body": "U.S. Securities and Exchange Commission",
+      "source_url": "https://www.federalregister.gov/documents/2026/08/19/2026-16854/self-regulatory-organizations-cboe-bzx-exchange-inc-notice-of-filing-of-a-proposed-rule-change-to",
+      "source_label": "Federal Register, SEC Release No. 34-106137, File No. SR-CboeBZX-2026-065, published August 19, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "crypto ETP sponsors and issuers, exchanges and market makers, digital-asset fund managers, commodity pool operators",
+      "tags": [
+        "crypto",
+        "sec",
+        "sro-filing",
+        "etp",
+        "bitcoin",
+        "ether",
+        "comment-deadline"
       ]
     },
     {
