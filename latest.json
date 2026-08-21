@@ -1,8 +1,55 @@
 {
-  "generated": "2026-08-20T21:45:35Z",
+  "generated": "2026-08-21T09:42:52Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 147,
+  "count": 149,
   "items": [
+    {
+      "id": "2026-08-21-sec-regulation-crypto-assets-federal-register",
+      "date": "2026-08-21",
+      "published": "2026-08-21T09:38:39Z",
+      "title": "SEC's proposed Regulation Crypto Assets published in the Federal Register; comments close October 20, 2026",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-08-21-sec-regulation-crypto-assets-federal-register",
+      "issuing_body": "U.S. Securities and Exchange Commission",
+      "source_url": "https://www.federalregister.gov/documents/2026/08/21/2026-17183/regulation-crypto-assets",
+      "source_label": "Federal Register — SEC proposed rule, 91 FR 54510 (August 21, 2026), document 2026-17183",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "crypto asset issuers, token offering platforms, digital asset exchanges, crypto fund managers, securities counsel",
+      "tags": [
+        "crypto",
+        "sec",
+        "rulemaking",
+        "proposed-rule",
+        "securities-act",
+        "safe-harbor",
+        "comment-deadline",
+        "federal-register",
+        "us-federal"
+      ]
+    },
+    {
+      "id": "2026-08-21-treasury-trump-accounts-eligible-investments",
+      "date": "2026-08-21",
+      "published": "2026-08-21T09:38:39Z",
+      "title": "Treasury announces proposed guidance on eligible investments in Trump Accounts and a designation framework for account trustees",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-08-21-treasury-trump-accounts-eligible-investments",
+      "issuing_body": "U.S. Department of the Treasury",
+      "source_url": "https://home.treasury.gov/news/press-releases/sb0609",
+      "source_label": "U.S. Department of the Treasury press release sb0609 (August 20, 2026)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "consumer investment platforms, custodians and prospective account trustees, asset managers, fintech savings providers",
+      "tags": [
+        "fintech",
+        "treasury",
+        "proposed-guidance",
+        "trump-accounts",
+        "eligible-investments",
+        "trustee-designation",
+        "custody",
+        "us-federal"
+      ]
+    },
     {
       "id": "2026-08-20-ofac-hizballah-cash-courier-exchange-houses",
       "date": "2026-08-20",

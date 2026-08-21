@@ -8,6 +8,53 @@
   },
   "items": [
     {
+      "id": "2026-08-21-sec-regulation-crypto-assets-federal-register",
+      "date": "2026-08-21",
+      "published": "2026-08-21T09:38:39Z",
+      "issuing_body": "U.S. Securities and Exchange Commission",
+      "title": "SEC's proposed Regulation Crypto Assets published in the Federal Register; comments close October 20, 2026",
+      "facts": "The Securities and Exchange Commission's proposing release titled \"Regulation Crypto Assets\" was published in the Federal Register on August 21, 2026 at 91 FR 54510, spanning pages 54510 to 54655, as document 2026-17183 under Release Nos. 33-11434 and 34-106150, File No. S7-2026-27, RIN 3235-AN38. The document's DATES section states: \"This release was published in the Federal Register on August 21, 2026. Comments should be received on or before October 20, 2026.\" The published summary states that the Commission \"is proposing new rules to create a tailored offering regime for certain investment contracts involving crypto assets,\" and that the proposed rules \"would include two exemptions from the registration requirements of section 5 of the Securities Act of 1933. The first exemption would permit offerings of up to $5 million during a four-year period. The second exemption would permit offerings of up to $75 million during each 12-month period. Under both exemptions, issuers would be required to make certain principles-based narrative disclosures available to their investors. In addition, issuers under the second exemption would be required to provide financial statements and would be subject to ongoing reporting requirements. Issuers that rely on these exemptions would remain subject to the antifraud and antimanipulation provisions of the Federal securities laws.\" The summary further states that the proposed rules \"would include a conditional safe harbor from the term 'investment contract' in the definitions of 'security' in the Securities Act of 1933 and the Securities Exchange Act of 1934,\" and that if the conditions of that safe harbor are satisfied, \"then a crypto asset would be deemed not to be subject to an investment contract for purposes of those definitions of 'security.'\" The Commission announced the proposal on August 18, 2026. The proposal is not in effect; it is a proposed rule open for public comment.",
+      "source_url": "https://www.federalregister.gov/documents/2026/08/21/2026-17183/regulation-crypto-assets",
+      "source_label": "Federal Register — SEC proposed rule, 91 FR 54510 (August 21, 2026), document 2026-17183",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "crypto asset issuers, token offering platforms, digital asset exchanges, crypto fund managers, securities counsel",
+      "tags": [
+        "crypto",
+        "sec",
+        "rulemaking",
+        "proposed-rule",
+        "securities-act",
+        "safe-harbor",
+        "comment-deadline",
+        "federal-register",
+        "us-federal"
+      ]
+    },
+    {
+      "id": "2026-08-21-treasury-trump-accounts-eligible-investments",
+      "date": "2026-08-21",
+      "published": "2026-08-21T09:38:39Z",
+      "issuing_body": "U.S. Department of the Treasury",
+      "title": "Treasury announces proposed guidance on eligible investments in Trump Accounts and a designation framework for account trustees",
+      "facts": "On August 20, 2026 the U.S. Department of the Treasury announced proposed guidance governing eligible investments in Trump Accounts, stating the guidance has \"a focus on keeping costs low, promoting broad diversification, and helping children's savings grow over the long term.\" The release states that the proposed guidance \"would support the long-term growth of children's Trump Accounts by limiting eligible investments to choices with low expense ratios and excluding products with excessive fees or unnecessarily complex strategies.\" On scope, the release states: \"The proposed guidance establishes a framework for the designation of eligible investments for future Trump Account trustees, including rollover trustees. Under the framework, an eligible index must be designed primarily to measure the performance of a broad segment of the U.S. or global equity market using objective financial criteria.\" The release notes that Treasury \"previously announced that State Street SPDR Portfolio S&P 500 ETF (SPYM) would be the default investment for all Trump Accounts\" and \"also announced four additional low-cost index ETFs that may be chosen for investment by a parent or other responsible party.\" Treasury Secretary Scott Bessent is quoted stating, \"Every dollar in a child's Trump Account should be working toward that child's financial future, not diminished by unnecessary fees.\" The announcement describes proposed guidance; the retrieved release does not state a comment deadline, docket number or Federal Register citation.",
+      "source_url": "https://home.treasury.gov/news/press-releases/sb0609",
+      "source_label": "U.S. Department of the Treasury press release sb0609 (August 20, 2026)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "consumer investment platforms, custodians and prospective account trustees, asset managers, fintech savings providers",
+      "tags": [
+        "fintech",
+        "treasury",
+        "proposed-guidance",
+        "trump-accounts",
+        "eligible-investments",
+        "trustee-designation",
+        "custody",
+        "us-federal"
+      ]
+    },
+    {
       "id": "2026-08-20-ofac-hizballah-cash-courier-exchange-houses",
       "date": "2026-08-20",
       "published": "2026-08-20T00:00:00Z",
