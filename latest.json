@@ -1,8 +1,51 @@
 {
-  "generated": "2026-08-21T09:42:52Z",
+  "generated": "2026-08-22T09:44:25Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 149,
+  "count": 151,
   "items": [
+    {
+      "id": "2026-08-22-cftc-innovation-advisory-committee-inaugural-meeting",
+      "date": "2026-08-22",
+      "published": "2026-08-22T09:46:00Z",
+      "title": "CFTC Holds Inaugural Innovation Advisory Committee Meeting Covering Crypto Regulation, AI and Compute in Derivatives Markets, and Prediction Markets and Novel Event Contracts",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-08-22-cftc-innovation-advisory-committee-inaugural-meeting",
+      "issuing_body": "Commodity Futures Trading Commission",
+      "source_url": "https://www.cftc.gov/PressRoom/PressReleases/9288-26",
+      "source_label": "CFTC Press Release 9288-26 (cftc.gov)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction-market platforms, event-contract venues, crypto derivatives operators, exchanges",
+      "tags": [
+        "crypto",
+        "gaming",
+        "cftc",
+        "prediction-markets",
+        "event-contracts",
+        "advisory-committee"
+      ]
+    },
+    {
+      "id": "2026-08-22-ofac-venezuela-gl61-gl62-digital-currency-payment-exclusion",
+      "date": "2026-08-22",
+      "published": "2026-08-22T09:45:00Z",
+      "title": "OFAC Venezuela General License 61 Excludes Payment Terms Denominated in Venezuelan Government-Issued Digital Currency, Digital Coin or Digital Tokens",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-08-22-ofac-venezuela-gl61-gl62-digital-currency-payment-exclusion",
+      "issuing_body": "U.S. Department of the Treasury, Office of Foreign Assets Control",
+      "source_url": "https://ofac.treasury.gov/recent-actions/20260821",
+      "source_label": "OFAC Recent Actions 20260821 and associated FAQ 1266 (Treasury/OFAC)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "payment processors, sanctions-compliance functions, digital-asset service providers, telecommunications suppliers with US nexus",
+      "tags": [
+        "crypto",
+        "payments",
+        "sanctions",
+        "ofac",
+        "venezuela",
+        "general-license",
+        "digital-currency"
+      ]
+    },
     {
       "id": "2026-08-21-sec-regulation-crypto-assets-federal-register",
       "date": "2026-08-21",
