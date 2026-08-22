@@ -1,0 +1,47 @@
+{
+  "entries": [
+    {
+      "id": "2026-08-22-ofac-venezuela-gl61-gl62-digital-currency-payment-exclusion",
+      "date": "2026-08-22",
+      "published": "2026-08-22T09:45:00Z",
+      "issuing_body": "U.S. Department of the Treasury, Office of Foreign Assets Control",
+      "title": "OFAC Venezuela General License 61 Excludes Payment Terms Denominated in Venezuelan Government-Issued Digital Currency, Digital Coin or Digital Tokens",
+      "facts": "On August 21, 2026, OFAC issued Venezuela General License 61, authorizing the supply of certain items and services to Venezuela related to telecommunications, and Venezuela General License 62, authorizing negotiations of and entry into contingent contracts for investment in the telecommunications sector of Venezuela, together with one new Venezuela-related Frequently Asked Question, FAQ 1266. FAQ 1266 states that GL 61 authorizes transactions ordinarily incident and necessary to the provision from the United States or by a U.S. person of goods, technology, software, or services for the installation, maintenance, refurbishment, repair, upgrade, operation, or support of telecommunications in Venezuela, including transactions involving the Government of Venezuela, including but not limited to CONATEL, CANTV and Movilnet, and that authorized transactions include processing payments and arranging shipping, logistics, warehousing, insurance and delivery services. FAQ 1266 further states that GL 61 does not authorize payment terms that are not commercially reasonable, involve debt swaps or payments in gold, or are denominated in digital currency, digital coin, or digital tokens issued by, for, or on behalf of the Government of Venezuela, including the petro. FAQ 1266 also states that GL 61 does not authorize any transaction involving a person located in or organized under the laws of Russia, Iran, North Korea, Cuba, or the People's Republic of China, or an entity owned or controlled by or in a joint venture with such a person; the unblocking of property blocked pursuant to the Venezuela Sanctions Regulations; transactions involving blocked vessels; or the formation of new joint ventures or other entities in Venezuela to develop or invest in the telecommunications sector.",
+      "source_url": "https://ofac.treasury.gov/recent-actions/20260821",
+      "source_label": "OFAC Recent Actions 20260821 and associated FAQ 1266 (Treasury/OFAC)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "payment processors, sanctions-compliance functions, digital-asset service providers, telecommunications suppliers with US nexus",
+      "tags": [
+        "crypto",
+        "payments",
+        "sanctions",
+        "ofac",
+        "venezuela",
+        "general-license",
+        "digital-currency"
+      ]
+    },
+    {
+      "id": "2026-08-22-cftc-innovation-advisory-committee-inaugural-meeting",
+      "date": "2026-08-22",
+      "published": "2026-08-22T09:46:00Z",
+      "issuing_body": "Commodity Futures Trading Commission",
+      "title": "CFTC Holds Inaugural Innovation Advisory Committee Meeting Covering Crypto Regulation, AI and Compute in Derivatives Markets, and Prediction Markets and Novel Event Contracts",
+      "facts": "In press release 9288-26, dated August 21, 2026, the Commodity Futures Trading Commission stated that it held the inaugural meeting of its Innovation Advisory Committee in Washington, D.C. on August 20, 2026, and that the Committee was created to advise the Commission on complex issues at the intersection of technology, law, policy, and finance. The release states that IAC Chair Walt Lukken told members that the Committee is there to provide practical advice to the Commission rooted in real world experiences, and that good policy is informed policy which comes from listening to the people who operate, use, and build these markets every day. The release quotes Chairman Selig's opening remarks that it is not a question of whether innovations like blockchain, artificial intelligence, and prediction markets will transform our markets, but a question of where this innovation will take place and who will write the rules. The release states that members discussed topics including crypto's regulatory evolution, artificial intelligence and compute within the derivatives markets, along with prediction markets and the future of novel event contracts, and that Chairman Selig adjourned the meeting at 4:00 p.m. ET.",
+      "source_url": "https://www.cftc.gov/PressRoom/PressReleases/9288-26",
+      "source_label": "CFTC Press Release 9288-26 (cftc.gov)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction-market platforms, event-contract venues, crypto derivatives operators, exchanges",
+      "tags": [
+        "crypto",
+        "gaming",
+        "cftc",
+        "prediction-markets",
+        "event-contracts",
+        "advisory-committee"
+      ]
+    }
+  ]
+}
