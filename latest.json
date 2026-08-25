@@ -1,8 +1,71 @@
 {
-  "generated": "2026-08-22T09:44:25Z",
+  "generated": "2026-08-25T09:42:31Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 151,
+  "count": 154,
   "items": [
+    {
+      "id": "2026-08-25-ofac-eo13902-iran-digital-asset-sector-determination",
+      "date": "2026-08-25",
+      "published": "2026-08-25T09:50:00Z",
+      "title": "OFAC names the digital asset sector of Iran's economy in five new E.O. 13902 sectoral sanctions determinations",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-08-25-ofac-eo13902-iran-digital-asset-sector-determination",
+      "issuing_body": "U.S. Department of the Treasury / OFAC",
+      "source_url": "https://home.treasury.gov/news/press-releases/sb0613",
+      "source_label": "U.S. Department of the Treasury press release (sb0613), August 24, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "crypto exchanges and VASPs, stablecoin issuers, payment processors, banks with correspondent exposure, sanctions-screening and compliance teams",
+      "tags": [
+        "crypto",
+        "sanctions",
+        "ofac",
+        "iran",
+        "digital-assets",
+        "secondary-sanctions"
+      ]
+    },
+    {
+      "id": "2026-08-25-ofac-iran-sdn-digital-currency-addresses",
+      "date": "2026-08-25",
+      "published": "2026-08-25T09:50:00Z",
+      "title": "OFAC's August 24 Iran designations add SDN entries carrying digital currency addresses and cite crypto-facilitated oil payments",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-08-25-ofac-iran-sdn-digital-currency-addresses",
+      "issuing_body": "U.S. Department of the Treasury / OFAC",
+      "source_url": "https://ofac.treasury.gov/recent-actions/20260824",
+      "source_label": "OFAC Recent Actions listing, August 24, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "crypto exchanges and VASPs, blockchain analytics and screening vendors, payment processors, banks and money services businesses",
+      "tags": [
+        "crypto",
+        "sanctions",
+        "ofac",
+        "iran",
+        "sdn",
+        "screening"
+      ]
+    },
+    {
+      "id": "2026-08-25-treasury-quantum-readiness-task-force",
+      "date": "2026-08-25",
+      "published": "2026-08-25T09:50:00Z",
+      "title": "Treasury launches a financial-sector Quantum-Readiness Task Force with a digital assets workstream",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-08-25-treasury-quantum-readiness-task-force",
+      "issuing_body": "U.S. Department of the Treasury",
+      "source_url": "https://home.treasury.gov/news/press-releases/sb0615",
+      "source_label": "U.S. Department of the Treasury press release (sb0615), August 24, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "banks and financial market infrastructures, payment processors, fintech platforms, custodians and digital asset infrastructure providers, vendor-risk teams",
+      "tags": [
+        "fintech",
+        "payments",
+        "crypto",
+        "treasury",
+        "post-quantum-cryptography",
+        "operational-resilience"
+      ]
+    },
     {
       "id": "2026-08-22-cftc-innovation-advisory-committee-inaugural-meeting",
       "date": "2026-08-22",
