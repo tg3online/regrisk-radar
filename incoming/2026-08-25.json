@@ -1,0 +1,67 @@
+{
+  "entries": [
+    {
+      "id": "2026-08-25-ofac-eo13902-iran-digital-asset-sector-determination",
+      "date": "2026-08-25",
+      "published": "2026-08-25T09:50:00Z",
+      "issuing_body": "U.S. Department of the Treasury / OFAC",
+      "title": "OFAC names the digital asset sector of Iran's economy in five new E.O. 13902 sectoral sanctions determinations",
+      "facts": "On August 24, 2026, the U.S. Department of the Treasury's Office of Foreign Assets Control issued five sectoral sanctions determinations pursuant to Executive Order 13902, covering the digital assets, technology, gold, aviation and shipping sectors of the Iranian economy. Treasury states that with the action OFAC \"can now sanction any person, regardless of where they are located, that operates in\" those sectors, and describes the digital assets sector as one where \"the Iranian regime increasingly turns to cryptocurrency as a tool of choice for sanctions evasion, supporting transactions linked to the Islamic Revolutionary Guard Corps (IRGC) and Iranian regime insiders.\" Treasury states the announcement \"expands secondary sanctions exposure for those who continue doing business with the Iranian regime.\" The determination document is published by OFAC as \"Determination Pursuant to Executive Order 13902 - Aviation, Digital Asset, Gold, Shipping, and Technology Sectors of the Iranian Economy.\" The determinations were announced as part of what Treasury calls Operation Economic Outcast.",
+      "source_url": "https://home.treasury.gov/news/press-releases/sb0613",
+      "source_label": "U.S. Department of the Treasury press release (sb0613), August 24, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "crypto exchanges and VASPs, stablecoin issuers, payment processors, banks with correspondent exposure, sanctions-screening and compliance teams",
+      "tags": [
+        "crypto",
+        "sanctions",
+        "ofac",
+        "iran",
+        "digital-assets",
+        "secondary-sanctions"
+      ]
+    },
+    {
+      "id": "2026-08-25-ofac-iran-sdn-digital-currency-addresses",
+      "date": "2026-08-25",
+      "published": "2026-08-25T09:50:00Z",
+      "issuing_body": "U.S. Department of the Treasury / OFAC",
+      "title": "OFAC's August 24 Iran designations add SDN entries carrying digital currency addresses and cite crypto-facilitated oil payments",
+      "facts": "On August 24, 2026, OFAC added Iran-related names to the Specially Designated Nationals and Blocked Persons List in an action Treasury says sanctioned nearly 60 entities, individuals and vessels. The published SDN additions include five \"Digital Currency Address\" identifiers; one listed individual, Almpertos Tsoris of Greece, appears with \"Digital Currency Address - USDT TJCBpxZ3yC7C7oegSRZMFxBcscmUVeSA36\" under the [IRAN-EO13902] program tag. Treasury states that Arman Kahzadian, designated pursuant to Executive Order 13694 as further amended, \"has focused on digital asset heists\" and that \"in summer 2023, Arman Kahzadian illicitly gained control of a wallet that held over $30,000 worth of Bitcoin.\" Treasury also states that UAE-based Ivan Obukhov, designated pursuant to Executive Order 13224, \"has processed over 100 million dollars' worth of cryptocurrency payments to facilitate oil sales on behalf of the IRGC-QF\" since 2023.",
+      "source_url": "https://ofac.treasury.gov/recent-actions/20260824",
+      "source_label": "OFAC Recent Actions listing, August 24, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "crypto exchanges and VASPs, blockchain analytics and screening vendors, payment processors, banks and money services businesses",
+      "tags": [
+        "crypto",
+        "sanctions",
+        "ofac",
+        "iran",
+        "sdn",
+        "screening"
+      ]
+    },
+    {
+      "id": "2026-08-25-treasury-quantum-readiness-task-force",
+      "date": "2026-08-25",
+      "published": "2026-08-25T09:50:00Z",
+      "issuing_body": "U.S. Department of the Treasury",
+      "title": "Treasury launches a financial-sector Quantum-Readiness Task Force with a digital assets workstream",
+      "facts": "On August 24, 2026, the U.S. Department of the Treasury announced the launch of the Quantum-Readiness Task Force, following Executive Order 14412. Treasury describes it as \"a public-private initiative to help accelerate the U.S. financial sector's transition to quantum-safe technology in an orderly and operationally resilient manner,\" building on the G7 Cyber Expert Group roadmap for the transition to post-quantum cryptography. Treasury states the Task Force \"will operate through three workstreams: Sector Alignment & PQC Transition; Third-Party & Vendor Readiness; and Digital Assets and Emerging Technology Risk,\" and that future quantum systems \"could break many of the cryptographic tools that protect financial data, payment systems, digital identities, and market infrastructure.\" Treasury states the Task Force will bring together government, financial institutions, financial market infrastructures, technology providers and other private-sector leaders.",
+      "source_url": "https://home.treasury.gov/news/press-releases/sb0615",
+      "source_label": "U.S. Department of the Treasury press release (sb0615), August 24, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "banks and financial market infrastructures, payment processors, fintech platforms, custodians and digital asset infrastructure providers, vendor-risk teams",
+      "tags": [
+        "fintech",
+        "payments",
+        "crypto",
+        "treasury",
+        "post-quantum-cryptography",
+        "operational-resilience"
+      ]
+    }
+  ]
+}
