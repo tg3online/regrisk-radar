@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-25T09:42:31Z",
+  "generated": "2026-08-25T21:41:22Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 154,
+  "count": 155,
   "items": [
     {
       "id": "2026-08-25-ofac-eo13902-iran-digital-asset-sector-determination",
@@ -64,6 +64,28 @@
         "treasury",
         "post-quantum-cryptography",
         "operational-resilience"
+      ]
+    },
+    {
+      "id": "2026-08-25-ofac-suspends-iran-general-licenses-personal-remittances",
+      "date": "2026-08-25",
+      "published": "2026-08-24T00:00:00Z",
+      "title": "OFAC suspends five Iran general licenses, including the personal-remittances authorization, with a September 8 wind-down",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-08-25-ofac-suspends-iran-general-licenses-personal-remittances",
+      "issuing_body": "U.S. Department of the Treasury / Office of Foreign Assets Control (OFAC)",
+      "source_url": "https://ofac.treasury.gov/media/936786/download?inline",
+      "source_label": "OFAC — Suspension of Certain Iranian Transactions and Sanctions Regulations General Licenses (notice, Aug. 24, 2026)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "money transmitters, remittance providers, payment processors, banks with Iran-nexus screening",
+      "tags": [
+        "payments",
+        "sanctions",
+        "ofac",
+        "iran",
+        "remittances",
+        "money-transmission",
+        "general-licenses"
       ]
     },
     {

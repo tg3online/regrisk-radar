@@ -5,7 +5,7 @@
     <link>https://tg3online.github.io/regrisk-radar/</link>
     <description>Daily facts-only regulatory radar — crypto, gaming, payments &amp; fintech. Verified against primary sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Aug 2026 09:42:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 21:41:22 +0000</lastBuildDate>
     <atom:link href="https://tg3online.github.io/regrisk-radar/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OFAC names the digital asset sector of Iran&#x27;s economy in five new E.O. 13902 sectoral sanctions determinations</title>
@@ -50,6 +50,22 @@ RegRisk Radar is regulatory-risk intelligence provided for general informational
 Primary source: U.S. Department of the Treasury press release (sb0615), August 24, 2026 — https://home.treasury.gov/news/press-releases/sb0615
 
 Relevant to: banks and financial market infrastructures, payment processors, fintech platforms, custodians and digital asset infrastructure providers, vendor-risk teams
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+    <item>
+      <title>OFAC suspends five Iran general licenses, including the personal-remittances authorization, with a September 8 wind-down</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-08-25-ofac-suspends-iran-general-licenses-personal-remittances</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-08-25-ofac-suspends-iran-general-licenses-personal-remittances</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+      <category>U.S. Department of the Treasury / Office of Foreign Assets Control (OFAC)</category>
+      <description>In a notice titled &quot;Suspension of Certain Iranian Transactions and Sanctions Regulations General Licenses,&quot; OFAC states that on August 24, 2026 it announced it is issuing a rule &quot;suspending indefinitely the effectiveness&quot; of five general licenses issued under the Iranian Transactions and Sanctions Regulations, 31 CFR part 560: 31 CFR 560.544 (certain educational activities by U.S. persons in third countries), 31 CFR 560.550 (&quot;Certain noncommercial, personal remittances to or from Iran authorized&quot;), 31 CFR 560.554 (importation and exportation of services related to conferences), Iran General License F (certain services supporting professional and amateur sports activities and exchanges), and Iran General License G (certain academic exchanges and educational services). The notice states that OFAC is concurrently issuing General License BB, &quot;authorizing all transactions prohibited by the ITSR that are ordinarily incident and necessary to the wind down of any transaction previously authorized by one or more of the above general licenses until September 8, 2026, subject to certain conditions,&quot; and that transactions previously authorized under the suspended licenses &quot;are no longer authorized by OFAC, except to the extent authorized pursuant to General License BB until September 8, 2026.&quot; The notice directs parties seeking a specific license for covered activity occurring after the effective date of the suspension to OFAC&#x27;s website.
+
+Primary source: OFAC — Suspension of Certain Iranian Transactions and Sanctions Regulations General Licenses (notice, Aug. 24, 2026) — https://ofac.treasury.gov/media/936786/download?inline
+
+Relevant to: money transmitters, remittance providers, payment processors, banks with Iran-nexus screening
 
 For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
 
