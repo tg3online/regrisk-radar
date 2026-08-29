@@ -1,8 +1,118 @@
 {
-  "generated": "2026-08-25T21:41:22Z",
+  "generated": "2026-08-29T21:52:22Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 155,
+  "count": 160,
   "items": [
+    {
+      "id": "2026-08-29-cftc-perez-event-contract-insider-trading",
+      "date": "2026-08-29",
+      "published": "2026-08-28T00:00:00Z",
+      "title": "CFTC settles insider-trading charges over prediction-market event contracts, ordering $172,000 and a three-year trading ban",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-08-29-cftc-perez-event-contract-insider-trading",
+      "issuing_body": "Commodity Futures Trading Commission (CFTC)",
+      "source_url": "https://www.cftc.gov/PressRoom/PressReleases/9289-26",
+      "source_label": "CFTC Release Number 9289-26 (August 28, 2026)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction-market platforms, designated contract markets, event-contract intermediaries, trading-surveillance and compliance teams",
+      "tags": [
+        "cftc",
+        "prediction-markets",
+        "event-contracts",
+        "enforcement",
+        "insider-trading",
+        "gaming"
+      ]
+    },
+    {
+      "id": "2026-08-29-fincen-311-banque-misr-uae-correspondent-banking",
+      "date": "2026-08-29",
+      "published": "2026-08-28T00:00:00Z",
+      "title": "FinCEN proposes a USA PATRIOT Act section 311 special measure to cut off Banque Misr UAE's U.S. correspondent banking access",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-08-29-fincen-311-banque-misr-uae-correspondent-banking",
+      "issuing_body": "U.S. Department of the Treasury (FinCEN and OFAC)",
+      "source_url": "https://home.treasury.gov/news/press-releases/sb0617",
+      "source_label": "U.S. Department of the Treasury press release sb0617 (August 28, 2026)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "banks and money transmitters with correspondent relationships, payment processors, BSA/AML and sanctions-screening teams",
+      "tags": [
+        "fincen",
+        "ofac",
+        "section-311",
+        "correspondent-banking",
+        "bsa-aml",
+        "sanctions",
+        "payments"
+      ]
+    },
+    {
+      "id": "2026-08-29-sec-38-entities-false-form-adv-filings",
+      "date": "2026-08-29",
+      "published": "2026-08-27T00:00:00Z",
+      "title": "SEC charges 38 entities with using false Forms ADV to pose as legitimate U.S. advisory firms",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-08-29-sec-38-entities-false-form-adv-filings",
+      "issuing_body": "Securities and Exchange Commission (SEC)",
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2026-78-sec-38-entities-feigned-legitimacy-us-advisers-through-false-filings-lure-retail-investors",
+      "source_label": "SEC Press Release 2026-78 (August 27, 2026)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "crypto and fintech platforms whose counterparties cite SEC filings, exempt reporting advisers, retail-facing investment platforms, compliance and diligence teams",
+      "tags": [
+        "sec",
+        "enforcement",
+        "investment-advisers-act",
+        "form-adv",
+        "exempt-reporting-adviser",
+        "retail-fraud",
+        "crypto",
+        "fintech"
+      ]
+    },
+    {
+      "id": "2026-08-29-sec-memx-securities-event-contracts-filing",
+      "date": "2026-08-29",
+      "published": "2026-08-27T00:00:00Z",
+      "title": "SEC notices MEMX proposal to list and trade 'securities event contracts' on a national securities exchange",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-08-29-sec-memx-securities-event-contracts-filing",
+      "issuing_body": "Securities and Exchange Commission (SEC)",
+      "source_url": "https://www.federalregister.gov/documents/2026/08/27/2026-17465/self-regulatory-organizations-memx-llc-notice-of-filing-of-a-proposal-to-adopt-rules-for-the-listing",
+      "source_label": "Federal Register, SEC Release No. 34-106182, File No. SR-MEMX-2026-25 (published August 27, 2026)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction-market platforms, options and equities market participants, exchange and broker-dealer product teams",
+      "tags": [
+        "sec",
+        "sro-filing",
+        "prediction-markets",
+        "event-contracts",
+        "binary-options",
+        "market-structure",
+        "gaming"
+      ]
+    },
+    {
+      "id": "2026-08-29-ny-consumer-alert-ai-investment-scams-crypto",
+      "date": "2026-08-29",
+      "published": "2026-08-27T00:00:00Z",
+      "title": "New York consumer alert on AI-driven investment scams names fake cryptocurrency projects and routes virtual-currency complaints to NYDFS",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-08-29-ny-consumer-alert-ai-investment-scams-crypto",
+      "issuing_body": "New York State Department of State, Division of Consumer Protection (published on the NYDFS newsroom)",
+      "source_url": "https://www.dfs.ny.gov/reports_and_publications/press_releases/pr20260826",
+      "source_label": "NYS Department of State Division of Consumer Protection / NYDFS newsroom (August 27, 2026)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "virtual currency businesses licensed in New York, crypto exchanges and custodians, consumer-facing fintech and payments platforms",
+      "tags": [
+        "nydfs",
+        "new-york",
+        "consumer-alert",
+        "virtual-currency",
+        "fraud",
+        "crypto",
+        "payments"
+      ]
+    },
     {
       "id": "2026-08-25-ofac-eo13902-iran-digital-asset-sector-determination",
       "date": "2026-08-25",

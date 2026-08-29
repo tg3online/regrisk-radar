@@ -6,6 +6,86 @@
   "description": "Daily facts-only regulatory radar — crypto, gaming, payments & fintech. Verified against primary sources.",
   "items": [
     {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-08-29-cftc-perez-event-contract-insider-trading",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-08-29-cftc-perez-event-contract-insider-trading",
+      "title": "CFTC settles insider-trading charges over prediction-market event contracts, ordering $172,000 and a three-year trading ban",
+      "content_text": "In Release Number 9289-26, dated August 28, 2026, the CFTC announced an order filing and settling charges against Gabriel Perez for misappropriating material, nonpublic information obtained through his federal government employment in order to trade event contracts (i.e., swaps) on a prediction market platform for his personal benefit. Under the order, Perez must disgorge profits of $107,539.02 and pay a civil monetary penalty of $65,000, which the CFTC describes as a substantial discount under the Division of Enforcement's new cooperation advisory because of Perez's cooperation; Perez agreed to cease and desist from further violations of the Commodity Exchange Act and CFTC regulations, and a three-year trading ban is imposed. The order finds that between December 2025 and February 2026, while working as a teleprompter operator for the White House, Perez traded presidential mention market contracts, which are event contracts reflecting words or phrases the President may use during his speeches, generating over $107,500 in profits. The CFTC states that it appreciates the assistance of KalshiEX in this matter.\n\nPrimary source: CFTC Release Number 9289-26 (August 28, 2026) — https://www.cftc.gov/PressRoom/PressReleases/9289-26\n\nRelevant to: prediction-market platforms, designated contract markets, event-contract intermediaries, trading-surveillance and compliance teams\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-08-28T00:00:00Z",
+      "tags": [
+        "cftc",
+        "prediction-markets",
+        "event-contracts",
+        "enforcement",
+        "insider-trading",
+        "gaming"
+      ]
+    },
+    {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-08-29-fincen-311-banque-misr-uae-correspondent-banking",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-08-29-fincen-311-banque-misr-uae-correspondent-banking",
+      "title": "FinCEN proposes a USA PATRIOT Act section 311 special measure to cut off Banque Misr UAE's U.S. correspondent banking access",
+      "content_text": "On August 28, 2026, Treasury announced that FinCEN issued a notice of proposed rulemaking finding that Banque Misr in the United Arab Emirates is a financial institution operating outside the United States of primary money laundering concern. Pursuant to section 311 of the USA PATRIOT Act, FinCEN proposes prohibiting U.S. financial institutions from opening or maintaining a correspondent account for, or on behalf of, Banque Misr UAE. Treasury states the rule would also require U.S. financial institutions to take reasonable steps not to process a transaction for a correspondent account in the United States of a foreign banking institution if such a transaction involves Banque Misr UAE, and to apply to their foreign correspondent accounts special due diligence reasonably designed to guard against their use to process transactions involving Banque Misr UAE. Treasury states the public comment period will close 30 days after the NPRM is published in the Federal Register, and that the finding and proposed special measure apply only to Banque Misr UAE and not to Banque Misr operations in any other country. Treasury estimates that between January 2024 and June 2026, Banque Misr UAE processed approximately $1.8 billion for 103 companies that are potentially part of Iranian shadow banking networks. Separately, OFAC sanctioned Reza Mohammad Taeedi, described as the general manager of Bank Melli's Dubai branch, and Hong Kong-based Kameng Trading Limited, which Treasury states was used by sanctioned Iranian exchange house Pedram Pirouzan Exchange House to launder money for Iran.\n\nPrimary source: U.S. Department of the Treasury press release sb0617 (August 28, 2026) — https://home.treasury.gov/news/press-releases/sb0617\n\nRelevant to: banks and money transmitters with correspondent relationships, payment processors, BSA/AML and sanctions-screening teams\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-08-28T00:00:00Z",
+      "tags": [
+        "fincen",
+        "ofac",
+        "section-311",
+        "correspondent-banking",
+        "bsa-aml",
+        "sanctions",
+        "payments"
+      ]
+    },
+    {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-08-29-sec-38-entities-false-form-adv-filings",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-08-29-sec-38-entities-false-form-adv-filings",
+      "title": "SEC charges 38 entities with using false Forms ADV to pose as legitimate U.S. advisory firms",
+      "content_text": "On August 27, 2026, in Release 2026-78, the SEC charged 38 entities alleging that they made material misrepresentations in Forms ADV filed with the Commission between 2025 and 2026 to falsely portray themselves as legitimate advisory firms to U.S. investors, and that a number of them used IP addresses tracked to foreign jurisdictions to connect to the Commission's filing system. Laura D'Allaird, Chief of the SEC Enforcement Division's Cyber and Emerging Technologies Unit, is quoted stating that the complaints allege large-scale abuse of SEC adviser filings by persons, several of whom are likely located overseas, exploiting interest in emerging technologies. According to the complaints, the defendants listed places of business at addresses in Colorado where they had no presence, provided phone numbers that are disconnected or belong to unrelated businesses, disclosed ownership structures and numerical data identical or nearly identical to a multitude of other purported exempt reporting advisers, and claimed audits by one of two independent public accounting firms that cannot be found in any public registry of federal or state accountancy firms. The SEC also alleges certain defendants were marketed on websites, some displaying a fake certificate indicating SEC registration. The complaints, filed in the U.S. District Court for the District of Colorado, charge violations of Sections 204(a) and 207 of the Investment Advisers Act of 1940. The SEC states the ERA filings of the 38 entities have been removed from the Commission website, and that its Office of Investor Education and Assistance issued an investor alert warning that scammers are using SEC ERA filings to create a false impression of legitimacy.\n\nPrimary source: SEC Press Release 2026-78 (August 27, 2026) — https://www.sec.gov/newsroom/press-releases/2026-78-sec-38-entities-feigned-legitimacy-us-advisers-through-false-filings-lure-retail-investors\n\nRelevant to: crypto and fintech platforms whose counterparties cite SEC filings, exempt reporting advisers, retail-facing investment platforms, compliance and diligence teams\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-08-27T00:00:00Z",
+      "tags": [
+        "sec",
+        "enforcement",
+        "investment-advisers-act",
+        "form-adv",
+        "exempt-reporting-adviser",
+        "retail-fraud",
+        "crypto",
+        "fintech"
+      ]
+    },
+    {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-08-29-sec-memx-securities-event-contracts-filing",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-08-29-sec-memx-securities-event-contracts-filing",
+      "title": "SEC notices MEMX proposal to list and trade 'securities event contracts' on a national securities exchange",
+      "content_text": "The Federal Register published on August 27, 2026 an SEC Notice of Filing of a proposed rule change (Release No. 34-106182, File No. SR-MEMX-2026-25; SEC notice dated August 24, 2026; filed by MEMX on August 11, 2026) in which MEMX LLC proposes to adopt new Chapter 30 of the Exchange Rules to provide for the listing and trading of securities event contracts on the Exchange's options platform, MEMX Options. The filing states that prediction markets recently have experienced significant growth and that these markets generally have developed on exchanges regulated by the Commodity Futures Trading Commission as designated contract markets. The filing describes securities event contracts as cash-settled, European-style binary options that are based on the outcome of an event question related to the financial performance of an issuer of an NMS stock. The Commission is soliciting comments on the proposed rule change.\n\nPrimary source: Federal Register, SEC Release No. 34-106182, File No. SR-MEMX-2026-25 (published August 27, 2026) — https://www.federalregister.gov/documents/2026/08/27/2026-17465/self-regulatory-organizations-memx-llc-notice-of-filing-of-a-proposal-to-adopt-rules-for-the-listing\n\nRelevant to: prediction-market platforms, options and equities market participants, exchange and broker-dealer product teams\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-08-27T00:00:00Z",
+      "tags": [
+        "sec",
+        "sro-filing",
+        "prediction-markets",
+        "event-contracts",
+        "binary-options",
+        "market-structure",
+        "gaming"
+      ]
+    },
+    {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-08-29-ny-consumer-alert-ai-investment-scams-crypto",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-08-29-ny-consumer-alert-ai-investment-scams-crypto",
+      "title": "New York consumer alert on AI-driven investment scams names fake cryptocurrency projects and routes virtual-currency complaints to NYDFS",
+      "content_text": "On August 27, 2026, the New York State Department of State's Division of Consumer Protection issued an alert urging New Yorkers to remain vigilant against increasingly sophisticated investment scams driven by artificial intelligence. The release cites Federal Trade Commission data that 144,041 consumers reported losing over $8 billion to investment scams in 2025, a 38% increase from 2024, with a median loss of $10,560. Among the scam categories the alert enumerates are fake cryptocurrency projects, and among the warning signs it lists opportunities that require payments using cryptocurrency or wire transfers. The alert directs consumers to report cryptocurrency fraud or file a complaint against a virtual currency company in New York State to the Department of Financial Services. The release carries a statement from DFS Acting Superintendent Kaitlin Asrow. The alert is educational guidance and does not announce a rule or an enforcement action.\n\nPrimary source: NYS Department of State Division of Consumer Protection / NYDFS newsroom (August 27, 2026) — https://www.dfs.ny.gov/reports_and_publications/press_releases/pr20260826\n\nRelevant to: virtual currency businesses licensed in New York, crypto exchanges and custodians, consumer-facing fintech and payments platforms\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-08-27T00:00:00Z",
+      "tags": [
+        "nydfs",
+        "new-york",
+        "consumer-alert",
+        "virtual-currency",
+        "fraud",
+        "crypto",
+        "payments"
+      ]
+    },
+    {
       "id": "https://tg3online.github.io/regrisk-radar/#2026-08-25-ofac-eo13902-iran-digital-asset-sector-determination",
       "url": "https://tg3online.github.io/regrisk-radar/#2026-08-25-ofac-eo13902-iran-digital-asset-sector-determination",
       "title": "OFAC names the digital asset sector of Iran's economy in five new E.O. 13902 sectoral sanctions determinations",
