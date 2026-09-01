@@ -1,8 +1,55 @@
 {
-  "generated": "2026-08-29T21:52:22Z",
+  "generated": "2026-09-01T21:49:47Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 160,
+  "count": 163,
   "items": [
+    {
+      "id": "2026-09-01-sec-transfer-agent-modernization-proposal",
+      "date": "2026-09-01",
+      "published": "2026-09-01T00:00:00Z",
+      "title": "SEC proposes first substantive update to transfer agent rules since the early 1980s, citing blockchain use in share transfers",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-09-01-sec-transfer-agent-modernization-proposal",
+      "issuing_body": "U.S. Securities and Exchange Commission",
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2026-81-sec-proposes-modernize-rules-registered-transfer-agents",
+      "source_label": "SEC Press Release 2026-81",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "transfer agents, issuers using blockchain-based share registers, tokenized-securities platforms, clearing and settlement operators",
+      "tags": [
+        "crypto",
+        "fintech",
+        "sec",
+        "rulemaking",
+        "transfer-agents",
+        "blockchain",
+        "tokenized-securities",
+        "comment-period"
+      ]
+    },
+    {
+      "id": "2026-09-01-fincen-banque-misr-uae-311-nprm-federal-register",
+      "date": "2026-09-01",
+      "published": "2026-09-01T00:00:00Z",
+      "title": "FinCEN section 311 special-measure proposal on Banque Misr UAE published in the Federal Register; comments close October 1, 2026",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-09-01-fincen-banque-misr-uae-311-nprm-federal-register",
+      "issuing_body": "U.S. Department of the Treasury / Financial Crimes Enforcement Network (FinCEN)",
+      "source_url": "https://www.federalregister.gov/documents/2026/09/01/2026-17871/proposal-of-special-measure-regarding-banque-misr-uae-as-a-financial-institution-operating-outside",
+      "source_label": "Federal Register, 91 FR 56085 (FinCEN proposed rule)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "banks and money services businesses with correspondent banking exposure, payment processors, BSA/AML compliance teams",
+      "tags": [
+        "payments",
+        "fincen",
+        "section-311",
+        "correspondent-banking",
+        "bsa-aml",
+        "sanctions",
+        "iran",
+        "federal-register",
+        "comment-period"
+      ]
+    },
     {
       "id": "2026-08-29-cftc-perez-event-contract-insider-trading",
       "date": "2026-08-29",
@@ -196,6 +243,29 @@
         "remittances",
         "money-transmission",
         "general-licenses"
+      ]
+    },
+    {
+      "id": "2026-09-01-ofac-iran-general-license-bb-wind-down-september-8",
+      "date": "2026-09-01",
+      "published": "2026-08-24T00:00:00Z",
+      "title": "OFAC Iran General License BB authorizes wind-down of suspended Iran general licenses, including noncommercial personal remittances, only through 12:01 a.m. EDT on September 8, 2026",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-09-01-ofac-iran-general-license-bb-wind-down-september-8",
+      "issuing_body": "U.S. Department of the Treasury / Office of Foreign Assets Control (OFAC)",
+      "source_url": "https://ofac.treasury.gov/media/936776/download?inline",
+      "source_label": "OFAC Iran General License BB (August 24, 2026)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "money transmitters and remittance providers with Iran-related exposure, banks processing personal remittances, sanctions compliance teams",
+      "tags": [
+        "payments",
+        "remittances",
+        "ofac",
+        "sanctions",
+        "iran",
+        "general-license",
+        "wind-down",
+        "deadline"
       ]
     },
     {

@@ -5,8 +5,40 @@
     <link>https://tg3online.github.io/regrisk-radar/</link>
     <description>Daily facts-only regulatory radar — crypto, gaming, payments &amp; fintech. Verified against primary sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Aug 2026 21:52:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 21:49:47 +0000</lastBuildDate>
     <atom:link href="https://tg3online.github.io/regrisk-radar/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SEC proposes first substantive update to transfer agent rules since the early 1980s, citing blockchain use in share transfers</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-09-01-sec-transfer-agent-modernization-proposal</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-09-01-sec-transfer-agent-modernization-proposal</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <category>U.S. Securities and Exchange Commission</category>
+      <description>On September 1, 2026 the SEC issued Release 2026-81 proposing to update the rules and forms that apply to registered transfer agents. The release states that the Commission&#x27;s transfer agent rules &quot;have not been substantively updated since the first rules were adopted in the late 1970s and early 1980s.&quot; SEC Chairman Paul S. Atkins is quoted saying the proposal &quot;would streamline and modernize the Commission&#x27;s rules to reflect transfer agents&#x27; current processes and operations, including the use of electronic communications and blockchain technology in connection with securities offerings and the transfer of shares.&quot; The release states the proposal would amend existing rules and forms, would rescind a rule, and would introduce new rules applying to registered transfer agents and their activities. The proposing release is numbered 34-106246. According to the release, the proposal will be published in the Federal Register and the public comment period will remain open for 60 days after the date of that publication; as of this entry the proposal had not yet appeared in the Federal Register, so the comment period closing date is not yet fixed.
+
+Primary source: SEC Press Release 2026-81 — https://www.sec.gov/newsroom/press-releases/2026-81-sec-proposes-modernize-rules-registered-transfer-agents
+
+Relevant to: transfer agents, issuers using blockchain-based share registers, tokenized-securities platforms, clearing and settlement operators
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+    <item>
+      <title>FinCEN section 311 special-measure proposal on Banque Misr UAE published in the Federal Register; comments close October 1, 2026</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-09-01-fincen-banque-misr-uae-311-nprm-federal-register</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-09-01-fincen-banque-misr-uae-311-nprm-federal-register</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <category>U.S. Department of the Treasury / Financial Crimes Enforcement Network (FinCEN)</category>
+      <description>FinCEN&#x27;s notice of proposed rulemaking, &quot;Proposal of Special Measure Regarding Banque Misr UAE as a Financial Institution Operating Outside of the United States of Primary Money Laundering Concern,&quot; was published in the Federal Register on September 1, 2026 (document 2026-17871, citation 91 FR 56085). The Federal Register record lists the comment period as closing on October 1, 2026. The published abstract states that FinCEN &quot;is issuing a notice of proposed rulemaking, pursuant to section 311 of the USA PATRIOT Act, that finds the five United Arab Emirates-based branches of Banque Misr (collectively, Banque Misr UAE) to be of primary money laundering concern&quot; and proposes a special measure to &quot;prohibit U.S. financial institutions from opening or maintaining a correspondent account for, or on behalf of, Banque Misr UAE,&quot; to &quot;require U.S. financial institutions to take reasonable steps not to process a transaction for the correspondent account in the United States of a foreign banking institution if such a transaction involves Banque Misr UAE,&quot; and to &quot;require U.S. financial institutions to apply special due diligence to their foreign correspondent accounts that are reasonably designed to guard against their use to process transactions involving Banque Misr UAE.&quot; The underlying proposal was announced by Treasury on August 28, 2026.
+
+Primary source: Federal Register, 91 FR 56085 (FinCEN proposed rule) — https://www.federalregister.gov/documents/2026/09/01/2026-17871/proposal-of-special-measure-regarding-banque-misr-uae-as-a-financial-institution-operating-outside
+
+Relevant to: banks and money services businesses with correspondent banking exposure, payment processors, BSA/AML compliance teams
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
     <item>
       <title>CFTC settles insider-trading charges over prediction-market event contracts, ordering $172,000 and a three-year trading ban</title>
       <link>https://tg3online.github.io/regrisk-radar/#2026-08-29-cftc-perez-event-contract-insider-trading</link>
@@ -146,6 +178,22 @@ RegRisk Radar is regulatory-risk intelligence provided for general informational
 Primary source: OFAC — Suspension of Certain Iranian Transactions and Sanctions Regulations General Licenses (notice, Aug. 24, 2026) — https://ofac.treasury.gov/media/936786/download?inline
 
 Relevant to: money transmitters, remittance providers, payment processors, banks with Iran-nexus screening
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+    <item>
+      <title>OFAC Iran General License BB authorizes wind-down of suspended Iran general licenses, including noncommercial personal remittances, only through 12:01 a.m. EDT on September 8, 2026</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-09-01-ofac-iran-general-license-bb-wind-down-september-8</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-09-01-ofac-iran-general-license-bb-wind-down-september-8</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+      <category>U.S. Department of the Treasury / Office of Foreign Assets Control (OFAC)</category>
+      <description>OFAC General License BB, &quot;Authorizing the Wind Down of Certain Transactions Previously Authorized Under the Iranian Transactions and Sanctions Regulations,&quot; is dated August 24, 2026 and signed by Bradley T. Smith, Director, Office of Foreign Assets Control. Paragraph (a) states that, except as provided in paragraph (b), transactions prohibited by the Iranian Transactions and Sanctions Regulations (31 CFR part 560) that are &quot;ordinarily incident and necessary to the wind down&quot; of transactions previously authorized under the listed general licenses &quot;are authorized through 12:01 a.m. eastern daylight time, September 8, 2026, provided that any payment to a blocked person is made into a blocked interest-bearing account located in the United States in accordance with the ITSR.&quot; The listed authorities are 31 CFR 560.544 (certain educational activities by U.S. persons in third countries), 31 CFR 560.550 (certain noncommercial, personal remittances to or from Iran), 31 CFR 560.554 (services related to conferences in the United States or third countries), Iran General License F (certain services supporting professional and amateur sports activities and exchanges), and Iran General License G (certain academic exchanges and educational services). Paragraph (b) states the general license &quot;does not authorize any other transactions or activities prohibited by the ITSR, any other Executive order, or any other part of 31 CFR chapter V, unless separately authorized.&quot;
+
+Primary source: OFAC Iran General License BB (August 24, 2026) — https://ofac.treasury.gov/media/936776/download?inline
+
+Relevant to: money transmitters and remittance providers with Iran-related exposure, banks processing personal remittances, sanctions compliance teams
 
 For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
 

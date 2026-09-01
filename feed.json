@@ -6,6 +6,41 @@
   "description": "Daily facts-only regulatory radar — crypto, gaming, payments & fintech. Verified against primary sources.",
   "items": [
     {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-09-01-sec-transfer-agent-modernization-proposal",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-09-01-sec-transfer-agent-modernization-proposal",
+      "title": "SEC proposes first substantive update to transfer agent rules since the early 1980s, citing blockchain use in share transfers",
+      "content_text": "On September 1, 2026 the SEC issued Release 2026-81 proposing to update the rules and forms that apply to registered transfer agents. The release states that the Commission's transfer agent rules \"have not been substantively updated since the first rules were adopted in the late 1970s and early 1980s.\" SEC Chairman Paul S. Atkins is quoted saying the proposal \"would streamline and modernize the Commission's rules to reflect transfer agents' current processes and operations, including the use of electronic communications and blockchain technology in connection with securities offerings and the transfer of shares.\" The release states the proposal would amend existing rules and forms, would rescind a rule, and would introduce new rules applying to registered transfer agents and their activities. The proposing release is numbered 34-106246. According to the release, the proposal will be published in the Federal Register and the public comment period will remain open for 60 days after the date of that publication; as of this entry the proposal had not yet appeared in the Federal Register, so the comment period closing date is not yet fixed.\n\nPrimary source: SEC Press Release 2026-81 — https://www.sec.gov/newsroom/press-releases/2026-81-sec-proposes-modernize-rules-registered-transfer-agents\n\nRelevant to: transfer agents, issuers using blockchain-based share registers, tokenized-securities platforms, clearing and settlement operators\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-09-01T00:00:00Z",
+      "tags": [
+        "crypto",
+        "fintech",
+        "sec",
+        "rulemaking",
+        "transfer-agents",
+        "blockchain",
+        "tokenized-securities",
+        "comment-period"
+      ]
+    },
+    {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-09-01-fincen-banque-misr-uae-311-nprm-federal-register",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-09-01-fincen-banque-misr-uae-311-nprm-federal-register",
+      "title": "FinCEN section 311 special-measure proposal on Banque Misr UAE published in the Federal Register; comments close October 1, 2026",
+      "content_text": "FinCEN's notice of proposed rulemaking, \"Proposal of Special Measure Regarding Banque Misr UAE as a Financial Institution Operating Outside of the United States of Primary Money Laundering Concern,\" was published in the Federal Register on September 1, 2026 (document 2026-17871, citation 91 FR 56085). The Federal Register record lists the comment period as closing on October 1, 2026. The published abstract states that FinCEN \"is issuing a notice of proposed rulemaking, pursuant to section 311 of the USA PATRIOT Act, that finds the five United Arab Emirates-based branches of Banque Misr (collectively, Banque Misr UAE) to be of primary money laundering concern\" and proposes a special measure to \"prohibit U.S. financial institutions from opening or maintaining a correspondent account for, or on behalf of, Banque Misr UAE,\" to \"require U.S. financial institutions to take reasonable steps not to process a transaction for the correspondent account in the United States of a foreign banking institution if such a transaction involves Banque Misr UAE,\" and to \"require U.S. financial institutions to apply special due diligence to their foreign correspondent accounts that are reasonably designed to guard against their use to process transactions involving Banque Misr UAE.\" The underlying proposal was announced by Treasury on August 28, 2026.\n\nPrimary source: Federal Register, 91 FR 56085 (FinCEN proposed rule) — https://www.federalregister.gov/documents/2026/09/01/2026-17871/proposal-of-special-measure-regarding-banque-misr-uae-as-a-financial-institution-operating-outside\n\nRelevant to: banks and money services businesses with correspondent banking exposure, payment processors, BSA/AML compliance teams\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-09-01T00:00:00Z",
+      "tags": [
+        "payments",
+        "fincen",
+        "section-311",
+        "correspondent-banking",
+        "bsa-aml",
+        "sanctions",
+        "iran",
+        "federal-register",
+        "comment-period"
+      ]
+    },
+    {
       "id": "https://tg3online.github.io/regrisk-radar/#2026-08-29-cftc-perez-event-contract-insider-trading",
       "url": "https://tg3online.github.io/regrisk-radar/#2026-08-29-cftc-perez-event-contract-insider-trading",
       "title": "CFTC settles insider-trading charges over prediction-market event contracts, ordering $172,000 and a three-year trading ban",
@@ -144,6 +179,23 @@
         "remittances",
         "money-transmission",
         "general-licenses"
+      ]
+    },
+    {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-09-01-ofac-iran-general-license-bb-wind-down-september-8",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-09-01-ofac-iran-general-license-bb-wind-down-september-8",
+      "title": "OFAC Iran General License BB authorizes wind-down of suspended Iran general licenses, including noncommercial personal remittances, only through 12:01 a.m. EDT on September 8, 2026",
+      "content_text": "OFAC General License BB, \"Authorizing the Wind Down of Certain Transactions Previously Authorized Under the Iranian Transactions and Sanctions Regulations,\" is dated August 24, 2026 and signed by Bradley T. Smith, Director, Office of Foreign Assets Control. Paragraph (a) states that, except as provided in paragraph (b), transactions prohibited by the Iranian Transactions and Sanctions Regulations (31 CFR part 560) that are \"ordinarily incident and necessary to the wind down\" of transactions previously authorized under the listed general licenses \"are authorized through 12:01 a.m. eastern daylight time, September 8, 2026, provided that any payment to a blocked person is made into a blocked interest-bearing account located in the United States in accordance with the ITSR.\" The listed authorities are 31 CFR 560.544 (certain educational activities by U.S. persons in third countries), 31 CFR 560.550 (certain noncommercial, personal remittances to or from Iran), 31 CFR 560.554 (services related to conferences in the United States or third countries), Iran General License F (certain services supporting professional and amateur sports activities and exchanges), and Iran General License G (certain academic exchanges and educational services). Paragraph (b) states the general license \"does not authorize any other transactions or activities prohibited by the ITSR, any other Executive order, or any other part of 31 CFR chapter V, unless separately authorized.\"\n\nPrimary source: OFAC Iran General License BB (August 24, 2026) — https://ofac.treasury.gov/media/936776/download?inline\n\nRelevant to: money transmitters and remittance providers with Iran-related exposure, banks processing personal remittances, sanctions compliance teams\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-08-24T00:00:00Z",
+      "tags": [
+        "payments",
+        "remittances",
+        "ofac",
+        "sanctions",
+        "iran",
+        "general-license",
+        "wind-down",
+        "deadline"
       ]
     },
     {
