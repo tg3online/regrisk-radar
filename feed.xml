@@ -5,8 +5,72 @@
     <link>https://tg3online.github.io/regrisk-radar/</link>
     <description>Daily facts-only regulatory radar — crypto, gaming, payments &amp; fintech. Verified against primary sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Sep 2026 21:49:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 09:45:24 +0000</lastBuildDate>
     <atom:link href="https://tg3online.github.io/regrisk-radar/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SEC transfer agent proposal publishes at 91 FR 56946 with comments due November 3, 2026; text asks whether stablecoins and tokenized deposits count as funds</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-09-04-sec-transfer-agent-rules-federal-register</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-09-04-sec-transfer-agent-rules-federal-register</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+      <category>Securities and Exchange Commission (SEC)</category>
+      <description>The Federal Register published document 2026-18190, &quot;Transfer Agent Rules&quot; (Securities and Exchange Commission), a Proposed Rule, on September 4, 2026, at citation 91 FR 56946. The Federal Register DATES field reads: &quot;This release was published in the Federal Register on September 4, 2026. Comments should be received on or before November 3, 2026.&quot; The published abstract states the Commission &quot;is proposing to adopt new rules, amend existing rules, amend the existing form for registration with the Commission as a transfer agent (Form TA-1) and the existing form for reporting activities of transfer agents (Form TA-2), and rescind an existing rule governing registered transfer agents. The proposals are designed to modernize the rules governing registered transfer agents.&quot; The proposing release states that market participants &quot;are actively seeking to bring blockchain-native, or &#x27;onchain&#x27; transfer agents into the U.S. market, with some firms developing models for blockchain-based recordkeeping, tokenized fund administration, and cross-chain interoperability that would require transfer agents to maintain issuer and securityholder records on distributed ledgers.&quot; The release also asks: &quot;Should the rule address whether stablecoins and tokenized deposits can be funds (in addition to cash) and whether the bank account could be a bank&#x27;s custodial wallet?&quot;
+
+Primary source: Federal Register, 91 FR 56946 (published September 4, 2026) — https://www.federalregister.gov/documents/2026/09/04/2026-18190/transfer-agent-rules
+
+Relevant to: registered transfer agents, tokenized securities platforms, issuers using onchain share registers, stablecoin issuers, digital asset custodians
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+    <item>
+      <title>FinCEN issues alert and trend analysis on digital asset investment scams run by overseas scam centers, citing roughly $12.7 billion across 33,904 BSA reports</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-09-04-fincen-digital-asset-scam-center-alert</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-09-04-fincen-digital-asset-scam-center-alert</guid>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+      <category>Financial Crimes Enforcement Network (FinCEN)</category>
+      <description>In a news release dated September 3, 2026, FinCEN states it published an analysis and an alert to financial institutions &quot;to be vigilant to digital asset investment scams perpetrated by overseas scam centers.&quot; The release states that FinCEN analyzed 33,904 Bank Secrecy Act reports involving suspected digital asset investment scam-related activity filed between September 8, 2023, and December 31, 2025, &quot;totaling approximately $12.7 billion in financial activity tied to suspected digital asset investment scams,&quot; and that individuals of all ages were targeted &quot;across all 50 states and several U.S. territories.&quot; On typology, the release states that scam center operators use &quot;guarantee marketplaces&quot; to purchase illicit services such as online account creation, phishing and money laundering, and that &quot;Professional money launderers integrate scam proceeds into the formal financial system through networks of money mules and through stablecoin transfers to digital asset exchanges outside of the United States.&quot; The release states that FinCEN has identified red flags to help financial institutions detect, prevent and report suspicious activity connected to scam centers, and encourages voluntary information sharing under Section 314(b) of the USA PATRIOT Act. The two documents are the FinCEN Alert on Money Laundering Activity Associated with Digital Asset Investment Scam Centers and the Financial Trend Analysis on Digital Asset Investment Scams 2023-2025. The release lists the affected financial institution categories as casinos, depository institutions, insurance, money services businesses, mortgage companies and brokers, precious metals and jewelry, and securities and futures.
+
+Primary source: FinCEN news release, September 3, 2026 — https://www.fincen.gov/news/news-releases/fincen-identifies-nearly-13-billion-linked-suspected-digital-asset-scams
+
+Relevant to: digital asset exchanges, stablecoin issuers, money services businesses, payment processors, casinos, BSA compliance teams
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+    <item>
+      <title>FinCEN reissues southwest border Geographic Targeting Order requiring MSBs in eight named counties to report cash transactions between $1,000 and $10,000</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-09-04-fincen-southwest-border-msb-gto</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-09-04-fincen-southwest-border-msb-gto</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <category>Financial Crimes Enforcement Network (FinCEN)</category>
+      <description>In a news release dated September 2, 2026, FinCEN states it reissued a Geographic Targeting Order that &quot;subjects certain money services businesses (MSBs) - which provide financial services outside of a formal bank - to enhanced reporting requirements with FinCEN.&quot; The release states: &quot;The GTO requires MSBs to file Currency Transaction Reports with FinCEN for cash transactions between $1,000 and $10,000 occurring in specific ZIP codes in Bernalillo, Dona Ana, and San Juan counties in New Mexico, and Cameron, El Paso, Hidalgo, Maverick, and Webb counties in Texas. The terms of this GTO are effective for 180 days after publication on the Federal Register.&quot; The corresponding Federal Register document, 2026-18194, is a Rule titled &quot;Geographic Targeting Order Imposing Recordkeeping and Reporting Requirements on Certain Money Services Businesses Along the Southwest Border,&quot; published September 4, 2026 at 91 FR 56776. The Federal Register abstract states the order requires covered money services businesses &quot;to report and retain records of transactions in currency of $1,000 or more, but not more than $10,000, and to verify the identity of persons presenting such transactions.&quot; The Federal Register DATES field reads: &quot;Effective date: This action is effective September 3, 2026.&quot; The order defines a &quot;Covered Business&quot; as a money services business as defined in 31 CFR 1010.100(ff) located in the covered geographic area, subject to a carve-out for any money services business covered by an applicable court injunction against the Geographic Targeting Order published by FinCEN on March 14, 2025 at 90 FR 12106.
+
+Primary source: Federal Register, 91 FR 56776 (published September 4, 2026), and FinCEN news release of September 2, 2026 — https://www.federalregister.gov/documents/2026/09/04/2026-18194/geographic-targeting-order-imposing-recordkeeping-and-reporting-requirements-on-certain-money
+
+Relevant to: money services businesses, money transmitters, check cashers, currency exchangers, payment processors and their agent networks in New Mexico and Texas
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+    <item>
+      <title>Five agencies issue joint statement that SAR confidentiality does not preclude banks from communicating with customers about suspicious transactions or account closures</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-09-04-interagency-sar-confidentiality-joint-statement</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-09-04-interagency-sar-confidentiality-joint-statement</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <category>FinCEN, Federal Reserve, FDIC, NCUA and OCC</category>
+      <description>In a news release dated September 2, 2026, FinCEN states that it, together with the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, the National Credit Union Administration and the Office of the Comptroller of the Currency, &quot;issued a joint statement to clarify that confidentiality requirements related to Suspicious Activity Reports (SARs) do not preclude banks from communicating with their customers regarding potentially fraudulent transactions and other suspicious activity or account closures.&quot; The release states: &quot;This statement does not alter existing Bank Secrecy Act (BSA) legal or regulatory requirements or establish new supervisory expectations.&quot; The release further states that the joint statement &quot;clarifies how banks can ensure compliance with SAR confidentiality requirements and provide customers with transparent and timely communication as part of the bank&#x27;s fraud investigation.&quot; The release lists the affected financial institution categories as casinos, depository institutions, insurance, money services businesses, mortgage companies and brokers, precious metals and jewelry, and securities and futures.
+
+Primary source: FinCEN news release, September 2, 2026 — https://www.fincen.gov/news/news-releases/fincen-agencies-issue-joint-statement-suspicious-activity-report-confidentiality
+
+Relevant to: banks, credit unions, fintechs and payment companies with bank partners, BSA compliance and fraud teams
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
     <item>
       <title>SEC proposes first substantive update to transfer agent rules since the early 1980s, citing blockchain use in share transfers</title>
       <link>https://tg3online.github.io/regrisk-radar/#2026-09-01-sec-transfer-agent-modernization-proposal</link>
@@ -34,6 +98,22 @@ RegRisk Radar is regulatory-risk intelligence provided for general informational
 Primary source: Federal Register, 91 FR 56085 (FinCEN proposed rule) — https://www.federalregister.gov/documents/2026/09/01/2026-17871/proposal-of-special-measure-regarding-banque-misr-uae-as-a-financial-institution-operating-outside
 
 Relevant to: banks and money services businesses with correspondent banking exposure, payment processors, BSA/AML compliance teams
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+    <item>
+      <title>House Financial Services Republicans unveil the Consumer Financial Protection Accountability and Reform Act of 2026</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-09-04-house-fsc-cfpb-reform-package</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-09-04-house-fsc-cfpb-reform-package</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <category>U.S. House Committee on Financial Services</category>
+      <description>In a press release dated September 1, 2026, the House Committee on Financial Services states that Chairman French Hill (AR-02), Financial Institutions Subcommittee Chairman Andy Barr (KY-06) &quot;and nearly all Committee Republicans unveiled the Consumer Financial Protection Accountability and Reform Act of 2026.&quot; The release states the bill &quot;will restore accountability to the Consumer Financial Protection Bureau (CFPB), provide clear and consistent rules for consumers and financial institutions, promote innovation and competition, and establish a more predictable, risk-based approach to federal oversight.&quot; On mechanics, the release states: &quot;The bill brings the CFPB into the regular congressional appropriations process, establishes a dedicated Inspector General, and strengthens the transparency and rigor of its rulemaking process. The bill also requires periodic reviews of major rules to ensure their benefits justify their costs.&quot; It further states the bill &quot;clarifies the Bureau&#x27;s authority, strengthens due process, and establishes more predictable standards for supervision and enforcement,&quot; &quot;makes clear that agency guidance is not legally binding,&quot; &quot;reduces duplicative examinations and supervision,&quot; and &quot;promotes proportionate penalties, rewards firms that self-report and remediate problems.&quot; Chairman Hill is quoted saying he looks forward &quot;to bringing this legislation to the House floor.&quot; The release links the bill text, a one-pager and a section-by-section. The release does not state that the bill has been introduced, referred, marked up or scheduled for floor consideration.
+
+Primary source: U.S. House Committee on Financial Services press release, September 1, 2026 — https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411226
+
+Relevant to: payments companies, BNPL and earned wage access providers, open banking participants, nonbank lenders and any CFPB-supervised entity
 
 For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
 

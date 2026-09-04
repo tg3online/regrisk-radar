@@ -1,8 +1,104 @@
 {
-  "generated": "2026-09-01T21:49:47Z",
+  "generated": "2026-09-04T09:45:24Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 163,
+  "count": 168,
   "items": [
+    {
+      "id": "2026-09-04-sec-transfer-agent-rules-federal-register",
+      "date": "2026-09-04",
+      "published": "2026-09-04T00:00:00Z",
+      "title": "SEC transfer agent proposal publishes at 91 FR 56946 with comments due November 3, 2026; text asks whether stablecoins and tokenized deposits count as funds",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-09-04-sec-transfer-agent-rules-federal-register",
+      "issuing_body": "Securities and Exchange Commission (SEC)",
+      "source_url": "https://www.federalregister.gov/documents/2026/09/04/2026-18190/transfer-agent-rules",
+      "source_label": "Federal Register, 91 FR 56946 (published September 4, 2026)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "registered transfer agents, tokenized securities platforms, issuers using onchain share registers, stablecoin issuers, digital asset custodians",
+      "tags": [
+        "crypto",
+        "fintech",
+        "sec",
+        "rulemaking",
+        "transfer-agents",
+        "blockchain",
+        "tokenized-securities",
+        "stablecoin",
+        "comment-period",
+        "federal-register"
+      ]
+    },
+    {
+      "id": "2026-09-04-fincen-digital-asset-scam-center-alert",
+      "date": "2026-09-04",
+      "published": "2026-09-03T00:00:00Z",
+      "title": "FinCEN issues alert and trend analysis on digital asset investment scams run by overseas scam centers, citing roughly $12.7 billion across 33,904 BSA reports",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-09-04-fincen-digital-asset-scam-center-alert",
+      "issuing_body": "Financial Crimes Enforcement Network (FinCEN)",
+      "source_url": "https://www.fincen.gov/news/news-releases/fincen-identifies-nearly-13-billion-linked-suspected-digital-asset-scams",
+      "source_label": "FinCEN news release, September 3, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "digital asset exchanges, stablecoin issuers, money services businesses, payment processors, casinos, BSA compliance teams",
+      "tags": [
+        "crypto",
+        "payments",
+        "fincen",
+        "bsa-aml",
+        "alert",
+        "stablecoin",
+        "fraud"
+      ]
+    },
+    {
+      "id": "2026-09-04-fincen-southwest-border-msb-gto",
+      "date": "2026-09-04",
+      "published": "2026-09-02T00:00:00Z",
+      "title": "FinCEN reissues southwest border Geographic Targeting Order requiring MSBs in eight named counties to report cash transactions between $1,000 and $10,000",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-09-04-fincen-southwest-border-msb-gto",
+      "issuing_body": "Financial Crimes Enforcement Network (FinCEN)",
+      "source_url": "https://www.federalregister.gov/documents/2026/09/04/2026-18194/geographic-targeting-order-imposing-recordkeeping-and-reporting-requirements-on-certain-money",
+      "source_label": "Federal Register, 91 FR 56776 (published September 4, 2026), and FinCEN news release of September 2, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "money services businesses, money transmitters, check cashers, currency exchangers, payment processors and their agent networks in New Mexico and Texas",
+      "tags": [
+        "payments",
+        "money-transmission",
+        "msb",
+        "fincen",
+        "gto",
+        "bsa-aml",
+        "currency-transaction-report",
+        "federal-register"
+      ]
+    },
+    {
+      "id": "2026-09-04-interagency-sar-confidentiality-joint-statement",
+      "date": "2026-09-04",
+      "published": "2026-09-02T00:00:00Z",
+      "title": "Five agencies issue joint statement that SAR confidentiality does not preclude banks from communicating with customers about suspicious transactions or account closures",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-09-04-interagency-sar-confidentiality-joint-statement",
+      "issuing_body": "FinCEN, Federal Reserve, FDIC, NCUA and OCC",
+      "source_url": "https://www.fincen.gov/news/news-releases/fincen-agencies-issue-joint-statement-suspicious-activity-report-confidentiality",
+      "source_label": "FinCEN news release, September 2, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "banks, credit unions, fintechs and payment companies with bank partners, BSA compliance and fraud teams",
+      "tags": [
+        "payments",
+        "fintech",
+        "bsa-aml",
+        "sar",
+        "fincen",
+        "occ",
+        "federal-reserve",
+        "fdic",
+        "ncua",
+        "interagency",
+        "account-closure"
+      ]
+    },
     {
       "id": "2026-09-01-sec-transfer-agent-modernization-proposal",
       "date": "2026-09-01",
@@ -48,6 +144,29 @@
         "iran",
         "federal-register",
         "comment-period"
+      ]
+    },
+    {
+      "id": "2026-09-04-house-fsc-cfpb-reform-package",
+      "date": "2026-09-04",
+      "published": "2026-09-01T00:00:00Z",
+      "title": "House Financial Services Republicans unveil the Consumer Financial Protection Accountability and Reform Act of 2026",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-09-04-house-fsc-cfpb-reform-package",
+      "issuing_body": "U.S. House Committee on Financial Services",
+      "source_url": "https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411226",
+      "source_label": "U.S. House Committee on Financial Services press release, September 1, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "payments companies, BNPL and earned wage access providers, open banking participants, nonbank lenders and any CFPB-supervised entity",
+      "tags": [
+        "fintech",
+        "payments",
+        "congress",
+        "house-financial-services",
+        "cfpb",
+        "legislation",
+        "supervision",
+        "enforcement"
       ]
     },
     {
