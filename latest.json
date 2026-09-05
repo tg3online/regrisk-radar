@@ -1,8 +1,31 @@
 {
-  "generated": "2026-09-05T09:43:17Z",
+  "generated": "2026-09-05T21:43:23Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 169,
+  "count": 170,
   "items": [
+    {
+      "id": "2026-09-04-ftc-nuvei-payment-processing-order",
+      "date": "2026-09-04",
+      "published": "2026-09-04T17:00:00Z",
+      "title": "FTC settles with payment processor Nuvei for $4.85 million; stipulated order bans processing for telemarketed tech support and bars tactics that evade bank and card-network risk monitoring",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-09-04-ftc-nuvei-payment-processing-order",
+      "issuing_body": "Federal Trade Commission",
+      "source_url": "https://www.ftc.gov/news-events/news/press-releases/2026/09/payment-processor-nuvei-must-implement-robust-merchant-screening-practices-pay-485-million-settle",
+      "source_label": "Federal Trade Commission press release, September 4, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "payment processors, merchant acquirers, ISOs and PSPs, fintech platforms that onboard merchants, telemarketing-adjacent merchants",
+      "tags": [
+        "payments",
+        "fintech",
+        "ftc",
+        "enforcement",
+        "payment-processing",
+        "merchant-screening",
+        "chargebacks",
+        "telemarketing-sales-rule"
+      ]
+    },
     {
       "id": "2026-09-05-fed-terminates-united-texas-bank-bsa-aml-order",
       "date": "2026-09-05",

@@ -5,8 +5,24 @@
     <link>https://tg3online.github.io/regrisk-radar/</link>
     <description>Daily facts-only regulatory radar — crypto, gaming, payments &amp; fintech. Verified against primary sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Sep 2026 09:43:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 21:43:23 +0000</lastBuildDate>
     <atom:link href="https://tg3online.github.io/regrisk-radar/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FTC settles with payment processor Nuvei for $4.85 million; stipulated order bans processing for telemarketed tech support and bars tactics that evade bank and card-network risk monitoring</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-09-04-ftc-nuvei-payment-processing-order</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-09-04-ftc-nuvei-payment-processing-order</guid>
+      <pubDate>Fri, 04 Sep 2026 17:00:00 +0000</pubDate>
+      <category>Federal Trade Commission</category>
+      <description>On September 4, 2026 the Federal Trade Commission announced that global payment processor Nuvei will pay $4.85 million to settle FTC charges that the firm opened and maintained payment processing accounts for merchants it knew or should have known were engaged in deception, including tech support scams. According to the FTC&#x27;s complaint, Canada-based Nuvei Corporation and its subsidiaries Nuvei International Group Limited, Nuvei Limited, SafeCharge Digital Limited and Nuvei Technologies Inc. processed more than $30 million in consumer payments for Reimage, an offshore tech support scam, from 2017 to 2023, and, through a merchant acquiring bank registered in Cyprus, furnished Reimage and other overseas schemes with accounts that enabled them to take credit card payments from U.S. cardholders. The complaint charges unfair practices in connection with payment processing in violation of the FTC Act and assisting and facilitating deceptive telemarketers in violation of the Telemarketing Sales Rule. The stipulated order, filed as Case No. 2:26-cv-06306 in the U.S. District Court for the District of Arizona, enters a $4,850,000 monetary judgment for consumer redress; bans the defendants from payment processing for any person selling technical support products or services by telemarketing or by pop-up messages relating to device security or performance, or for any person they know or have reason to know is listed on the Mastercard MATCH list for excessive chargebacks, fraud, laundering, merchant collusion or illegal transactions; prohibits false or misleading statements to obtain merchant accounts and prohibits tactics to avoid fraud and risk monitoring programs established by a financial institution, acquirer or payment system operator, including balancing sales volume among multiple merchant accounts or billing descriptors, using shell companies to apply for additional merchant accounts, submitting transactions where no goods or services are exchanged, splitting transactions, and using chargeback-suppression services without assessing the cause of the chargeback rate; and requires the defendants to screen and monitor existing and prospective clients and to conduct enhanced screening and investigation of any client whose chargeback rates exceed the limits set in the order. The Commission vote authorizing the filing was 2-0. The FTC states that defendants neither admit nor deny the allegations and that the case will be decided by the court.
+
+Primary source: Federal Trade Commission press release, September 4, 2026 — https://www.ftc.gov/news-events/news/press-releases/2026/09/payment-processor-nuvei-must-implement-robust-merchant-screening-practices-pay-485-million-settle
+
+Relevant to: payment processors, merchant acquirers, ISOs and PSPs, fintech platforms that onboard merchants, telemarketing-adjacent merchants
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
     <item>
       <title>Federal Reserve terminates United Texas Bank BSA/AML cease and desist order that cited virtual currency customers</title>
       <link>https://tg3online.github.io/regrisk-radar/#2026-09-05-fed-terminates-united-texas-bank-bsa-aml-order</link>
