@@ -8,6 +8,30 @@
   },
   "items": [
     {
+      "id": "2026-09-05-fed-terminates-united-texas-bank-bsa-aml-order",
+      "date": "2026-09-05",
+      "published": "2026-09-04T15:00:00Z",
+      "issuing_body": "Board of Governors of the Federal Reserve System",
+      "title": "Federal Reserve terminates United Texas Bank BSA/AML cease and desist order that cited virtual currency customers",
+      "facts": "On September 4, 2026 the Federal Reserve Board announced the termination of two enforcement actions, both effective September 2, 2026: a Cease and Desist Order dated August 29, 2024 against United Texas Bank, Dallas, Texas, and a Written Agreement dated July 5, 2023 with Quontic Bank Acquisition Corp. and Quontic Bank Holdings Corp., Astoria, New York. The terminated United Texas Bank order (Docket No. 24-021-B-SM; Texas Department of Banking Order No. 2024-025), issued jointly by the Board of Governors and the Texas Department of Banking, recited that a May 22, 2023 examination by the Federal Reserve Bank of Dallas and the Texas Department of Banking \"identified significant deficiencies related to foreign correspondent banking and virtual currency customers, specifically risk management and compliance with applicable laws, rules, and regulations relating to anti-money laundering,\" including the Bank Secrecy Act, 31 C.F.R. Chapter X, and the AML requirements of Regulation H, \"resulting in a compliance program violation.\" The order had required written plans covering board oversight, corporate governance, the BSA/AML compliance program, customer due diligence, suspicious activity monitoring and reporting, and compliance with Office of Foreign Assets Control regulations. The terminated Quontic written agreement (Docket No. 23-010-WA/RB-HC) was a savings and loan holding company agreement with the Federal Reserve Bank of Philadelphia covering source of strength, capital conservation, a capital plan and cash flow projections. The Federal Reserve publishes terminations as a list and states no reasons for either termination.",
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260904a.htm",
+      "source_label": "Federal Reserve Board press release, September 4, 2026 (with the terminated 2024 consent order, Docket No. 24-021-B-SM)",
+      "tags": [
+        "crypto",
+        "fintech",
+        "federal-reserve",
+        "enforcement",
+        "bsa-aml",
+        "virtual-currency",
+        "correspondent-banking",
+        "banking-access",
+        "texas"
+      ],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "banks serving digital-asset customers, crypto exchanges and payment firms seeking banking relationships, BSA/AML and sanctions compliance teams"
+    },
+    {
       "id": "2026-09-04-sec-transfer-agent-rules-federal-register",
       "date": "2026-09-04",
       "published": "2026-09-04T00:00:00Z",

@@ -6,6 +6,24 @@
   "description": "Daily facts-only regulatory radar — crypto, gaming, payments & fintech. Verified against primary sources.",
   "items": [
     {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-09-05-fed-terminates-united-texas-bank-bsa-aml-order",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-09-05-fed-terminates-united-texas-bank-bsa-aml-order",
+      "title": "Federal Reserve terminates United Texas Bank BSA/AML cease and desist order that cited virtual currency customers",
+      "content_text": "On September 4, 2026 the Federal Reserve Board announced the termination of two enforcement actions, both effective September 2, 2026: a Cease and Desist Order dated August 29, 2024 against United Texas Bank, Dallas, Texas, and a Written Agreement dated July 5, 2023 with Quontic Bank Acquisition Corp. and Quontic Bank Holdings Corp., Astoria, New York. The terminated United Texas Bank order (Docket No. 24-021-B-SM; Texas Department of Banking Order No. 2024-025), issued jointly by the Board of Governors and the Texas Department of Banking, recited that a May 22, 2023 examination by the Federal Reserve Bank of Dallas and the Texas Department of Banking \"identified significant deficiencies related to foreign correspondent banking and virtual currency customers, specifically risk management and compliance with applicable laws, rules, and regulations relating to anti-money laundering,\" including the Bank Secrecy Act, 31 C.F.R. Chapter X, and the AML requirements of Regulation H, \"resulting in a compliance program violation.\" The order had required written plans covering board oversight, corporate governance, the BSA/AML compliance program, customer due diligence, suspicious activity monitoring and reporting, and compliance with Office of Foreign Assets Control regulations. The terminated Quontic written agreement (Docket No. 23-010-WA/RB-HC) was a savings and loan holding company agreement with the Federal Reserve Bank of Philadelphia covering source of strength, capital conservation, a capital plan and cash flow projections. The Federal Reserve publishes terminations as a list and states no reasons for either termination.\n\nPrimary source: Federal Reserve Board press release, September 4, 2026 (with the terminated 2024 consent order, Docket No. 24-021-B-SM) — https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260904a.htm\n\nRelevant to: banks serving digital-asset customers, crypto exchanges and payment firms seeking banking relationships, BSA/AML and sanctions compliance teams\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-09-04T15:00:00Z",
+      "tags": [
+        "crypto",
+        "fintech",
+        "federal-reserve",
+        "enforcement",
+        "bsa-aml",
+        "virtual-currency",
+        "correspondent-banking",
+        "banking-access",
+        "texas"
+      ]
+    },
+    {
       "id": "https://tg3online.github.io/regrisk-radar/#2026-09-04-sec-transfer-agent-rules-federal-register",
       "url": "https://tg3online.github.io/regrisk-radar/#2026-09-04-sec-transfer-agent-rules-federal-register",
       "title": "SEC transfer agent proposal publishes at 91 FR 56946 with comments due November 3, 2026; text asks whether stablecoins and tokenized deposits count as funds",

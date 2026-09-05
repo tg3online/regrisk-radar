@@ -1,8 +1,32 @@
 {
-  "generated": "2026-09-04T09:45:24Z",
+  "generated": "2026-09-05T09:43:17Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 168,
+  "count": 169,
   "items": [
+    {
+      "id": "2026-09-05-fed-terminates-united-texas-bank-bsa-aml-order",
+      "date": "2026-09-05",
+      "published": "2026-09-04T15:00:00Z",
+      "title": "Federal Reserve terminates United Texas Bank BSA/AML cease and desist order that cited virtual currency customers",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-09-05-fed-terminates-united-texas-bank-bsa-aml-order",
+      "issuing_body": "Board of Governors of the Federal Reserve System",
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260904a.htm",
+      "source_label": "Federal Reserve Board press release, September 4, 2026 (with the terminated 2024 consent order, Docket No. 24-021-B-SM)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "banks serving digital-asset customers, crypto exchanges and payment firms seeking banking relationships, BSA/AML and sanctions compliance teams",
+      "tags": [
+        "crypto",
+        "fintech",
+        "federal-reserve",
+        "enforcement",
+        "bsa-aml",
+        "virtual-currency",
+        "correspondent-banking",
+        "banking-access",
+        "texas"
+      ]
+    },
     {
       "id": "2026-09-04-sec-transfer-agent-rules-federal-register",
       "date": "2026-09-04",
