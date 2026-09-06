@@ -5,7 +5,7 @@
     <link>https://tg3online.github.io/regrisk-radar/</link>
     <description>Daily facts-only regulatory radar — crypto, gaming, payments &amp; fintech. Verified against primary sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Sep 2026 21:43:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 21:52:32 +0000</lastBuildDate>
     <atom:link href="https://tg3online.github.io/regrisk-radar/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>FTC settles with payment processor Nuvei for $4.85 million; stipulated order bans processing for telemarketed tech support and bars tactics that evade bank and card-network risk monitoring</title>
@@ -56,6 +56,22 @@ For operator-impact analysis and watchlist implications, join RegRisk Radar. htt
 RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
     </item>
     <item>
+      <title>Treasury designates Turkiye-based Golden Global Bank and two subsidiaries under E.O. 13902, and issues Iran General License CC</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-09-06-ofac-golden-global-bank-iran-turkiye</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-09-06-ofac-golden-global-bank-iran-turkiye</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+      <category>U.S. Department of the Treasury, Office of Foreign Assets Control</category>
+      <description>On September 4, 2026, the Office of Foreign Assets Control designated Turkiye-based Golden Global Yatirim Bankasi Anonim Sirketi and its two Istanbul-based subsidiaries, Golden Global Varlik Kiralama Anonim Sirketi and Golden Global Portfoy Yonetimi Anonim Sirketi, pursuant to Executive Order 13902. Treasury&#x27;s release states the bank and its subsidiaries &quot;have facilitated tens of millions of dollars&#x27; worth of transactions for the Islamic Revolutionary Guard Corps-Qods Force (IRGC-QF) and provide the Iranian regime with key correspondent banking access that allows it to move its funds internationally,&quot; and that Operation Economic Outcast &quot;will continue to identify these banks and remove their access to the U.S. dollar.&quot; All property and interests in property of the designated persons in the United States or in the possession or control of U.S. persons are blocked and must be reported to OFAC, and entities owned 50 percent or more by blocked persons are also blocked. The release further states that engaging in certain transactions involving the persons designated &quot;may risk the imposition of secondary sanctions on participating foreign financial institutions.&quot; OFAC concurrently issued Iran General License CC, &quot;Authorizing the Wind Down of Transactions Involving Certain Persons Blocked on September 4, 2026.&quot;
+
+Primary source: U.S. Department of the Treasury press release, September 4, 2026 — https://home.treasury.gov/news/press-releases/treasury-severs-iranian-regime-s-financial-lifelines-turkiye
+
+Relevant to: banks and payment processors with correspondent banking exposure, money services businesses, sanctions screening and compliance teams
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+    <item>
       <title>FinCEN issues alert and trend analysis on digital asset investment scams run by overseas scam centers, citing roughly $12.7 billion across 33,904 BSA reports</title>
       <link>https://tg3online.github.io/regrisk-radar/#2026-09-04-fincen-digital-asset-scam-center-alert</link>
       <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-09-04-fincen-digital-asset-scam-center-alert</guid>
@@ -66,6 +82,22 @@ RegRisk Radar is regulatory-risk intelligence provided for general informational
 Primary source: FinCEN news release, September 3, 2026 — https://www.fincen.gov/news/news-releases/fincen-identifies-nearly-13-billion-linked-suspected-digital-asset-scams
 
 Relevant to: digital asset exchanges, stablecoin issuers, money services businesses, payment processors, casinos, BSA compliance teams
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+    <item>
+      <title>House Financial Services Committee recap of its September 2 hearing quotes Circle&#x27;s president on the CLARITY Act and &quot;the various Senate texts now building on it&quot;</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-09-06-hfsc-clarity-act-hearing-recap</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-09-06-hfsc-clarity-act-hearing-recap</guid>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+      <category>U.S. House Committee on Financial Services</category>
+      <description>On September 3, 2026, the House Committee on Financial Services published a recap of its September 2, 2026 full-committee hearing. The recap quotes witness Heath Tarbert, President of Circle: &quot;The House-passed CLARITY Act, and the various Senate texts now building on it, pursue several common objectives. They allocate regulatory jurisdiction between the securities and commodities regulators along a line that tracks how these instruments actually function. They create a viable, onshore regulatory framework for covered intermediaries-with customer protection, custody, and conflict-of-interest requirements attached. And they extend established illicit-finance authorities to covered intermediaries and activities.&quot; It also quotes New York Stock Exchange President Lynn Martin saying &quot;We can bring clarity and certainty to the digital asset economy,&quot; and Subcommittee on Oversight and Investigations Chairman Dan Meuser listing the GENIUS Act among legislation the Committee has advanced.
+
+Primary source: House Financial Services Committee press release, September 3, 2026 — https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411230
+
+Relevant to: digital asset exchanges and intermediaries, stablecoin issuers, custodians, fintech policy and government affairs teams
 
 For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
 
@@ -98,6 +130,22 @@ RegRisk Radar is regulatory-risk intelligence provided for general informational
 Primary source: FinCEN news release, September 2, 2026 — https://www.fincen.gov/news/news-releases/fincen-agencies-issue-joint-statement-suspicious-activity-report-confidentiality
 
 Relevant to: banks, credit unions, fintechs and payment companies with bank partners, BSA compliance and fraud teams
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+    <item>
+      <title>OFAC restates the September 30, 2026 deadline for the Annual Report of Blocked Property and warns that missing it &quot;may lead to an enforcement referral&quot;</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-09-06-ofac-blocked-property-annual-report-deadline</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-09-06-ofac-blocked-property-annual-report-deadline</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <category>U.S. Department of the Treasury, Office of Foreign Assets Control</category>
+      <description>On September 2, 2026, the Office of Foreign Assets Control published a notice restating that U.S. persons holding blocked property as of June 30, 2026 must file an Annual Report of Blocked Property &quot;no later than September 30, 2026,&quot; and that &quot;Failure to file the ARBP by September 30 may lead to an enforcement referral.&quot; The notice points filers to OFAC&#x27;s Guidance on Filing the 2026 Annual Report of Blocked Property, and restates a reminder OFAC first issued on July 1, 2026. In the same notice OFAC issued Venezuela-related General Licenses 51D, 54C and 55A and amended Venezuela-related Frequently Asked Question 1247.
+
+Primary source: OFAC Recent Actions notice, September 2, 2026 — https://ofac.treasury.gov/recent-actions/20260902
+
+Relevant to: digital asset exchanges and custodians, payment processors, money services businesses, and any U.S. person holding blocked property
 
 For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
 
