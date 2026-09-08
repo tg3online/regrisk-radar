@@ -5,7 +5,24 @@
   <id>https://tg3online.github.io/regrisk-radar/</id>
   <link href="https://tg3online.github.io/regrisk-radar/" />
   <link href="https://tg3online.github.io/regrisk-radar/atom.xml" rel="self" type="application/atom+xml" />
-  <updated>2026-09-06T21:52:32Z</updated>
+  <updated>2026-09-08T21:49:45Z</updated>
+  <entry>
+    <title>FinCEN issues Alert asking financial institutions to report procurement networks supporting Iran&#x27;s commercial aviation industry</title>
+    <id>https://tg3online.github.io/regrisk-radar/#2026-09-08-fincen-alert-iran-commercial-aviation-procurement</id>
+    <link href="https://tg3online.github.io/regrisk-radar/#2026-09-08-fincen-alert-iran-commercial-aviation-procurement" rel="alternate" />
+    <updated>2026-09-08T21:41:56Z</updated>
+    <published>2026-09-08T21:41:56Z</published>
+    <category term="U.S. Department of the Treasury / Financial Crimes Enforcement Network (FinCEN)" />
+    <content type="text">On September 8, 2026, the Financial Crimes Enforcement Network (FinCEN) issued an Alert to assist financial institutions in identifying and reporting procurement networks supporting Iran&#x27;s aviation industry, stating that the Alert supports Operation Economic Outcast. FinCEN&#x27;s release is categorised for casinos, depository institutions, the insurance industry, money services businesses, mortgage companies and brokers, the precious metals and jewelry industry, and securities and futures firms. According to Treasury, the Alert contains red flags and typologies to help financial institutions detect, prevent, and report suspicious activity potentially involving Iran&#x27;s procurement of aircraft and aircraft parts, including when Iran&#x27;s direct involvement is not readily identifiable in transaction details, and notes that front companies posing as technology, aviation, or logistics companies in third-country jurisdictions purchase aircraft components and related dual-use items for subsequent export to Iran. Treasury states that FinCEN encourages U.S. financial institutions to remain vigilant for suspicious activity connected to Iranian aviation sector procurement networks and to report it to FinCEN. Concurrently, Treasury&#x27;s Office of Foreign Assets Control sanctioned 36 entities and individuals across multiple jurisdictions for supporting Iran&#x27;s aviation sector.
+
+Primary source: FinCEN news release, September 8, 2026 — https://www.fincen.gov/news/news-releases/fincen-issues-alert-counter-iranian-procurement-efforts-its-commercial-aviation
+
+Relevant to: money services businesses, payment processors, casinos and gaming operators, depository institutions, securities and futures firms
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</content>
+  </entry>
   <entry>
     <title>FTC settles with payment processor Nuvei for $4.85 million; stipulated order bans processing for telemarketed tech support and bars tactics that evade bank and card-network risk monitoring</title>
     <id>https://tg3online.github.io/regrisk-radar/#2026-09-04-ftc-nuvei-payment-processing-order</id>
