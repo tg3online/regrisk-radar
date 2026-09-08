@@ -1,0 +1,28 @@
+{
+  "_note": "RegRisk Desk nightly drop file, 2026-09-08 evening run. One entry. Facts-only, sanitized, no gated fields.",
+  "entries": [
+    {
+      "id": "2026-09-08-fincen-alert-iran-commercial-aviation-procurement",
+      "date": "2026-09-08",
+      "published": "2026-09-08T21:41:56Z",
+      "issuing_body": "U.S. Department of the Treasury / Financial Crimes Enforcement Network (FinCEN)",
+      "title": "FinCEN issues Alert asking financial institutions to report procurement networks supporting Iran's commercial aviation industry",
+      "facts": "On September 8, 2026, the Financial Crimes Enforcement Network (FinCEN) issued an Alert to assist financial institutions in identifying and reporting procurement networks supporting Iran's aviation industry, stating that the Alert supports Operation Economic Outcast. FinCEN's release is categorised for casinos, depository institutions, the insurance industry, money services businesses, mortgage companies and brokers, the precious metals and jewelry industry, and securities and futures firms. According to Treasury, the Alert contains red flags and typologies to help financial institutions detect, prevent, and report suspicious activity potentially involving Iran's procurement of aircraft and aircraft parts, including when Iran's direct involvement is not readily identifiable in transaction details, and notes that front companies posing as technology, aviation, or logistics companies in third-country jurisdictions purchase aircraft components and related dual-use items for subsequent export to Iran. Treasury states that FinCEN encourages U.S. financial institutions to remain vigilant for suspicious activity connected to Iranian aviation sector procurement networks and to report it to FinCEN. Concurrently, Treasury's Office of Foreign Assets Control sanctioned 36 entities and individuals across multiple jurisdictions for supporting Iran's aviation sector.",
+      "source_url": "https://www.fincen.gov/news/news-releases/fincen-issues-alert-counter-iranian-procurement-efforts-its-commercial-aviation",
+      "source_label": "FinCEN news release, September 8, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "money services businesses, payment processors, casinos and gaming operators, depository institutions, securities and futures firms",
+      "tags": [
+        "fincen",
+        "bsa-aml",
+        "sar-reporting",
+        "sanctions-evasion",
+        "iran",
+        "payments",
+        "msb",
+        "casinos"
+      ]
+    }
+  ]
+}
