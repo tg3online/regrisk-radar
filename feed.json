@@ -6,6 +6,68 @@
   "description": "Daily facts-only regulatory radar — crypto, gaming, payments & fintech. Verified against primary sources.",
   "items": [
     {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-09-11-interagency-proposed-third-party-risk-management-guidance",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-09-11-interagency-proposed-third-party-risk-management-guidance",
+      "title": "Bank regulators and NCUA propose third-party risk management guidance to replace the 2023 interagency guidance",
+      "content_text": "The FDIC, the Federal Reserve Board, the National Credit Union Administration and the Office of the Comptroller of the Currency announced on September 11, 2026 that they \"requested comment on proposed guidance to assist financial institutions with managing risks associated with third-party relationships.\" The joint release states the proposal \"focuses on a principles-based approach and, as with all supervisory guidance, is non-binding,\" that \"When finalized, the federal bank regulatory agencies plan to rescind existing third-party risk management guidance and replace it with the finalized guidance,\" and that \"Comments on the proposed guidance are due 60 days after publication in the Federal Register.\" The proposed guidance document states that it \"would also encourage responsible innovation, consistent with Executive Order 14405, by emphasizing a risk-based and tailored approach to third-party risk management and removing broad-based and overly prescriptive language from the 2023 Guidance that may unduly impede fintechs from entering partnerships with banking organizations.\" The agencies also issued a statement on community banks' engagement with core service providers, and the Federal Reserve Board separately requested comment on a proposed third-party risk management guide for Federal Reserve-supervised community banks.\n\nPrimary source: OCC news release (joint interagency, NR 2026-77) — https://www.occ.gov/news-issuances/news-releases/2026/nr-ia-2026-77.html\n\nRelevant to: banks and credit unions with fintech partners, banking-as-a-service and embedded-finance providers, payments programs, vendor and third-party risk teams\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-09-11T21:44:18Z",
+      "tags": [
+        "occ",
+        "fdic",
+        "federal-reserve",
+        "ncua",
+        "third-party-risk-management",
+        "bank-fintech-partnerships",
+        "proposed-guidance",
+        "fintech"
+      ]
+    },
+    {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-09-11-sec-6g-notice-registrations-coinbase-derivatives-kalshiex-bitnomial",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-09-11-sec-6g-notice-registrations-coinbase-derivatives-kalshiex-bitnomial",
+      "title": "SEC acknowledges Coinbase Derivatives, KalshiEX and Bitnomial notice registrations as national securities exchanges for security futures",
+      "content_text": "Three SEC notices published in the Federal Register on September 11, 2026 acknowledge Form 1-N filings under Section 6(g) of the Securities Exchange Act of 1934, which allows a CFTC-designated contract market to register as a national securities exchange solely for the purpose of trading security futures products by filing a written notice. According to the notices, Coinbase Derivatives, LLC filed its Form 1-N on September 1, 2026 (Release No. 34-106295, File No. 10-252), KalshiEX LLC filed on September 3, 2026 (Release No. 34-106296, File No. 10-253), and Bitnomial Exchange, LLC filed on September 4, 2026 (Release No. 34-106297, File No. 10-254). Each notice states that \"Pursuant to Section 6(g)(3) of the Exchange Act, the Commission hereby acknowledges receipt of the Form 1-N\" and that the registration is effective contemporaneously with the submission of the Form 1-N.\n\nPrimary source: Federal Register, SEC notices (FR Docs. 2026-18538, 2026-18539, 2026-18540) — https://www.federalregister.gov/documents/2026/09/11/2026-18538/registration-as-a-national-securities-exchange-coinbase-derivatives-llc\n\nRelevant to: crypto derivatives exchanges, event-contract platforms, futures commission merchants and broker-dealers, security futures market participants\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-09-11T21:44:18Z",
+      "tags": [
+        "sec",
+        "cftc",
+        "security-futures",
+        "section-6g",
+        "national-securities-exchange",
+        "crypto-derivatives",
+        "event-contracts"
+      ]
+    },
+    {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-09-11-cboe-trading-platform-definition-blockchain-tokenized-venues",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-09-11-cboe-trading-platform-definition-blockchain-tokenized-venues",
+      "title": "Four Cboe exchanges extend market data fee definition of \"Trading Platform\" to blockchain-based and tokenized venues",
+      "content_text": "SEC notices placed on Federal Register public inspection on September 11, 2026, and scheduled for publication on September 14, 2026, cover immediately effective fee schedule changes by Cboe BZX Exchange (SR-CboeBZX-2026-072), Cboe BYX Exchange (SR-CboeBYX-2026-031), Cboe EDGX Exchange (SR-CboeEDGX-2026-058) and Cboe EDGA Exchange (SR-CboeEDGA-2026-027). Each adds to the definition of \"Trading Platform\" the words \"a similar order-matching execution venue or decentralized platform (including blockchain-based or tokenized environments).\" The existing definition covers execution platforms operated as or by a registered national securities exchange, an alternative trading system or an electronic communications network. The Cboe BZX notice states the filing was made September 1, 2026, that \"a decentralized or tokenized order-matching venue — may not clearly fall within the current enumerated categories,\" and that on BZX a Trading Platform is subject to a fee of $5,000 per month for BZX Depth for Non-Display Usage, compared with $2,000 per month for a non-Trading Platform.\n\nPrimary source: Federal Register public inspection, SEC notice (SR-CboeBZX-2026-072) — https://public-inspection.federalregister.gov/2026-18655.pdf\n\nRelevant to: tokenized securities trading venues, decentralized trading platforms, ATS operators, market data licensees\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-09-11T21:44:18Z",
+      "tags": [
+        "sec",
+        "sro-rule-change",
+        "cboe",
+        "market-data-fees",
+        "tokenization",
+        "blockchain"
+      ]
+    },
+    {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-09-11-sec-vaneck-jitosol-etf-longer-period-designation",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-09-11-sec-vaneck-jitosol-etf-longer-period-designation",
+      "title": "SEC sets November 15, 2026 decision date on Nasdaq proposal to list the VanEck JitoSOL ETF",
+      "content_text": "An SEC notice placed on Federal Register public inspection on September 11, 2026, and scheduled for publication on September 14, 2026, designates a longer period for Commission action on proceedings to determine whether to approve or disapprove a Nasdaq proposed rule change to list and trade shares of the VanEck JitoSOL ETF under Nasdaq Rule 5711(d) (SR-NASDAQ-2026-016, Release No. 34-106309). The notice states the proposal was filed on March 10, 2026, that \"The Commission has received no comment letters on the proposed rule change,\" and that the Commission is \"designating November 15, 2026, as the date by which the Commission shall either approve or disapprove\" the proposal. Earlier Federal Register documents in the matter are the notice of filing (March 20, 2026), a notice of designation of a longer period (May 6, 2026) and an order instituting proceedings (June 23, 2026).\n\nPrimary source: Federal Register public inspection, SEC notice (SR-NASDAQ-2026-016) — https://public-inspection.federalregister.gov/2026-18661.pdf\n\nRelevant to: crypto ETP issuers and sponsors, listing exchanges, authorized participants, asset managers\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-09-11T21:44:18Z",
+      "tags": [
+        "sec",
+        "sro-rule-change",
+        "crypto-etp",
+        "nasdaq",
+        "approval-deadline"
+      ]
+    },
+    {
       "id": "https://tg3online.github.io/regrisk-radar/#2026-09-10-ofac-iran-financial-network-licensing-policy",
       "url": "https://tg3online.github.io/regrisk-radar/#2026-09-10-ofac-iran-financial-network-licensing-policy",
       "title": "OFAC designates an Iran- and Hizballah-linked financial network including a Dubai hawala and a Lebanese exchange house, publishes a new Iran licensing policy and announces a $1,427,230 settlement",

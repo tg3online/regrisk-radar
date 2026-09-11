@@ -1,8 +1,94 @@
 {
-  "generated": "2026-09-11T09:51:45Z",
+  "generated": "2026-09-11T21:51:53Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 181,
+  "count": 185,
   "items": [
+    {
+      "id": "2026-09-11-interagency-proposed-third-party-risk-management-guidance",
+      "date": "2026-09-11",
+      "published": "2026-09-11T21:44:18Z",
+      "title": "Bank regulators and NCUA propose third-party risk management guidance to replace the 2023 interagency guidance",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-09-11-interagency-proposed-third-party-risk-management-guidance",
+      "issuing_body": "FDIC, Federal Reserve Board, NCUA and Office of the Comptroller of the Currency",
+      "source_url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-ia-2026-77.html",
+      "source_label": "OCC news release (joint interagency, NR 2026-77)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "banks and credit unions with fintech partners, banking-as-a-service and embedded-finance providers, payments programs, vendor and third-party risk teams",
+      "tags": [
+        "occ",
+        "fdic",
+        "federal-reserve",
+        "ncua",
+        "third-party-risk-management",
+        "bank-fintech-partnerships",
+        "proposed-guidance",
+        "fintech"
+      ]
+    },
+    {
+      "id": "2026-09-11-sec-6g-notice-registrations-coinbase-derivatives-kalshiex-bitnomial",
+      "date": "2026-09-11",
+      "published": "2026-09-11T21:44:18Z",
+      "title": "SEC acknowledges Coinbase Derivatives, KalshiEX and Bitnomial notice registrations as national securities exchanges for security futures",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-09-11-sec-6g-notice-registrations-coinbase-derivatives-kalshiex-bitnomial",
+      "issuing_body": "U.S. Securities and Exchange Commission",
+      "source_url": "https://www.federalregister.gov/documents/2026/09/11/2026-18538/registration-as-a-national-securities-exchange-coinbase-derivatives-llc",
+      "source_label": "Federal Register, SEC notices (FR Docs. 2026-18538, 2026-18539, 2026-18540)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "crypto derivatives exchanges, event-contract platforms, futures commission merchants and broker-dealers, security futures market participants",
+      "tags": [
+        "sec",
+        "cftc",
+        "security-futures",
+        "section-6g",
+        "national-securities-exchange",
+        "crypto-derivatives",
+        "event-contracts"
+      ]
+    },
+    {
+      "id": "2026-09-11-cboe-trading-platform-definition-blockchain-tokenized-venues",
+      "date": "2026-09-11",
+      "published": "2026-09-11T21:44:18Z",
+      "title": "Four Cboe exchanges extend market data fee definition of \"Trading Platform\" to blockchain-based and tokenized venues",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-09-11-cboe-trading-platform-definition-blockchain-tokenized-venues",
+      "issuing_body": "U.S. Securities and Exchange Commission (Cboe BZX, BYX, EDGX and EDGA rule filings)",
+      "source_url": "https://public-inspection.federalregister.gov/2026-18655.pdf",
+      "source_label": "Federal Register public inspection, SEC notice (SR-CboeBZX-2026-072)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "tokenized securities trading venues, decentralized trading platforms, ATS operators, market data licensees",
+      "tags": [
+        "sec",
+        "sro-rule-change",
+        "cboe",
+        "market-data-fees",
+        "tokenization",
+        "blockchain"
+      ]
+    },
+    {
+      "id": "2026-09-11-sec-vaneck-jitosol-etf-longer-period-designation",
+      "date": "2026-09-11",
+      "published": "2026-09-11T21:44:18Z",
+      "title": "SEC sets November 15, 2026 decision date on Nasdaq proposal to list the VanEck JitoSOL ETF",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-09-11-sec-vaneck-jitosol-etf-longer-period-designation",
+      "issuing_body": "U.S. Securities and Exchange Commission",
+      "source_url": "https://public-inspection.federalregister.gov/2026-18661.pdf",
+      "source_label": "Federal Register public inspection, SEC notice (SR-NASDAQ-2026-016)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "crypto ETP issuers and sponsors, listing exchanges, authorized participants, asset managers",
+      "tags": [
+        "sec",
+        "sro-rule-change",
+        "crypto-etp",
+        "nasdaq",
+        "approval-deadline"
+      ]
+    },
     {
       "id": "2026-09-10-ofac-iran-financial-network-licensing-policy",
       "date": "2026-09-10",
