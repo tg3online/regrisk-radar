@@ -5,8 +5,104 @@
     <link>https://tg3online.github.io/regrisk-radar/</link>
     <description>Daily facts-only regulatory radar — crypto, gaming, payments &amp; fintech. Verified against primary sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Sep 2026 21:49:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 09:51:45 +0000</lastBuildDate>
     <atom:link href="https://tg3online.github.io/regrisk-radar/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OFAC designates an Iran- and Hizballah-linked financial network including a Dubai hawala and a Lebanese exchange house, publishes a new Iran licensing policy and announces a $1,427,230 settlement</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-09-10-ofac-iran-financial-network-licensing-policy</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-09-10-ofac-iran-financial-network-licensing-policy</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+      <category>U.S. Department of the Treasury, Office of Foreign Assets Control</category>
+      <description>Treasury announced on September 10, 2026 designations under Operation Economic Outcast covering Kata&#x27;ib Hizballah commanders and members, Popular Mobilization Forces-related officials and entities, an Iranian sanctions-evasion network and a Hizballah financial network. Among the designated entities the release names Shams &amp; Bahr Trading Company L.L.C., described as a Dubai-based hawala, together with Yousef Ibrahim Mansour and Partner for Exchange and Gold Pro SARL in Lebanon, and Al-Brouj For General Contracting Company Ltd and Ain Al-Iraq For Protecting Technology and Audio, Visual, and Communications Solutions Company Ltd in Iraq. The release states that &quot;OFAC published a new Iran Statement of Licensing Policy&quot; establishing &quot;a presumption of denial except as required by law or in certain circumstances, such as risk to life, limb, or environmental safety,&quot; that OFAC has begun denying most outstanding Iran-related license requests, and that this approach will be maintained &quot;until Iran changes its behavior.&quot; The release further states that an individual agreed to pay $1,427,230 to resolve potential civil liability in connection with providing management consulting and advisory services to an Iranian software company, receiving Iranian dividends in U.S. accounts and acquiring Iranian real property, conduct the release describes as &quot;egregious and not voluntarily self-disclosed.&quot; The corresponding OFAC recent-actions entry lists 15 designated individuals and 5 designated entities.
+
+Primary source: U.S. Department of the Treasury press release — https://home.treasury.gov/news/press-releases/sb0626
+
+Relevant to: money services businesses, correspondent banks, payments firms, sanctions screening and licensing teams
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+    <item>
+      <title>NYDFS issues guidance on risk assessments under the Part 500 cybersecurity regulation, stating it creates no new obligations</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-09-10-nydfs-part-500-risk-assessment-guidance</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-09-10-nydfs-part-500-risk-assessment-guidance</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+      <category>New York State Department of Financial Services</category>
+      <description>NYDFS issued an industry letter dated September 10, 2026 stating that it is issued to &quot;clarify regulatory requirements and highlight best practices when designing, conducting, and updating Risk Assessments&quot; under the Department&#x27;s cybersecurity regulation, 23 NYCRR Part 500. The letter addresses governance and oversight; defined methodologies; scope and coverage including assets, emerging risks, third-party relationships and concentration risk; documentation and traceability; and integration into the broader cybersecurity program. It interprets provisions including Section 500.2 (cybersecurity program requirements based on the risk assessment), Section 500.4 (CISO reporting and board oversight), Section 500.9 (risk assessment procedures and updates) and Section 500.13 (asset inventory). The letter states that &quot;This Guidance does not create new obligations.&quot; It applies to Covered Entities, defined in Part 500 as any person operating under or required to operate under a license, registration, charter, certificate, permit, accreditation or similar authorization under New York&#x27;s Banking Law, Insurance Law or Financial Services Law, and references the regulation&#x27;s existing requirement that the risk assessment be reviewed annually and updated whenever a change in the Covered Entity&#x27;s business or technology causes a material change to its cyber risk. The letter states no new deadline.
+
+Primary source: NYDFS industry letter — https://www.dfs.ny.gov/industry_guidance/industry_letters/il20260910-cyber-risk-assessment
+
+Relevant to: NYDFS-licensed financial services entities (Part 500 Covered Entities), their CISO, compliance and third-party risk functions
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+    <item>
+      <title>OFAC designates Xinbi Guarantee and two supporting technology companies, adding 51 Tron digital currency addresses to the SDN List</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-09-09-ofac-xinbi-guarantee-tco-designation</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-09-09-ofac-xinbi-guarantee-tco-designation</guid>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <category>U.S. Department of the Treasury, Office of Foreign Assets Control</category>
+      <description>Treasury announced on September 9, 2026 that OFAC designated Xinbi Guarantee, which the press release describes as &quot;a Chinese-language platform used extensively by Chinese cybercriminals that operates a large illicit online marketplace&quot; and as a platform that &quot;serves as a central node connecting transnational criminal syndicates, including scam center operators, with merchants.&quot; The release states that the platform &quot;processed the equivalent of over $24 billion in digital assets and fiat currency through its marketplace,&quot; that it &quot;provides scam operators, money laundering networks, and cybercrime syndicates with escrow services through its platform,&quot; and that it launched &quot;XinbiPay, also referred to as NewPay wallet, a cryptocurrency payment and digital wallet application.&quot; The release also states the platform &quot;has reportedly been used by North Korean hackers and by several OFAC designated entities.&quot; The corresponding OFAC recent-actions entry adds Xinbi Guarantee (Burma; Thailand; Laos) with 51 listed Tron (TRX) digital currency addresses, together with Anwen Technology Co., Ltd. (Cambodia) and Safew Technology Co., Ltd. (Singapore), each designated under the Transnational Criminal Organizations program and identified as linked to Xinbi Guarantee, and Los Tigueriones (Ecuador; Peru) under counter-terrorism authorities. The same action issued new Frequently Asked Questions 1269 and 1270 and amended FAQs 5, 13, 51, 58, 59 and 74 through 78.
+
+Primary source: U.S. Department of the Treasury press release — https://home.treasury.gov/news/press-releases/sb0624
+
+Relevant to: crypto exchanges, wallet and custody providers, payment processors, sanctions screening and compliance teams
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+    <item>
+      <title>New York Attorney General secures $8 million from VGW Holdings over online sweepstakes casino operations</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-09-09-ny-oag-vgw-sweepstakes-casino-settlement</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-09-09-ny-oag-vgw-sweepstakes-casino-settlement</guid>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <category>New York State Office of the Attorney General</category>
+      <description>The New York Attorney General announced on September 9, 2026 that VGW Holdings Pty. Ltd. and its affiliates will pay $8 million in disgorgement, penalties and costs over what the press release describes as &quot;unlawfully running online gambling platforms in New York.&quot; The release names Chumba Casino, Global Poker and LuckyLand Slots as the platforms concerned. It states that although the operators claimed sweeps coins were provided for free, players &quot;could obtain sweeps coins the same way one might purchase chips in a casino, receiving approximately one coin for every dollar spent.&quot; The release states that the operators ended the sale of sweepstakes coins in New York following cease and desist letters, and cites New York law prohibiting online platforms from offering gambling that involves risking something of value, including redeemable virtual coins. Attorney General Letitia James is quoted stating that &quot;Online sweepstakes casinos like Chumba Casino, Global Poker, and Luckyland Slots posed a dangerous threat to New Yorkers and their financial and mental health.&quot;
+
+Primary source: New York Attorney General press release — https://ag.ny.gov/press-release/2026/attorney-general-james-secures-8-million-leading-operator-illegal-online
+
+Relevant to: sweepstakes and social-casino operators, online gaming platforms, and the payment, geolocation and affiliate vendors serving them
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+    <item>
+      <title>SEC grants accelerated approval to a Nasdaq Texas rule change defining &quot;digital commodity&quot; and allowing a 15 percent buffer in Commodity-Based Trust Shares</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-09-09-sec-nasdaq-texas-digital-commodity-trust-shares</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-09-09-sec-nasdaq-texas-digital-commodity-trust-shares</guid>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <category>U.S. Securities and Exchange Commission</category>
+      <description>A Federal Register notice published September 9, 2026 covers SEC file number SR-NasdaqTX-2026-039, a Nasdaq Texas, LLC proposed rule change amending Rule 5711(d) (Commodity-Based Trust Shares), filed with notice and an order granting accelerated approval. The notice states the change allows &quot;a buffer of up to 15% of the net asset value... to consist of certain assets that do not meet the eligibility criteria under the generic listing standards,&quot; including digital commodities that do not meet the criteria and securities outside the requirements. It adds a definition of &quot;digital commodity&quot; as &quot;a commodity that is a digital asset and is intrinsically linked to and derives its value from the programmatic operation of a functional crypto system,&quot; and permits actively managed strategies for series of Commodity-Based Trust Shares previously limited to passive index-tracking approaches. Comments are stated as due September 30, 2026.
+
+Primary source: Federal Register, SEC notice and order (SR-NasdaqTX-2026-039) — https://www.federalregister.gov/documents/2026/09/09/2026-18291/self-regulatory-organizations-nasdaq-texas-llc-notice-of-filing-and-order-granting-accelerated
+
+Relevant to: crypto ETP issuers and sponsors, listing venues, authorized participants, asset managers
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+    <item>
+      <title>FINRA files a rule change extending temporary holds to 145 business days, adding a 10-business-day fraud delay, and covering crypto assets including GENIUS Act payment stablecoins</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-09-09-finra-temporary-holds-crypto-assets-rule-filing</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-09-09-finra-temporary-holds-crypto-assets-rule-filing</guid>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <category>U.S. Securities and Exchange Commission / Financial Industry Regulatory Authority</category>
+      <description>A Federal Register notice published September 9, 2026 covers SEC file number SR-FINRA-2026-018, a FINRA proposed rule change to amend Rules 0150, 2165 and 4512 and to adopt new Rule 2166. As described in the notice, the change to Rule 2165 extends the maximum temporary hold period for suspected financial exploitation of specified adults from 55 to 145 business days, in three 30-business-day increments with additional safeguards and documentation requirements. New Rule 2166 permits a member firm to delay a transaction or disbursement for up to 10 business days where it has a reasonable belief of fraud targeting any customer regardless of age. Rule 4512 permits &quot;emergency contact&quot; as an alternative term to &quot;trusted contact person&quot; and permits a customer to designate a single trusted contact across accounts, and Rule 0150 is amended to include new Rule 2166 in the exempted-securities framework. The notice states that &quot;FINRA recognizes that member firms may hold crypto assets for customers, such as payment stablecoins regulated by the GENIUS Act&quot; and that terminology is accordingly changed from &quot;funds or securities&quot; to &quot;funds, securities, or other assets.&quot; Comments are stated as due September 30, 2026.
+
+Primary source: Federal Register, SEC notice (SR-FINRA-2026-018) — https://www.federalregister.gov/documents/2026/09/09/2026-18293/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-of-a
+
+Relevant to: broker-dealers, firms custodying crypto assets or payment stablecoins, fraud prevention and supervision teams
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
     <item>
       <title>FinCEN issues Alert asking financial institutions to report procurement networks supporting Iran&#x27;s commercial aviation industry</title>
       <link>https://tg3online.github.io/regrisk-radar/#2026-09-08-fincen-alert-iran-commercial-aviation-procurement</link>
@@ -18,6 +114,22 @@
 Primary source: FinCEN news release, September 8, 2026 — https://www.fincen.gov/news/news-releases/fincen-issues-alert-counter-iranian-procurement-efforts-its-commercial-aviation
 
 Relevant to: money services businesses, payment processors, casinos and gaming operators, depository institutions, securities and futures firms
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+    <item>
+      <title>FTC action against payment processor Humboldt Merchant Services carries a $12 million judgment and a proposed order barring credit card laundering</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-09-08-ftc-humboldt-merchant-services-payment-processing</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-09-08-ftc-humboldt-merchant-services-payment-processing</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+      <category>Federal Trade Commission</category>
+      <description>The FTC announced on September 8, 2026 an action against payment processor Humboldt Merchant Services, stating that the company &quot;processed payments for more than 1,000 merchants that were shell entities&quot; serving as fronts for fraudulent companies. According to the release, Humboldt opened accounts &quot;despite red flags indicating the merchants were shells,&quot; with chargebacks &quot;almost 10 times higher than&quot; industry standards, processed payments for entities it &quot;knew, or consciously avoided knowing, were shell companies,&quot; and sought to increase fraudulent transaction volume by placing sham accounts on &quot;a lower-risk bank &#x27;BIN&#x27;&quot; to improve approval rates. The release states the matter carries a $12 million judgment for consumer redress and that the proposed order prohibits Humboldt from engaging in &quot;credit card laundering,&quot; from processing payments for straw companies, MATCH-listed merchants, law enforcement targets and e-commerce entities using only third-party mailbox addresses, from providing &quot;false or misleading information&quot; in merchant applications, and from &quot;tactics to avoid fraud and risk monitoring, including load balancing.&quot; The release states the Commission vote was 2-0 and that the matter was filed in the U.S. District Court for the Eastern District of Michigan.
+
+Primary source: Federal Trade Commission press release — https://www.ftc.gov/news-events/news/press-releases/2026/09/ftc-takes-action-against-payment-processor-humboldt-merchant-services-knowingly-facilitating-payment
+
+Relevant to: payment processors, acquiring banks, payment facilitators, merchant underwriting and risk teams
 
 For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
 

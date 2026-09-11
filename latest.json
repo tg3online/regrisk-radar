@@ -1,8 +1,145 @@
 {
-  "generated": "2026-09-08T21:49:45Z",
+  "generated": "2026-09-11T09:51:45Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 174,
+  "count": 181,
   "items": [
+    {
+      "id": "2026-09-10-ofac-iran-financial-network-licensing-policy",
+      "date": "2026-09-10",
+      "published": "2026-09-10T00:00:00Z",
+      "title": "OFAC designates an Iran- and Hizballah-linked financial network including a Dubai hawala and a Lebanese exchange house, publishes a new Iran licensing policy and announces a $1,427,230 settlement",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-09-10-ofac-iran-financial-network-licensing-policy",
+      "issuing_body": "U.S. Department of the Treasury, Office of Foreign Assets Control",
+      "source_url": "https://home.treasury.gov/news/press-releases/sb0626",
+      "source_label": "U.S. Department of the Treasury press release",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "money services businesses, correspondent banks, payments firms, sanctions screening and licensing teams",
+      "tags": [
+        "ofac",
+        "sanctions",
+        "sdn",
+        "designation",
+        "hawala",
+        "money-exchange-house",
+        "licensing-policy",
+        "settlement",
+        "iran",
+        "payments"
+      ]
+    },
+    {
+      "id": "2026-09-10-nydfs-part-500-risk-assessment-guidance",
+      "date": "2026-09-10",
+      "published": "2026-09-10T00:00:00Z",
+      "title": "NYDFS issues guidance on risk assessments under the Part 500 cybersecurity regulation, stating it creates no new obligations",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-09-10-nydfs-part-500-risk-assessment-guidance",
+      "issuing_body": "New York State Department of Financial Services",
+      "source_url": "https://www.dfs.ny.gov/industry_guidance/industry_letters/il20260910-cyber-risk-assessment",
+      "source_label": "NYDFS industry letter",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "NYDFS-licensed financial services entities (Part 500 Covered Entities), their CISO, compliance and third-party risk functions",
+      "tags": [
+        "nydfs",
+        "guidance",
+        "part-500",
+        "cybersecurity",
+        "risk-assessment",
+        "third-party-risk",
+        "us-ny"
+      ]
+    },
+    {
+      "id": "2026-09-09-ofac-xinbi-guarantee-tco-designation",
+      "date": "2026-09-09",
+      "published": "2026-09-09T00:00:00Z",
+      "title": "OFAC designates Xinbi Guarantee and two supporting technology companies, adding 51 Tron digital currency addresses to the SDN List",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-09-09-ofac-xinbi-guarantee-tco-designation",
+      "issuing_body": "U.S. Department of the Treasury, Office of Foreign Assets Control",
+      "source_url": "https://home.treasury.gov/news/press-releases/sb0624",
+      "source_label": "U.S. Department of the Treasury press release",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "crypto exchanges, wallet and custody providers, payment processors, sanctions screening and compliance teams",
+      "tags": [
+        "ofac",
+        "sanctions",
+        "sdn",
+        "designation",
+        "digital-currency-addresses",
+        "crypto",
+        "money-laundering",
+        "scam-centers"
+      ]
+    },
+    {
+      "id": "2026-09-09-ny-oag-vgw-sweepstakes-casino-settlement",
+      "date": "2026-09-09",
+      "published": "2026-09-09T00:00:00Z",
+      "title": "New York Attorney General secures $8 million from VGW Holdings over online sweepstakes casino operations",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-09-09-ny-oag-vgw-sweepstakes-casino-settlement",
+      "issuing_body": "New York State Office of the Attorney General",
+      "source_url": "https://ag.ny.gov/press-release/2026/attorney-general-james-secures-8-million-leading-operator-illegal-online",
+      "source_label": "New York Attorney General press release",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "sweepstakes and social-casino operators, online gaming platforms, and the payment, geolocation and affiliate vendors serving them",
+      "tags": [
+        "ny-oag",
+        "enforcement",
+        "settlement",
+        "sweepstakes-casino",
+        "social-casino",
+        "gaming",
+        "us-ny"
+      ]
+    },
+    {
+      "id": "2026-09-09-sec-nasdaq-texas-digital-commodity-trust-shares",
+      "date": "2026-09-09",
+      "published": "2026-09-09T00:00:00Z",
+      "title": "SEC grants accelerated approval to a Nasdaq Texas rule change defining \"digital commodity\" and allowing a 15 percent buffer in Commodity-Based Trust Shares",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-09-09-sec-nasdaq-texas-digital-commodity-trust-shares",
+      "issuing_body": "U.S. Securities and Exchange Commission",
+      "source_url": "https://www.federalregister.gov/documents/2026/09/09/2026-18291/self-regulatory-organizations-nasdaq-texas-llc-notice-of-filing-and-order-granting-accelerated",
+      "source_label": "Federal Register, SEC notice and order (SR-NasdaqTX-2026-039)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "crypto ETP issuers and sponsors, listing venues, authorized participants, asset managers",
+      "tags": [
+        "sec",
+        "sro-rule-change",
+        "crypto",
+        "digital-commodity",
+        "commodity-based-trust-shares",
+        "listing-standards",
+        "comment-deadline"
+      ]
+    },
+    {
+      "id": "2026-09-09-finra-temporary-holds-crypto-assets-rule-filing",
+      "date": "2026-09-09",
+      "published": "2026-09-09T00:00:00Z",
+      "title": "FINRA files a rule change extending temporary holds to 145 business days, adding a 10-business-day fraud delay, and covering crypto assets including GENIUS Act payment stablecoins",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-09-09-finra-temporary-holds-crypto-assets-rule-filing",
+      "issuing_body": "U.S. Securities and Exchange Commission / Financial Industry Regulatory Authority",
+      "source_url": "https://www.federalregister.gov/documents/2026/09/09/2026-18293/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-of-a",
+      "source_label": "Federal Register, SEC notice (SR-FINRA-2026-018)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "broker-dealers, firms custodying crypto assets or payment stablecoins, fraud prevention and supervision teams",
+      "tags": [
+        "finra",
+        "sec",
+        "sro-rule-change",
+        "proposed-rule",
+        "crypto-assets",
+        "payment-stablecoins",
+        "genius-act",
+        "comment-deadline"
+      ]
+    },
     {
       "id": "2026-09-08-fincen-alert-iran-commercial-aviation-procurement",
       "date": "2026-09-08",
@@ -24,6 +161,28 @@
         "payments",
         "msb",
         "casinos"
+      ]
+    },
+    {
+      "id": "2026-09-08-ftc-humboldt-merchant-services-payment-processing",
+      "date": "2026-09-08",
+      "published": "2026-09-08T00:00:00Z",
+      "title": "FTC action against payment processor Humboldt Merchant Services carries a $12 million judgment and a proposed order barring credit card laundering",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-09-08-ftc-humboldt-merchant-services-payment-processing",
+      "issuing_body": "Federal Trade Commission",
+      "source_url": "https://www.ftc.gov/news-events/news/press-releases/2026/09/ftc-takes-action-against-payment-processor-humboldt-merchant-services-knowingly-facilitating-payment",
+      "source_label": "Federal Trade Commission press release",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "payment processors, acquiring banks, payment facilitators, merchant underwriting and risk teams",
+      "tags": [
+        "ftc",
+        "enforcement",
+        "payments",
+        "payment-processor",
+        "merchant-underwriting",
+        "credit-card-laundering",
+        "chargebacks"
       ]
     },
     {
