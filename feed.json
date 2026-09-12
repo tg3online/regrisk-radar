@@ -6,6 +6,24 @@
   "description": "Daily facts-only regulatory radar — crypto, gaming, payments & fintech. Verified against primary sources.",
   "items": [
     {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-09-11-cftc-whistleblower-awards-final-rule",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-09-11-cftc-whistleblower-awards-final-rule",
+      "title": "CFTC approves final rule creating a 30 percent presumption for whistleblower awards of $5 million or less",
+      "content_text": "A CFTC press release dated September 11, 2026 (Release Number 9297-26) states that the Commission \"today approved a final rule that incorporates a 30 percent presumption for whistleblower awards of $5 million or less, subject to Commission discretion and its analysis of relevant regulatory factors.\" The release states that \"The final rule is modeled on the Securities and Exchange Commission's rule 21F-6(c), further enhancing the ongoing efforts at harmonization between the two agencies,\" and that \"The CFTC expects this new provision to improve the efficiency, transparency, and predictability of whistleblower award claims processing.\" Chairman Michael S. Selig is quoted saying the rule \"will help our Whistleblower Office to promptly and transparently process whistleblower claims, representing an important step in further harmonizing the CFTC and SEC.\" Raagnee Beri, director of the Whistleblower Office, is quoted saying \"The Whistleblower Program plays an important role in supporting the Commission's enforcement program\" and that the final rule \"will protect and enhance the program's effectiveness and further incentivize whistleblowers to report.\" The release states: \"The final rule will be effective 30 days after publication in the Federal Register.\" As of this entry the rule had not yet been published in the Federal Register, so no calendar effective date is stated in the release.\n\nPrimary source: CFTC — Press Release 9297-26, September 11, 2026 — https://www.cftc.gov/PressRoom/PressReleases/9297-26\n\nRelevant to: designated contract markets, crypto-derivatives exchanges, prediction-market and event-contract platforms, futures commission merchants, swap dealers\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-09-12T09:50:00Z",
+      "tags": [
+        "cftc",
+        "final-rule",
+        "whistleblower",
+        "enforcement-program",
+        "sec-harmonization",
+        "crypto-derivatives",
+        "event-contracts",
+        "prediction-markets",
+        "us-federal"
+      ]
+    },
+    {
       "id": "https://tg3online.github.io/regrisk-radar/#2026-09-11-interagency-proposed-third-party-risk-management-guidance",
       "url": "https://tg3online.github.io/regrisk-radar/#2026-09-11-interagency-proposed-third-party-risk-management-guidance",
       "title": "Bank regulators and NCUA propose third-party risk management guidance to replace the 2023 interagency guidance",

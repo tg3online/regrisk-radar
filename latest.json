@@ -1,8 +1,32 @@
 {
-  "generated": "2026-09-11T21:51:53Z",
+  "generated": "2026-09-12T09:46:31Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 185,
+  "count": 186,
   "items": [
+    {
+      "id": "2026-09-11-cftc-whistleblower-awards-final-rule",
+      "date": "2026-09-11",
+      "published": "2026-09-12T09:50:00Z",
+      "title": "CFTC approves final rule creating a 30 percent presumption for whistleblower awards of $5 million or less",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-09-11-cftc-whistleblower-awards-final-rule",
+      "issuing_body": "Commodity Futures Trading Commission",
+      "source_url": "https://www.cftc.gov/PressRoom/PressReleases/9297-26",
+      "source_label": "CFTC — Press Release 9297-26, September 11, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "designated contract markets, crypto-derivatives exchanges, prediction-market and event-contract platforms, futures commission merchants, swap dealers",
+      "tags": [
+        "cftc",
+        "final-rule",
+        "whistleblower",
+        "enforcement-program",
+        "sec-harmonization",
+        "crypto-derivatives",
+        "event-contracts",
+        "prediction-markets",
+        "us-federal"
+      ]
+    },
     {
       "id": "2026-09-11-interagency-proposed-third-party-risk-management-guidance",
       "date": "2026-09-11",
