@@ -1,0 +1,32 @@
+{
+  "entries": [
+    {
+      "id": "2026-09-10-ct-dcp-prediction-markets-cease-and-desist",
+      "date": "2026-09-10",
+      "published": "2026-09-10T00:00:00Z",
+      "issuing_body": "Connecticut Department of Consumer Protection",
+      "title": "Connecticut orders nine prediction-market platforms to stop offering sports event contracts, subpoenas payment processors and media organizations",
+      "facts": "On September 10, 2026 the Connecticut Department of Consumer Protection issued cease-and-desist orders to nine platforms - Polymarket, Coinbase, Crypto.com, Robinhood, ProphetX, Novig, Webull, Gemini and Underdog Predict - directing them to immediately cease advertising, offering, promoting or making available sports event contracts to Connecticut residents, and to allow residents to withdraw funds. The announcement states that nearly 30 subpoenas were issued, including to nine gaming service provider licensees, 15 media organizations, and payment processors including Apple Pay, Google Wallet and Stripe. The stated legal basis is the Connecticut Unfair Trade Practices Act and Connecticut gaming statutes, and the announcement states that non-compliance carries civil penalties under state law and/or criminal penalties for gaming statute violations.",
+      "source_url": "https://portal.ct.gov/governor/news/press-releases/2026/09-2026/governor-lamont-announces-new-actions-against-illegal-prediction-markets-offering-sports-wagers",
+      "source_label": "Office of the Governor of Connecticut - official announcement",
+      "tags": ["gaming", "prediction-markets", "event-contracts", "state-enforcement", "crypto", "payments"],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction-market platforms, crypto exchanges, payment processors, licensed sportsbook operators"
+    },
+    {
+      "id": "2026-09-09-mgcb-robinhood-halts-michigan-event-contracts",
+      "date": "2026-09-09",
+      "published": "2026-09-09T00:00:00Z",
+      "issuing_body": "Michigan Gaming Control Board",
+      "title": "Robinhood Derivatives agrees to halt sports-related event contracts in Michigan under a court-approved agreement",
+      "facts": "On September 9, 2026 the Michigan Gaming Control Board announced that Robinhood Derivatives, LLC agreed to stop offering new sports-related event contracts to Michigan customers by the end of the day on September 11, 2026, and to close out remaining customer positions by October 9, 2026. The Board states the agreement is court-approved and does not concede either party's legal position. The announcement states that the agreement follows a preliminary injunction the Michigan Attorney General secured against KalshiEX earlier in September barring that platform from offering sports-related event contracts to Michigan residents, and that appeals in the underlying litigation are proceeding in the Sixth Circuit.",
+      "source_url": "https://www.michigan.gov/mgcb/news/2026/09/09/robinhood-agrees-to-halt-contracts",
+      "source_label": "Michigan Gaming Control Board - news release",
+      "tags": ["gaming", "prediction-markets", "event-contracts", "state-enforcement"],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction-market platforms, retail brokerages offering event contracts, gaming operators"
+    }
+  ]
+}
