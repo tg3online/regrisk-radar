@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-12T09:46:31Z",
+  "generated": "2026-09-13T09:45:49Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 186,
+  "count": 188,
   "items": [
     {
       "id": "2026-09-11-cftc-whistleblower-awards-final-rule",
@@ -161,6 +161,27 @@
       ]
     },
     {
+      "id": "2026-09-10-ct-dcp-prediction-markets-cease-and-desist",
+      "date": "2026-09-10",
+      "published": "2026-09-10T00:00:00Z",
+      "title": "Connecticut orders nine prediction-market platforms to stop offering sports event contracts, subpoenas payment processors and media organizations",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-09-10-ct-dcp-prediction-markets-cease-and-desist",
+      "issuing_body": "Connecticut Department of Consumer Protection",
+      "source_url": "https://portal.ct.gov/governor/news/press-releases/2026/09-2026/governor-lamont-announces-new-actions-against-illegal-prediction-markets-offering-sports-wagers",
+      "source_label": "Office of the Governor of Connecticut - official announcement",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction-market platforms, crypto exchanges, payment processors, licensed sportsbook operators",
+      "tags": [
+        "gaming",
+        "prediction-markets",
+        "event-contracts",
+        "state-enforcement",
+        "crypto",
+        "payments"
+      ]
+    },
+    {
       "id": "2026-09-09-ofac-xinbi-guarantee-tco-designation",
       "date": "2026-09-09",
       "published": "2026-09-09T00:00:00Z",
@@ -248,6 +269,25 @@
         "payment-stablecoins",
         "genius-act",
         "comment-deadline"
+      ]
+    },
+    {
+      "id": "2026-09-09-mgcb-robinhood-halts-michigan-event-contracts",
+      "date": "2026-09-09",
+      "published": "2026-09-09T00:00:00Z",
+      "title": "Robinhood Derivatives agrees to halt sports-related event contracts in Michigan under a court-approved agreement",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-09-09-mgcb-robinhood-halts-michigan-event-contracts",
+      "issuing_body": "Michigan Gaming Control Board",
+      "source_url": "https://www.michigan.gov/mgcb/news/2026/09/09/robinhood-agrees-to-halt-contracts",
+      "source_label": "Michigan Gaming Control Board - news release",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction-market platforms, retail brokerages offering event contracts, gaming operators",
+      "tags": [
+        "gaming",
+        "prediction-markets",
+        "event-contracts",
+        "state-enforcement"
       ]
     },
     {
