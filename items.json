@@ -295,6 +295,29 @@
       "relevant_to": "prediction-market platforms, retail brokerages offering event contracts, gaming operators"
     },
     {
+      "id": "2026-09-09-citadel-securities-sec-cftc-equity-linked-event-contracts",
+      "date": "2026-09-09",
+      "published": "2026-09-09T00:00:00Z",
+      "issuing_body": "Citadel Securities (comment letter to the SEC and CFTC, File No. S7-2026-21)",
+      "title": "Citadel Securities asks the SEC and CFTC to confirm SEC jurisdiction over equity-linked event contracts and perpetual derivatives",
+      "facts": "In a letter dated 2026-09-09 addressed to SEC Secretary Vanessa Countryman and CFTC Secretary Christopher J. Kirkpatrick, filed on SEC comment file S7-2026-21, Stephen John Berger of Citadel Securities writes that \"the SEC is - and should remain - the primary regulator of products tied to U.S. public companies and their securities.\" The letter asks the agencies to ensure that trading venues cannot use self-certification to circumvent SEC jurisdiction over equity-linked products, to \"promptly resolve the classification questions presented by emerging equity-linked event contracts and perpetual derivatives,\" and to commit to timely and efficient review of new product filings. File S7-2026-21 is the joint SEC/CFTC Request for Comment on Further Definition of \"Swap\" and \"Security-Based Swap\" and on Alternative Compliance, published in the Federal Register on 2026-06-24 (document 2026-12743; CFTC RIN 3038-AF71, SEC RIN 3235-AN79) with a stated comment deadline of 2026-08-24.",
+      "source_url": "https://www.sec.gov/comments/S7-2026-21/s7202621-1036039-3442366.pdf",
+      "source_label": "SEC comment file S7-2026-21 - Citadel Securities letter (PDF, sec.gov)",
+      "tags": [
+        "crypto",
+        "fintech",
+        "gaming",
+        "prediction-markets",
+        "event-contracts",
+        "perpetual-derivatives",
+        "swap-definition",
+        "jurisdiction"
+      ],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction-market platforms, derivatives exchanges, crypto exchanges listing event contracts, market makers"
+    },
+    {
       "id": "2026-09-08-fincen-alert-iran-commercial-aviation-procurement",
       "date": "2026-09-08",
       "published": "2026-09-08T21:41:56Z",

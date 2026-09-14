@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-13T09:45:49Z",
+  "generated": "2026-09-14T09:46:24Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 188,
+  "count": 189,
   "items": [
     {
       "id": "2026-09-11-cftc-whistleblower-awards-final-rule",
@@ -288,6 +288,29 @@
         "prediction-markets",
         "event-contracts",
         "state-enforcement"
+      ]
+    },
+    {
+      "id": "2026-09-09-citadel-securities-sec-cftc-equity-linked-event-contracts",
+      "date": "2026-09-09",
+      "published": "2026-09-09T00:00:00Z",
+      "title": "Citadel Securities asks the SEC and CFTC to confirm SEC jurisdiction over equity-linked event contracts and perpetual derivatives",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-09-09-citadel-securities-sec-cftc-equity-linked-event-contracts",
+      "issuing_body": "Citadel Securities (comment letter to the SEC and CFTC, File No. S7-2026-21)",
+      "source_url": "https://www.sec.gov/comments/S7-2026-21/s7202621-1036039-3442366.pdf",
+      "source_label": "SEC comment file S7-2026-21 - Citadel Securities letter (PDF, sec.gov)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction-market platforms, derivatives exchanges, crypto exchanges listing event contracts, market makers",
+      "tags": [
+        "crypto",
+        "fintech",
+        "gaming",
+        "prediction-markets",
+        "event-contracts",
+        "perpetual-derivatives",
+        "swap-definition",
+        "jurisdiction"
       ]
     },
     {

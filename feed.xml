@@ -5,7 +5,7 @@
     <link>https://tg3online.github.io/regrisk-radar/</link>
     <description>Daily facts-only regulatory radar — crypto, gaming, payments &amp; fintech. Verified against primary sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Sep 2026 09:45:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 09:46:24 +0000</lastBuildDate>
     <atom:link href="https://tg3online.github.io/regrisk-radar/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CFTC approves final rule creating a 30 percent presumption for whistleblower awards of $5 million or less</title>
@@ -210,6 +210,22 @@ RegRisk Radar is regulatory-risk intelligence provided for general informational
 Primary source: Michigan Gaming Control Board - news release — https://www.michigan.gov/mgcb/news/2026/09/09/robinhood-agrees-to-halt-contracts
 
 Relevant to: prediction-market platforms, retail brokerages offering event contracts, gaming operators
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+    <item>
+      <title>Citadel Securities asks the SEC and CFTC to confirm SEC jurisdiction over equity-linked event contracts and perpetual derivatives</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-09-09-citadel-securities-sec-cftc-equity-linked-event-contracts</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-09-09-citadel-securities-sec-cftc-equity-linked-event-contracts</guid>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <category>Citadel Securities (comment letter to the SEC and CFTC, File No. S7-2026-21)</category>
+      <description>In a letter dated 2026-09-09 addressed to SEC Secretary Vanessa Countryman and CFTC Secretary Christopher J. Kirkpatrick, filed on SEC comment file S7-2026-21, Stephen John Berger of Citadel Securities writes that &quot;the SEC is - and should remain - the primary regulator of products tied to U.S. public companies and their securities.&quot; The letter asks the agencies to ensure that trading venues cannot use self-certification to circumvent SEC jurisdiction over equity-linked products, to &quot;promptly resolve the classification questions presented by emerging equity-linked event contracts and perpetual derivatives,&quot; and to commit to timely and efficient review of new product filings. File S7-2026-21 is the joint SEC/CFTC Request for Comment on Further Definition of &quot;Swap&quot; and &quot;Security-Based Swap&quot; and on Alternative Compliance, published in the Federal Register on 2026-06-24 (document 2026-12743; CFTC RIN 3038-AF71, SEC RIN 3235-AN79) with a stated comment deadline of 2026-08-24.
+
+Primary source: SEC comment file S7-2026-21 - Citadel Securities letter (PDF, sec.gov) — https://www.sec.gov/comments/S7-2026-21/s7202621-1036039-3442366.pdf
+
+Relevant to: prediction-market platforms, derivatives exchanges, crypto exchanges listing event contracts, market makers
 
 For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
 
