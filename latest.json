@@ -1,8 +1,49 @@
 {
-  "generated": "2026-09-14T09:46:24Z",
+  "generated": "2026-09-14T21:43:25Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 189,
+  "count": 191,
   "items": [
+    {
+      "id": "2026-09-14-ny-ag-multistate-letter-clarity-act",
+      "date": "2026-09-14",
+      "published": "2026-09-14T00:00:00Z",
+      "title": "New York AG leads a bipartisan 18-attorney-general letter urging the Senate to reject the Digital Asset Market CLARITY Act",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-09-14-ny-ag-multistate-letter-clarity-act",
+      "issuing_body": "New York State Office of the Attorney General",
+      "source_url": "https://ag.ny.gov/press-release/2026/attorney-general-james-calls-congress-preserve-states-ability-protect-americans",
+      "source_label": "New York State Office of the Attorney General - press release, September 14, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "crypto exchanges and trading platforms, token issuers, digital-asset firms with state registration or state enforcement exposure",
+      "tags": [
+        "crypto",
+        "legislation",
+        "clarity-act",
+        "preemption",
+        "state-enforcement",
+        "state-ag",
+        "new-york"
+      ]
+    },
+    {
+      "id": "2026-09-14-cftc-whistleblower-awards-150-million",
+      "date": "2026-09-14",
+      "published": "2026-09-14T00:00:00Z",
+      "title": "CFTC announces 10 whistleblower awards totaling over $150 million",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-09-14-cftc-whistleblower-awards-150-million",
+      "issuing_body": "Commodity Futures Trading Commission",
+      "source_url": "https://www.cftc.gov/PressRoom/PressReleases/9298-26",
+      "source_label": "CFTC - Press Release 9298-26, September 14, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "CFTC registrants including derivatives exchanges, crypto derivatives venues, event-contract platforms, FCMs and swap dealers",
+      "tags": [
+        "cftc",
+        "whistleblower",
+        "enforcement",
+        "derivatives"
+      ]
+    },
     {
       "id": "2026-09-11-cftc-whistleblower-awards-final-rule",
       "date": "2026-09-11",
