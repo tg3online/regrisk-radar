@@ -1,0 +1,46 @@
+{
+ "_note": "RegRisk Radar drop file - evening run 2026-09-14. 'b' suffix per RADAR.md: incoming/2026-09-14.json was already written and merged by the morning run. Public-safe fields only; no gated-layer fields.",
+ "entries": [
+  {
+   "id": "2026-09-14-ny-ag-multistate-letter-clarity-act",
+   "date": "2026-09-14",
+   "published": "2026-09-14T00:00:00Z",
+   "issuing_body": "New York State Office of the Attorney General",
+   "title": "New York AG leads a bipartisan 18-attorney-general letter urging the Senate to reject the Digital Asset Market CLARITY Act",
+   "facts": "The New York Office of the Attorney General announced on September 14, 2026 that Attorney General Letitia James is leading a bipartisan coalition of 18 attorneys general in a letter to Senate Committee on Banking, Housing, and Urban Affairs Chair Tim Scott and Ranking Member Elizabeth Warren urging Congress to reject the Digital Asset Market Clarity Act as written. The release quotes Attorney General James saying that \"as written, the Clarity Act would embolden scammers and potentially strip attorneys general of our authority to protect our states' investors and their wallets,\" and states that the letter warns the bill would prevent states from serving as the first line of defense against cryptocurrency fraud and would allow the SEC to preempt state securities registration authorities. According to the release, the letter asks Congress to preserve state enforcement authority over both tokenized and non-tokenized securities, maintain federal-state cooperation, codify state regulatory roles and cryptocurrency platform registration requirements, and clarify ambiguous language. Besides New York, the release identifies signatory offices from Arizona, California, Connecticut, Delaware, Illinois, Kansas, Maryland, Massachusetts, Michigan, Minnesota, Nevada, New Jersey, Ohio, Virginia, Washington, Wisconsin and the District of Columbia.",
+   "source_url": "https://ag.ny.gov/press-release/2026/attorney-general-james-calls-congress-preserve-states-ability-protect-americans",
+   "source_label": "New York State Office of the Attorney General - press release, September 14, 2026",
+   "tags": [
+    "crypto",
+    "legislation",
+    "clarity-act",
+    "preemption",
+    "state-enforcement",
+    "state-ag",
+    "new-york"
+   ],
+   "source_type": "primary_source",
+   "primary_source_status": "retrieved",
+   "relevant_to": "crypto exchanges and trading platforms, token issuers, digital-asset firms with state registration or state enforcement exposure"
+  },
+  {
+   "id": "2026-09-14-cftc-whistleblower-awards-150-million",
+   "date": "2026-09-14",
+   "published": "2026-09-14T00:00:00Z",
+   "issuing_body": "Commodity Futures Trading Commission",
+   "title": "CFTC announces 10 whistleblower awards totaling over $150 million",
+   "facts": "CFTC Press Release 9298-26, dated September 14, 2026, announces 10 whistleblower awards totaling over $150 million on final determinations issued between July and September 2026, and states that awards represent 10 to 30 percent of the monetary sanctions collected in the associated enforcement actions. The release states that since 2014 the CFTC has distributed over $580 million in whistleblower awards connected to enforcement actions that resulted in more than $5.1 billion in monetary sanctions. The release does not identify the underlying enforcement actions, the individual award amounts, the markets involved or the conduct at issue, stating that \"consistent with these protections, the CFTC does not disclose the specific enforcement action or the exact award amount.\"",
+   "source_url": "https://www.cftc.gov/PressRoom/PressReleases/9298-26",
+   "source_label": "CFTC - Press Release 9298-26, September 14, 2026",
+   "tags": [
+    "cftc",
+    "whistleblower",
+    "enforcement",
+    "derivatives"
+   ],
+   "source_type": "primary_source",
+   "primary_source_status": "retrieved",
+   "relevant_to": "CFTC registrants including derivatives exchanges, crypto derivatives venues, event-contract platforms, FCMs and swap dealers"
+  }
+ ]
+}
