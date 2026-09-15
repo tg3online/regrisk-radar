@@ -1,8 +1,35 @@
 {
-  "generated": "2026-09-15T09:49:31Z",
+  "generated": "2026-09-15T21:43:14Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 194,
+  "count": 196,
   "items": [
+    {
+      "id": "2026-09-15-senate-rejects-cloture-motion-to-proceed-hr3633",
+      "date": "2026-09-15",
+      "published": "2026-09-15T18:19:00Z",
+      "title": "Senate rejects cloture on the motion to proceed to H.R. 3633, the digital asset market structure bill, 49-50",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-09-15-senate-rejects-cloture-motion-to-proceed-hr3633",
+      "issuing_body": "U.S. Senate",
+      "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00234.htm",
+      "source_label": "U.S. Senate — Roll Call Vote No. 234, 119th Congress 2nd Session, 09/15/2026 (H.R. 3633)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "digital asset exchanges, crypto trading platforms, broker-dealers, derivatives venues, stablecoin issuers",
+      "tags": [
+        "us-senate",
+        "legislation",
+        "market-structure",
+        "clarity-act",
+        "hr3633",
+        "cloture",
+        "roll-call-vote",
+        "digital-commodities",
+        "sec",
+        "cftc",
+        "cbdc",
+        "us-federal"
+      ]
+    },
     {
       "id": "2026-09-15-kalshi-iowa-preliminary-injunction-denied",
       "date": "2026-09-15",
@@ -118,6 +145,31 @@
         "whistleblower",
         "enforcement",
         "derivatives"
+      ]
+    },
+    {
+      "id": "2026-09-15-state-attorneys-general-letter-clarity-act-preemption",
+      "date": "2026-09-15",
+      "published": "2026-09-14T00:00:00Z",
+      "title": "New York Attorney General leads an 18-jurisdiction bipartisan coalition of attorneys general urging Senate leaders to preserve state enforcement authority in the Digital Asset Market Clarity Act",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-09-15-state-attorneys-general-letter-clarity-act-preemption",
+      "issuing_body": "New York State Office of the Attorney General",
+      "source_url": "https://ag.ny.gov/press-release/2026/attorney-general-james-calls-congress-preserve-states-ability-protect-americans",
+      "source_label": "New York State Office of the Attorney General — press release, 09/14/2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "crypto trading platforms, digital asset issuers, state-registered money transmitters, exchanges operating under state registration regimes",
+      "tags": [
+        "state-attorneys-general",
+        "new-york",
+        "legislation",
+        "clarity-act",
+        "hr3633",
+        "state-preemption",
+        "enforcement-authority",
+        "investor-protection",
+        "multistate",
+        "us-ny"
       ]
     },
     {
