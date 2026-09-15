@@ -5,7 +5,58 @@
   <id>https://tg3online.github.io/regrisk-radar/</id>
   <link href="https://tg3online.github.io/regrisk-radar/" />
   <link href="https://tg3online.github.io/regrisk-radar/atom.xml" rel="self" type="application/atom+xml" />
-  <updated>2026-09-14T21:43:25Z</updated>
+  <updated>2026-09-15T09:49:31Z</updated>
+  <entry>
+    <title>Federal court denies KalshiEX a preliminary injunction against Iowa, finding it unlikely to succeed on Commodity Exchange Act preemption of state gambling law</title>
+    <id>https://tg3online.github.io/regrisk-radar/#2026-09-15-kalshi-iowa-preliminary-injunction-denied</id>
+    <link href="https://tg3online.github.io/regrisk-radar/#2026-09-15-kalshi-iowa-preliminary-injunction-denied" rel="alternate" />
+    <updated>2026-09-15T10:05:02Z</updated>
+    <published>2026-09-15T10:05:02Z</published>
+    <category term="U.S. District Court for the Southern District of Iowa" />
+    <content type="text">In KalshiEX LLC v. Bird, No. 4:26-cv-00109-SHL-HCA, the U.S. District Court for the Southern District of Iowa, Central Division (Judge Stephen H. Locher) entered an order on September 8, 2026 denying KalshiEX LLC&#x27;s motion for a preliminary injunction against Iowa officials. The order states that the court concludes Kalshi is unlikely to succeed on the merits of its preemption argument. The order observes that the Commodity Futures Trading Commission&#x27;s &quot;exclusive jurisdiction&quot; extends only to the regulation of &quot;swaps or contracts of sale of a commodity for future delivery&quot;; that &quot;it is harder to conclude that Congress intended for &#x27;event&#x27; or &#x27;occurrence&#x27; to encompass the outcome of a sporting event&quot;; and that &quot;if Congress intended to preempt state gambling laws when it enacted the Commodity Exchange Act, it should have been clear about that preemption.&quot;
+
+Primary source: Order denying preliminary injunction, KalshiEX LLC v. Bird, No. 4:26-cv-00109-SHL-HCA (S.D. Iowa, filed 09/08/2026) - court order PDF, copy hosted by Courthouse News Service — https://www.courthousenews.com/wp-content/uploads/2026/09/owa-ruling-denying-kalshi-injunction.pdf
+
+Relevant to: prediction-market platforms, sports event contract venues, designated contract markets, brokerages offering event contracts
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</content>
+  </entry>
+  <entry>
+    <title>Updated CLARITY Act text would require non-decentralized DeFi protocols to register with the CFTC and comply with the Bank Secrecy Act</title>
+    <id>https://tg3online.github.io/regrisk-radar/#2026-09-15-clarity-act-updated-text-defi-registration-bsa</id>
+    <link href="https://tg3online.github.io/regrisk-radar/#2026-09-15-clarity-act-updated-text-defi-registration-bsa" rel="alternate" />
+    <updated>2026-09-15T10:05:01Z</updated>
+    <published>2026-09-15T10:05:01Z</published>
+    <category term="U.S. Senate - Office of Sen. Cynthia Lummis" />
+    <content type="text">On September 10, 2026, Sen. Cynthia Lummis released updated text of the Digital Asset Market Clarity Act ahead of a Senate vote scheduled for Tuesday, September 15, 2026. According to the release, the updated text requires non-decentralized finance protocols to register with the Commodity Futures Trading Commission and to comply with Bank Secrecy Act requirements; limits the application of those DeFi provisions to spot and cash digital commodity transactions; and clarifies the authority of credit unions to engage in digital asset activities. The release states that the legislation incorporates more than 114 provisions sought by Democrats.
+
+Primary source: U.S. Senate - Office of Sen. Cynthia Lummis, press release, 09/10/2026 — https://www.lummis.senate.gov/press-releases/lummis-releases-updated-clarity-act-text-ahead-of-historic-tuesday-vote-2/
+
+Relevant to: DeFi protocol operators and developers, digital-commodity spot venues, credit unions, BSA/AML compliance teams
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</content>
+  </entry>
+  <entry>
+    <title>Senators release final Digital Asset Market CLARITY Act text ahead of Senate floor action on the motion to proceed to H.R. 3633</title>
+    <id>https://tg3online.github.io/regrisk-radar/#2026-09-15-clarity-act-final-text-released</id>
+    <link href="https://tg3online.github.io/regrisk-radar/#2026-09-15-clarity-act-final-text-released" rel="alternate" />
+    <updated>2026-09-15T10:05:00Z</updated>
+    <published>2026-09-15T10:05:00Z</published>
+    <category term="U.S. Senate - Sens. Cynthia Lummis, John Boozman and Tim Scott" />
+    <content type="text">On September 14, 2026, Sen. Cynthia Lummis (Chair of the Senate Banking Digital Assets Subcommittee), Sen. John Boozman and Sen. Tim Scott released what their offices describe as the final text of the Digital Asset Market Clarity Act. The release states the text reflects more than a year of bipartisan negotiation and incorporates 126 substantive changes requested by Democrats. According to the release, the final text includes ethics language reflecting substantially all of the Tillis-Gallego ethics proposal together with enforcement roles for state attorneys general; new authority for the Secretary of the Treasury to address deposit flight related to payment stablecoins; modifications to the Blockchain Regulatory Certainty Act shielding developers from money transmission registration requirements and establishing civil safe harbors; and Senate Agriculture Committee provisions adding guardrails on affiliate trading, clarifying the applicability of state consumer protection law, and protecting software developers. The release states that if cloture is invoked on the motion to proceed, the legislative text would be offered as an Amendment in the Nature of a Substitute, and refers to a Senate vote scheduled for Tuesday afternoon.
+
+Primary source: U.S. Senate - Office of Sen. Cynthia Lummis, press release, 09/14/2026 — https://www.lummis.senate.gov/press-releases/lummis-boozman-scott-release-final-clarity-act-text/
+
+Relevant to: digital-asset exchanges and brokers, DeFi protocol developers, payment stablecoin issuers, banks and credit unions with digital-asset activities
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</content>
+  </entry>
   <entry>
     <title>New York AG leads a bipartisan 18-attorney-general letter urging the Senate to reject the Digital Asset Market CLARITY Act</title>
     <id>https://tg3online.github.io/regrisk-radar/#2026-09-14-ny-ag-multistate-letter-clarity-act</id>
