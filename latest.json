@@ -1,8 +1,52 @@
 {
-  "generated": "2026-09-16T09:50:58Z",
+  "generated": "2026-09-16T21:47:10Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 199,
+  "count": 201,
   "items": [
+    {
+      "id": "2026-09-16-house-ways-means-advances-digital-asset-tax-certainty-act",
+      "date": "2026-09-16",
+      "published": "2026-09-16T21:50:00Z",
+      "title": "House Ways and Means Committee advances H.R. 10357, the Digital Asset Tax Certainty Act, by a reported 38-5 vote",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-09-16-house-ways-means-advances-digital-asset-tax-certainty-act",
+      "issuing_body": "U.S. House Committee on Ways and Means",
+      "source_url": "https://waysandmeans.house.gov/event/markup-of-h-r-10357-h-r-10334-h-r-6130-h-r-5439-h-r-4093-h-r-10346-h-r-10356/",
+      "source_label": "U.S. House Committee on Ways and Means - markup notice for H.R. 10357 and six other bills (September 16, 2026); vote count as reported by CoinDesk, The Block and Cointelegraph",
+      "source_type": "mixed",
+      "primary_source_status": "retrieved",
+      "relevant_to": "crypto exchanges, brokers and custodians, miners and stakers, stablecoin issuers, digital-asset tax and compliance teams",
+      "tags": [
+        "crypto",
+        "tax",
+        "congress",
+        "legislation",
+        "stablecoins",
+        "staking",
+        "us-federal"
+      ]
+    },
+    {
+      "id": "2026-09-16-underdog-sues-connecticut-officials-event-contracts",
+      "date": "2026-09-16",
+      "published": "2026-09-16T21:50:00Z",
+      "title": "Underdog sues Connecticut officials in federal court seeking to block state enforcement against its sports event contracts",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-09-16-underdog-sues-connecticut-officials-event-contracts",
+      "issuing_body": "U.S. District Court for the District of Connecticut (reported)",
+      "source_url": "https://www.theblock.co/news/regulation/2026-09-16-underdog-sues-connecticut-415242",
+      "source_label": "The Block - \"Underdog sues Connecticut to stop sports prediction market crackdown\" (September 16, 2026); corroborated by Prediction News, crypto.news and Law360",
+      "source_type": "coverage_reporting_filing",
+      "primary_source_status": "cited_by_coverage_not_retrieved",
+      "relevant_to": "prediction-market platforms, designated contract markets, sportsbooks, state-licensed gaming operators, payment processors serving them",
+      "tags": [
+        "gaming",
+        "prediction-markets",
+        "event-contracts",
+        "litigation",
+        "preemption",
+        "us-ct",
+        "us-federal"
+      ]
+    },
     {
       "id": "2026-09-16-cftc-whistleblower-award-final-rule-effective-date",
       "date": "2026-09-16",

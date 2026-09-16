@@ -5,8 +5,40 @@
     <link>https://tg3online.github.io/regrisk-radar/</link>
     <description>Daily facts-only regulatory radar — crypto, gaming, payments &amp; fintech. Verified against primary sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Sep 2026 09:50:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 21:47:10 +0000</lastBuildDate>
     <atom:link href="https://tg3online.github.io/regrisk-radar/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>House Ways and Means Committee advances H.R. 10357, the Digital Asset Tax Certainty Act, by a reported 38-5 vote</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-09-16-house-ways-means-advances-digital-asset-tax-certainty-act</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-09-16-house-ways-means-advances-digital-asset-tax-certainty-act</guid>
+      <pubDate>Wed, 16 Sep 2026 21:50:00 +0000</pubDate>
+      <category>U.S. House Committee on Ways and Means</category>
+      <description>The U.S. House Committee on Ways and Means held a markup on September 16, 2026 at 10:00 AM ET in HVC-210 with H.R. 10357, the Digital Asset Tax Certainty Act, on an agenda of seven bills. The committee&#x27;s markup notice was retrieved and lists the bill by number and short title. The govinfo BILLSTATUS record for H.R. 10357, also retrieved, states the official title is &quot;To amend the Internal Revenue Code of 1986 to reform the tax treatment of digital assets, and for other purposes&quot;, that the sponsor is Rep. Jason Smith (R-MO-8), and that the bill was introduced and &quot;Referred to the House Committee on Ways and Means.&quot; on September 14, 2026; at the time that record was retrieved it listed no action later than the September 14 referral. As reported by CoinDesk, The Block, Cointelegraph, CryptoBriefing and AMBCrypto, the committee approved the bill by a vote of 38-5. Those reports state the bill sets a $10 de minimis threshold for network and transaction fees, taxes mining and staking income as ordinary income with implementation beginning December 2027, addresses wash sale rules, transfers and broker requirements, provides specific treatment for qualifying dollar stablecoins, and directs the Treasury Department to establish a Digital Asset Voluntary Disclosure Program within 12 months.
+
+Sources: U.S. House Committee on Ways and Means - markup notice for H.R. 10357 and six other bills (September 16, 2026); vote count as reported by CoinDesk, The Block and Cointelegraph — https://waysandmeans.house.gov/event/markup-of-h-r-10357-h-r-10334-h-r-6130-h-r-5439-h-r-4093-h-r-10346-h-r-10356/
+
+Relevant to: crypto exchanges, brokers and custodians, miners and stakers, stablecoin issuers, digital-asset tax and compliance teams
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+    <item>
+      <title>Underdog sues Connecticut officials in federal court seeking to block state enforcement against its sports event contracts</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-09-16-underdog-sues-connecticut-officials-event-contracts</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-09-16-underdog-sues-connecticut-officials-event-contracts</guid>
+      <pubDate>Wed, 16 Sep 2026 21:50:00 +0000</pubDate>
+      <category>U.S. District Court for the District of Connecticut (reported)</category>
+      <description>The Block, Prediction News, crypto.news and Law360 report that on September 16, 2026 the prediction-market operator Underdog filed suit against Connecticut officials in federal court, seeking declaratory and injunctive relief against enforcement of Connecticut gambling law over its sports event contracts. Law360 identifies the court as the U.S. District Court for the District of Connecticut. The Block reports that Underdog argues it operates as a &quot;federally regulated designated contract market (DCM)&quot; and that the Commodity Futures Trading Commission has &quot;exclusive jurisdiction&quot; over its trading activity, and that the complaint contends Connecticut&#x27;s enforcement action is &quot;meritless&quot; and &quot;preempted&quot; because it &quot;directly conflicts with the Commodity Exchange Act&#x27;s framework&quot;. crypto.news reports the company arguing that federal commodities law prevents the state from blocking its sports event contracts. All four reports state the suit responds to cease-and-desist orders issued by the Connecticut Department of Consumer Protection to nine prediction-market platforms earlier in September 2026. The complaint and the case docket number were not retrieved for this entry; Law360, which supplies the court name, places the remaining case particulars behind a subscription paywall.
+
+Coverage (reporting filing): The Block - &quot;Underdog sues Connecticut to stop sports prediction market crackdown&quot; (September 16, 2026); corroborated by Prediction News, crypto.news and Law360 — https://www.theblock.co/news/regulation/2026-09-16-underdog-sues-connecticut-415242
+
+Relevant to: prediction-market platforms, designated contract markets, sportsbooks, state-licensed gaming operators, payment processors serving them
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
     <item>
       <title>CFTC whistleblower award final rule published in the Federal Register, effective October 16, 2026</title>
       <link>https://tg3online.github.io/regrisk-radar/#2026-09-16-cftc-whistleblower-award-final-rule-effective-date</link>
