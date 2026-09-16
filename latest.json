@@ -1,8 +1,30 @@
 {
-  "generated": "2026-09-15T21:43:14Z",
+  "generated": "2026-09-16T09:50:58Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 196,
+  "count": 199,
   "items": [
+    {
+      "id": "2026-09-16-cftc-whistleblower-award-final-rule-effective-date",
+      "date": "2026-09-16",
+      "published": "2026-09-16T00:00:00Z",
+      "title": "CFTC whistleblower award final rule published in the Federal Register, effective October 16, 2026",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-09-16-cftc-whistleblower-award-final-rule-effective-date",
+      "issuing_body": "Commodity Futures Trading Commission",
+      "source_url": "https://www.federalregister.gov/documents/2026/09/16/2026-19006/whistleblower-award-determination",
+      "source_label": "Federal Register — Whistleblower Award Determination, 91 FR 58576 (Sept. 16, 2026)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "CFTC registrants, designated contract markets, futures commission merchants, crypto derivatives and event-contract exchanges, compliance and legal teams",
+      "tags": [
+        "cftc",
+        "whistleblower",
+        "final-rule",
+        "federal-register",
+        "effective-date",
+        "derivatives",
+        "us-federal"
+      ]
+    },
     {
       "id": "2026-09-15-senate-rejects-cloture-motion-to-proceed-hr3633",
       "date": "2026-09-15",
@@ -103,6 +125,51 @@
         "defi",
         "developer-liability",
         "state-preemption",
+        "us-federal"
+      ]
+    },
+    {
+      "id": "2026-09-15-federal-reserve-tprm-guide-community-banks-federal-register",
+      "date": "2026-09-15",
+      "published": "2026-09-15T00:00:01Z",
+      "title": "Federal Reserve publishes a proposed third-party risk management guide for traditional community banking organizations; comments due November 16, 2026",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-09-15-federal-reserve-tprm-guide-community-banks-federal-register",
+      "issuing_body": "Board of Governors of the Federal Reserve System",
+      "source_url": "https://www.federalregister.gov/documents/2026/09/15/2026-18852/proposed-third-party-risk-management-guide-for-traditional-community-banking-organizations",
+      "source_label": "Federal Register — Proposed Third-Party Risk Management Guide for Traditional Community Banking Organizations, 91 FR 58438 (Sept. 15, 2026)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "payment processors, card issuers, core and digital banking providers, BSA/AML and fraud vendors serving community banks",
+      "tags": [
+        "fintech",
+        "payments",
+        "community-banks",
+        "third-party-risk-management",
+        "bsa-aml",
+        "federal-register",
+        "comment-deadline",
+        "us-federal"
+      ]
+    },
+    {
+      "id": "2026-09-15-interagency-third-party-risk-management-guidance-federal-register",
+      "date": "2026-09-15",
+      "published": "2026-09-15T00:00:00Z",
+      "title": "Interagency proposed third-party risk management guidance published in the Federal Register; comments due November 16, 2026",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-09-15-interagency-third-party-risk-management-guidance-federal-register",
+      "issuing_body": "OCC, Federal Reserve Board, FDIC and NCUA",
+      "source_url": "https://www.federalregister.gov/documents/2026/09/15/2026-18859/proposed-third-party-risk-management-guidance",
+      "source_label": "Federal Register — Proposed Third-Party Risk Management Guidance, 91 FR 58536 (Sept. 15, 2026)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "fintechs partnering with banks, banking-as-a-service providers, payment processors, bank vendor and compliance teams",
+      "tags": [
+        "fintech",
+        "banking",
+        "third-party-risk-management",
+        "bank-fintech-partnerships",
+        "federal-register",
+        "comment-deadline",
         "us-federal"
       ]
     },
