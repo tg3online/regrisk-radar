@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-16T21:47:10Z",
+  "generated": "2026-09-17T09:47:58Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 201,
+  "count": 203,
   "items": [
     {
       "id": "2026-09-16-house-ways-means-advances-digital-asset-tax-certainty-act",
@@ -66,6 +66,56 @@
         "federal-register",
         "effective-date",
         "derivatives",
+        "us-federal"
+      ]
+    },
+    {
+      "id": "2026-09-16-ninth-circuit-igra-sports-event-contracts",
+      "date": "2026-09-16",
+      "published": "2026-09-16T00:00:00Z",
+      "title": "Ninth Circuit holds sports event contracts are class III gaming under IGRA and that the Commodity Exchange Act does not preempt IGRA",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-09-16-ninth-circuit-igra-sports-event-contracts",
+      "issuing_body": "U.S. Court of Appeals for the Ninth Circuit",
+      "source_url": "https://cdn.ca9.uscourts.gov/datastore/opinions/2026/09/16/25-7504.pdf",
+      "source_label": "U.S. Court of Appeals for the Ninth Circuit - published opinion, No. 25-7504 (Sept. 16, 2026)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction-market platforms, sports event-contract venues, designated contract markets, brokerages listing event contracts, tribal gaming operators",
+      "tags": [
+        "prediction-markets",
+        "event-contracts",
+        "sports-betting",
+        "igra",
+        "tribal-gaming",
+        "class-iii-gaming",
+        "commodity-exchange-act",
+        "preemption",
+        "ninth-circuit",
+        "litigation",
+        "us-federal"
+      ]
+    },
+    {
+      "id": "2026-09-16-house-financial-services-advances-hr-8957",
+      "date": "2026-09-16",
+      "published": "2026-09-16T00:00:00Z",
+      "title": "House Financial Services Committee advances H.R. 8957, the American Reserve Modernization Act, reported by a 28-21 vote",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-09-16-house-financial-services-advances-hr-8957",
+      "issuing_body": "U.S. House Committee on Financial Services",
+      "source_url": "https://financialservices.house.gov/calendar/",
+      "source_label": "U.S. House Committee on Financial Services - committee calendar (Full Committee markup, Sept. 16, 2026); vote count and bill provisions as reported by The Block, crypto.news, Cointelegraph, CryptoTimes, CryptoAdventure and Bloomingbit",
+      "source_type": "mixed",
+      "primary_source_status": "retrieved",
+      "relevant_to": "digital-asset custodians, exchanges, bitcoin treasury operators, crypto policy and government-affairs teams",
+      "tags": [
+        "congress",
+        "house-financial-services",
+        "hr-8957",
+        "strategic-bitcoin-reserve",
+        "digital-asset-stockpile",
+        "treasury",
+        "custody",
+        "committee-markup",
         "us-federal"
       ]
     },
