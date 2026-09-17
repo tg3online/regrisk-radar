@@ -1,8 +1,79 @@
 {
-  "generated": "2026-09-17T09:47:58Z",
+  "generated": "2026-09-17T21:47:39Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 203,
+  "count": 206,
   "items": [
+    {
+      "id": "2026-09-17-ofac-designates-bitbank-iranian-digital-asset-exchange",
+      "date": "2026-09-17",
+      "published": "2026-09-17T21:45:00Z",
+      "title": "Treasury designates Iranian digital asset exchange BitBank and its developer under E.O. 13902",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-09-17-ofac-designates-bitbank-iranian-digital-asset-exchange",
+      "issuing_body": "U.S. Department of the Treasury / OFAC",
+      "source_url": "https://home.treasury.gov/news/press-releases/sb0632",
+      "source_label": "U.S. Department of the Treasury, press release SB0632 (September 17, 2026)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "crypto exchanges, digital asset custodians, payment processors, sanctions compliance teams",
+      "tags": [
+        "crypto",
+        "sanctions",
+        "ofac",
+        "treasury",
+        "enforcement",
+        "iran",
+        "bitcoin",
+        "sdn",
+        "us-federal"
+      ]
+    },
+    {
+      "id": "2026-09-17-sec-innovation-exemption-tokenized-nms-stock",
+      "date": "2026-09-17",
+      "published": "2026-09-17T21:45:00Z",
+      "title": "SEC issues temporary conditional \"Innovation Exemption\" for trading tokenized NMS stock, and requests comment",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-09-17-sec-innovation-exemption-tokenized-nms-stock",
+      "issuing_body": "U.S. Securities and Exchange Commission",
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2026-90-sec-issues-innovation-exemption-facilitate-trading-tokenized-nms-stock-request-comment",
+      "source_label": "U.S. Securities and Exchange Commission, press release 2026-90 (September 17, 2026)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "tokenized securities venues, broker-dealers, crypto exchanges, market makers, listed issuers",
+      "tags": [
+        "crypto",
+        "sec",
+        "tokenization",
+        "tokenized-securities",
+        "nms-stock",
+        "market-structure",
+        "exemptive-order",
+        "request-for-comment",
+        "us-federal"
+      ]
+    },
+    {
+      "id": "2026-09-17-cftc-no-action-passive-software-providers",
+      "date": "2026-09-17",
+      "published": "2026-09-17T21:45:00Z",
+      "title": "CFTC staff issues broadly available no-action position for \"passive software providers\" routing users to registered entities",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-09-17-cftc-no-action-passive-software-providers",
+      "issuing_body": "Commodity Futures Trading Commission",
+      "source_url": "https://www.cftc.gov/PressRoom/PressReleases/9300-26",
+      "source_label": "Commodity Futures Trading Commission, press release 9300-26 and CFTC Staff Letter 26-25 (September 17, 2026)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "trading-app developers, DeFi front-ends, introducing brokers, futures commission merchants, designated contract markets",
+      "tags": [
+        "crypto",
+        "fintech",
+        "cftc",
+        "no-action-letter",
+        "registration",
+        "introducing-broker",
+        "designated-contract-market",
+        "us-federal"
+      ]
+    },
     {
       "id": "2026-09-16-house-ways-means-advances-digital-asset-tax-certainty-act",
       "date": "2026-09-16",

@@ -8,6 +8,77 @@
   },
   "items": [
     {
+      "id": "2026-09-17-ofac-designates-bitbank-iranian-digital-asset-exchange",
+      "date": "2026-09-17",
+      "published": "2026-09-17T21:45:00Z",
+      "issuing_body": "U.S. Department of the Treasury / OFAC",
+      "title": "Treasury designates Iranian digital asset exchange BitBank and its developer under E.O. 13902",
+      "facts": "On September 17, 2026, the Treasury Department announced that OFAC designated, under Executive Order 13902, the Iranian digital assets exchange BitBank; Pishtaz Simorgh Electronic Trade Company, identified in the release as BitBank's developer; and three individuals identified as associates of previously designated Iranian financier Babak Zanjani. The release, titled \"Operation Economic Outcast Disrupts Digital Asset Exchange Enabling the Iranian Regime\", states that \"BitBank is an Iranian digital assets exchange\" and that \"Between June and July of this year, Zanjani utilized BitBank to facilitate the transfer of hundreds of millions of dollars' worth of Bitcoin to the IRGC.\" It further states that \"Since June of this year, OFAC-designated Hormuz Safe Marine Services Authority has used BitBank to transfer payments it received to the Iranian regime.\" Secretary of the Treasury Scott Bessent is quoted: \"Today's designations of Iranian digital asset infrastructure make perfectly clear that efforts to finance the Iranian regime using cryptocurrencies are not beyond OFAC's reach.\" The corresponding OFAC recent-actions entry for the same date lists BITBANK (a.k.a. BITBANK3) and PISHTAZ SIMORGH ELECTRONIC TRADE COMPANY among entities added to the Specially Designated Nationals List, alongside separate Cuba-related designations and Belarus-related and Russia-related removals.",
+      "source_url": "https://home.treasury.gov/news/press-releases/sb0632",
+      "source_label": "U.S. Department of the Treasury, press release SB0632 (September 17, 2026)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "crypto exchanges, digital asset custodians, payment processors, sanctions compliance teams",
+      "tags": [
+        "crypto",
+        "sanctions",
+        "ofac",
+        "treasury",
+        "enforcement",
+        "iran",
+        "bitcoin",
+        "sdn",
+        "us-federal"
+      ]
+    },
+    {
+      "id": "2026-09-17-sec-innovation-exemption-tokenized-nms-stock",
+      "date": "2026-09-17",
+      "published": "2026-09-17T21:45:00Z",
+      "issuing_body": "U.S. Securities and Exchange Commission",
+      "title": "SEC issues temporary conditional \"Innovation Exemption\" for trading tokenized NMS stock, and requests comment",
+      "facts": "On September 17, 2026, the SEC announced a temporary, conditional exemptive order it calls the \"Innovation Exemption\", permitting entities the release describes as \"Tokenized Securities Venues\" (TSVs) to trade tokenized National Market System stock using automated market makers and \"AMM Liquidity Pools\", exempt from the definition of \"exchange\" under the Securities Exchange Act of 1934, with related relief for liquidity providers supplying tokenized NMS stock to those pools using proprietary capital. The release states the relief carries conditions including limits on the symbols and volume traded; a requirement that tokenized stock provide holders the same rights as traditional NMS stock; written notice to an issuer before trading unaffiliated tokenized stock; a requirement that smart contracts be auditable, public and deployed on public permissionless ledgers; a requirement that trading stop concurrently with the underlying stock; and public notice by the venue of its operations and trading activities. The release states the relief runs five years after publication and that the order solicits public comment. Chairman Paul S. Atkins is quoted saying the Commission is \"taking a significant step forward, within its statutory authority, to bring America's capital markets into the digital age by facilitating onchain trading of certain tokenized stocks through the 'Innovation Exemption,'\" and that the exemption \"while temporary, would allow TSVs to trade tokenized NMS stock in a permissioned environment today while the Commission considers the need for additional action to facilitate onchain trading.\" The release states the order will be published on SEC.gov and in the Federal Register. No comment deadline is stated in the release, and no corresponding Federal Register document had published as of this entry.",
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2026-90-sec-issues-innovation-exemption-facilitate-trading-tokenized-nms-stock-request-comment",
+      "source_label": "U.S. Securities and Exchange Commission, press release 2026-90 (September 17, 2026)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "tokenized securities venues, broker-dealers, crypto exchanges, market makers, listed issuers",
+      "tags": [
+        "crypto",
+        "sec",
+        "tokenization",
+        "tokenized-securities",
+        "nms-stock",
+        "market-structure",
+        "exemptive-order",
+        "request-for-comment",
+        "us-federal"
+      ]
+    },
+    {
+      "id": "2026-09-17-cftc-no-action-passive-software-providers",
+      "date": "2026-09-17",
+      "published": "2026-09-17T21:45:00Z",
+      "issuing_body": "Commodity Futures Trading Commission",
+      "title": "CFTC staff issues broadly available no-action position for \"passive software providers\" routing users to registered entities",
+      "facts": "On September 17, 2026, the CFTC's Market Participants Division announced a no-action position for passive software providers, described in the release as comparable to Staff Letter 26-09 but now broadly accessible. The release states that the Division \"will not recommend the Commission take enforcement action against any such provider or their relevant personnel for failure to register\" as introducing brokers or associated persons, limited to the provision and marketing of software facilitating user trading with registered entities, subject to specified conditions. The underlying CFTC Staff Letter 26-25, dated the same day, sets out ten conditions for \"Passive Software Providers\" engaged only in \"Covered Activities\": no statutory disqualification of the provider or its principals absent a waiver, with prompt notification if one occurs; disclosure of the provider's relationships with registrants including potential conflicts and fees; risk disclosure statements addressing the risks covered by Commission Regulation 1.55(b) unless the registrant is obligated to provide them; that \"Users are onboarded as direct members (for DCMs) or customers (for registered FCMs and IBs), and they continue to have the ability to access the respective Registrant independently of the PSP\"; policies ensuring compliance with Commission and NFA rules on public communications and marketing; no advertising requiring NFA pre-approval under NFA Compliance Rule 2-29; written undertakings between the provider and registrants establishing joint and several liability and consenting to Commission jurisdiction; compliance records consistent with Commission Regulation 1.31; notification to the Division on insolvency or bankruptcy; and a notice filed with the Division agreeing to satisfy the conditions and consenting to Commission jurisdiction.",
+      "source_url": "https://www.cftc.gov/PressRoom/PressReleases/9300-26",
+      "source_label": "Commodity Futures Trading Commission, press release 9300-26 and CFTC Staff Letter 26-25 (September 17, 2026)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "trading-app developers, DeFi front-ends, introducing brokers, futures commission merchants, designated contract markets",
+      "tags": [
+        "crypto",
+        "fintech",
+        "cftc",
+        "no-action-letter",
+        "registration",
+        "introducing-broker",
+        "designated-contract-market",
+        "us-federal"
+      ]
+    },
+    {
       "id": "2026-09-16-house-ways-means-advances-digital-asset-tax-certainty-act",
       "date": "2026-09-16",
       "published": "2026-09-16T21:50:00Z",
