@@ -5,7 +5,24 @@
   <id>https://tg3online.github.io/regrisk-radar/</id>
   <link href="https://tg3online.github.io/regrisk-radar/" />
   <link href="https://tg3online.github.io/regrisk-radar/atom.xml" rel="self" type="application/atom+xml" />
-  <updated>2026-09-17T21:47:39Z</updated>
+  <updated>2026-09-18T09:48:57Z</updated>
+  <entry>
+    <title>SEC publishes NYSE Arca and NYSE American proposals to list &quot;Binary KPI Options&quot; settling on issuer-reported financial metrics</title>
+    <id>https://tg3online.github.io/regrisk-radar/#2026-09-18-sec-nyse-binary-kpi-options-notices</id>
+    <link href="https://tg3online.github.io/regrisk-radar/#2026-09-18-sec-nyse-binary-kpi-options-notices" rel="alternate" />
+    <updated>2026-09-18T00:00:00Z</updated>
+    <published>2026-09-18T00:00:00Z</published>
+    <category term="U.S. Securities and Exchange Commission" />
+    <content type="text">Two notices published in the Federal Register on September 18, 2026 give notice of proposed rule changes filed by NYSE Arca, Inc. (Release No. 34-106370, File No. SR-NYSEARCA-2026-93, 91 FR 59199) and NYSE American LLC (Release No. 34-106367, File No. SR-NYSEAMER-2026-82, 91 FR 59217) to permit the listing and trading of &quot;Binary KPI Options.&quot; Both filings are dated September 15, 2026. The NYSE American notice defines the product as &quot;a cash-settled option contract listed on an underlying KPI of an issuer with an exercise settlement amount that is established at the creation of the option and with a settlement value that is determined by whether a specific KPI disclosed by the issuer in an earnings-related filing submitted to the Commission meets or exceeds its exercise price.&quot; The notices state the contracts are European-style and cash-settled with a fixed exercise settlement amount of $1.00, that &quot;100 binary KPI option contracts equal one standard option contract,&quot; and that &quot;the position limit for binary KPI options is the same as the applicable position limit for the stock of the issuer per expiration.&quot; The Arca notice identifies an eligible list of roughly 21 to 22 named issuers, including Apple, Inc., Advanced Micro Devices, Inc., Alphabet Inc., Amazon.com, Inc., Bank of America Corporation and Citigroup Inc., and identifies eligible metrics including diluted earnings per share, total revenues and net sales, segment revenues, net interest income and credit loss provisions, operating and gross margins, cash flow, and named operational metrics including hashrate and bitcoin holdings for Marathon Digital Holdings and transaction volumes for Coinbase. The notices state the exchanges take the position that the contracts are options &quot;based on the value&quot; of securities under Section 3(a)(10) of the Securities Exchange Act, are eligible to trade on a registered national securities exchange, and are standardized options subject to the disclosure framework of Rule 9b-1. The proposed rule changes have not been approved. Neither Federal Register page nor the Federal Register full-text endpoint states a comment deadline.
+
+Primary source: Federal Register - SEC Release No. 34-106370, 91 FR 59199 (Sept. 18, 2026) — https://www.federalregister.gov/documents/2026/09/18/2026-19139/self-regulatory-organizations-nyse-arca-inc-notice-of-filing-of-a-proposed-rule-change-to-permit-the
+
+Relevant to: options exchanges, event-contract and prediction-market venues, broker-dealers, market makers, listed issuers
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</content>
+  </entry>
   <entry>
     <title>Treasury designates Iranian digital asset exchange BitBank and its developer under E.O. 13902</title>
     <id>https://tg3online.github.io/regrisk-radar/#2026-09-17-ofac-designates-bitbank-iranian-digital-asset-exchange</id>
@@ -52,6 +69,23 @@ RegRisk Radar is regulatory-risk intelligence provided for general informational
 Primary source: Commodity Futures Trading Commission, press release 9300-26 and CFTC Staff Letter 26-25 (September 17, 2026) — https://www.cftc.gov/PressRoom/PressReleases/9300-26
 
 Relevant to: trading-app developers, DeFi front-ends, introducing brokers, futures commission merchants, designated contract markets
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</content>
+  </entry>
+  <entry>
+    <title>FTC announces FleetCor, now Corpay, and its CEO will pay $100 million to resolve an administrative action over unauthorized fuel-card fees</title>
+    <id>https://tg3online.github.io/regrisk-radar/#2026-09-17-ftc-fleetcor-corpay-fuel-card-fees</id>
+    <link href="https://tg3online.github.io/regrisk-radar/#2026-09-17-ftc-fleetcor-corpay-fuel-card-fees" rel="alternate" />
+    <updated>2026-09-17T00:00:00Z</updated>
+    <published>2026-09-17T00:00:00Z</published>
+    <category term="Federal Trade Commission" />
+    <content type="text">A Federal Trade Commission press release dated September 17, 2026 states that FleetCor Technologies Inc., now known as Corpay Inc., and its chief executive Ronald Clarke agreed to pay $100 million to resolve an administrative action, with the money designated &quot;to provide redress to the company&#x27;s business customers harmed by its practices.&quot; The release states the FTC alleged the company &quot;charged its customers, who overwhelmingly are small businesses,&quot; hidden or otherwise unauthorized fees amounting to hundreds of millions of dollars, including late fees charged to customers who had paid on time or had been prevented from paying on time, and that the company misrepresented &quot;the gas savings, fraud-control features, and fees&quot; of its fuel cards. The release states that a federal district court granted summary judgment for the FTC on all counts in 2023 and that in 2026 &quot;a federal appeals court upheld the summary judgment against FleetCor on all counts and affirmed the permanent injunction.&quot; The release states the injunction prohibits the company from billing customers without obtaining express informed consent and providing clear and unavoidable information about the charge, from hiding material information behind hyperlinks, and from making deceptive claims about its fuel cards. The matter is identified as FTC Matter No. 182-3000, and the release states the Commission vote was 1-0-1, with Chairman Ferguson recused. The press release does not name the appeals court or give a docket number.
+
+Primary source: Federal Trade Commission press release (Sept. 17, 2026) — https://www.ftc.gov/news-events/news/press-releases/2026/09/fleetcor-agrees-pay-100-million-resolve-administrative-action-after-federal-court-finds-it-violated
+
+Relevant to: payment card issuers and programs, commercial and fuel-card operators, BNPL and earned-wage-access providers, subscription billing operators
 
 For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
 

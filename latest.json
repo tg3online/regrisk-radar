@@ -1,8 +1,30 @@
 {
-  "generated": "2026-09-17T21:47:39Z",
+  "generated": "2026-09-18T09:48:57Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 206,
+  "count": 208,
   "items": [
+    {
+      "id": "2026-09-18-sec-nyse-binary-kpi-options-notices",
+      "date": "2026-09-18",
+      "published": "2026-09-18T00:00:00Z",
+      "title": "SEC publishes NYSE Arca and NYSE American proposals to list \"Binary KPI Options\" settling on issuer-reported financial metrics",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-09-18-sec-nyse-binary-kpi-options-notices",
+      "issuing_body": "U.S. Securities and Exchange Commission",
+      "source_url": "https://www.federalregister.gov/documents/2026/09/18/2026-19139/self-regulatory-organizations-nyse-arca-inc-notice-of-filing-of-a-proposed-rule-change-to-permit-the",
+      "source_label": "Federal Register - SEC Release No. 34-106370, 91 FR 59199 (Sept. 18, 2026)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "options exchanges, event-contract and prediction-market venues, broker-dealers, market makers, listed issuers",
+      "tags": [
+        "sec",
+        "sro-rule-filing",
+        "binary-options",
+        "event-contracts",
+        "market-structure",
+        "federal-register",
+        "us-federal"
+      ]
+    },
     {
       "id": "2026-09-17-ofac-designates-bitbank-iranian-digital-asset-exchange",
       "date": "2026-09-17",
@@ -71,6 +93,28 @@
         "registration",
         "introducing-broker",
         "designated-contract-market",
+        "us-federal"
+      ]
+    },
+    {
+      "id": "2026-09-17-ftc-fleetcor-corpay-fuel-card-fees",
+      "date": "2026-09-17",
+      "published": "2026-09-17T00:00:00Z",
+      "title": "FTC announces FleetCor, now Corpay, and its CEO will pay $100 million to resolve an administrative action over unauthorized fuel-card fees",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-09-17-ftc-fleetcor-corpay-fuel-card-fees",
+      "issuing_body": "Federal Trade Commission",
+      "source_url": "https://www.ftc.gov/news-events/news/press-releases/2026/09/fleetcor-agrees-pay-100-million-resolve-administrative-action-after-federal-court-finds-it-violated",
+      "source_label": "Federal Trade Commission press release (Sept. 17, 2026)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "payment card issuers and programs, commercial and fuel-card operators, BNPL and earned-wage-access providers, subscription billing operators",
+      "tags": [
+        "ftc",
+        "enforcement",
+        "payments",
+        "commercial-cards",
+        "fee-disclosure",
+        "billing-consent",
         "us-federal"
       ]
     },
