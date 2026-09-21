@@ -1,8 +1,30 @@
 {
-  "generated": "2026-09-18T09:48:57Z",
+  "generated": "2026-09-21T09:55:37Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 208,
+  "count": 210,
   "items": [
+    {
+      "id": "2026-09-21-sec-nadex-crypto-com-exchange-registration-federal-register",
+      "date": "2026-09-21",
+      "published": "2026-09-21T10:00:00Z",
+      "title": "SEC notice acknowledging North American Derivatives Exchange's registration as a national securities exchange publishes in the Federal Register",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-09-21-sec-nadex-crypto-com-exchange-registration-federal-register",
+      "issuing_body": "U.S. Securities and Exchange Commission",
+      "source_url": "https://www.federalregister.gov/documents/2026/09/21/2026-19215/acknowledgement-of-receipt-of-notice-of-registration-as-a-national-securities-exchange-pursuant-to",
+      "source_label": "Federal Register — SEC Notice 2026-19215 (Release No. 34-106396, File No. 10-255)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "crypto derivatives venues, exchanges, event-contract platforms, broker-dealers",
+      "tags": [
+        "sec",
+        "crypto",
+        "market-structure",
+        "exchange-registration",
+        "security-futures",
+        "federal-register",
+        "us-federal"
+      ]
+    },
     {
       "id": "2026-09-18-sec-nyse-binary-kpi-options-notices",
       "date": "2026-09-18",
@@ -22,6 +44,26 @@
         "event-contracts",
         "market-structure",
         "federal-register",
+        "us-federal"
+      ]
+    },
+    {
+      "id": "2026-09-18-federal-reserve-consent-prohibition-orders",
+      "date": "2026-09-18",
+      "published": "2026-09-18T00:00:00Z",
+      "title": "Federal Reserve Board announces three consent prohibition orders, including one involving a former American Express Travel Related Services employee",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-09-18-federal-reserve-consent-prohibition-orders",
+      "issuing_body": "Board of Governors of the Federal Reserve System",
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918a.htm",
+      "source_label": "Federal Reserve Board — Enforcement Actions press release, September 18, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "card issuers, payment processors, bank-partnered fintechs",
+      "tags": [
+        "federal-reserve",
+        "payments",
+        "enforcement",
+        "prohibition-order",
         "us-federal"
       ]
     },
