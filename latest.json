@@ -1,8 +1,56 @@
 {
-  "generated": "2026-09-21T09:55:37Z",
+  "generated": "2026-09-21T21:57:18Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 210,
+  "count": 213,
   "items": [
+    {
+      "id": "2026-09-21-sec-temporary-conditional-exemptive-relief-tokenized-nms-stock",
+      "date": "2026-09-21",
+      "published": "2026-09-21T21:50:00Z",
+      "title": "SEC files its tokenized-stock exemptive order for publication: five-year conditional exemptions from the exchange and dealer definitions for automated-market-maker venues trading tokenized NMS stock",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-09-21-sec-temporary-conditional-exemptive-relief-tokenized-nms-stock",
+      "issuing_body": "U.S. Securities and Exchange Commission",
+      "source_url": "https://www.federalregister.gov/public-inspection/2026-19388/order-temporary-conditional-exemptive-relief",
+      "source_label": "Federal Register public inspection - SEC, Order: Temporary Conditional Exemptive Relief (document 2026-19388), full text retrieved",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "tokenized-equity venues, crypto exchanges and brokers, market makers and liquidity providers, custodians and transfer agents",
+      "tags": [
+        "crypto",
+        "sec",
+        "tokenization",
+        "market-structure",
+        "exemptive-relief",
+        "automated-market-maker",
+        "nms-stock",
+        "federal-register",
+        "us-federal"
+      ]
+    },
+    {
+      "id": "2026-09-21-ftc-corpay-fleetcor-consent-order-federal-register",
+      "date": "2026-09-21",
+      "published": "2026-09-21T21:45:00Z",
+      "title": "FTC files its Corpay (formerly FleetCor) fuel-card consent order for publication with a 30-day comment period; $100 million in monetary relief and consent required before charging customers",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-09-21-ftc-corpay-fleetcor-consent-order-federal-register",
+      "issuing_body": "Federal Trade Commission",
+      "source_url": "https://public-inspection.federalregister.gov/2026-19289.pdf",
+      "source_label": "Federal Register public inspection - FTC, Consent Order: FleetCor Technologies (document 2026-19289), full text retrieved",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "commercial card and fuel card issuers, payment processors, small-business lenders and billers, fintech fee-disclosure teams",
+      "tags": [
+        "payments",
+        "ftc",
+        "enforcement",
+        "consent-order",
+        "fuel-cards",
+        "commercial-cards",
+        "unauthorized-fees",
+        "federal-register",
+        "us-federal"
+      ]
+    },
     {
       "id": "2026-09-21-sec-nadex-crypto-com-exchange-registration-federal-register",
       "date": "2026-09-21",
@@ -22,6 +70,29 @@
         "exchange-registration",
         "security-futures",
         "federal-register",
+        "us-federal"
+      ]
+    },
+    {
+      "id": "2026-09-18-occ-conditional-approval-three-digital-asset-trust-banks",
+      "date": "2026-09-18",
+      "published": "2026-09-18T20:00:00Z",
+      "title": "OCC reported to have granted national trust bank charter approvals to three digital-asset firms - Agora, Catena and Bastion",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-09-18-occ-conditional-approval-three-digital-asset-trust-banks",
+      "issuing_body": "Office of the Comptroller of the Currency",
+      "source_url": "https://www.pymnts.com/legal/bank-regulation/2026/occ-opens-three-bank-doors-to-stablecoins-and-ai-agents/",
+      "source_label": "PYMNTS coverage (September 20, 2026), corroborated by CoinDesk via Yahoo Finance (September 21, 2026) and Bastion's own release (September 18, 2026) - OCC announcement not retrieved",
+      "source_type": "coverage_reporting_filing",
+      "primary_source_status": "cited_by_coverage_not_retrieved",
+      "relevant_to": "stablecoin issuers, digital-asset custodians, crypto payment providers, banks partnering with digital-asset firms",
+      "tags": [
+        "crypto",
+        "stablecoin",
+        "payments",
+        "occ",
+        "bank-charter",
+        "national-trust-bank",
+        "custody",
         "us-federal"
       ]
     },

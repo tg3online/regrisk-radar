@@ -5,8 +5,40 @@
     <link>https://tg3online.github.io/regrisk-radar/</link>
     <description>Daily facts-only regulatory radar — crypto, gaming, payments &amp; fintech. Verified against primary sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Sep 2026 09:55:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 21:57:18 +0000</lastBuildDate>
     <atom:link href="https://tg3online.github.io/regrisk-radar/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SEC files its tokenized-stock exemptive order for publication: five-year conditional exemptions from the exchange and dealer definitions for automated-market-maker venues trading tokenized NMS stock</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-09-21-sec-temporary-conditional-exemptive-relief-tokenized-nms-stock</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-09-21-sec-temporary-conditional-exemptive-relief-tokenized-nms-stock</guid>
+      <pubDate>Mon, 21 Sep 2026 21:50:00 +0000</pubDate>
+      <category>U.S. Securities and Exchange Commission</category>
+      <description>The Securities and Exchange Commission filed with the Office of the Federal Register on September 21, 2026 a 54-page document titled &quot;Order: Temporary Conditional Exemptive Relief&quot; (document 2026-19388, Release No. 34-106402, File No. 4-927), dated September 17, 2026 and scheduled for publication on September 22, 2026. The order states that the Commission &quot;hereby issues these temporary, conditional exemptions to facilitate the permissioned trading of tokenized NMS stock using innovative automated market makers (&#x27;AMMs&#x27;) and liquidity pools.&quot; It grants, under section 36(a)(1) of the Exchange Act, a temporary exemption from the definition of &quot;exchange&quot; in section 3(a)(1) to a Tokenized Securities Venue (TSV), described in the order as an &quot;organization, association, or group of persons that brings together buyers and sellers of Tokenized NMS Stock,&quot; and an exemption from the definition of &quot;dealer&quot; in section 3(a)(5) for liquidity providers in an AMM liquidity pool that supply tokenized NMS stock using proprietary capital. Conditions stated in the order include that &quot;A TSV must be a U.S. person&quot;; that smart contracts be &quot;auditable, public, and deployed on a public, permissionless distributed ledger&quot;; publication of a notice on the venue&#x27;s public website 30 days before operating and written notice to the Commission one business day before operating; tiered volume caps of 0.25% of average daily volume and a maximum of 75 symbols at Tier 1 and 2.5% and 250 symbols at Tier 2, with three-month trading pauses for breaches after a first inadvertent breach; that &quot;A TSV must stop trading in a Tokenized NMS Stock concurrently with any stoppage of trading in the underlying NMS stock on the primary listing exchange&quot;; transaction data made &quot;freely and publicly available&quot; and updated &quot;within ten (10) minutes of the occurrence of any transaction&quot;; a prohibition on borrowing or hypothecating securities or non-security crypto assets on the venue; and preservation of books and records for three years after the exemption ends. The order states it is &quot;Set to expire five years after publication&quot; and is &quot;intended as an interim, targeted measure.&quot; The public-inspection record carries no comment-close date and no DATES section was found in the document.
+
+Primary source: Federal Register public inspection - SEC, Order: Temporary Conditional Exemptive Relief (document 2026-19388), full text retrieved — https://www.federalregister.gov/public-inspection/2026-19388/order-temporary-conditional-exemptive-relief
+
+Relevant to: tokenized-equity venues, crypto exchanges and brokers, market makers and liquidity providers, custodians and transfer agents
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+    <item>
+      <title>FTC files its Corpay (formerly FleetCor) fuel-card consent order for publication with a 30-day comment period; $100 million in monetary relief and consent required before charging customers</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-09-21-ftc-corpay-fleetcor-consent-order-federal-register</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-09-21-ftc-corpay-fleetcor-consent-order-federal-register</guid>
+      <pubDate>Mon, 21 Sep 2026 21:45:00 +0000</pubDate>
+      <category>Federal Trade Commission</category>
+      <description>The Federal Trade Commission filed with the Office of the Federal Register on September 21, 2026 a document titled &quot;Consent Order: FleetCor Technologies&quot; (document 2026-19289), scheduled for publication on September 22, 2026. The document concerns FTC Docket No. 9403 and identifies the respondents as &quot;Corpay, Inc. (formerly known as FleetCor Technologies, Inc.) and its CEO, Ronald Clarke.&quot; It states that &quot;Respondents unfairly charged their customers, who overwhelmingly are small businesses, a variety of unauthorized fees&quot; and that respondents &quot;misrepresented the gas savings (Count I), fraud-control features (Count II), and fees (Count III)&quot; of their fuel cards. On relief it states that &quot;Provision I requires Respondents to pay the Commission $100,000,000 in monetary relief&quot; and describes a permanent injunction &quot;that requires consent before charging customers, prohibits misrepresentations, and bars other unlawful conduct.&quot; On the comment period the document as filed states: &quot;Comments must be received on or before [INSERT DATE 30 DAYS AFTER DATE OF PUBLICATION IN THE FEDERAL REGISTER].&quot; No calendar deadline is stated in the document as filed.
+
+Primary source: Federal Register public inspection - FTC, Consent Order: FleetCor Technologies (document 2026-19289), full text retrieved — https://public-inspection.federalregister.gov/2026-19289.pdf
+
+Relevant to: commercial card and fuel card issuers, payment processors, small-business lenders and billers, fintech fee-disclosure teams
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
     <item>
       <title>SEC notice acknowledging North American Derivatives Exchange&#x27;s registration as a national securities exchange publishes in the Federal Register</title>
       <link>https://tg3online.github.io/regrisk-radar/#2026-09-21-sec-nadex-crypto-com-exchange-registration-federal-register</link>
@@ -18,6 +50,22 @@
 Primary source: Federal Register — SEC Notice 2026-19215 (Release No. 34-106396, File No. 10-255) — https://www.federalregister.gov/documents/2026/09/21/2026-19215/acknowledgement-of-receipt-of-notice-of-registration-as-a-national-securities-exchange-pursuant-to
 
 Relevant to: crypto derivatives venues, exchanges, event-contract platforms, broker-dealers
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+    <item>
+      <title>OCC reported to have granted national trust bank charter approvals to three digital-asset firms - Agora, Catena and Bastion</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-09-18-occ-conditional-approval-three-digital-asset-trust-banks</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-09-18-occ-conditional-approval-three-digital-asset-trust-banks</guid>
+      <pubDate>Fri, 18 Sep 2026 20:00:00 +0000</pubDate>
+      <category>Office of the Comptroller of the Currency</category>
+      <description>As reported by CoinDesk (carried on Yahoo Finance, September 21, 2026) and by PYMNTS (September 20, 2026), the Office of the Comptroller of the Currency acted on September 18, 2026 on three national trust bank charter applications from digital-asset firms. CoinDesk reports that &quot;The Office of the Comptroller of the Currency (OCC) conditionally approved three crypto-focused national trust banks on Sept. 18, adding Bastion, Catena, and Agora to a rapidly expanding field of federally regulated digital asset institutions,&quot; that &quot;The OCC granted preliminary conditional approval for two new institutions: Catena Trust Bank and Agora National Trust Bank,&quot; and that &quot;Bastion Platforms Trust Company received permission to convert its existing New York trust company into Bastion Platforms National Trust Company.&quot; PYMNTS names the same three institutions and the same September 18 action date. In its own release of September 18, 2026, Bastion states that &quot;the Office of the Comptroller of the Currency (OCC) has granted the business preliminary conditional approval for a national trust bank charter,&quot; that &quot;The charter allows Bastion to bring its stablecoin issuance, custody and conversion products under one federally regulated entity,&quot; and that &quot;Bastion will provide fiduciary custody of USDC and other GENIUS Act-compliant digital assets, and white-label stablecoin wallet and issuance services.&quot; The OCC&#x27;s own announcement and the underlying conditional approval letters were not retrieved and are not quoted here; the conditions attached to the approvals are not stated by any source cited above.
+
+Coverage (reporting filing): PYMNTS coverage (September 20, 2026), corroborated by CoinDesk via Yahoo Finance (September 21, 2026) and Bastion&#x27;s own release (September 18, 2026) - OCC announcement not retrieved — https://www.pymnts.com/legal/bank-regulation/2026/occ-opens-three-bank-doors-to-stablecoins-and-ai-agents/
+
+Relevant to: stablecoin issuers, digital-asset custodians, crypto payment providers, banks partnering with digital-asset firms
 
 For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
 
