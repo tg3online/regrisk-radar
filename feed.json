@@ -6,6 +6,86 @@
   "description": "Daily facts-only regulatory radar — crypto, gaming, payments & fintech. Verified against primary sources.",
   "items": [
     {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-09-22-kalshiex-perpetual-security-futures-sec-rule-filing",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-09-22-kalshiex-perpetual-security-futures-sec-rule-filing",
+      "title": "KalshiEX files an immediately effective SEC rule change to list perpetual security futures on individual equities",
+      "content_text": "Securities and Exchange Commission document 2026-19409 was filed for public inspection on September 22, 2026 at 8:45 a.m. and is scheduled for publication in the Federal Register on September 23, 2026. The document is captioned Notice of Filing and Immediate Effectiveness of a Proposed Rule Change Relating to Listing Standards for Security Futures Products, carries Release No. 34-106422 and File No. SR-KALSHIEX-2026-02, and records the filing as submitted on September 18, 2026 by KalshiEX LLC. The document states that the purpose of the proposed rule change is to enable the Exchange to list contracts that convey exposure to the price of an underlying equity security, have no pre-specified expiration date and are designated as Perpetual SFPs. The filing adopts a new chapter of the KalshiEX rulebook governing Perpetual Security Futures Products, including a daily funding-payment mechanism keyed to the price difference between the contract and the underlying equity security. The Federal Register citation and canonical published URL do not exist until publication.\n\nPrimary source: Federal Register - SEC Notice 2026-19409 (public inspection) — https://www.federalregister.gov/d/2026-19409\n\nRelevant to: prediction-market and crypto-derivatives venues, FCMs, introducing brokers, broker-dealers, equity-derivatives trading firms\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-09-22T21:50:00Z",
+      "tags": [
+        "sec",
+        "security-futures",
+        "perpetual-futures",
+        "prediction-markets",
+        "market-structure",
+        "sro-rule-filing",
+        "us-federal"
+      ]
+    },
+    {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-09-22-coinbase-derivatives-perpetual-single-stock-futures-sec-filing",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-09-22-coinbase-derivatives-perpetual-single-stock-futures-sec-filing",
+      "title": "Coinbase Derivatives files an immediately effective SEC rule change for cash-settled equity and ETF futures, including perpetual single-stock futures",
+      "content_text": "Securities and Exchange Commission document 2026-19407 was filed for public inspection on September 22, 2026 at 8:45 a.m. and is scheduled for publication in the Federal Register on September 23, 2026. The document is captioned Notice of Filing and Immediate Effectiveness of a Proposed Rule Change Relating to the Adoption of Coinbase Derivatives, LLC's Rules Governing Cash Settled Futures on Individual Equity Securities and Exchange-Traded Fund Shares, Including Perpetual Single-Stock Futures, and carries Release No. 34-106420 and File No. SR-COIN-2026-002. The document states: CDE proposes to adopt Chapter 12 (Security Futures Products) of the CDE Rulebook to allow the listing and trading of cash settled futures on individual equity securities and exchange-traded fund shares, including perpetual single-stock futures. The contracts described are cash-settled, have no fixed expiration date, and settle through daily funding payments rather than final delivery. The Federal Register citation and canonical published URL do not exist until publication.\n\nPrimary source: Federal Register - SEC Notice 2026-19407 (public inspection) — https://www.federalregister.gov/d/2026-19407\n\nRelevant to: crypto-derivatives venues, FCMs, broker-dealers, equity-derivatives trading firms, retail trading platforms\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-09-22T21:50:00Z",
+      "tags": [
+        "sec",
+        "security-futures",
+        "perpetual-futures",
+        "single-stock-futures",
+        "coinbase",
+        "market-structure",
+        "sro-rule-filing",
+        "us-federal"
+      ]
+    },
+    {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-09-22-bitnomial-security-futures-listing-standards-sec-filing",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-09-22-bitnomial-security-futures-listing-standards-sec-filing",
+      "title": "Bitnomial Exchange files SEC rules for security futures listing standards and customer margin, following its notice registration",
+      "content_text": "Securities and Exchange Commission document 2026-19408 was filed for public inspection on September 22, 2026 at 8:45 a.m. and is scheduled for publication in the Federal Register on September 23, 2026. The document is captioned Notice of a Filing of a Proposed Rule Change Relating to Security Futures Product Listing Standards, Customer Margin and Related Rules, and carries Release No. 34-106421 and File No. SR-BTNL-2026-001. The document states: The Exchange is establishing rules for its security-futures business following its notice registration. The proposal adds security-futures requirements to the Exchange's existing rules. The proposal sets generic listing standards for cash-settled security futures on individual equity securities, covers permitted contract types including perpetual contracts without scheduled expiration, and addresses funding mechanics, pricing, settlement and customer margin. Unlike the KalshiEX and Coinbase Derivatives filings of the same date, this filing is not captioned as immediately effective. The Federal Register citation and canonical published URL do not exist until publication.\n\nPrimary source: Federal Register - SEC Notice 2026-19408 (public inspection) — https://www.federalregister.gov/d/2026-19408\n\nRelevant to: crypto-derivatives venues, FCMs, clearing firms, equity-derivatives trading firms\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-09-22T21:50:00Z",
+      "tags": [
+        "sec",
+        "security-futures",
+        "perpetual-futures",
+        "bitnomial",
+        "customer-margin",
+        "market-structure",
+        "sro-rule-filing",
+        "us-federal"
+      ]
+    },
+    {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-09-22-sec-censures-otc-link-regulation-sci",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-09-22-sec-censures-otc-link-regulation-sci",
+      "title": "SEC censures OTC Link LLC and imposes a 575,000 dollar penalty over Regulation SCI failures on its alternative trading system",
+      "content_text": "SEC press release 2026-91, dated September 22, 2026 and titled SEC Censures OTC Link LLC for Repeated Compliance Failures Related to Regulation SCI, states that the Commission settled charges against OTC Link LLC, a New York-based broker-dealer, for violations of Regulation SCI between August 2016 and March 2025. The release states that the Commission found OTC Link failed to establish, maintain and enforce written policies and procedures for its alternative trading system in the areas of systems security, access control and vulnerability management, and failed to promptly remediate deficiencies that examination staff had repeatedly flagged. The release states that the order censures OTC Link LLC, imposes a cease-and-desist order, and imposes a civil penalty of 575,000 dollars. Laura D'Allaird, Chief of the Division of Enforcement's Cyber and Emerging Technologies Unit, is quoted as saying that OTC Link's continual failure to remediate deficiencies even after they were repeatedly flagged by Division of Examinations staff reflects a disregard for their findings. The underlying administrative order is not included in the press release.\n\nPrimary source: SEC Press Release 2026-91 — https://www.sec.gov/newsroom/press-releases/2026-91-sec-censures-otc-link-llc-repeated-compliance-failures-related-regulation-sci\n\nRelevant to: alternative trading systems, SCI entities, electronic trading venues, market-infrastructure and cybersecurity compliance teams\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-09-22T21:50:00Z",
+      "tags": [
+        "sec",
+        "enforcement",
+        "regulation-sci",
+        "alternative-trading-system",
+        "cybersecurity",
+        "market-infrastructure",
+        "us-federal"
+      ]
+    },
+    {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-09-22-treasury-deputy-secretary-stablecoin-treasury-bill-holdings",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-09-22-treasury-deputy-secretary-stablecoin-treasury-bill-holdings",
+      "title": "Treasury Deputy Secretary says stablecoin providers already own nearly 200 billion dollars of Treasury bills",
+      "content_text": "Treasury press release sb0633, dated September 22, 2026 and titled Remarks by Deputy Secretary of the Treasury Francis Brooke before the Treasury Market Conference, includes remarks identifying stablecoin providers as a source of demand in the Treasury market. The remarks state that stablecoin providers represent another important source of demand and already own nearly 200 billion dollars of Treasury bills, and further state that as the rules implementing the GENIUS Act are finalized, we may see stablecoin providers continue to grow and add to their holdings of Treasury securities. The figure is as stated by the speaker in the remarks; no underlying data series is cited in the release. Beyond these passages the remarks contain no discussion of cryptocurrency, blockchain, tokenization or digital payment systems, and name no issuer, company or product.\n\nPrimary source: U.S. Treasury Press Release sb0633 — https://home.treasury.gov/news/press-releases/sb0633\n\nRelevant to: stablecoin issuers, payment companies, treasury and reserve-management teams, fintech platforms\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-09-22T21:50:00Z",
+      "tags": [
+        "treasury",
+        "stablecoins",
+        "genius-act",
+        "treasury-market",
+        "us-federal"
+      ]
+    },
+    {
       "id": "https://tg3online.github.io/regrisk-radar/#2026-09-22-sec-tokenized-nms-stock-exemptive-order-published-federal-register",
       "url": "https://tg3online.github.io/regrisk-radar/#2026-09-22-sec-tokenized-nms-stock-exemptive-order-published-federal-register",
       "title": "SEC's tokenized-stock exemptive order is published in the Federal Register at 91 FR 60168, paired with a request for comment that states no closing date",
