@@ -1,0 +1,46 @@
+{
+  "entries": [
+    {
+      "id": "2026-09-22-sec-tokenized-nms-stock-exemptive-order-published-federal-register",
+      "date": "2026-09-22",
+      "published": "2026-09-22T10:05:00Z",
+      "issuing_body": "U.S. Securities and Exchange Commission",
+      "title": "SEC's tokenized-stock exemptive order is published in the Federal Register at 91 FR 60168, paired with a request for comment that states no closing date",
+      "facts": "Securities and Exchange Commission document 2026-19388 was published in the Federal Register on September 22, 2026 at citation 91 FR 60168, document type Notice. Its published title is \"Order Granting Temporary Conditional Exemptive Relief, Pursuant to Section 36(a)(1) of the Securities Exchange Act of 1934, From the Definition of 'Exchange' in Section 3(a)(1) of the Exchange Act for the Use of Certain Distributed Ledger Trading Venues for Tokenized NMS Stocks and From the Definition of 'Dealer' in Section 3(a)(5) of the Exchange Act for Certain Liquidity Providers for Tokenized NMS Stocks, and Request for Comment\". The document carries Release No. 34-106402 and File No. 4-927 and states that \"As an initial step in that process, the Commission solicits public comment about possible modifications to the exemptive relief provided in this Order and potential next steps.\" The document states that the relief is \"Set to expire five years after publication.\" The Federal Register record for the document returns no DATES value and no comments_close_on value; no comment deadline is stated in the record.",
+      "source_url": "https://www.federalregister.gov/documents/2026/09/22/2026-19388/order-granting-temporary-conditional-exemptive-relief-pursuant-to-section-36a1-of-the-securities",
+      "source_label": "Federal Register — Securities and Exchange Commission, Notice, 09/22/2026 (Doc. 2026-19388, Release No. 34-106402, File No. 4-927, 91 FR 60168)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "tokenized-securities venues, distributed-ledger trading platforms, broker-dealers, crypto exchanges, automated market makers and liquidity providers",
+      "tags": ["sec", "crypto", "tokenization", "tokenized-securities", "nms-stock", "market-structure", "exemptive-relief", "section-36a", "automated-market-maker", "request-for-comment", "federal-register", "us-federal"]
+    },
+    {
+      "id": "2026-09-22-ftc-corpay-fleetcor-consent-order-published-comment-deadline",
+      "date": "2026-09-22",
+      "published": "2026-09-22T10:05:00Z",
+      "issuing_body": "Federal Trade Commission",
+      "title": "FTC's proposed consent order with Corpay (formerly FleetCor) is published in the Federal Register; comments are due October 22, 2026",
+      "facts": "Federal Trade Commission document 2026-19289, titled \"FleetCor Technologies; Analysis of Proposed Consent Order To Aid Public Comment\", was published in the Federal Register on September 22, 2026 at citation 91 FR 60133, document type Notice. The Federal Register record states the action as \"Proposed consent agreement; request for comment.\" and states under DATES: \"Comments must be received on or before October 22, 2026.\" The record's abstract states that \"This consent agreement addresses alleged breaches of Federal statutes governing unfair or deceptive business conduct. The accompanying Analysis of Proposed Consent Order details the complaints and settlement provisions.\" The underlying proposed consent order, announced by the Commission on September 17, 2026, concerns FTC Docket No. 9403 and identifies the respondents as Corpay, Inc. (formerly known as FleetCor Technologies, Inc.) and its CEO, Ronald Clarke; it states that \"Provision I requires Respondents to pay the Commission $100,000,000 in monetary relief\" and describes a permanent injunction \"that requires consent before charging customers, prohibits misrepresentations, and bars other unlawful conduct.\"",
+      "source_url": "https://www.federalregister.gov/documents/2026/09/22/2026-19289/fleetcor-technologies-analysis-of-proposed-consent-order-to-aid-public-comment",
+      "source_label": "Federal Register — Federal Trade Commission, Notice, 09/22/2026 (Doc. 2026-19289, FTC Docket No. 9403, 91 FR 60133)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "commercial card issuers, fuel-card and fleet-card programs, payment processors, small-business payment and billing platforms",
+      "tags": ["ftc", "payments", "enforcement", "consent-order", "fuel-cards", "commercial-cards", "unauthorized-fees", "corpay", "fleetcor", "comment-deadline", "federal-register", "us-federal"]
+    },
+    {
+      "id": "2026-09-21-cftc-innovation-task-force-frontier-forum-series",
+      "date": "2026-09-21",
+      "published": "2026-09-22T10:05:00Z",
+      "issuing_body": "Commodity Futures Trading Commission",
+      "title": "CFTC Innovation Task Force announces a \"Frontier Forum\" series of public roundtables; the inaugural forum, on artificial intelligence and agentic finance, is set for October 28, 2026",
+      "facts": "The Commodity Futures Trading Commission issued release 9301-26 on September 21, 2026, titled \"CFTC Innovation Task Force to Host Frontier Forum Series on Innovative Financial Technologies\". The release announces the Frontier Forum Series, described as \"a series of public roundtables on the technologies that are transforming American financial markets\", stated to be intended to facilitate dialogue between builders and leaders from the public and private sectors on how the Commission can foster responsible innovation while safeguarding market integrity. On timing the release states: \"The inaugural Frontier Forum, focused on artificial intelligence and agentic finance, will take place on Wednesday, October 28, 2026.\" The release as published does not mention digital assets, cryptocurrency, tokenization, prediction markets or stablecoins.",
+      "source_url": "https://www.cftc.gov/PressRoom/PressReleases/9301-26",
+      "source_label": "Commodity Futures Trading Commission — Press Release 9301-26, 09/21/2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "derivatives exchanges, futures commission merchants, crypto-derivatives and prediction-market platforms, trading-technology and fintech developers",
+      "tags": ["cftc", "fintech", "innovation-task-force", "artificial-intelligence", "agentic-finance", "roundtable", "market-structure", "us-federal"]
+    }
+  ]
+}
