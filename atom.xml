@@ -5,7 +5,75 @@
   <id>https://tg3online.github.io/regrisk-radar/</id>
   <link href="https://tg3online.github.io/regrisk-radar/" />
   <link href="https://tg3online.github.io/regrisk-radar/atom.xml" rel="self" type="application/atom+xml" />
-  <updated>2026-09-22T21:54:10Z</updated>
+  <updated>2026-09-23T10:03:21Z</updated>
+  <entry>
+    <title>CFTC staff advisory says &#x27;mention market&#x27; event contracts present a heightened risk of manipulation</title>
+    <id>https://tg3online.github.io/regrisk-radar/#2026-09-22-cftc-staff-advisory-mention-markets</id>
+    <link href="https://tg3online.github.io/regrisk-radar/#2026-09-22-cftc-staff-advisory-mention-markets" rel="alternate" />
+    <updated>2026-09-23T10:00:00Z</updated>
+    <published>2026-09-23T10:00:00Z</published>
+    <category term="Commodity Futures Trading Commission" />
+    <content type="text">The CFTC issued release 9302-26 on September 22, 2026, announcing an advisory from its Division of Market Oversight, published as CFTC Staff Letter No. 26-27 and dated the same day. The advisory addresses event contracts that settle on whether an individual will say or &#x27;mention&#x27; certain words, attend or appear at an event, or otherwise interact with another person. The release states that such contracts present &#x27;a heightened risk of manipulation because their settlement turns on the discrete conduct of a person that may be neither independently generated nor externally verifiable.&#x27; The letter states that &#x27;Under DCM Core Principle 3, each DCM has a specific statutory obligation to list for trading only derivative contracts that are not readily susceptible to manipulation,&#x27; and identifies risks including control of the outcome by those closest to it, advance knowledge amounting to material nonpublic information, difficulty of detection where conduct occurs in informal or private settings, and susceptibility to &#x27;social engineering, inducements, or public pressure campaigns.&#x27; It sets out factors designated contract markets should consider when designing such contracts under Commission Regulations 40.2 or 40.3, including whether independent obligations constrain the individual whose conduct controls settlement, susceptibility to external pressure, the availability of independent verification and public scrutiny, and the robustness of trading rules, surveillance and controls, and it reminds DCMs to provide complete, contract-specific analysis in Part 40 submissions. The letter states that the advisory &#x27;is informational and does not create new obligations&#x27; and &#x27;does not, and may not be relied upon to create any new binding rules or regulations.&#x27; Neither document names any exchange, platform or contract, and neither states an effective or compliance date.
+
+Primary source: CFTC press release 9302-26, publishing CFTC Staff Letter No. 26-27 (Division of Market Oversight) — https://www.cftc.gov/PressRoom/PressReleases/9302-26
+
+Relevant to: designated contract markets, prediction-market platforms, event-contract product and compliance teams
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</content>
+  </entry>
+  <entry>
+    <title>Bitnomial Exchange&#x27;s perpetual security-futures listing-standards filing publishes in the Federal Register; comments close October 14, 2026</title>
+    <id>https://tg3online.github.io/regrisk-radar/#2026-09-23-sec-bitnomial-perpetual-security-futures-published-comment-deadline</id>
+    <link href="https://tg3online.github.io/regrisk-radar/#2026-09-23-sec-bitnomial-perpetual-security-futures-published-comment-deadline" rel="alternate" />
+    <updated>2026-09-23T10:00:00Z</updated>
+    <published>2026-09-23T10:00:00Z</published>
+    <category term="U.S. Securities and Exchange Commission" />
+    <content type="text">SEC document 2026-19408, &#x27;Self-Regulatory Organizations; Bitnomial Exchange, LLC; Notice of a Filing of a Proposed Rule Change Relating to Security Futures Product Listing Standards, Customer Margin and Related Rules&#x27;, was published in the Federal Register on September 23, 2026 at citation 91 FR 60438, document type Notice, carrying Release No. 34-106421 and File No. SR-BTNL-2026-001. The published document states that Bitnomial Exchange, LLC filed a proposed rule change establishing listing standards and regulatory requirements for cash-settled security futures products on individual equity securities, described as perpetual contracts without scheduled expiration dates, trading on a 24/5 schedule, with settlement incorporating a funding mechanism tied to the premium between the contract price and the index value. Under Solicitation of Comments the published document states: &#x27;Comments must be submitted on or before October 14, 2026.&#x27; The filing is not designated immediately effective.
+
+Primary source: Federal Register, SEC document 2026-19408, 91 FR 60438 — https://www.federalregister.gov/documents/2026/09/23/2026-19408/self-regulatory-organizations-bitnomial-exchange-llc-notice-of-a-filing-of-a-proposed-rule-change
+
+Relevant to: derivatives exchanges, crypto-native trading venues, futures commission merchants, market-structure counsel
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</content>
+  </entry>
+  <entry>
+    <title>Coinbase Derivatives&#x27; perpetual single-stock and ETF futures rulebook publishes in the Federal Register as immediately effective; comments close October 14, 2026</title>
+    <id>https://tg3online.github.io/regrisk-radar/#2026-09-23-sec-coinbase-derivatives-perpetual-futures-published-comment-deadline</id>
+    <link href="https://tg3online.github.io/regrisk-radar/#2026-09-23-sec-coinbase-derivatives-perpetual-futures-published-comment-deadline" rel="alternate" />
+    <updated>2026-09-23T10:00:00Z</updated>
+    <published>2026-09-23T10:00:00Z</published>
+    <category term="U.S. Securities and Exchange Commission" />
+    <content type="text">SEC document 2026-19407, &#x27;Self-Regulatory Organizations; Coinbase Derivatives, LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change Relating to the Adoption of Coinbase Derivatives, LLC&#x27;s Rules Governing Cash Settled Futures on Individual Equity Securities and Exchange-Traded Fund Shares, Including Perpetual Single-Stock Futures&#x27;, was published in the Federal Register on September 23, 2026 at citation 91 FR 60448, document type Notice, carrying Release No. 34-106420 and File No. SR-COIN-2026-002. The published document states that &#x27;On September 18, 2026, Coinbase Derivatives, LLC filed with the Securities and Exchange Commission the proposed rule change described in Items I, II, and III below&#x27;, that the filing adopts Chapter 12 rules governing cash-settled perpetual futures contracts on individual equity securities and exchange-traded fund shares, and that comments must be submitted on or before October 14, 2026. The document states that &#x27;At any time within 60 days of the date of effectiveness of the proposed rule change, the Commission, after consultation with the CFTC, may summarily abrogate the proposed rule change.&#x27;
+
+Primary source: Federal Register, SEC document 2026-19407, 91 FR 60448 — https://www.federalregister.gov/documents/2026/09/23/2026-19407/self-regulatory-organizations-coinbase-derivatives-llc-notice-of-filing-and-immediate-effectiveness
+
+Relevant to: derivatives exchanges, crypto-native trading venues, futures commission merchants, market-structure counsel
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</content>
+  </entry>
+  <entry>
+    <title>KalshiEX&#x27;s perpetual security futures listing standards publish in the Federal Register as immediately effective</title>
+    <id>https://tg3online.github.io/regrisk-radar/#2026-09-23-sec-kalshiex-perpetual-security-futures-published</id>
+    <link href="https://tg3online.github.io/regrisk-radar/#2026-09-23-sec-kalshiex-perpetual-security-futures-published" rel="alternate" />
+    <updated>2026-09-23T10:00:00Z</updated>
+    <published>2026-09-23T10:00:00Z</published>
+    <category term="U.S. Securities and Exchange Commission" />
+    <content type="text">SEC document 2026-19409, &#x27;Self-Regulatory Organizations; KalshiEX LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change Relating to Listing Standards for Security Futures Products&#x27;, was published in the Federal Register on September 23, 2026 at citation 91 FR 60467, document type Notice, carrying Release No. 34-106422 and File No. SR-KALSHIEX-2026-02. The published document states that &#x27;on September 18, 2026, KalshiEX LLC (&quot;Kalshi&quot; or &quot;Exchange&quot;) filed with the Securities and Exchange Commission (&quot;Commission&quot;) the proposed rule change&#x27;, and that the filing adopts Chapter 14 of Kalshi&#x27;s Rulebook to list Perpetual Security Futures Products, described as perpetual contracts on underlying equity securities with no fixed expiration date. The document as retrieved states no comment deadline, and the Federal Register record for it returns no dates value and no comments_close_on value.
+
+Primary source: Federal Register, SEC document 2026-19409, 91 FR 60467 — https://www.federalregister.gov/documents/2026/09/23/2026-19409/self-regulatory-organizations-kalshiex-llc-notice-of-filing-and-immediate-effectiveness-of-a
+
+Relevant to: derivatives exchanges, prediction-market platforms, futures commission merchants, market-structure counsel
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</content>
+  </entry>
   <entry>
     <title>KalshiEX files an immediately effective SEC rule change to list perpetual security futures on individual equities</title>
     <id>https://tg3online.github.io/regrisk-radar/#2026-09-22-kalshiex-perpetual-security-futures-sec-rule-filing</id>
