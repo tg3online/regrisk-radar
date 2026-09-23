@@ -5,8 +5,24 @@
     <link>https://tg3online.github.io/regrisk-radar/</link>
     <description>Daily facts-only regulatory radar — crypto, gaming, payments &amp; fintech. Verified against primary sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Sep 2026 10:03:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 21:53:43 +0000</lastBuildDate>
     <atom:link href="https://tg3online.github.io/regrisk-radar/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SEC posts Coinbase Derivatives filing on customer margin requirements for security futures products</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-09-23-sec-coinbase-derivatives-security-futures-customer-margin</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-09-23-sec-coinbase-derivatives-security-futures-customer-margin</guid>
+      <pubDate>Wed, 23 Sep 2026 21:50:00 +0000</pubDate>
+      <category>U.S. Securities and Exchange Commission</category>
+      <description>On September 23, 2026 the Securities and Exchange Commission placed on Federal Register public inspection, scheduled for publication on September 24, 2026, a notice captioned &#x27;Self-Regulatory Organizations; Coinbase Derivatives, LLC; Notice of Filing of a Proposed Rule Change Relating to Customer Margin Requirements for Security Futures Products&#x27; (Release No. 34-106443; File No. SR-COIN-2026-001). The document states that &#x27;CDE is submitting this proposed rule change to establish customer-level margin requirements for security futures that align with current Commission (and CFTC) requirements.&#x27; It directs that all submissions refer to file number SR-COIN-2026-001 and be submitted on or before a date that appears in the unpublished document as an unfilled placeholder reading &#x27;INSERT DATE 21 DAYS AFTER DATE OF PUBLICATION IN THE FEDERAL REGISTER&#x27;; no calendar date is stated in the document as filed.
+
+Primary source: Federal Register public inspection, SEC Release No. 34-106443, File No. SR-COIN-2026-001 (document 2026-19512) — https://www.federalregister.gov/public-inspection/2026-19512/self-regulatory-organizations-proposed-rule-changes-coinbase-derivatives-llc
+
+Relevant to: crypto derivatives exchanges, futures commission merchants, security futures intermediaries, clearing firms
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
     <item>
       <title>CFTC staff advisory says &#x27;mention market&#x27; event contracts present a heightened risk of manipulation</title>
       <link>https://tg3online.github.io/regrisk-radar/#2026-09-22-cftc-staff-advisory-mention-markets</link>

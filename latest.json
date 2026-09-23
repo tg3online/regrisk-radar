@@ -1,8 +1,29 @@
 {
-  "generated": "2026-09-23T10:03:21Z",
+  "generated": "2026-09-23T21:53:43Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 225,
+  "count": 226,
   "items": [
+    {
+      "id": "2026-09-23-sec-coinbase-derivatives-security-futures-customer-margin",
+      "date": "2026-09-23",
+      "published": "2026-09-23T21:50:00Z",
+      "title": "SEC posts Coinbase Derivatives filing on customer margin requirements for security futures products",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-09-23-sec-coinbase-derivatives-security-futures-customer-margin",
+      "issuing_body": "U.S. Securities and Exchange Commission",
+      "source_url": "https://www.federalregister.gov/public-inspection/2026-19512/self-regulatory-organizations-proposed-rule-changes-coinbase-derivatives-llc",
+      "source_label": "Federal Register public inspection, SEC Release No. 34-106443, File No. SR-COIN-2026-001 (document 2026-19512)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "crypto derivatives exchanges, futures commission merchants, security futures intermediaries, clearing firms",
+      "tags": [
+        "crypto",
+        "sec",
+        "coinbase-derivatives",
+        "security-futures",
+        "customer-margin",
+        "sro-rule-filing"
+      ]
+    },
     {
       "id": "2026-09-22-cftc-staff-advisory-mention-markets",
       "date": "2026-09-22",
