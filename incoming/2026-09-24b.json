@@ -1,0 +1,28 @@
+{
+  "_note": "RegRisk Radar evening drop for 2026-09-24. Suffixed 'b' because incoming/2026-09-24.json (the AM run's drop, 2 entries) has already merged. One entry.",
+  "entries": [
+    {
+      "id": "2026-09-24-frb-genius-act-payment-stablecoin-proposals",
+      "date": "2026-09-24",
+      "published": "2026-09-24T18:30:00Z",
+      "issuing_body": "Board of Governors of the Federal Reserve System",
+      "title": "Federal Reserve requests comment on two proposed rules establishing its GENIUS Act framework for Board-supervised payment stablecoin issuers",
+      "facts": "The Federal Reserve Board announced on September 24, 2026, for release at 2:30 p.m. EDT, that it \"requested public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act.\" The Board states that the first proposal \"would require that Board-supervised payment stablecoin issuers fully back their stablecoins with certain permissible reserve assets, such as short-term Treasury bills and certain other high-quality, liquid assets,\" would \"establish standardized capital requirements to address certain credit and operational risks of payment stablecoin activities, as well as risk management standards, in accordance with the law,\" would \"introduce rules for Board-supervised firms that safekeep the assets backing payment stablecoins,\" and would \"clarify the permissibility of stablecoin and related activities for Board-supervised banks.\" The second proposal \"would establish a tailored application process for Board-supervised banks applying to issue payment stablecoins,\" would require applicants \"to submit a business plan and financial information, among other documents,\" and \"would also create a process governing appeals, hearings, and final determinations for applications.\" The Board states: \"The comment period will close 60 days after publication in the Federal Register.\" The two attached notices of proposed rulemaking are captioned \"Implementing the Federal Reserve Board's Responsibilities under the GENIUS Act\" (Docket No. R-1899, RIN 7100-AH29, amending 12 CFR parts 208, 211, 217, 225, 247 and 263) and \"Application Procedures for Board-Supervised Insured Depository Institutions Seeking Approval for a Subsidiary to Issue Payment Stablecoins\" (Docket No. R-1900, RIN 7100-AH30, amending 12 CFR parts 247 and 262). As posted, the DATES section of each notice carries an unfilled bracketed placeholder in place of a calendar date, and neither notice appeared on the Federal Register public inspection list for the September 25, 2026 issue. A statement by Governor Barr is linked from the same release.",
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260924a.htm",
+      "source_label": "Federal Reserve Board press release, September 24, 2026, with the two attached notices of proposed rulemaking (Dockets R-1899 and R-1900)",
+      "tags": [
+        "crypto",
+        "payments",
+        "fintech",
+        "stablecoin",
+        "federal-reserve",
+        "genius-act",
+        "proposed-rule",
+        "comment-period"
+      ],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "payment stablecoin issuers, banks and bank subsidiaries, custodians, payment processors, crypto exchanges"
+    }
+  ]
+}
