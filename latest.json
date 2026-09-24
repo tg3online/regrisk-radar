@@ -1,8 +1,31 @@
 {
-  "generated": "2026-09-24T09:59:27Z",
+  "generated": "2026-09-24T22:05:07Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 228,
+  "count": 229,
   "items": [
+    {
+      "id": "2026-09-24-frb-genius-act-payment-stablecoin-proposals",
+      "date": "2026-09-24",
+      "published": "2026-09-24T18:30:00Z",
+      "title": "Federal Reserve requests comment on two proposed rules establishing its GENIUS Act framework for Board-supervised payment stablecoin issuers",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-09-24-frb-genius-act-payment-stablecoin-proposals",
+      "issuing_body": "Board of Governors of the Federal Reserve System",
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260924a.htm",
+      "source_label": "Federal Reserve Board press release, September 24, 2026, with the two attached notices of proposed rulemaking (Dockets R-1899 and R-1900)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "payment stablecoin issuers, banks and bank subsidiaries, custodians, payment processors, crypto exchanges",
+      "tags": [
+        "crypto",
+        "payments",
+        "fintech",
+        "stablecoin",
+        "federal-reserve",
+        "genius-act",
+        "proposed-rule",
+        "comment-period"
+      ]
+    },
     {
       "id": "2026-09-24-nasdaq-ise-digital-commodity-trust-options-listing-criteria-extension",
       "date": "2026-09-24",
