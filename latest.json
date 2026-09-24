@@ -1,8 +1,57 @@
 {
-  "generated": "2026-09-23T21:53:43Z",
+  "generated": "2026-09-24T09:59:27Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 226,
+  "count": 228,
   "items": [
+    {
+      "id": "2026-09-24-nasdaq-ise-digital-commodity-trust-options-listing-criteria-extension",
+      "date": "2026-09-24",
+      "published": "2026-09-24T10:05:00Z",
+      "title": "SEC sets November 11, 2026 as its action date on Nasdaq ISE's proposed listing criteria for options on commodity-based trusts holding digital commodities",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-09-24-nasdaq-ise-digital-commodity-trust-options-listing-criteria-extension",
+      "issuing_body": "U.S. Securities and Exchange Commission",
+      "source_url": "https://www.federalregister.gov/documents/2026/09/24/2026-19514/self-regulatory-organizations-nasdaq-ise-llc-notice-of-designation-of-a-longer-period-for-commission",
+      "source_label": "Federal Register — U.S. Securities and Exchange Commission, Notice, 09/24/2026 (Doc. 2026-19514; Release No. 34-106448; File No. SR-ISE-2026-42)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "options exchanges, digital-asset ETP sponsors and issuers, broker-dealers, crypto-derivatives platforms, market makers",
+      "tags": [
+        "sec",
+        "nasdaq-ise",
+        "options",
+        "commodity-based-trust",
+        "digital-commodities",
+        "listing-criteria",
+        "sro-rule-filing",
+        "section-19b2",
+        "crypto",
+        "us-federal"
+      ]
+    },
+    {
+      "id": "2026-09-24-coinbase-derivatives-security-futures-customer-margin-federal-register",
+      "date": "2026-09-24",
+      "published": "2026-09-24T10:05:00Z",
+      "title": "Coinbase Derivatives' customer-margin filing for security futures products publishes in the Federal Register; comments due on or before October 15, 2026",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-09-24-coinbase-derivatives-security-futures-customer-margin-federal-register",
+      "issuing_body": "U.S. Securities and Exchange Commission",
+      "source_url": "https://www.federalregister.gov/documents/2026/09/24/2026-19512/self-regulatory-organizations-coinbase-derivatives-llc-notice-of-filing-of-a-proposed-rule-change",
+      "source_label": "Federal Register — U.S. Securities and Exchange Commission, Notice, 09/24/2026 (Doc. 2026-19512, 91 FR 60670; Release No. 34-106443; File No. SR-COIN-2026-001)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "security futures venues, crypto-derivatives platforms, futures commission merchants, broker-dealers, clearing firms",
+      "tags": [
+        "sec",
+        "coinbase-derivatives",
+        "security-futures",
+        "customer-margin",
+        "sro-rule-filing",
+        "federal-register",
+        "comment-deadline",
+        "crypto",
+        "us-federal"
+      ]
+    },
     {
       "id": "2026-09-23-sec-coinbase-derivatives-security-futures-customer-margin",
       "date": "2026-09-23",
