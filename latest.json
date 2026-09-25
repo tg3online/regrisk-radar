@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-25T10:00:05Z",
+  "generated": "2026-09-25T22:06:34Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 231,
+  "count": 234,
   "items": [
     {
       "id": "2026-09-25-cftc-staff-faq-update-tokenized-customer-funds-blockchain-recordkeeping",
@@ -44,6 +44,29 @@
         "innovation-exemption",
         "tokenized-securities",
         "aml"
+      ]
+    },
+    {
+      "id": "2026-09-25-cftc-complaint-cash-fx-group-950m-forex-commodity-pool-ponzi",
+      "date": "2026-09-25",
+      "published": "2026-09-25T00:00:00Z",
+      "title": "CFTC sues Cash FX Group and four other defendants over an alleged $950 million retail-forex commodity-pool Ponzi scheme",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-09-25-cftc-complaint-cash-fx-group-950m-forex-commodity-pool-ponzi",
+      "issuing_body": "U.S. Commodity Futures Trading Commission",
+      "source_url": "https://www.cftc.gov/PressRoom/PressReleases/9304-26",
+      "source_label": "U.S. Commodity Futures Trading Commission - Release Number 9304-26",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "commodity pool operators, retail forex platforms, introducing brokers, affiliate and referral-marketed investment programs",
+      "tags": [
+        "fintech",
+        "cftc",
+        "enforcement",
+        "commodity-pool",
+        "retail-forex",
+        "ponzi",
+        "misappropriation",
+        "multilevel-marketing"
       ]
     },
     {
@@ -116,6 +139,52 @@
         "comment-deadline",
         "crypto",
         "us-federal"
+      ]
+    },
+    {
+      "id": "2026-09-25-ny-ag-gaming-commission-petition-polymarket-us-unlicensed-gambling",
+      "date": "2026-09-25",
+      "published": "2026-09-24T00:00:00Z",
+      "title": "New York sues Polymarket US in state court, alleging its prediction market is an unlicensed gambling operation",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-09-25-ny-ag-gaming-commission-petition-polymarket-us-unlicensed-gambling",
+      "issuing_body": "New York State Office of the Attorney General",
+      "source_url": "https://ag.ny.gov/press-release/2026/attorney-general-james-and-governor-hochul-announce-lawsuit-against-polymarket",
+      "source_label": "New York State Office of the Attorney General - press release (petition also retrieved from the Attorney General's court-filings directory)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction-market platforms, event-contract venues, sports-betting operators, gaming licensees",
+      "tags": [
+        "gaming",
+        "prediction-markets",
+        "event-contracts",
+        "new-york",
+        "state-attorney-general",
+        "enforcement",
+        "unlicensed-gambling",
+        "wire-act"
+      ]
+    },
+    {
+      "id": "2026-09-25-ftc-anpr-impersonation-rule-platform-ad-optimization",
+      "date": "2026-09-25",
+      "published": "2026-09-24T00:00:00Z",
+      "title": "FTC opens an Advance Notice of Proposed Rulemaking on whether platform ad-optimization tools further impersonation scams",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-09-25-ftc-anpr-impersonation-rule-platform-ad-optimization",
+      "issuing_body": "U.S. Federal Trade Commission",
+      "source_url": "https://www.ftc.gov/news-events/news/press-releases/2026/09/ftc-seeks-public-comment-whether-update-rule-impersonation-government-businesses-address-platforms",
+      "source_label": "U.S. Federal Trade Commission - press release",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "payments providers, fintech brands, online marketplaces, consumer-facing platforms, advertisers",
+      "tags": [
+        "payments",
+        "ftc",
+        "rulemaking",
+        "anpr",
+        "impersonation",
+        "consumer-protection",
+        "fraud",
+        "online-platforms"
       ]
     },
     {

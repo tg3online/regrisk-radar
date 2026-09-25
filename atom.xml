@@ -5,7 +5,7 @@
   <id>https://tg3online.github.io/regrisk-radar/</id>
   <link href="https://tg3online.github.io/regrisk-radar/" />
   <link href="https://tg3online.github.io/regrisk-radar/atom.xml" rel="self" type="application/atom+xml" />
-  <updated>2026-09-25T10:00:05Z</updated>
+  <updated>2026-09-25T22:06:34Z</updated>
   <entry>
     <title>CFTC staff update crypto-asset FAQs to cover tokenized customer-fund investments and blockchain recordkeeping</title>
     <id>https://tg3online.github.io/regrisk-radar/#2026-09-25-cftc-staff-faq-update-tokenized-customer-funds-blockchain-recordkeeping</id>
@@ -35,6 +35,23 @@ RegRisk Radar is regulatory-risk intelligence provided for general informational
 Primary source: SEC Speeches and Statements — Commissioner Hester M. Peirce, September 23, 2026 — https://www.sec.gov/newsroom/speeches-statements/peirce-looking-change-haystacks-remarks-sifma-s-digital-assets-conference-092326
 
 Relevant to: crypto exchanges and trading platforms, tokenized-securities issuers, broker-dealers, AML and compliance teams
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</content>
+  </entry>
+  <entry>
+    <title>CFTC sues Cash FX Group and four other defendants over an alleged $950 million retail-forex commodity-pool Ponzi scheme</title>
+    <id>https://tg3online.github.io/regrisk-radar/#2026-09-25-cftc-complaint-cash-fx-group-950m-forex-commodity-pool-ponzi</id>
+    <link href="https://tg3online.github.io/regrisk-radar/#2026-09-25-cftc-complaint-cash-fx-group-950m-forex-commodity-pool-ponzi" rel="alternate" />
+    <updated>2026-09-25T00:00:00Z</updated>
+    <published>2026-09-25T00:00:00Z</published>
+    <category term="U.S. Commodity Futures Trading Commission" />
+    <content type="text">On September 25, 2026 the Commodity Futures Trading Commission announced in Release Number 9304-26 that it &quot;filed a complaint in the U.S. District Court for the Middle District of Florida against Cash FX Group S.A. and its CEO, Huascar Jose Lopez Castillo, of Brazil; The Conversion Pros, Inc. and its CEO, Ronald Pope, of Oregon; and Justin Halladay, of Florida.&quot; The release states the complaint alleges the defendants &quot;operated a multilevel marketing Ponzi scheme, fraudulently soliciting and accepting over $950 million from the public, including individuals in the United States, for the purported purpose of trading retail foreign currency contracts in a commodity pool.&quot; According to the release, the defendants &quot;falsely claimed pool funds were traded by expert traders, proprietary algorithms, and artificial intelligence, and promised up to 15% weekly returns on that trading,&quot; while &quot;Cash FX engaged in minimal forex trading&quot; and instead &quot;misappropriated nearly all participant funds, using new contributions from participants to pay fictitious trading profits to other participants and paying millions of dollars to each defendant.&quot; The release states that Cash FX &quot;also provided false account statements to participants&quot; and that &quot;Cash FX&#x27;s participants lost at least $406 million.&quot; Director of Enforcement David I. Miller is quoted saying the action &quot;reflects our steadfast commitment to addressing fraud wherever we find it.&quot; The release states the CFTC &quot;seeks restitution, disgorgement, civil monetary penalties, trading and registration bans, and a permanent injunction against further violations of the Commodity Exchange Act and CFTC regulations, as charged.&quot; The allegations described above are the CFTC&#x27;s; the release states no case number and no hearing date.
+
+Primary source: U.S. Commodity Futures Trading Commission - Release Number 9304-26 — https://www.cftc.gov/PressRoom/PressReleases/9304-26
+
+Relevant to: commodity pool operators, retail forex platforms, introducing brokers, affiliate and referral-marketed investment programs
 
 For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
 
@@ -86,6 +103,40 @@ RegRisk Radar is regulatory-risk intelligence provided for general informational
 Primary source: Federal Register — U.S. Securities and Exchange Commission, Notice, 09/24/2026 (Doc. 2026-19512, 91 FR 60670; Release No. 34-106443; File No. SR-COIN-2026-001) — https://www.federalregister.gov/documents/2026/09/24/2026-19512/self-regulatory-organizations-coinbase-derivatives-llc-notice-of-filing-of-a-proposed-rule-change
 
 Relevant to: security futures venues, crypto-derivatives platforms, futures commission merchants, broker-dealers, clearing firms
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</content>
+  </entry>
+  <entry>
+    <title>New York sues Polymarket US in state court, alleging its prediction market is an unlicensed gambling operation</title>
+    <id>https://tg3online.github.io/regrisk-radar/#2026-09-25-ny-ag-gaming-commission-petition-polymarket-us-unlicensed-gambling</id>
+    <link href="https://tg3online.github.io/regrisk-radar/#2026-09-25-ny-ag-gaming-commission-petition-polymarket-us-unlicensed-gambling" rel="alternate" />
+    <updated>2026-09-24T00:00:00Z</updated>
+    <published>2026-09-24T00:00:00Z</published>
+    <category term="New York State Office of the Attorney General" />
+    <content type="text">On September 24, 2026 the New York State Office of the Attorney General announced, jointly with Governor Kathy Hochul, a lawsuit against QCX LLC, doing business as Polymarket US, stating that Polymarket&#x27;s &quot;prediction market is an illegal, unlicensed gambling operation.&quot; The announcement states that the platform launched in December 2025 and allows users to wager on the outcomes of uncertain events, beginning with sports, and that &quot;users between the ages of 18-20&quot; can access it while New York requires users to be 21 or older for mobile sports betting. The petition, published in the Attorney General&#x27;s court-filings directory, is captioned &quot;PEOPLE OF THE STATE OF NEW YORK, by LETITIA JAMES, Attorney General of the State of New York ... against QCX LLC (d/b/a Polymarket US)&quot; and is filed in the Supreme Court of the State of New York, County of New York, with &quot;INDEX NO. UNASSIGNED&quot; printed at filing. Its causes of action cite New York Executive Law section 63(12), Article I section 9 of the New York State Constitution, New York Penal Law sections 225.05, 225.10 and 225.20, New York Racing, Pari-Mutuel Wagering and Breeding Law sections 1367(16)(a), 1367-a(2)(a) and 1367-a(4)(b), and the federal Interstate Wire Act, 18 U.S.C. section 1084(a). The petition seeks relief &quot;permanently enjoining Respondent from continuing to operate a gambling business in New York without being licensed by the New York State Gaming Commission,&quot; together with restitution, disgorgement, damages, penalties and costs; the announcement states the suit would require the company to &quot;forfeit all illegal gains, distribute restitution to consumers who were harmed, and pay fines equal to three times the gains the company made through its illegal actions.&quot; No index number, return date or response deadline appears in the filed petition or in either announcement.
+
+Primary source: New York State Office of the Attorney General - press release (petition also retrieved from the Attorney General&#x27;s court-filings directory) — https://ag.ny.gov/press-release/2026/attorney-general-james-and-governor-hochul-announce-lawsuit-against-polymarket
+
+Relevant to: prediction-market platforms, event-contract venues, sports-betting operators, gaming licensees
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</content>
+  </entry>
+  <entry>
+    <title>FTC opens an Advance Notice of Proposed Rulemaking on whether platform ad-optimization tools further impersonation scams</title>
+    <id>https://tg3online.github.io/regrisk-radar/#2026-09-25-ftc-anpr-impersonation-rule-platform-ad-optimization</id>
+    <link href="https://tg3online.github.io/regrisk-radar/#2026-09-25-ftc-anpr-impersonation-rule-platform-ad-optimization" rel="alternate" />
+    <updated>2026-09-24T00:00:00Z</updated>
+    <published>2026-09-24T00:00:00Z</published>
+    <category term="U.S. Federal Trade Commission" />
+    <content type="text">On September 24, 2026 the Federal Trade Commission announced it &quot;is considering updating its Rule on Impersonation of Government and Businesses or taking other action to prevent online platforms from engaging in ad-optimization practices that further impersonation scams.&quot; The announcement states the FTC &quot;published an Advance Notice of Proposed Rulemaking seeking comments on whether ad-optimization tools offered by social media, search engines, and digital marketplace platforms enable scammers to impersonate legitimate businesses and government agencies through online ads.&quot; Christopher Mufarrige, Director of the FTC&#x27;s Bureau of Consumer Protection, is quoted: &quot;Impersonation scams-especially when amplified by digital platforms that profit from them-do more than rob Americans of their hard-earned money.&quot; The announcement states consumers &quot;reported losing nearly $3.5 billion to impersonation fraud,&quot; that nearly 30% of scam victims were first contacted on social media platforms, and that reported losses from those contacts reached &quot;$2.1 billion.&quot; On timing, the announcement states only: &quot;The deadline for submitting comments will be 60 days after the notice is published in the Federal Register.&quot; As of September 25, 2026 the notice does not appear on the Federal Register public-inspection list, which was read in full and contains no Federal Trade Commission document, so no calendar comment date is stated in any retrieved document.
+
+Primary source: U.S. Federal Trade Commission - press release — https://www.ftc.gov/news-events/news/press-releases/2026/09/ftc-seeks-public-comment-whether-update-rule-impersonation-government-businesses-address-platforms
+
+Relevant to: payments providers, fintech brands, online marketplaces, consumer-facing platforms, advertisers
 
 For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
 
