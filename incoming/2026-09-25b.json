@@ -1,0 +1,74 @@
+{
+  "_note": "RegRisk Radar evening drop, 2026-09-25. 'b' suffix per radar/RADAR.md because incoming/2026-09-25.json (the morning drop, 2 entries) already merged. 3 entries, all facts-only, all sanitized, all verified against retrieved official primaries. No gated fields.",
+  "entries": [
+    {
+      "id": "2026-09-25-ny-ag-gaming-commission-petition-polymarket-us-unlicensed-gambling",
+      "date": "2026-09-25",
+      "published": "2026-09-24T00:00:00Z",
+      "issuing_body": "New York State Office of the Attorney General",
+      "title": "New York sues Polymarket US in state court, alleging its prediction market is an unlicensed gambling operation",
+      "facts": "On September 24, 2026 the New York State Office of the Attorney General announced, jointly with Governor Kathy Hochul, a lawsuit against QCX LLC, doing business as Polymarket US, stating that Polymarket's \"prediction market is an illegal, unlicensed gambling operation.\" The announcement states that the platform launched in December 2025 and allows users to wager on the outcomes of uncertain events, beginning with sports, and that \"users between the ages of 18-20\" can access it while New York requires users to be 21 or older for mobile sports betting. The petition, published in the Attorney General's court-filings directory, is captioned \"PEOPLE OF THE STATE OF NEW YORK, by LETITIA JAMES, Attorney General of the State of New York ... against QCX LLC (d/b/a Polymarket US)\" and is filed in the Supreme Court of the State of New York, County of New York, with \"INDEX NO. UNASSIGNED\" printed at filing. Its causes of action cite New York Executive Law section 63(12), Article I section 9 of the New York State Constitution, New York Penal Law sections 225.05, 225.10 and 225.20, New York Racing, Pari-Mutuel Wagering and Breeding Law sections 1367(16)(a), 1367-a(2)(a) and 1367-a(4)(b), and the federal Interstate Wire Act, 18 U.S.C. section 1084(a). The petition seeks relief \"permanently enjoining Respondent from continuing to operate a gambling business in New York without being licensed by the New York State Gaming Commission,\" together with restitution, disgorgement, damages, penalties and costs; the announcement states the suit would require the company to \"forfeit all illegal gains, distribute restitution to consumers who were harmed, and pay fines equal to three times the gains the company made through its illegal actions.\" No index number, return date or response deadline appears in the filed petition or in either announcement.",
+      "source_url": "https://ag.ny.gov/press-release/2026/attorney-general-james-and-governor-hochul-announce-lawsuit-against-polymarket",
+      "source_label": "New York State Office of the Attorney General - press release (petition also retrieved from the Attorney General's court-filings directory)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction-market platforms, event-contract venues, sports-betting operators, gaming licensees",
+      "tags": [
+        "gaming",
+        "prediction-markets",
+        "event-contracts",
+        "new-york",
+        "state-attorney-general",
+        "enforcement",
+        "unlicensed-gambling",
+        "wire-act"
+      ]
+    },
+    {
+      "id": "2026-09-25-cftc-complaint-cash-fx-group-950m-forex-commodity-pool-ponzi",
+      "date": "2026-09-25",
+      "published": "2026-09-25T00:00:00Z",
+      "issuing_body": "U.S. Commodity Futures Trading Commission",
+      "title": "CFTC sues Cash FX Group and four other defendants over an alleged $950 million retail-forex commodity-pool Ponzi scheme",
+      "facts": "On September 25, 2026 the Commodity Futures Trading Commission announced in Release Number 9304-26 that it \"filed a complaint in the U.S. District Court for the Middle District of Florida against Cash FX Group S.A. and its CEO, Huascar Jose Lopez Castillo, of Brazil; The Conversion Pros, Inc. and its CEO, Ronald Pope, of Oregon; and Justin Halladay, of Florida.\" The release states the complaint alleges the defendants \"operated a multilevel marketing Ponzi scheme, fraudulently soliciting and accepting over $950 million from the public, including individuals in the United States, for the purported purpose of trading retail foreign currency contracts in a commodity pool.\" According to the release, the defendants \"falsely claimed pool funds were traded by expert traders, proprietary algorithms, and artificial intelligence, and promised up to 15% weekly returns on that trading,\" while \"Cash FX engaged in minimal forex trading\" and instead \"misappropriated nearly all participant funds, using new contributions from participants to pay fictitious trading profits to other participants and paying millions of dollars to each defendant.\" The release states that Cash FX \"also provided false account statements to participants\" and that \"Cash FX's participants lost at least $406 million.\" Director of Enforcement David I. Miller is quoted saying the action \"reflects our steadfast commitment to addressing fraud wherever we find it.\" The release states the CFTC \"seeks restitution, disgorgement, civil monetary penalties, trading and registration bans, and a permanent injunction against further violations of the Commodity Exchange Act and CFTC regulations, as charged.\" The allegations described above are the CFTC's; the release states no case number and no hearing date.",
+      "source_url": "https://www.cftc.gov/PressRoom/PressReleases/9304-26",
+      "source_label": "U.S. Commodity Futures Trading Commission - Release Number 9304-26",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "commodity pool operators, retail forex platforms, introducing brokers, affiliate and referral-marketed investment programs",
+      "tags": [
+        "fintech",
+        "cftc",
+        "enforcement",
+        "commodity-pool",
+        "retail-forex",
+        "ponzi",
+        "misappropriation",
+        "multilevel-marketing"
+      ]
+    },
+    {
+      "id": "2026-09-25-ftc-anpr-impersonation-rule-platform-ad-optimization",
+      "date": "2026-09-25",
+      "published": "2026-09-24T00:00:00Z",
+      "issuing_body": "U.S. Federal Trade Commission",
+      "title": "FTC opens an Advance Notice of Proposed Rulemaking on whether platform ad-optimization tools further impersonation scams",
+      "facts": "On September 24, 2026 the Federal Trade Commission announced it \"is considering updating its Rule on Impersonation of Government and Businesses or taking other action to prevent online platforms from engaging in ad-optimization practices that further impersonation scams.\" The announcement states the FTC \"published an Advance Notice of Proposed Rulemaking seeking comments on whether ad-optimization tools offered by social media, search engines, and digital marketplace platforms enable scammers to impersonate legitimate businesses and government agencies through online ads.\" Christopher Mufarrige, Director of the FTC's Bureau of Consumer Protection, is quoted: \"Impersonation scams-especially when amplified by digital platforms that profit from them-do more than rob Americans of their hard-earned money.\" The announcement states consumers \"reported losing nearly $3.5 billion to impersonation fraud,\" that nearly 30% of scam victims were first contacted on social media platforms, and that reported losses from those contacts reached \"$2.1 billion.\" On timing, the announcement states only: \"The deadline for submitting comments will be 60 days after the notice is published in the Federal Register.\" As of September 25, 2026 the notice does not appear on the Federal Register public-inspection list, which was read in full and contains no Federal Trade Commission document, so no calendar comment date is stated in any retrieved document.",
+      "source_url": "https://www.ftc.gov/news-events/news/press-releases/2026/09/ftc-seeks-public-comment-whether-update-rule-impersonation-government-businesses-address-platforms",
+      "source_label": "U.S. Federal Trade Commission - press release",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "payments providers, fintech brands, online marketplaces, consumer-facing platforms, advertisers",
+      "tags": [
+        "payments",
+        "ftc",
+        "rulemaking",
+        "anpr",
+        "impersonation",
+        "consumer-protection",
+        "fraud",
+        "online-platforms"
+      ]
+    }
+  ]
+}
