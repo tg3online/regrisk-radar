@@ -5,8 +5,40 @@
     <link>https://tg3online.github.io/regrisk-radar/</link>
     <description>Daily facts-only regulatory radar — crypto, gaming, payments &amp; fintech. Verified against primary sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Sep 2026 22:05:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 10:00:05 +0000</lastBuildDate>
     <atom:link href="https://tg3online.github.io/regrisk-radar/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CFTC staff update crypto-asset FAQs to cover tokenized customer-fund investments and blockchain recordkeeping</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-09-25-cftc-staff-faq-update-tokenized-customer-funds-blockchain-recordkeeping</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-09-25-cftc-staff-faq-update-tokenized-customer-funds-blockchain-recordkeeping</guid>
+      <pubDate>Fri, 25 Sep 2026 09:58:00 +0000</pubDate>
+      <category>Commodity Futures Trading Commission</category>
+      <description>On September 24, 2026 the CFTC issued Release Number 9303-26, stating that its Market Participants Division, Division of Market Oversight, and Division of Clearing and Risk &quot;today released updates&quot; to the staff FAQs on registrant and registered entity activities relating to crypto assets and blockchain technologies. The release states the updates address &quot;investments of customer funds in tokenized forms of permitted investments and the use of blockchain technologies to satisfy a registrant&#x27;s recordkeeping requirements,&quot; and that the FAQs &quot;were originally released on March 20, 2026&quot; covering topics addressed in CFTC Staff Letter 25-39 (Tokenized Collateral Guidance) and CFTC Staff Letter 26-05 (Staff No-Action Position Regarding Digital Assets Accepted as Margin Collateral). The updated FAQ document adds Question 12, asking whether an FCM or DCO may invest customer funds in tokenized forms of otherwise permitted investments under Commission Regulation 1.25, answered &quot;Yes, so long as the FCM or DCO can demonstrate the following, as required under Commission Regulation 1.25 and CFTC Staff Letter 25-39&quot;; and Questions 13 through 15, on whether records entities may use blockchain or distributed ledger technologies to satisfy recordkeeping obligations under Commission Regulations 1.31 and 45.2 and whether offchain versions of records must be maintained. Neither the release nor the FAQ document states a comment deadline, effective date or compliance date.
+
+Primary source: CFTC Release Number 9303-26 (September 24, 2026) — https://www.cftc.gov/PressRoom/PressReleases/9303-26
+
+Relevant to: futures commission merchants, derivatives clearing organizations, swap dealers, designated contract markets, crypto derivatives venues
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+    <item>
+      <title>SEC Commissioner Peirce publishes remarks to SIFMA&#x27;s Digital Assets Conference on the Innovation Exemption and illicit-finance data collection</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-09-25-sec-peirce-sifma-digital-assets-conference-remarks</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-09-25-sec-peirce-sifma-digital-assets-conference-remarks</guid>
+      <pubDate>Fri, 25 Sep 2026 09:58:00 +0000</pubDate>
+      <category>U.S. Securities and Exchange Commission</category>
+      <description>The SEC posted remarks by Commissioner Hester M. Peirce dated September 23, 2026 and titled &quot;Looking for Change in Haystacks: Remarks before SIFMA&#x27;s Digital Assets Conference.&quot; The remarks carry the disclaimer &quot;My views are my own as a Commissioner and not necessarily those of the SEC or my fellow Commissioners,&quot; and are the statement of an individual Commissioner rather than an action of the Commission. On the Innovation Exemption the text states: &quot;Actually two exemptions in one order, the Innovation Exemption is a time- and size-limited exemption to facilitate the trading of tokenized securities on crypto networks via automated market makers.&quot; On the approach to illicit finance the text states: &quot;The approach is not working particularly well, and technology has outpaced our legacy approach, so it is time for a change,&quot; and discusses attribute-based credentials that attest to specific facts without revealing the underlying data that generated those facts.
+
+Primary source: SEC Speeches and Statements — Commissioner Hester M. Peirce, September 23, 2026 — https://www.sec.gov/newsroom/speeches-statements/peirce-looking-change-haystacks-remarks-sifma-s-digital-assets-conference-092326
+
+Relevant to: crypto exchanges and trading platforms, tokenized-securities issuers, broker-dealers, AML and compliance teams
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
     <item>
       <title>Federal Reserve requests comment on two proposed rules establishing its GENIUS Act framework for Board-supervised payment stablecoin issuers</title>
       <link>https://tg3online.github.io/regrisk-radar/#2026-09-24-frb-genius-act-payment-stablecoin-proposals</link>

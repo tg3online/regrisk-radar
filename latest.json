@@ -1,8 +1,51 @@
 {
-  "generated": "2026-09-24T22:05:07Z",
+  "generated": "2026-09-25T10:00:05Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 229,
+  "count": 231,
   "items": [
+    {
+      "id": "2026-09-25-cftc-staff-faq-update-tokenized-customer-funds-blockchain-recordkeeping",
+      "date": "2026-09-25",
+      "published": "2026-09-25T09:58:00Z",
+      "title": "CFTC staff update crypto-asset FAQs to cover tokenized customer-fund investments and blockchain recordkeeping",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-09-25-cftc-staff-faq-update-tokenized-customer-funds-blockchain-recordkeeping",
+      "issuing_body": "Commodity Futures Trading Commission",
+      "source_url": "https://www.cftc.gov/PressRoom/PressReleases/9303-26",
+      "source_label": "CFTC Release Number 9303-26 (September 24, 2026)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "futures commission merchants, derivatives clearing organizations, swap dealers, designated contract markets, crypto derivatives venues",
+      "tags": [
+        "crypto",
+        "cftc",
+        "staff-guidance",
+        "tokenization",
+        "customer-funds",
+        "recordkeeping",
+        "margin-collateral"
+      ]
+    },
+    {
+      "id": "2026-09-25-sec-peirce-sifma-digital-assets-conference-remarks",
+      "date": "2026-09-25",
+      "published": "2026-09-25T09:58:00Z",
+      "title": "SEC Commissioner Peirce publishes remarks to SIFMA's Digital Assets Conference on the Innovation Exemption and illicit-finance data collection",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-09-25-sec-peirce-sifma-digital-assets-conference-remarks",
+      "issuing_body": "U.S. Securities and Exchange Commission",
+      "source_url": "https://www.sec.gov/newsroom/speeches-statements/peirce-looking-change-haystacks-remarks-sifma-s-digital-assets-conference-092326",
+      "source_label": "SEC Speeches and Statements — Commissioner Hester M. Peirce, September 23, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "crypto exchanges and trading platforms, tokenized-securities issuers, broker-dealers, AML and compliance teams",
+      "tags": [
+        "crypto",
+        "sec",
+        "speech",
+        "innovation-exemption",
+        "tokenized-securities",
+        "aml"
+      ]
+    },
     {
       "id": "2026-09-24-frb-genius-act-payment-stablecoin-proposals",
       "date": "2026-09-24",
