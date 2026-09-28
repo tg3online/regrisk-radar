@@ -1,8 +1,33 @@
 {
-  "generated": "2026-09-25T22:06:34Z",
+  "generated": "2026-09-28T10:00:26Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 234,
+  "count": 235,
   "items": [
+    {
+      "id": "2026-09-28-ca6-kalshi-sports-event-contracts-not-swaps-ohio-tennessee",
+      "date": "2026-09-28",
+      "published": "2026-09-28T10:20:00Z",
+      "title": "Sixth Circuit holds Kalshi's sports-event contracts are not swaps under the Commodity Exchange Act and that the CEA does not preempt Ohio or Tennessee gambling law",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-09-28-ca6-kalshi-sports-event-contracts-not-swaps-ohio-tennessee",
+      "issuing_body": "United States Court of Appeals for the Sixth Circuit",
+      "source_url": "https://www.opn.ca6.uscourts.gov/opinions.pdf/26a0272p-06.pdf",
+      "source_label": "U.S. Court of Appeals for the Sixth Circuit — published opinion, Nos. 26-3196/5235 (Sept. 25, 2026)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction-market platforms, event-contract exchanges, designated contract markets, sports-betting operators, state-licensed gaming operators",
+      "tags": [
+        "gaming",
+        "prediction-markets",
+        "event-contracts",
+        "sports-event-contracts",
+        "commodity-exchange-act",
+        "preemption",
+        "sixth-circuit",
+        "ohio",
+        "tennessee",
+        "litigation"
+      ]
+    },
     {
       "id": "2026-09-25-cftc-staff-faq-update-tokenized-customer-funds-blockchain-recordkeeping",
       "date": "2026-09-25",
