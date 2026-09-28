@@ -33,6 +33,50 @@
       "relevant_to": "prediction-market platforms, event-contract exchanges, designated contract markets, sports-betting operators, state-licensed gaming operators"
     },
     {
+      "id": "2026-09-28-florida-ag-reported-letters-platforms-sweepstakes-casino-advertising",
+      "date": "2026-09-28",
+      "published": "2026-09-28T00:00:00Z",
+      "issuing_body": "Florida Office of the Attorney General (reported)",
+      "title": "Trade outlets report Florida Attorney General wrote to Google, Meta, Reddit, Snap and TikTok over sweepstakes-casino advertising, seeking written confirmation by October 23, 2026",
+      "facts": "Four independent trade outlets - Covers, Casino.org, GamblingNews and PlayUSA, all fetched on 2026-09-28 - report that Florida Attorney General James Uthmeier sent letters to Google, Meta, Reddit, Snap and TikTok concerning the advertising of online sweepstakes casinos to Florida residents. All four report the same five recipients, the same four named operators (Stake, Chumba Casino, LuckyLand and Global Poker) and the same response date of October 23, 2026. As reported by Covers, Uthmeier wrote that the platforms are \"not authorized to operate gambling websites or [online casinos in Florida]\" and that \"[t]he promotion and advertisement of such illegal gambling in Florida is similarly unlawful.\" As reported by PlayUSA, the letters require each recipient to \"confirm to me in writing by October 23, 2026, the steps [the company] has taken to ensure that it is not promoting or otherwise advertising these online 'sweepstakes' casinos\" to Floridians. The four outlets do not agree on the date the letters were sent, reporting September 24, September 25, September 26 and no stated date respectively, and no send date is stated here. The Florida Attorney General's own news-release index was fetched on 2026-09-28 and carries releases dated September 22, 23, 24, 25 and 28, none of which concerns sweepstakes casinos, online gambling or correspondence with social-media platforms. No letter and no official release has been retrieved.",
+      "source_url": "https://www.covers.com/industry/florida-ag-demands-social-media-sites-stop-hosting-sweeps-casino-ads-sept-28-2026",
+      "source_label": "Covers - Florida AG demands social media sites stop hosting sweeps casino ads (reporting; letters not retrieved)",
+      "source_type": "coverage_reporting_filing",
+      "primary_source_status": "cited_by_coverage_not_retrieved",
+      "relevant_to": "sweepstakes and social-casino operators, online gaming platforms, advertising and affiliate networks, digital ad platforms",
+      "tags": [
+        "gaming",
+        "sweepstakes-casino",
+        "social-casino",
+        "state-ag",
+        "florida",
+        "advertising",
+        "platform-liability"
+      ]
+    },
+    {
+      "id": "2026-09-28-sec-order-zoe-financial-undisclosed-adviser-matching-conflict",
+      "date": "2026-09-28",
+      "published": "2026-09-28T00:00:00Z",
+      "issuing_body": "U.S. Securities and Exchange Commission",
+      "title": "SEC settles charges against Zoe Financial over undisclosed incentive to steer clients toward advisers using its own asset-management platform; $450,000 penalty",
+      "facts": "On September 28, 2026 the U.S. Securities and Exchange Commission announced settled charges against Zoe Financial, Inc., a New York-based registered investment adviser that operates a platform matching prospective clients with third-party investment advisers. In Investment Advisers Act of 1940 Release No. 7019, the Commission found that \"[b]etween approximately January 2023 and December 2024, Zoe Financial failed to disclose its financial incentive to refer clients to third-party investment advisers that used Zoe Financial's asset management platform,\" that the firm \"described how it mitigated certain other conflicts of interest that arose in its referral process in a misleading way,\" and that Zoe Financial \"did not refer clients 'solely' based on questions during the onboarding process.\" The Commission's press release states that after Zoe Financial launched Zoe Wealth in January 2023 its salespeople \"often suggested advisers using Zoe Wealth that the algorithm had not recommended,\" and that \"Zoe Financial did not adequately disclose the resulting conflict of interest in its Form ADV Brochure until December 2024.\" The Commission found a willful violation of Section 206(2) of the Investment Advisers Act of 1940 and ordered a censure, a cease-and-desist order, and a civil money penalty of $450,000 payable within 14 days.",
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2026-94-sec-charges-registered-investment-adviser-zoe-financial-failure-disclose-conflict-interest",
+      "source_label": "SEC - Press Release 2026-94 (Sept. 28, 2026), with Investment Advisers Act Release No. 7019",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "wealthtech and adviser-matching platforms, registered investment advisers, fintech marketplaces that monetize routing or referrals, lead-generation platforms",
+      "tags": [
+        "fintech",
+        "wealthtech",
+        "referral-platform",
+        "conflict-of-interest",
+        "form-adv",
+        "sec",
+        "enforcement"
+      ]
+    },
+    {
       "id": "2026-09-25-cftc-staff-faq-update-tokenized-customer-funds-blockchain-recordkeeping",
       "date": "2026-09-25",
       "published": "2026-09-25T09:58:00Z",
@@ -214,6 +258,29 @@
         "consumer-protection",
         "fraud",
         "online-platforms"
+      ]
+    },
+    {
+      "id": "2026-09-28-cftc-complaint-cash-fx-group-bitcoin-wallets-usdt-ponzi-payments",
+      "date": "2026-09-28",
+      "published": "2026-09-24T00:00:00Z",
+      "issuing_body": "Commodity Futures Trading Commission",
+      "title": "CFTC complaint against Cash FX Group alleges the commodity pool took and paid participant funds in bitcoin through blockchain wallets, a cryptocurrency-exchange account and a USDT transfer",
+      "facts": "The complaint filed by the Commodity Futures Trading Commission on September 24, 2026 in the United States District Court for the Middle District of Florida, Jacksonville Division, captioned \"Commodity Futures Trading Commission v. Cash FX Group S.A., et al.,\" No. 3:26-cv-2573, alleges at paragraph 35 that \"Cash FX, facilitated by the back office created by TCP, directed pool participants (including U.S. pool participants) to send funds (i.e. bitcoin) to specified wallets on the blockchain,\" that \"[i]n many instances, Cash FX directed pool participants to transfer their bitcoin to Cash FX wallets, sometimes through third-party payment processors,\" and that Lopez \"transferred the bitcoin (or after exchanging it into another digital asset transferred the funds in that other digital asset) to other wallets he controlled, including to a personal account he controlled at a major cryptocurrency exchange.\" The complaint alleges at paragraph 38 that \"[b]etween April 11 and 14, 2021, Cash FX received into certain wallets it controlled approximately 0.374 BTC, worth around $23,404, from approximately 19 pool participants,\" and used those funds \"to transfer approximately 0.393 BTC, worth around $24,703, in Ponzi payments to approximately 50 different pool participants\"; at paragraph 39 that between October 20 and November 4, 2021 it received \"approximately 1.372 BTC, worth around $85,363, from approximately 27 pool participants\" and on November 7, 2021 transferred \"approximately 0.743 BTC, worth around $46,202, in Ponzi payments to approximately 72 different pool participants\"; and at paragraph 40 that on June 27, 2022 \"Cash FX transferred approximately 58.45 BTC, worth around $1.2 million\" into an account it controlled at that exchange, and that \"Lopez sold approximately 75 BTC for around $1.5 million USDT\" and \"then transferred approximately $1.4 million USDT to a pool participant.\" The named defendants are Cash FX Group S.A.; The Conversion Pros, Inc.; Huascar Jose Lopez Castillo; Ronald Pope; and Justin Halladay. These are allegations in a complaint; no adjudication has occurred.",
+      "source_url": "https://www.cftc.gov/media/14676/ENF_CashFXCompliant092426/download",
+      "source_label": "CFTC - Complaint, CFTC v. Cash FX Group S.A., et al., M.D. Fla. No. 3:26-cv-2573 (filed Sept. 24, 2026)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "crypto exchanges, digital-asset payment processors, stablecoin issuers and users, commodity pool operators, MLM and affiliate-marketing platforms",
+      "tags": [
+        "crypto",
+        "bitcoin",
+        "usdt",
+        "stablecoin",
+        "cftc",
+        "enforcement",
+        "commodity-pool",
+        "payment-rails"
       ]
     },
     {

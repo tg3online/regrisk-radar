@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-28T10:00:26Z",
+  "generated": "2026-09-28T21:58:07Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 235,
+  "count": 238,
   "items": [
     {
       "id": "2026-09-28-ca6-kalshi-sports-event-contracts-not-swaps-ohio-tennessee",
@@ -26,6 +26,50 @@
         "ohio",
         "tennessee",
         "litigation"
+      ]
+    },
+    {
+      "id": "2026-09-28-florida-ag-reported-letters-platforms-sweepstakes-casino-advertising",
+      "date": "2026-09-28",
+      "published": "2026-09-28T00:00:00Z",
+      "title": "Trade outlets report Florida Attorney General wrote to Google, Meta, Reddit, Snap and TikTok over sweepstakes-casino advertising, seeking written confirmation by October 23, 2026",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-09-28-florida-ag-reported-letters-platforms-sweepstakes-casino-advertising",
+      "issuing_body": "Florida Office of the Attorney General (reported)",
+      "source_url": "https://www.covers.com/industry/florida-ag-demands-social-media-sites-stop-hosting-sweeps-casino-ads-sept-28-2026",
+      "source_label": "Covers - Florida AG demands social media sites stop hosting sweeps casino ads (reporting; letters not retrieved)",
+      "source_type": "coverage_reporting_filing",
+      "primary_source_status": "cited_by_coverage_not_retrieved",
+      "relevant_to": "sweepstakes and social-casino operators, online gaming platforms, advertising and affiliate networks, digital ad platforms",
+      "tags": [
+        "gaming",
+        "sweepstakes-casino",
+        "social-casino",
+        "state-ag",
+        "florida",
+        "advertising",
+        "platform-liability"
+      ]
+    },
+    {
+      "id": "2026-09-28-sec-order-zoe-financial-undisclosed-adviser-matching-conflict",
+      "date": "2026-09-28",
+      "published": "2026-09-28T00:00:00Z",
+      "title": "SEC settles charges against Zoe Financial over undisclosed incentive to steer clients toward advisers using its own asset-management platform; $450,000 penalty",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-09-28-sec-order-zoe-financial-undisclosed-adviser-matching-conflict",
+      "issuing_body": "U.S. Securities and Exchange Commission",
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2026-94-sec-charges-registered-investment-adviser-zoe-financial-failure-disclose-conflict-interest",
+      "source_label": "SEC - Press Release 2026-94 (Sept. 28, 2026), with Investment Advisers Act Release No. 7019",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "wealthtech and adviser-matching platforms, registered investment advisers, fintech marketplaces that monetize routing or referrals, lead-generation platforms",
+      "tags": [
+        "fintech",
+        "wealthtech",
+        "referral-platform",
+        "conflict-of-interest",
+        "form-adv",
+        "sec",
+        "enforcement"
       ]
     },
     {
@@ -210,6 +254,29 @@
         "consumer-protection",
         "fraud",
         "online-platforms"
+      ]
+    },
+    {
+      "id": "2026-09-28-cftc-complaint-cash-fx-group-bitcoin-wallets-usdt-ponzi-payments",
+      "date": "2026-09-28",
+      "published": "2026-09-24T00:00:00Z",
+      "title": "CFTC complaint against Cash FX Group alleges the commodity pool took and paid participant funds in bitcoin through blockchain wallets, a cryptocurrency-exchange account and a USDT transfer",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-09-28-cftc-complaint-cash-fx-group-bitcoin-wallets-usdt-ponzi-payments",
+      "issuing_body": "Commodity Futures Trading Commission",
+      "source_url": "https://www.cftc.gov/media/14676/ENF_CashFXCompliant092426/download",
+      "source_label": "CFTC - Complaint, CFTC v. Cash FX Group S.A., et al., M.D. Fla. No. 3:26-cv-2573 (filed Sept. 24, 2026)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "crypto exchanges, digital-asset payment processors, stablecoin issuers and users, commodity pool operators, MLM and affiliate-marketing platforms",
+      "tags": [
+        "crypto",
+        "bitcoin",
+        "usdt",
+        "stablecoin",
+        "cftc",
+        "enforcement",
+        "commodity-pool",
+        "payment-rails"
       ]
     },
     {
