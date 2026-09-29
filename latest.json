@@ -1,8 +1,75 @@
 {
-  "generated": "2026-09-29T10:07:25Z",
+  "generated": "2026-09-29T22:07:22Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 241,
+  "count": 244,
   "items": [
+    {
+      "id": "2026-09-29-treasury-stablecoin-certification-review-committee-interim-final-rule",
+      "date": "2026-09-29",
+      "published": "2026-09-29T22:15:00Z",
+      "title": "Treasury files an interim final rule setting the forms and procedures for reviewing State payment-stablecoin certifications under GENIUS Act section 4(c)",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-09-29-treasury-stablecoin-certification-review-committee-interim-final-rule",
+      "issuing_body": "U.S. Department of the Treasury (Stablecoin Certification Review Committee)",
+      "source_url": "https://public-inspection.federalregister.gov/2026-19966.pdf",
+      "source_label": "Federal Register public inspection — Treasury interim final rule, document 2026-19966 (filed September 29, 2026)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "payment stablecoin issuers, State payment stablecoin regulators, banks and payment processors, crypto exchanges",
+      "tags": [
+        "stablecoins",
+        "genius-act",
+        "treasury",
+        "interim-final-rule",
+        "state-regulators",
+        "payments",
+        "crypto",
+        "federal-register"
+      ]
+    },
+    {
+      "id": "2026-09-29-ofac-cuban-assets-control-regulations-u-turn-funds-transfers",
+      "date": "2026-09-29",
+      "published": "2026-09-29T22:15:00Z",
+      "title": "OFAC final rule removes the authorization for U.S. banking institutions to process Cuba-related \"U-turn\" funds transfers and replaces it with an authorization to reject them",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-09-29-ofac-cuban-assets-control-regulations-u-turn-funds-transfers",
+      "issuing_body": "U.S. Department of the Treasury, Office of Foreign Assets Control",
+      "source_url": "https://public-inspection.federalregister.gov/2026-19973.pdf",
+      "source_label": "Federal Register public inspection — OFAC final rule, document 2026-19973 (filed September 29, 2026)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "banks, money transmitters, payment processors, correspondent-banking and sanctions compliance teams",
+      "tags": [
+        "payments",
+        "ofac",
+        "sanctions",
+        "funds-transfers",
+        "correspondent-banking",
+        "final-rule",
+        "cuba",
+        "federal-register"
+      ]
+    },
+    {
+      "id": "2026-09-29-sec-cryptoaiml-tsai-whatsapp-crypto-asset-fraud-charges",
+      "date": "2026-09-29",
+      "published": "2026-09-29T22:15:00Z",
+      "title": "SEC charges four entities over WhatsApp group-chat schemes that allegedly induced investors to transfer crypto assets to fake trading platforms",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-09-29-sec-cryptoaiml-tsai-whatsapp-crypto-asset-fraud-charges",
+      "issuing_body": "U.S. Securities and Exchange Commission",
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2026-95-sec-charges-multiple-entities-fraud-schemes-totaling-least-15-million-used-whatsapp-other-platforms",
+      "source_label": "SEC press release 2026-95 (September 29, 2026), with companion Litigation Release 26654",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "crypto exchanges and custodians, brokerages, payment processors, fraud and compliance teams",
+      "tags": [
+        "crypto",
+        "enforcement",
+        "sec",
+        "retail-fraud",
+        "social-engineering",
+        "sdny"
+      ]
+    },
     {
       "id": "2026-09-29-fed-genius-act-nprms-published-november-30-deadline",
       "date": "2026-09-29",
