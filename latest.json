@@ -1,8 +1,71 @@
 {
-  "generated": "2026-09-29T22:07:22Z",
+  "generated": "2026-09-30T10:00:22Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 244,
+  "count": 247,
   "items": [
+    {
+      "id": "2026-09-30-sec-corp-fin-faqs-crypto-asset-classification-investment-contracts",
+      "date": "2026-09-30",
+      "published": "2026-09-30T10:30:00Z",
+      "title": "SEC Corporation Finance staff issues FAQs on crypto asset classification and investment contract analysis",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-09-30-sec-corp-fin-faqs-crypto-asset-classification-investment-contracts",
+      "issuing_body": "SEC Division of Corporation Finance",
+      "source_url": "https://www.sec.gov/about/divisions-offices/division-corporation-finance/faqs-crypto-assets",
+      "source_label": "SEC Division of Corporation Finance staff FAQs (sec.gov), dated Sept. 25, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "token issuers, staking service providers, crypto trading platforms, securities counsel",
+      "tags": [
+        "crypto",
+        "sec",
+        "staff-guidance",
+        "tokens",
+        "staking",
+        "investment-contract"
+      ]
+    },
+    {
+      "id": "2026-09-30-federal-reserve-genius-act-proposals-published-rins-dockets-application-procedures",
+      "date": "2026-09-30",
+      "published": "2026-09-30T10:30:00Z",
+      "title": "Both Federal Reserve GENIUS Act stablecoin proposals are now published in the Federal Register, with a 120-day application clock and a deemed-approval default",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-09-30-federal-reserve-genius-act-proposals-published-rins-dockets-application-procedures",
+      "issuing_body": "Board of Governors of the Federal Reserve System",
+      "source_url": "https://www.federalregister.gov/d/2026-19899",
+      "source_label": "Federal Register documents 2026-19899 and 2026-19860, Board of Governors of the Federal Reserve System, proposed rules published Sept. 29, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "payment stablecoin issuers, state member banks, bank holding companies, reserve custodians",
+      "tags": [
+        "crypto",
+        "payments",
+        "stablecoin",
+        "genius-act",
+        "nprm",
+        "federal-reserve"
+      ]
+    },
+    {
+      "id": "2026-09-30-treasury-stablecoin-certification-committee-ifr-pra-gate",
+      "date": "2026-09-30",
+      "published": "2026-09-30T10:30:00Z",
+      "title": "Treasury stablecoin certification rule will be effective on publication, but certifications will not be accepted until Paperwork Reduction Act approval",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-09-30-treasury-stablecoin-certification-committee-ifr-pra-gate",
+      "issuing_body": "U.S. Department of the Treasury, on behalf of the Stablecoin Certification Review Committee",
+      "source_url": "https://public-inspection.federalregister.gov/2026-19966.pdf",
+      "source_label": "Federal Register public inspection, unpublished document 2026-19966, Department of the Treasury interim final rule filed Sept. 29, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "state payment stablecoin regulators, payment stablecoin issuers using the state pathway",
+      "tags": [
+        "payments",
+        "crypto",
+        "stablecoin",
+        "genius-act",
+        "treasury",
+        "interim-final-rule"
+      ]
+    },
     {
       "id": "2026-09-29-treasury-stablecoin-certification-review-committee-interim-final-rule",
       "date": "2026-09-29",

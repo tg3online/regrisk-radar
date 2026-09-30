@@ -5,7 +5,58 @@
   <id>https://tg3online.github.io/regrisk-radar/</id>
   <link href="https://tg3online.github.io/regrisk-radar/" />
   <link href="https://tg3online.github.io/regrisk-radar/atom.xml" rel="self" type="application/atom+xml" />
-  <updated>2026-09-29T22:07:22Z</updated>
+  <updated>2026-09-30T10:00:22Z</updated>
+  <entry>
+    <title>SEC Corporation Finance staff issues FAQs on crypto asset classification and investment contract analysis</title>
+    <id>https://tg3online.github.io/regrisk-radar/#2026-09-30-sec-corp-fin-faqs-crypto-asset-classification-investment-contracts</id>
+    <link href="https://tg3online.github.io/regrisk-radar/#2026-09-30-sec-corp-fin-faqs-crypto-asset-classification-investment-contracts" rel="alternate" />
+    <updated>2026-09-30T10:30:00Z</updated>
+    <published>2026-09-30T10:30:00Z</published>
+    <category term="SEC Division of Corporation Finance" />
+    <content type="text">The SEC&#x27;s Division of Corporation Finance has published a set of staff frequently asked questions stamped &quot;Sept. 25, 2026&quot;, titled &quot;Frequently Asked Questions on the Application of the Federal Securities Laws to Certain Types of Crypto Assets and Certain Transactions Involving Crypto Assets&quot;. The page states that the answers &quot;represent the views of the staff of the Division of Corporation Finance&quot; and &quot;are not a rule, regulation or statement of the Securities and Exchange Commission&quot;. The FAQs are organized in two groups. The first group, on classification of crypto assets, addresses how the definitions of &quot;functional&quot; and &quot;decentralized&quot; relate to an issuer&#x27;s representations, how Staking Receipt Tokens are classified, and what distinguishes a &quot;receipt&quot; from other financial instruments. The second group, on crypto assets subject to investment contracts, addresses when promotional communications constitute representations of essential managerial efforts, whether a non-security crypto asset ceases to be an investment contract when representations are assumed by another party, what activities do not constitute essential managerial efforts after a crypto system is functional, whether issuer statements can create new investment contracts for functional and decentralized systems, whether buyback program announcements constitute essential managerial effort representations, and whether a trading platform offering a secondary market qualifies as a promoter. No SEC press release accompanied the FAQs.
+
+Primary source: SEC Division of Corporation Finance staff FAQs (sec.gov), dated Sept. 25, 2026 — https://www.sec.gov/about/divisions-offices/division-corporation-finance/faqs-crypto-assets
+
+Relevant to: token issuers, staking service providers, crypto trading platforms, securities counsel
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</content>
+  </entry>
+  <entry>
+    <title>Both Federal Reserve GENIUS Act stablecoin proposals are now published in the Federal Register, with a 120-day application clock and a deemed-approval default</title>
+    <id>https://tg3online.github.io/regrisk-radar/#2026-09-30-federal-reserve-genius-act-proposals-published-rins-dockets-application-procedures</id>
+    <link href="https://tg3online.github.io/regrisk-radar/#2026-09-30-federal-reserve-genius-act-proposals-published-rins-dockets-application-procedures" rel="alternate" />
+    <updated>2026-09-30T10:30:00Z</updated>
+    <published>2026-09-30T10:30:00Z</published>
+    <category term="Board of Governors of the Federal Reserve System" />
+    <content type="text">Two Federal Reserve proposed rules implementing the GENIUS Act published in the Federal Register on September 29, 2026. Document 2026-19860, &quot;Implementing the Federal Reserve Board&#x27;s Responsibilities Under the GENIUS Act&quot;, carries RIN 7100-AH29 and Docket R-1899 and would affect 12 CFR parts 208, 211, 217, 225, 247 and 263. Its DATES section reads &quot;Comments must be received by November 30, 2026.&quot; Its summary states that the Board &quot;proposes to issue regulations to implement the Guiding and Establishing National Innovation for U.S. Stablecoins Act (GENIUS Act) with respect to Board-supervised permitted payment stablecoin issuers (PPSIs) and certain other entities that are subject to the Board&#x27;s jurisdiction&quot;, and that the Board &quot;proposes to issue regulations to implement the prohibition on tying in section 4(a)(8) of the GENIUS Act, which is applicable generally to all PPSIs.&quot; Document 2026-19899, &quot;Application Procedures for Board-Supervised Insured Depository Institutions Seeking Approval for a Subsidiary To Issue Payment Stablecoins&quot;, carries RIN 7100-AH30 and Docket R-1900 and would affect 12 CFR parts 247 and 262. Its DATES section reads &quot;Comments must be received by the Board on or before November 30, 2026.&quot; On the application timetable, that document states that &quot;not later than 30 days after receiving an application, the Board must notify the applicant as to whether the Board considers the application to be substantially complete&quot;; that &quot;the Board shall render a decision on the application not later than 120 days after the submission date&quot;; and that &quot;if the Board fails to render a decision on a complete application within 120 days of the submission date, the application shall be deemed approved.&quot; A denied applicant may request a hearing &quot;not later than 30 days after the applicant receives notice of the denial&quot;, the Board notices the time and place &quot;[n]ot later than 30 days after the date of receipt of the request&quot;, and &quot;[n]ot later than 60 days after the date of that hearing, the Board shall notify the applicant of a final determination.&quot;
+
+Primary source: Federal Register documents 2026-19899 and 2026-19860, Board of Governors of the Federal Reserve System, proposed rules published Sept. 29, 2026 — https://www.federalregister.gov/d/2026-19899
+
+Relevant to: payment stablecoin issuers, state member banks, bank holding companies, reserve custodians
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</content>
+  </entry>
+  <entry>
+    <title>Treasury stablecoin certification rule will be effective on publication, but certifications will not be accepted until Paperwork Reduction Act approval</title>
+    <id>https://tg3online.github.io/regrisk-radar/#2026-09-30-treasury-stablecoin-certification-committee-ifr-pra-gate</id>
+    <link href="https://tg3online.github.io/regrisk-radar/#2026-09-30-treasury-stablecoin-certification-committee-ifr-pra-gate" rel="alternate" />
+    <updated>2026-09-30T10:30:00Z</updated>
+    <published>2026-09-30T10:30:00Z</published>
+    <category term="U.S. Department of the Treasury, on behalf of the Stablecoin Certification Review Committee" />
+    <content type="text">Treasury&#x27;s interim final rule &quot;Forms and Procedures for Review of State Certifications by the Stablecoin Certification Review Committee&quot;, Federal Register document 2026-19966 at RIN 1505-AC97 and docket TREAS-DO-2026-0562, states in its DATES section: &quot;Effective date: This interim final rule is effective [INSERT DATE OF PUBLICATION IN THE FEDERAL REGISTER]; however, certifications will not be accepted until after Paperwork Reduction Act approval of the information collection. Treasury will post a notification on its website as to when certifications will be accepted. Comment date: Comments on this interim final rule must be received on or before [INSERT DATE 60 DAYS AFTER DATE OF PUBLICATION IN THE FEDERAL REGISTER].&quot; Its summary states that Treasury &quot;is issuing this interim final rule on behalf of the Stablecoin Certification Review Committee&quot;, that the Committee &quot;is adopting interim procedural regulations and forms to implement its responsibilities under section 4(c)&quot; of the GENIUS Act, and that the regulations &quot;set out a process to facilitate the Committee&#x27;s approval or denial of certifications submitted by State payment stablecoin regulators under section 4(c)(4) of the GENIUS Act, and prescribe the form of such certifications.&quot; Both bracketed dates were still unfilled when this entry was written, and the document had not yet appeared in a published Federal Register issue.
+
+Primary source: Federal Register public inspection, unpublished document 2026-19966, Department of the Treasury interim final rule filed Sept. 29, 2026 — https://public-inspection.federalregister.gov/2026-19966.pdf
+
+Relevant to: state payment stablecoin regulators, payment stablecoin issuers using the state pathway
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</content>
+  </entry>
   <entry>
     <title>Treasury files an interim final rule setting the forms and procedures for reviewing State payment-stablecoin certifications under GENIUS Act section 4(c)</title>
     <id>https://tg3online.github.io/regrisk-radar/#2026-09-29-treasury-stablecoin-certification-review-committee-interim-final-rule</id>
