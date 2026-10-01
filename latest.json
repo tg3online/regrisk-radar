@@ -1,8 +1,30 @@
 {
-  "generated": "2026-09-30T22:02:03Z",
+  "generated": "2026-10-01T10:10:59Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 253,
+  "count": 257,
   "items": [
+    {
+      "id": "2026-10-01-ftc-impersonation-rule-anprm-published-november-30-comment-deadline",
+      "date": "2026-10-01",
+      "published": "2026-10-01T00:00:00Z",
+      "title": "FTC advance notice of proposed rulemaking on the Rule on Impersonation of Government and Businesses publishes in the Federal Register with comments due November 30, 2026",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-10-01-ftc-impersonation-rule-anprm-published-november-30-comment-deadline",
+      "issuing_body": "FTC",
+      "source_url": "https://www.federalregister.gov/d/2026-20143",
+      "source_label": "Federal Register document 2026-20143, FTC advance notice of proposed rulemaking, Oct. 1, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "payment processors, fintech consumer brands, advertising platforms, marketplaces",
+      "tags": [
+        "payments",
+        "fintech",
+        "ftc",
+        "anprm",
+        "impersonation-rule",
+        "platform-advertising",
+        "comment-deadline"
+      ]
+    },
     {
       "id": "2026-09-30-sec-bitconnect-promoter-settled-order-unregistered-offering-broker-activity",
       "date": "2026-09-30",
@@ -193,6 +215,73 @@
         "genius-act",
         "treasury",
         "interim-final-rule"
+      ]
+    },
+    {
+      "id": "2026-10-01-sec-staff-statement-exchange-broker-dealer-affiliations-form-1n-registrants",
+      "date": "2026-10-01",
+      "published": "2026-09-30T00:00:00Z",
+      "title": "SEC Trading and Markets staff statement discloses four Form 1-N security futures product exchange registrations, footnoted as Coinbase Derivatives, KalshiEX, Bitnomial and Nadex, and invites comment on exchange affiliations with broker-dealers",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-10-01-sec-staff-statement-exchange-broker-dealer-affiliations-form-1n-registrants",
+      "issuing_body": "SEC",
+      "source_url": "https://www.sec.gov/newsroom/speeches-statements/tm-statement-affiliations-093026",
+      "source_label": "SEC Division of Trading and Markets, staff statement, Sept. 30, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "crypto derivatives exchanges, prediction-market platforms, futures commission merchants, broker-dealers",
+      "tags": [
+        "crypto",
+        "gaming",
+        "sec",
+        "staff-guidance",
+        "security-futures",
+        "form-1-n",
+        "exchange-affiliations",
+        "request-for-comment"
+      ]
+    },
+    {
+      "id": "2026-10-01-sec-cfd-block-remaining-orders-fxsway-prosperity-crypto-funded-accounts",
+      "date": "2026-10-01",
+      "published": "2026-09-30T00:00:00Z",
+      "title": "The three remaining orders in the SEC's September 30 block against crypto-funded offshore contract-for-differences brokerages name a fourth platform, FxSway, and impose a further $190,000 in penalties",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-10-01-sec-cfd-block-remaining-orders-fxsway-prosperity-crypto-funded-accounts",
+      "issuing_body": "SEC",
+      "source_url": "https://www.sec.gov/litigation/admin/2026/34-106541.pdf",
+      "source_label": "SEC administrative order, Release 34-106541, File No. 3-22762, Sept. 30, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "crypto-funded trading venues, contract-for-differences platforms, offshore brokerages, affiliate marketers",
+      "tags": [
+        "crypto",
+        "fintech",
+        "sec",
+        "enforcement",
+        "security-based-swaps",
+        "cfd",
+        "broker-dealer-registration"
+      ]
+    },
+    {
+      "id": "2026-10-01-sec-bitconnect-promoter-final-judgments-disgorgement-penalties",
+      "date": "2026-10-01",
+      "published": "2026-09-30T00:00:00Z",
+      "title": "SEC announces final judgments against three BitConnect promoters, directing disgorgement, prejudgment interest and civil penalties together with permanent injunctions",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-10-01-sec-bitconnect-promoter-final-judgments-disgorgement-penalties",
+      "issuing_body": "SEC",
+      "source_url": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26660",
+      "source_label": "SEC Litigation Release No. 26660, Sept. 30, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "token promoters, affiliate and referral marketers, crypto lending platforms, influencers",
+      "tags": [
+        "crypto",
+        "sec",
+        "enforcement",
+        "bitconnect",
+        "promoter-liability",
+        "unregistered-offering",
+        "court-judgment"
       ]
     },
     {
