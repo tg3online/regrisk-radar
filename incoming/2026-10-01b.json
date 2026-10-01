@@ -1,0 +1,75 @@
+{
+  "_note": "RegRisk Radar drop file. Evening (PM) run for 2026-10-01. The 'b' suffix is required per RADAR.md because incoming/2026-10-01.json already merged this morning. Facts-only, sanitized, public-safe fields only.",
+  "entries": [
+    {
+      "id": "2026-10-01-ofac-a7-network-transnational-criminal-organization-designation",
+      "date": "2026-10-01",
+      "published": "2026-10-01T21:00:00Z",
+      "issuing_body": "U.S. Department of the Treasury / OFAC",
+      "title": "Treasury designates the A7 Network as a significant transnational criminal organization, citing a blocked ruble-backed token and links to Iran's largest digital asset exchange",
+      "facts": "Treasury press release sb0644, dated October 1, 2026, states that as part of Operation Economic Outcast the Department \"took unprecedented action against the A7 Network, a shadow banking network with ties to Russia used by the Iranian regime to evade sanctions.\" The release lists three simultaneous actions: FinCEN \"proposed a rule that would prohibit transmittals of funds regarding transactions involving the A7 Network's Sub-Agents\"; FinCEN \"issued an Alert to help financial institutions detect and report suspicious activity related to the A7 Network\"; and the Office of Foreign Assets Control \"sanctioned the A7 Network as a significant transnational criminal organization.\" On digital assets the release states: \"The A7A5 token is a blocked, ruble-backed token issued by Old Vector LLC, which OFAC designated on August 14, 2025 and is part of the A7 Network.\" It states the network \"has been linked to Nobitex, Iran's largest digital asset exchange, which OFAC designated on June 2, 2026,\" and \"has also facilitated transactions related to North Korean hacks of cryptocurrency exchanges and other illicit actors.\" The FinCEN notice of proposed rulemaking is stated to have been issued pursuant to section 9714(a) of the Combating Russian Money Laundering Act.",
+      "source_url": "https://home.treasury.gov/news/press-releases/sb0644",
+      "source_label": "U.S. Department of the Treasury press release sb0644 (October 1, 2026)",
+      "tags": ["crypto", "payments", "ofac", "treasury", "enforcement", "designation", "sanctions-evasion", "stablecoin", "blocked-property"],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "digital asset exchanges, stablecoin issuers, OTC desks, payment processors, bank compliance and sanctions teams"
+    },
+    {
+      "id": "2026-10-01-sec-proposes-crypto-asset-custody-framework-advisers-funds",
+      "date": "2026-10-01",
+      "published": "2026-10-01T20:00:00Z",
+      "issuing_body": "SEC",
+      "title": "SEC proposes a crypto asset custody framework for investment advisers and regulated funds that would permit self-custody in certain circumstances and allow state trust companies as custodians",
+      "facts": "SEC press release 2026-100, dated October 1, 2026, states that the Commission \"proposed new rules to establish a tailored framework for the custody of crypto assets for registered investment advisers and regulated funds.\" The release states the proposal would \"modernize custody rules and expand investor choice by removing regulatory barriers that inhibit the adviser's ability to provide crypto-related investment advice,\" and that the rules would \"permit crypto assets to be held in self-custody under certain circumstances and allow the use of state trust companies as custodians for client and regulated fund crypto assets.\" Chairman Paul S. Atkins is quoted: \"Since the advent of Bitcoin in 2008, the crypto asset market has grown from a niche curiosity into a multi-trillion-dollar asset class to which investors actively seek exposure.\" The proposal is made under the Investment Advisers Act of 1940 and the Investment Company Act of 1940. The release states the comment period runs 60 days following publication in the Federal Register; no calendar deadline is printed in the release, and the document had not published in the Federal Register as of this entry.",
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2026-100-sec-proposal-would-address-how-investment-advisers-funds-can-custody-crypto-assets-under-federal",
+      "source_label": "SEC press release 2026-100 (October 1, 2026)",
+      "tags": ["crypto", "fintech", "sec", "proposed-rule", "custody", "qualified-custodian", "self-custody", "request-for-comment"],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "registered investment advisers, regulated funds, crypto custodians, state trust companies, digital asset platforms"
+    },
+    {
+      "id": "2026-10-01-fincen-nprm-a7-network-sub-agents-funds-transmittal-prohibition",
+      "date": "2026-10-01",
+      "published": "2026-10-01T20:30:00Z",
+      "issuing_body": "FinCEN",
+      "title": "FinCEN proposes a section 9714 special measure barring covered financial institutions from transmitting funds to or from accounts and convertible virtual currency addresses of six named A7 Network Sub-Agents",
+      "facts": "FinCEN notice of proposed rulemaking \"Proposal of Special Measure Prohibiting the Transmittal of Funds Regarding Transactions Involving the A7 Network's Sub-Agents\", RIN 1506-AB77, docket FINCEN-2026-0265, released October 1, 2026. Its SUMMARY states that FinCEN \"is issuing a finding and notice of proposed rulemaking, pursuant to section 9714(a) of the Combating Russian Money Laundering Act (Public Law 116-283), as amended by section 6106(b) of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117-81), finding transactions involving any company operating outside of the United States that is controlled by the A7 Network, a sanctions evasion and money laundering service with ties to Russia, leveraged by a wide range of illicit actors, including Iran and its terrorist proxies, to be a class of transactions of primary money laundering concern in connection with Russian illicit finance and proposing the imposition of a prohibition on certain transmittals of funds, by any covered financial institution, involving that class of transactions.\" The proposed operative text at section 1010.668(b)(1) reads: \"Covered financial institutions are prohibited from engaging in a transmittal of funds involving any A7 Network Sub-Agent, including any transmittal of funds from or to an A7 Network Sub-Agent, or from or to any account or CVC address administered by or on behalf of an A7 Network Sub-Agent.\" Six Sub-Agents are named, all identified as UAE or Dubai entities: Galadriel Trading FZCO, Gimli Trade LLC-FZ, Hydrofusion Resources FZ-LLC, Pearl Bridge, Power Sphere LLC-FZ and Sigizmund FZCO. The definition also covers \"any other entity identified by FinCEN as a Sub-Agent of the A7 Network\", with additional Sub-Agents to be provided to covered institutions through secure FI-Portal channels. The DATES section reads \"on or before [INSERT DATE 30 DAYS AFTER DATE OF PUBLICATION IN THE FEDERAL REGISTER]\"; no calendar date is printed.",
+      "source_url": "https://www.fincen.gov/resources/statutes-regulations/federal-register-notices/proposal-special-measure-prohibiting-A7-Network",
+      "source_label": "FinCEN notice of proposed rulemaking, RIN 1506-AB77, docket FINCEN-2026-0265 (October 1, 2026)",
+      "tags": ["crypto", "payments", "fintech", "fincen", "nprm", "special-measure", "section-9714", "cvc-address", "sanctions-evasion"],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "banks, money services businesses, payment processors, digital asset firms, BSA and AML compliance teams"
+    },
+    {
+      "id": "2026-10-01-fincen-alert-a7-network-a7a5-stablecoin-red-flags",
+      "date": "2026-10-01",
+      "published": "2026-10-01T20:45:00Z",
+      "issuing_body": "FinCEN",
+      "title": "FinCEN Alert on the A7 Network gives financial institutions digital asset red flags naming the A7A5 ruble-backed stablecoin, its wrapped derivatives, unhosted wallets and stablecoin-fiat OTC desks",
+      "facts": "FinCEN Alert FIN-2026-Alert007, \"FinCEN Alert on the A7 Network\", dated October 1, 2026. Its opening paragraph states that FinCEN \"is issuing this Alert to urge financial institutions to be vigilant in detecting, identifying, and reporting suspicious activity, including involving the A7 Network. The A7 Network is a global wholesale sanctions evasion and money laundering service with ties to Russia, leveraged by a wide range of illicit actors, including Iran and its terrorist proxies.\" The Alert states that \"the A7 Network may use digital assets, including A7A5, a ruble-backed stablecoin developed within the network, to transfer value\"; that \"Created by the A7 Network for use by its clients, A7A5 is a ruble-backed stablecoin that operates on the Tron and Ethereum blockchains\"; that \"OFAC has announced that the A7A5 token is to be considered blocked property\"; that \"more than 180 entities processed A7A5 transactions that totaled at least $179.1 billion dollars between February 2025 and June 2026\"; that \"A7A5 has been consolidated into unhosted wallets, suggesting the A7 Network is moving away from using previously named, sanctioned exchanges\"; that the network \"has most often used the A7A5 tokens as a non-freezable, bridging asset to convert into other, more widely accepted digital assets, such as the stablecoin Tether (USDT)\"; and that U.S. financial institutions \"may encounter use of derivative or 'wrapped' tokens distinct from but 'pegged' to the A7A5 token\", which \"are often accessed through decentralized finance applications\". Its digital asset red flags include a customer that \"offers, has traded in, or has historic direct or indirect exposure to trades denominated in the A7A5 token or in derivative, or 'wrapped,' tokens based on the A7A5 token\"; a customer that \"provides digital assets, especially stablecoins, to identified or suspected A7 Network Sub-Agents\"; a customer \"engaged in international trade, import/export, or shipping using stablecoins to make large purchases or engage in a high volume of transactions, especially to pay for commodities not usually traded using digital assets\"; and a customer \"operating a digital asset firm, including a firm that purports to be engaged in 'over the counter,' 'OTC,' or 'block trading' services with a primary focus on stablecoin/fiat trading pairs\".",
+      "source_url": "https://www.fincen.gov/system/files/2026-10/FinCEN-Alert-A7-Network.pdf",
+      "source_label": "FinCEN Alert FIN-2026-Alert007 (October 1, 2026)",
+      "tags": ["crypto", "payments", "fintech", "fincen", "alert", "red-flags", "sar-reporting", "stablecoin", "wrapped-token", "unhosted-wallet", "defi"],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "digital asset firms, OTC and block trading desks, stablecoin issuers, banks, trade finance and AML compliance teams"
+    },
+    {
+      "id": "2026-10-01-nydfs-wyoming-mou-virtual-currency-digital-asset-oversight",
+      "date": "2026-10-01",
+      "published": "2026-10-01T19:00:00Z",
+      "issuing_body": "NYDFS",
+      "title": "NYDFS and the Wyoming Division of Banking sign an MOU to coordinate licensing, share supervisory reports and work toward joint examinations of virtual currency and digital asset businesses",
+      "facts": "A New York State Department of Financial Services press release dated October 1, 2026 announces that NYDFS and the Wyoming Division of Banking have signed a memorandum of understanding \"to Enable Coordinated Oversight of Virtual Currency and Digital Asset Activities\". The parties are represented by NYDFS Acting Superintendent Kaitlin Asrow and Wyoming Division of Banking Commissioner Jeremiah Bishop. On licensing, the release states: \"The licensing and chartering provisions of the MOU provide for coordination on entities already licensed or chartered in one jurisdiction, as well as for entities applying in both jurisdictions at the same time\", with the regulators sharing examination analysis, subject matter reviews and historical data to streamline applications. On supervision, it states: \"The regulators will coordinate their examination schedules and work toward joint examinations of entities operating in both states\", and \"The MOU also establishes protocols for sharing supervisory reports, market trend data, and notifications regarding potential enforcement actions.\" Acting Superintendent Asrow is quoted: \"Interstate collaboration is essential for the virtual currency space. This MOU will add to the resources and information available to each regulator, helping to facilitate responsible innovation in the market while protecting consumers across our respective jurisdictions.\" Commissioner Bishop is quoted: \"This MOU shows the strength of the state regulatory system as an example of two leading regulators in this space working together to better the effectiveness in supervision.\" The release states that DFS \"established the nation's first comprehensive virtual currency regulatory framework, the BitLicense, in 2015.\" No effective date, duration or expiry for the MOU is stated in the release.",
+      "source_url": "https://www.dfs.ny.gov/reports_and_publications/press_releases/pr20261001",
+      "source_label": "NYDFS press release (October 1, 2026)",
+      "tags": ["crypto", "fintech", "nydfs", "state-regulation", "bitlicense", "mou", "supervisory-coordination", "joint-examination", "wyoming"],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "BitLicensees, Wyoming-chartered digital asset institutions, virtual currency businesses licensed in multiple states"
+    }
+  ]
+}
