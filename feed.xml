@@ -5,8 +5,24 @@
     <link>https://tg3online.github.io/regrisk-radar/</link>
     <description>Daily facts-only regulatory radar — crypto, gaming, payments &amp; fintech. Verified against primary sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Oct 2026 09:58:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 21:59:41 +0000</lastBuildDate>
     <atom:link href="https://tg3online.github.io/regrisk-radar/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FinCEN special measure on the A7 Network&#x27;s Sub-Agents publishes in the Federal Register with comments due November 4, 2026</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-10-03-fincen-a7-network-sub-agents-special-measure-federal-register</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-10-03-fincen-a7-network-sub-agents-special-measure-federal-register</guid>
+      <pubDate>Sat, 03 Oct 2026 21:55:00 +0000</pubDate>
+      <category>FinCEN</category>
+      <description>FinCEN&#x27;s finding and notice of proposed rulemaking, &quot;Proposal of Special Measure Prohibiting the Transmittal of Funds Regarding Transactions Involving the A7 Network&#x27;s Sub-Agents&quot;, has been published in the Federal Register at 91 FR 63208, with a publication date of October 5, 2026, document number 2026-20371 and RIN 1506-AB77, under 31 CFR part 1010. The DATES section states that written comments on the notice of proposed rulemaking must be submitted on or before November 4, 2026. The proposed text at section 1010.668(b)(1) would prohibit covered financial institutions from engaging in a transmittal of funds involving any A7 Network Sub-Agent, including any transmittal of funds from or to an A7 Network Sub-Agent, or from or to any account or CVC address administered by or on behalf of an A7 Network Sub-Agent. The document states that covered financial institutions include banks, broker-dealers, money services businesses, casinos, futures commission merchants and mutual funds, approximately 347,926 institutions in total, of which 332,068 are money services businesses. It describes the A7A5 token as a ruble-backed stablecoin that operates on the Tron and Ethereum blockchains, and states that A7A5 transactions totalled at least USD 179.1 billion between February 2025 and June 2026. The finding is made under section 9714(a) of the Combating Russian Money Laundering Act. No effective date is stated; the document is a proposed rule open for comment.
+
+Primary source: Federal Register, 91 FR 63208, document 2026-20371 (FinCEN notice of proposed rulemaking) — https://www.federalregister.gov/documents/2026/10/05/2026-20371/proposal-of-special-measure-prohibiting-the-transmittal-of-funds-regarding-transactions-involving
+
+Relevant to: money services businesses, banks, broker-dealers, futures commission merchants, casinos, mutual funds, crypto exchanges and OTC desks
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
     <item>
       <title>CFTC has sent two event-contract rules to White House regulatory review: one would define &#x27;swap&#x27; to include event contracts, the other would exclude casino-style gambling products</title>
       <link>https://tg3online.github.io/regrisk-radar/#2026-10-03-cftc-event-contract-swap-definition-rules-at-oira</link>

@@ -8,6 +8,32 @@
   },
   "items": [
     {
+      "id": "2026-10-03-fincen-a7-network-sub-agents-special-measure-federal-register",
+      "date": "2026-10-03",
+      "published": "2026-10-03T21:55:00Z",
+      "issuing_body": "FinCEN",
+      "title": "FinCEN special measure on the A7 Network's Sub-Agents publishes in the Federal Register with comments due November 4, 2026",
+      "facts": "FinCEN's finding and notice of proposed rulemaking, \"Proposal of Special Measure Prohibiting the Transmittal of Funds Regarding Transactions Involving the A7 Network's Sub-Agents\", has been published in the Federal Register at 91 FR 63208, with a publication date of October 5, 2026, document number 2026-20371 and RIN 1506-AB77, under 31 CFR part 1010. The DATES section states that written comments on the notice of proposed rulemaking must be submitted on or before November 4, 2026. The proposed text at section 1010.668(b)(1) would prohibit covered financial institutions from engaging in a transmittal of funds involving any A7 Network Sub-Agent, including any transmittal of funds from or to an A7 Network Sub-Agent, or from or to any account or CVC address administered by or on behalf of an A7 Network Sub-Agent. The document states that covered financial institutions include banks, broker-dealers, money services businesses, casinos, futures commission merchants and mutual funds, approximately 347,926 institutions in total, of which 332,068 are money services businesses. It describes the A7A5 token as a ruble-backed stablecoin that operates on the Tron and Ethereum blockchains, and states that A7A5 transactions totalled at least USD 179.1 billion between February 2025 and June 2026. The finding is made under section 9714(a) of the Combating Russian Money Laundering Act. No effective date is stated; the document is a proposed rule open for comment.",
+      "source_url": "https://www.federalregister.gov/documents/2026/10/05/2026-20371/proposal-of-special-measure-prohibiting-the-transmittal-of-funds-regarding-transactions-involving",
+      "source_label": "Federal Register, 91 FR 63208, document 2026-20371 (FinCEN notice of proposed rulemaking)",
+      "tags": [
+        "fincen",
+        "nprm",
+        "special-measure",
+        "section-9714",
+        "stablecoin",
+        "cvc-address",
+        "aml",
+        "sanctions-evasion",
+        "crypto",
+        "payments",
+        "federal-register"
+      ],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "money services businesses, banks, broker-dealers, futures commission merchants, casinos, mutual funds, crypto exchanges and OTC desks"
+    },
+    {
       "id": "2026-10-03-cftc-event-contract-swap-definition-rules-at-oira",
       "date": "2026-10-03",
       "published": "2026-10-03T00:00:00Z",

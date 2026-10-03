@@ -1,8 +1,34 @@
 {
-  "generated": "2026-10-03T09:58:00Z",
+  "generated": "2026-10-03T21:59:41Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 264,
+  "count": 265,
   "items": [
+    {
+      "id": "2026-10-03-fincen-a7-network-sub-agents-special-measure-federal-register",
+      "date": "2026-10-03",
+      "published": "2026-10-03T21:55:00Z",
+      "title": "FinCEN special measure on the A7 Network's Sub-Agents publishes in the Federal Register with comments due November 4, 2026",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-10-03-fincen-a7-network-sub-agents-special-measure-federal-register",
+      "issuing_body": "FinCEN",
+      "source_url": "https://www.federalregister.gov/documents/2026/10/05/2026-20371/proposal-of-special-measure-prohibiting-the-transmittal-of-funds-regarding-transactions-involving",
+      "source_label": "Federal Register, 91 FR 63208, document 2026-20371 (FinCEN notice of proposed rulemaking)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "money services businesses, banks, broker-dealers, futures commission merchants, casinos, mutual funds, crypto exchanges and OTC desks",
+      "tags": [
+        "fincen",
+        "nprm",
+        "special-measure",
+        "section-9714",
+        "stablecoin",
+        "cvc-address",
+        "aml",
+        "sanctions-evasion",
+        "crypto",
+        "payments",
+        "federal-register"
+      ]
+    },
     {
       "id": "2026-10-03-cftc-event-contract-swap-definition-rules-at-oira",
       "date": "2026-10-03",
