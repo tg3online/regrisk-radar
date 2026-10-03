@@ -1,8 +1,54 @@
 {
-  "generated": "2026-10-01T22:02:17Z",
+  "generated": "2026-10-03T09:58:00Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 262,
+  "count": 264,
   "items": [
+    {
+      "id": "2026-10-03-cftc-event-contract-swap-definition-rules-at-oira",
+      "date": "2026-10-03",
+      "published": "2026-10-03T00:00:00Z",
+      "title": "CFTC has sent two event-contract rules to White House regulatory review: one would define 'swap' to include event contracts, the other would exclude casino-style gambling products",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-10-03-cftc-event-contract-swap-definition-rules-at-oira",
+      "issuing_body": "Commodity Futures Trading Commission",
+      "source_url": "https://decrypt.co/379750/cftc-sends-white-house-new-rules-to-cement-its-grip-on-prediction-markets",
+      "source_label": "Decrypt, September 30, 2026, corroborated by PYMNTS, October 1, 2026 (trade coverage citing OIRA review filings; no official CFTC or OIRA document retrieved, and both outlets report the rule text is not public)",
+      "source_type": "coverage_reporting_filing",
+      "primary_source_status": "cited_by_coverage_not_retrieved",
+      "relevant_to": "prediction-market and event-contract venues, designated contract markets listing event contracts, sportsbooks and casino operators, state gaming regulators",
+      "tags": [
+        "CFTC",
+        "event contracts",
+        "prediction markets",
+        "swap definition",
+        "rulemaking",
+        "OIRA",
+        "gaming",
+        "US-Federal"
+      ]
+    },
+    {
+      "id": "2026-10-02-ofac-hamas-financing-network-crypto-wallets",
+      "date": "2026-10-02",
+      "published": "2026-10-02T00:00:00Z",
+      "title": "OFAC designates a Hamas financing network built on French charity fronts; Treasury says it moved funds through cryptocurrency wallets and money services businesses",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-10-02-ofac-hamas-financing-network-crypto-wallets",
+      "issuing_body": "U.S. Department of the Treasury, Office of Foreign Assets Control",
+      "source_url": "https://home.treasury.gov/news/press-releases/sb0647",
+      "source_label": "U.S. Treasury press release sb0647, 'Treasury Dismantles Major Hamas Financing Network,' October 2, 2026 (retrieved; companion OFAC SDN listing at ofac.treasury.gov/recent-actions/20261002 also retrieved)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "crypto exchanges, money services businesses, payment processors, charity and donation payment flows, sanctions screening teams",
+      "tags": [
+        "OFAC",
+        "sanctions",
+        "crypto",
+        "AML",
+        "terrorist financing",
+        "wallets",
+        "money services businesses",
+        "US-Federal"
+      ]
+    },
     {
       "id": "2026-10-01-ofac-a7-network-transnational-criminal-organization-designation",
       "date": "2026-10-01",

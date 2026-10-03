@@ -6,6 +6,40 @@
   "description": "Daily facts-only regulatory radar — crypto, gaming, payments & fintech. Verified against primary sources.",
   "items": [
     {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-10-03-cftc-event-contract-swap-definition-rules-at-oira",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-10-03-cftc-event-contract-swap-definition-rules-at-oira",
+      "title": "CFTC has sent two event-contract rules to White House regulatory review: one would define 'swap' to include event contracts, the other would exclude casino-style gambling products",
+      "content_text": "As reported by Decrypt on September 30, 2026 and independently by PYMNTS on October 1, 2026, the CFTC submitted two rules to the White House Office of Information and Regulatory Affairs on September 28, 2026. Both outlets report that the first is a proposed rule, RIN 3038-AF82, that would further define the term 'swap' to explicitly include event contracts and would go out for public comment, and that the second is an interim final rule, RIN 3038-AF81, that would exclude casino-style gambling products from the swap definition and could take effect upon approval while remaining open to comment. Both outlets report that the CFTC classified both rules as not economically significant and that the full text of neither rule is public. The CFTC has issued no press release on the submissions: its press release index showed release 9306-26 of October 1, 2026 as the most recent item when checked on October 3, 2026, and the reginfo.gov Unified Agenda entry for RIN 3038-AF82 returns 'This rule has not been published in a Unified Agenda.'\n\nCoverage (reporting filing): Decrypt, September 30, 2026, corroborated by PYMNTS, October 1, 2026 (trade coverage citing OIRA review filings; no official CFTC or OIRA document retrieved, and both outlets report the rule text is not public) — https://decrypt.co/379750/cftc-sends-white-house-new-rules-to-cement-its-grip-on-prediction-markets\n\nRelevant to: prediction-market and event-contract venues, designated contract markets listing event contracts, sportsbooks and casino operators, state gaming regulators\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-10-03T00:00:00Z",
+      "tags": [
+        "CFTC",
+        "event contracts",
+        "prediction markets",
+        "swap definition",
+        "rulemaking",
+        "OIRA",
+        "gaming",
+        "US-Federal"
+      ]
+    },
+    {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-10-02-ofac-hamas-financing-network-crypto-wallets",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-10-02-ofac-hamas-financing-network-crypto-wallets",
+      "title": "OFAC designates a Hamas financing network built on French charity fronts; Treasury says it moved funds through cryptocurrency wallets and money services businesses",
+      "content_text": "OFAC's Counter Terrorism Designations of October 2, 2026 designate Saleem Abdallah Saleem al-Zaq, a Gaza-based individual listed as linked to HAMAS, two France-based individuals, Faouzi Barika and Amel Oualid, and two French registered charities, Association Baraka (registered charity no. W331005557) and Ensemble C Mieux (registered charity no. W423015492). The SDN listing itself records no digital currency addresses. Treasury's accompanying press release, 'Treasury Dismantles Major Hamas Financing Network,' states that the scheme used cryptocurrency channels and cryptocurrency wallets to transfer funds, that Barika and Oualid sent hundreds of thousands of dollars in cryptocurrency to al-Zaq, and that al-Zaq used money services businesses and cryptocurrency wallets as part of the network's financial infrastructure. The release states the network moved more than $2 million to Hamas between 2020 and 2026, of which $1.5 million was collected after the October 7, 2023 Hamas attack on Israel.\n\nPrimary source: U.S. Treasury press release sb0647, 'Treasury Dismantles Major Hamas Financing Network,' October 2, 2026 (retrieved; companion OFAC SDN listing at ofac.treasury.gov/recent-actions/20261002 also retrieved) — https://home.treasury.gov/news/press-releases/sb0647\n\nRelevant to: crypto exchanges, money services businesses, payment processors, charity and donation payment flows, sanctions screening teams\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-10-02T00:00:00Z",
+      "tags": [
+        "OFAC",
+        "sanctions",
+        "crypto",
+        "AML",
+        "terrorist financing",
+        "wallets",
+        "money services businesses",
+        "US-Federal"
+      ]
+    },
+    {
       "id": "https://tg3online.github.io/regrisk-radar/#2026-10-01-ofac-a7-network-transnational-criminal-organization-designation",
       "url": "https://tg3online.github.io/regrisk-radar/#2026-10-01-ofac-a7-network-transnational-criminal-organization-designation",
       "title": "Treasury designates the A7 Network as a significant transnational criminal organization, citing a blocked ruble-backed token and links to Iran's largest digital asset exchange",
