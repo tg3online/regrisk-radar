@@ -1,8 +1,31 @@
 {
-  "generated": "2026-10-03T21:59:41Z",
+  "generated": "2026-10-04T10:00:29Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 265,
+  "count": 266,
   "items": [
+    {
+      "id": "2026-10-04-sec-bitconnect-promoter-final-judgments",
+      "date": "2026-10-04",
+      "published": "2026-10-04T10:30:00Z",
+      "title": "SEC reports final judgments against three BitConnect lending-program promoters totalling about $5.74 million",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-10-04-sec-bitconnect-promoter-final-judgments",
+      "issuing_body": "SEC",
+      "source_url": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26660",
+      "source_label": "SEC Litigation Release No. 26660 (September 30, 2026)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "crypto lending and yield platforms, token issuers, affiliate and referral marketing programs, influencer promoters, compliance teams drafting promoter agreements",
+      "tags": [
+        "crypto",
+        "sec",
+        "enforcement",
+        "promoter-liability",
+        "unregistered-offering",
+        "unregistered-broker",
+        "digital-asset-securities",
+        "final-judgment"
+      ]
+    },
     {
       "id": "2026-10-03-fincen-a7-network-sub-agents-special-measure-federal-register",
       "date": "2026-10-03",

@@ -6,6 +6,23 @@
   "description": "Daily facts-only regulatory radar — crypto, gaming, payments & fintech. Verified against primary sources.",
   "items": [
     {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-10-04-sec-bitconnect-promoter-final-judgments",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-10-04-sec-bitconnect-promoter-final-judgments",
+      "title": "SEC reports final judgments against three BitConnect lending-program promoters totalling about $5.74 million",
+      "content_text": "SEC Litigation Release No. 26660, dated September 30, 2026, reports the entry of final judgments in Securities and Exchange Commission v. Brown et al., No. 1:21-cv-04791 (S.D.N.Y.), filed May 28, 2021. The release states that the defendants promoted BitConnect and marketed and sold securities in its lending program between June 2017 and January 2018 without registration of the offering and without being registered as or associated with a registered broker or dealer. Final judgment was entered against Michael Noble on July 17, 2026 for $731,281.00 in disgorgement, $293,703.36 in prejudgment interest and a $50,000.00 civil penalty; against Craig Grant on August 7, 2026 for $1,748,147.00 in disgorgement, $702,105.84 in prejudgment interest and a $230,480.00 civil penalty; and against Trevon Brown on September 9, 2026 for $1,728,563.00 in disgorgement, $182,902.15 in prejudgment interest and a $75,000.00 civil penalty. Each judgment permanently enjoins the defendant from violating Sections 5(a) and 5(c) of the Securities Act of 1933 and Section 15(a) of the Securities Exchange Act of 1934, and each carries conduct-based injunctive relief addressed to participation in digital asset securities offerings and in marketing and sales programs relating to such investments.\n\nPrimary source: SEC Litigation Release No. 26660 (September 30, 2026) — https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26660\n\nRelevant to: crypto lending and yield platforms, token issuers, affiliate and referral marketing programs, influencer promoters, compliance teams drafting promoter agreements\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-10-04T10:30:00Z",
+      "tags": [
+        "crypto",
+        "sec",
+        "enforcement",
+        "promoter-liability",
+        "unregistered-offering",
+        "unregistered-broker",
+        "digital-asset-securities",
+        "final-judgment"
+      ]
+    },
+    {
       "id": "https://tg3online.github.io/regrisk-radar/#2026-10-03-fincen-a7-network-sub-agents-special-measure-federal-register",
       "url": "https://tg3online.github.io/regrisk-radar/#2026-10-03-fincen-a7-network-sub-agents-special-measure-federal-register",
       "title": "FinCEN special measure on the A7 Network's Sub-Agents publishes in the Federal Register with comments due November 4, 2026",
