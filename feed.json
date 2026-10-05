@@ -60,6 +60,44 @@
       ]
     },
     {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-10-02-icba-v-occ-national-trust-charter-complaint",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-10-02-icba-v-occ-national-trust-charter-complaint",
+      "title": "Community bank trade group sues the OCC seeking vacatur of the National Bank Chartering rule, Interpretive Letter 1176 and Protego's conditional trust bank charter",
+      "content_text": "A complaint filed October 2, 2026 in the United States District Court for the District of Columbia, Independent Community Bankers of America v. Office of the Comptroller of the Currency, No. 1:26-cv-03441, names as defendants the OCC and Jonathan V. Gould in his official capacity as Comptroller of the Currency. The complaint challenges three agency actions: the final rule \"National Bank Chartering,\" 91 Fed. Reg. 9977 (March 2, 2026); OCC Interpretive Letter No. 1176 (January 11, 2021); and the OCC's conditional approval of a national trust bank charter for Protego Holdings Corporation, OCC Conditional Approval No. 1259 (February 4, 2021). It pleads three counts under the National Bank Act, 12 U.S.C. 92a, and the Administrative Procedure Act, 5 U.S.C. 701 et seq., alleging that the OCC has \"far exceeded its limited statutory authority to charter trust banks,\" that the challenged actions allow cryptocurrency companies to operate as national trust banks without FDIC insurance, and that Interpretive Letter 1176 was issued without notice-and-comment procedures. The complaint asks the court to declare the final rule and Interpretive Letter 1176 unlawful and vacate them, to enjoin their use in granting or conditionally approving charters, to vacate the Protego approval, and to award costs and fees. The filing contains allegations by the plaintiff; no court has ruled on them.\n\nPrimary source: As-filed complaint, Independent Community Bankers of America v. Office of the Comptroller of the Currency, No. 1:26-cv-03441 (D.D.C.), filed October 2, 2026 (document published by the plaintiff, ICBA) — https://www.icba.org/documents/d/asset-library-45247/icba-v-occ-as-filed-complaint-c\n\nRelevant to: digital-asset custodians and crypto firms holding or seeking national trust bank charters, banks and their fintech partners, charter applicants\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-10-02T13:00:00Z",
+      "tags": [
+        "litigation",
+        "court-filing",
+        "occ",
+        "national-trust-bank",
+        "charter",
+        "crypto-custody",
+        "apa",
+        "national-bank-act",
+        "crypto",
+        "us-federal"
+      ]
+    },
+    {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-10-02-sec-approves-cboe-bzx-3x-bitcoin-ether-etps",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-10-02-sec-approves-cboe-bzx-3x-bitcoin-ether-etps",
+      "title": "SEC approves Cboe BZX listing of six 3x leveraged commodity funds, including a 3x Bitcoin ETF and a 3x Ether ETF",
+      "content_text": "SEC Release No. 34-106577, dated October 2, 2026, is an order approving a proposed rule change filed by Cboe BZX Exchange, Inc. (File No. SR-CboeBZX-2026-065) to list and trade shares of six series of VS Trust: the 3x Gold ETF, 3x Silver ETF, 3x Bitcoin ETF, 3x Ether ETF, 3x Crude Oil ETF and 3x Natural Gas ETF. The order states that each Fund \"will seek daily results, before fees and expenses, equal to three times (3x) the daily performance of its Benchmark.\" The shares are to be listed under BZX Rule 14.11(e)(4), Commodity-Based Trust Shares, whose generic listing standards do not cover products seeking a specified multiple of a benchmark, so the proposal required individual Commission approval. The order cites Sections 6(b)(5) and 11A(a)(1)(C)(iii) of the Securities Exchange Act of 1934 and concludes: \"IT IS THEREFORE ORDERED, pursuant to Section 19(b)(2) of the Act, that the proposed rule change (SR-CboeBZX-2026-065) be, and hereby is, approved.\" The order does not state a commencement-of-trading date.\n\nPrimary source: U.S. Securities and Exchange Commission, Order Approving a Proposed Rule Change, Release No. 34-106577, File No. SR-CboeBZX-2026-065, October 2, 2026 (sec.gov) — https://www.sec.gov/files/rules/sro/cboebzx/2026/34-106577.pdf\n\nRelevant to: crypto exchange-traded product issuers and sponsors, national securities exchanges, broker-dealers, asset managers\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-10-02T12:00:00Z",
+      "tags": [
+        "sec",
+        "sro-rule-filing",
+        "order-approving",
+        "exchange-listing",
+        "etp",
+        "bitcoin",
+        "ether",
+        "leveraged-product",
+        "crypto",
+        "us-federal"
+      ]
+    },
+    {
       "id": "https://tg3online.github.io/regrisk-radar/#2026-10-02-ofac-hamas-financing-network-crypto-wallets",
       "url": "https://tg3online.github.io/regrisk-radar/#2026-10-02-ofac-hamas-financing-network-crypto-wallets",
       "title": "OFAC designates a Hamas financing network built on French charity fronts; Treasury says it moved funds through cryptocurrency wallets and money services businesses",
@@ -165,6 +203,22 @@
         "supervisory-coordination",
         "joint-examination",
         "wyoming"
+      ]
+    },
+    {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-10-01-treasury-syria-banking-roundtable-readout",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-10-01-treasury-syria-banking-roundtable-readout",
+      "title": "Treasury readout: US financial institutions and payment service providers briefed on identified AML/CFT gaps in Syria",
+      "content_text": "Treasury press release sb0649, \"READOUT: Treasury Co-hosts Syrian Banking Roundtable,\" dated October 1, 2026, states that Treasury Assistant Secretary for Terrorist Financing and Financial Crimes Jonathan Burke co-hosted an in-person banking roundtable in New York with Syrian Minister of Finance Yisr Barnieh and the Governor of the Central Bank of Syria Safwat Raslan, with virtual remarks from the U.S. Presidential Envoy to Syria, Ambassador Tom Barrack. The readout states that \"representatives from U.S. financial institutions and payment service providers gained greater insight into the current anti-money laundering and countering the financing of terrorism (AML/CFT) landscape in Syria,\" that \"Participants were briefed on key gaps identified by an independent third-party, and the Government of Syria's ongoing work to address those gaps,\" and that Assistant Secretary Burke \"stressed that financial connectivity is essential to effectively combating illicit finance and supporting Syria's reintegration into the global financial system,\" in light of the decision to lift virtually all sanctions on Syria. The readout announces no rule, no enforcement action and no deadline, and it does not mention digital assets, cryptocurrency or stablecoins.\n\nPrimary source: U.S. Department of the Treasury, press release sb0649, October 1, 2026 (home.treasury.gov) — https://home.treasury.gov/news/press-releases/sb0649\n\nRelevant to: payment service providers, money services businesses, banks with correspondent banking and sanctions-screening exposure\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-10-01T18:00:00Z",
+      "tags": [
+        "treasury",
+        "aml-cft",
+        "sanctions",
+        "syria",
+        "correspondent-banking",
+        "payments",
+        "us-federal"
       ]
     },
     {

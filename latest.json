@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-04T10:00:29Z",
+  "generated": "2026-10-05T10:04:28Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 266,
+  "count": 269,
   "items": [
     {
       "id": "2026-10-04-sec-bitconnect-promoter-final-judgments",
@@ -73,6 +73,56 @@
         "OIRA",
         "gaming",
         "US-Federal"
+      ]
+    },
+    {
+      "id": "2026-10-02-icba-v-occ-national-trust-charter-complaint",
+      "date": "2026-10-02",
+      "published": "2026-10-02T13:00:00Z",
+      "title": "Community bank trade group sues the OCC seeking vacatur of the National Bank Chartering rule, Interpretive Letter 1176 and Protego's conditional trust bank charter",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-10-02-icba-v-occ-national-trust-charter-complaint",
+      "issuing_body": "U.S. District Court for the District of Columbia",
+      "source_url": "https://www.icba.org/documents/d/asset-library-45247/icba-v-occ-as-filed-complaint-c",
+      "source_label": "As-filed complaint, Independent Community Bankers of America v. Office of the Comptroller of the Currency, No. 1:26-cv-03441 (D.D.C.), filed October 2, 2026 (document published by the plaintiff, ICBA)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "digital-asset custodians and crypto firms holding or seeking national trust bank charters, banks and their fintech partners, charter applicants",
+      "tags": [
+        "litigation",
+        "court-filing",
+        "occ",
+        "national-trust-bank",
+        "charter",
+        "crypto-custody",
+        "apa",
+        "national-bank-act",
+        "crypto",
+        "us-federal"
+      ]
+    },
+    {
+      "id": "2026-10-02-sec-approves-cboe-bzx-3x-bitcoin-ether-etps",
+      "date": "2026-10-02",
+      "published": "2026-10-02T12:00:00Z",
+      "title": "SEC approves Cboe BZX listing of six 3x leveraged commodity funds, including a 3x Bitcoin ETF and a 3x Ether ETF",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-10-02-sec-approves-cboe-bzx-3x-bitcoin-ether-etps",
+      "issuing_body": "U.S. Securities and Exchange Commission",
+      "source_url": "https://www.sec.gov/files/rules/sro/cboebzx/2026/34-106577.pdf",
+      "source_label": "U.S. Securities and Exchange Commission, Order Approving a Proposed Rule Change, Release No. 34-106577, File No. SR-CboeBZX-2026-065, October 2, 2026 (sec.gov)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "crypto exchange-traded product issuers and sponsors, national securities exchanges, broker-dealers, asset managers",
+      "tags": [
+        "sec",
+        "sro-rule-filing",
+        "order-approving",
+        "exchange-listing",
+        "etp",
+        "bitcoin",
+        "ether",
+        "leveraged-product",
+        "crypto",
+        "us-federal"
       ]
     },
     {
@@ -217,6 +267,28 @@
         "supervisory-coordination",
         "joint-examination",
         "wyoming"
+      ]
+    },
+    {
+      "id": "2026-10-01-treasury-syria-banking-roundtable-readout",
+      "date": "2026-10-01",
+      "published": "2026-10-01T18:00:00Z",
+      "title": "Treasury readout: US financial institutions and payment service providers briefed on identified AML/CFT gaps in Syria",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-10-01-treasury-syria-banking-roundtable-readout",
+      "issuing_body": "U.S. Department of the Treasury",
+      "source_url": "https://home.treasury.gov/news/press-releases/sb0649",
+      "source_label": "U.S. Department of the Treasury, press release sb0649, October 1, 2026 (home.treasury.gov)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "payment service providers, money services businesses, banks with correspondent banking and sanctions-screening exposure",
+      "tags": [
+        "treasury",
+        "aml-cft",
+        "sanctions",
+        "syria",
+        "correspondent-banking",
+        "payments",
+        "us-federal"
       ]
     },
     {
