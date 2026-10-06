@@ -1,8 +1,33 @@
 {
-  "generated": "2026-10-06T10:05:08Z",
+  "generated": "2026-10-06T22:04:18Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 274,
+  "count": 275,
   "items": [
+    {
+      "id": "2026-10-06-ohio-occc-sports-event-contract-cease-and-desist",
+      "date": "2026-10-06",
+      "published": "2026-10-06T21:55:00Z",
+      "title": "Ohio Casino Control Commission issues October 2, 2026 cease-and-desist letters to ten sports-event-contract operators, demanding written confirmation of compliance within fourteen days",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-10-06-ohio-occc-sports-event-contract-cease-and-desist",
+      "issuing_body": "Ohio Casino Control Commission",
+      "source_url": "https://www.covers.com/industry/ohio-regulator-sends-cease-and-desist-notices-to-10-prediction-market-companies-oct-5-2026",
+      "source_label": "Covers (coverage, October 5, 2026) — reporting the Ohio Casino Control Commission cease-and-desist letters of October 2, 2026; the letters themselves were retrieved in full from a media-hosted copy, not from an Ohio government-hosted page",
+      "source_type": "coverage_reporting_filing",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction-market platforms, crypto exchanges, retail brokerages, designated contract markets, sports-betting operators",
+      "tags": [
+        "ohio",
+        "gaming",
+        "prediction-markets",
+        "sports-event-contracts",
+        "cease-and-desist",
+        "enforcement",
+        "licensure",
+        "state-gaming-regulator",
+        "crypto-exchange",
+        "retail-brokerage"
+      ]
+    },
     {
       "id": "2026-10-06-sec-crypto-custody-proposal-federal-register",
       "date": "2026-10-06",
