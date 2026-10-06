@@ -5,7 +5,58 @@
   <id>https://tg3online.github.io/regrisk-radar/</id>
   <link href="https://tg3online.github.io/regrisk-radar/" />
   <link href="https://tg3online.github.io/regrisk-radar/atom.xml" rel="self" type="application/atom+xml" />
-  <updated>2026-10-05T21:55:47Z</updated>
+  <updated>2026-10-06T10:05:08Z</updated>
+  <entry>
+    <title>SEC crypto asset custody proposal publishes in the Federal Register at 91 FR 63870, with comments due December 7, 2026</title>
+    <id>https://tg3online.github.io/regrisk-radar/#2026-10-06-sec-crypto-custody-proposal-federal-register</id>
+    <link href="https://tg3online.github.io/regrisk-radar/#2026-10-06-sec-crypto-custody-proposal-federal-register" rel="alternate" />
+    <updated>2026-10-06T10:30:00Z</updated>
+    <published>2026-10-06T10:30:00Z</published>
+    <category term="SEC" />
+    <content type="text">The SEC&#x27;s proposed rule &quot;Adviser and Regulated Fund Custody Rules; Crypto Custody Rules&quot; was published in the Federal Register on October 6, 2026 at 91 FR 63870, as document 2026-20466, RIN 3235-AN46, File No. S7-2026-35. The DATES section states: &quot;This release was published in the Federal Register on October 6, 2026. Comments should be received on or before December 7, 2026.&quot; The release&#x27;s summary states the Commission is proposing new custody rules under the Investment Company Act of 1940 and amendments to related reporting and recordkeeping requirements &quot;to address how regulated investment companies may custody crypto securities and similar investments,&quot; and amendments to the custody rule and related reporting and recordkeeping rules under the Investment Advisers Act of 1940 &quot;to address how registered investment advisers may custody client crypto funds and securities.&quot; It further states the Commission is proposing to modernize the current custody rules, to redesignate the Advisers Act custody rule with corresponding amendments to Form ADV and Form ADV-E, and to amend Form ADV and Form N-CEN, including new questions &quot;related to tokenized private funds and regulated investment company shares, respectively.&quot; The proposal was announced by SEC press release 2026-100 on October 1, 2026; the Federal Register publication is what fixes the comment date.
+
+Primary source: Federal Register - SEC proposed rule, 91 FR 63870 (October 6, 2026), document 2026-20466 — https://www.federalregister.gov/d/2026-20466
+
+Relevant to: registered investment advisers, registered funds, crypto custodians, fund administrators and compliance teams
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</content>
+  </entry>
+  <entry>
+    <title>FinCEN&#x27;s withdrawals of the convertible virtual currency unhosted-wallet recordkeeping proposal and of the CVC mixing special measure proposal publish in the Federal Register</title>
+    <id>https://tg3online.github.io/regrisk-radar/#2026-10-06-fincen-cvc-withdrawals-federal-register</id>
+    <link href="https://tg3online.github.io/regrisk-radar/#2026-10-06-fincen-cvc-withdrawals-federal-register" rel="alternate" />
+    <updated>2026-10-06T10:30:00Z</updated>
+    <published>2026-10-06T10:30:00Z</published>
+    <category term="FinCEN" />
+    <content type="text">Two FinCEN withdrawal notices were published in the Federal Register on October 6, 2026. Document 2026-20430, at 91 FR 63514, RIN 1506-AB47, states that &quot;FinCEN is withdrawing a notice of proposed rulemaking (NPRM) that proposed requiring banks and money service businesses (MSBs) to submit reports, keep records, and verify the identity of customers in relation to transactions involving convertible virtual currency (CVC) or digital assets with legal tender status (LTDA) held in unhosted wallets or in wallets hosted in a jurisdiction identified by FinCEN,&quot; and that &quot;FinCEN will not take any further action on this NPRM.&quot; Its DATES section states that FinCEN is withdrawing the proposed rule published at 85 FR 83840 (December 23, 2020), as of October 6, 2026. Document 2026-20429, at 91 FR 63513, RIN 1506-AB47, states that &quot;FinCEN is withdrawing its finding and proposed rulemaking, pursuant to section 311 of the USA PATRIOT Act, that international Convertible Virtual Currency (CVC) mixing is a class of transactions of primary money laundering concern and that a special measure requiring enhanced recordkeeping and reporting requirements should be imposed regarding this class of transactions.&quot; Its DATES section states that FinCEN is withdrawing the proposed rulemaking published at 88 FR 72701 (October 23, 2023), as of October 6, 2026. FinCEN announced both withdrawals by news release on October 5, 2026.
+
+Primary source: Federal Register - FinCEN withdrawal, 91 FR 63514 (October 6, 2026), document 2026-20430; companion withdrawal at 91 FR 63513, document 2026-20429 — https://www.federalregister.gov/d/2026-20430
+
+Relevant to: banks, money services businesses, virtual asset service providers and BSA/AML compliance teams
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</content>
+  </entry>
+  <entry>
+    <title>CFTC staff letter 26-29 gives designated contract markets no-action relief to remove expiration dates from existing broad-based security index perpetual-style futures, with the relief expiring October 20, 2026</title>
+    <id>https://tg3online.github.io/regrisk-radar/#2026-10-06-cftc-dmo-26-29-perpetual-futures-no-action</id>
+    <link href="https://tg3online.github.io/regrisk-radar/#2026-10-06-cftc-dmo-26-29-perpetual-futures-no-action" rel="alternate" />
+    <updated>2026-10-06T10:30:00Z</updated>
+    <published>2026-10-06T10:30:00Z</published>
+    <category term="CFTC" />
+    <content type="text">CFTC Staff Letter No. 26-29, dated October 3, 2026 and issued by the Division of Market Oversight in response to a request from Coinbase Derivatives, LLC, states that &quot;the Division will not recommend the Commission initiate an enforcement action against the Exchange, or against any other DCM, for implementing with immediate effect the Proposed Contract Amendments,&quot; which remove expiration dates from existing perpetual-style broad-based security index futures contracts, and that the Division will not exercise its authority to stay such amendments under Regulation 40.6(c)(1). The letter sets eight conditions: the amendments may be made only to contracts referencing broad-based security indices; market participants with open positions must be solicited for feedback on potential adverse impacts; at least five calendar days&#x27; notice must be given to affected market participants; those participants must be permitted to close positions under the existing terms; appropriate risk disclosures relating to the amendments must be provided; no other material contract terms may be amended; the amendments must be filed under Regulation 40.6(a) or 40.5; and the Division must be notified with a certification of compliance with all conditions. The letter states: &quot;The no-action positions in this letter expire on October 20, 2026.&quot; The CFTC announced the letter by press release 9308-26 on October 5, 2026.
+
+Primary source: CFTC Division of Market Oversight Staff Letter No. 26-29 (October 3, 2026), retrieved from cftc.gov — https://www.cftc.gov/csl/26-29/download
+
+Relevant to: designated contract markets, futures commission merchants, derivatives venues and crypto derivatives platforms
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</content>
+  </entry>
   <entry>
     <title>FinCEN withdraws two proposed digital-asset rules: the convertible virtual currency and unhosted wallet recordkeeping and reporting proposal, and the convertible virtual currency mixing special measure proposal</title>
     <id>https://tg3online.github.io/regrisk-radar/#2026-10-05-fincen-withdraws-cvc-unhosted-wallet-and-mixing-proposals</id>
