@@ -8,6 +8,30 @@
   },
   "items": [
     {
+      "id": "2026-10-07-sec-iex-crypto-trust-options-listing-standards",
+      "date": "2026-10-07",
+      "published": "2026-10-07T00:00:00Z",
+      "issuing_body": "U.S. Securities and Exchange Commission",
+      "title": "SEC publishes IEX filing SR-IEX-2026-34, effective on filing: listing and withdrawal standards for options on single- and multi-crypto-asset trusts, and a 1,000,000-contract limit on iShares Bitcoin Trust ETF options; comments due October 28, 2026",
+      "facts": "The Securities and Exchange Commission published at 91 FR 64194 on October 7, 2026 a Notice of Filing and Immediate Effectiveness of Proposed Rule Change submitted by the Investors Exchange LLC (IEX) on September 22, 2026, docketed as File No. SR-IEX-2026-34, Release No. 34-106575. The filing has three parts. It establishes generic listing criteria for Fund Shares representing interests in Commodity-Based Trusts that hold a single crypto asset or multiple crypto assets, under which an underlying asset must maintain a $700 million average daily market value over twelve months and must trade on a derivatives market with which IEX has a surveillance-sharing agreement. It adds withdrawal criteria for options on such trusts, monitored monthly against the market-value criterion and continuously against the surveillance-sharing-agreement requirement. And it sets position and exercise limits for options on the iShares Bitcoin Trust ETF at 1,000,000 contracts, which the filing states aligns with limits already in place at other options exchanges. The filing defines a crypto asset as an asset generated through blockchain or similar distributed ledger technology, including assets referred to as tokens, digital assets, virtual currencies and coins, that relies on cryptographic protocols. The notice states: \"All submissions should refer to file number SR-IEX-2026-34 and should be submitted on or before October 28, 2026.\"",
+      "source_url": "https://www.federalregister.gov/d/2026-20505",
+      "source_label": "Federal Register, 91 FR 64194 (SEC Release No. 34-106575, File No. SR-IEX-2026-34), October 7, 2026",
+      "tags": [
+        "crypto",
+        "sec",
+        "sro-rule-filing",
+        "options",
+        "listing-standards",
+        "position-limits",
+        "bitcoin-etp",
+        "comment-deadline",
+        "federal-register"
+      ],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "options exchanges, crypto ETP issuers and sponsors, broker-dealers, options market makers"
+    },
+    {
       "id": "2026-10-06-ohio-occc-sports-event-contract-cease-and-desist",
       "date": "2026-10-06",
       "published": "2026-10-06T21:55:00Z",
