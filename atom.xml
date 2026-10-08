@@ -5,7 +5,24 @@
   <id>https://tg3online.github.io/regrisk-radar/</id>
   <link href="https://tg3online.github.io/regrisk-radar/" />
   <link href="https://tg3online.github.io/regrisk-radar/atom.xml" rel="self" type="application/atom+xml" />
-  <updated>2026-10-07T09:56:33Z</updated>
+  <updated>2026-10-08T10:01:18Z</updated>
+  <entry>
+    <title>SEC approves Cboe BZX listing of 3x Bitcoin and 3x Ether ETFs as Commodity-Based Trust Shares</title>
+    <id>https://tg3online.github.io/regrisk-radar/#2026-10-08-sec-cboe-bzx-3x-bitcoin-ether-etf-listing-approval</id>
+    <link href="https://tg3online.github.io/regrisk-radar/#2026-10-08-sec-cboe-bzx-3x-bitcoin-ether-etf-listing-approval" rel="alternate" />
+    <updated>2026-10-08T10:00:00Z</updated>
+    <published>2026-10-08T10:00:00Z</published>
+    <category term="U.S. Securities and Exchange Commission" />
+    <content type="text">The SEC published at 91 FR 64207 on October 7, 2026 an order (Release No. 34-106577, File No. SR-CboeBZX-2026-065) granting approval of a Cboe BZX Exchange, Inc. proposed rule change to list and trade shares of the 3x Gold ETF, 3x Silver ETF, 3x Bitcoin ETF, 3x Ether ETF, 3x Crude Oil ETF and 3x Natural Gas ETF, each a series of the VS Trust, under BZX Rule 14.11(e)(4) (Commodity-Based Trust Shares). The order states that each fund seeks daily investment results, before fees and expenses, of three times the daily performance of a benchmark tracking first- and second-month futures contracts on its reference asset, and that each fund holds those futures contracts together with cash and cash equivalents. According to the order the Exchange represented that the funds meet all other generic listing requirements except the 3x investment objective; the proposal was published for comment in the Federal Register on August 19, 2026 and the Commission received no comments on it. The order states that the Commission found the proposal consistent with Section 6(b)(5) and Section 11A(a)(1)(C)(iii) of the Securities Exchange Act, and it identifies Volatility Shares LLC as sponsor, Wilmington Trust, National Association as trustee and U.S. Bank National Association as custodian. The order prints no comment deadline and no effective date.
+
+Primary source: Federal Register, 91 FR 64207 — SEC Release No. 34-106577, File No. SR-CboeBZX-2026-065 (October 7, 2026) — https://www.federalregister.gov/d/2026-20507
+
+Relevant to: exchanges, ETP sponsors and issuers, broker-dealers, crypto asset managers
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</content>
+  </entry>
   <entry>
     <title>SEC publishes IEX filing SR-IEX-2026-34, effective on filing: listing and withdrawal standards for options on single- and multi-crypto-asset trusts, and a 1,000,000-contract limit on iShares Bitcoin Trust ETF options; comments due October 28, 2026</title>
     <id>https://tg3online.github.io/regrisk-radar/#2026-10-07-sec-iex-crypto-trust-options-listing-standards</id>

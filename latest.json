@@ -1,8 +1,30 @@
 {
-  "generated": "2026-10-07T09:56:33Z",
+  "generated": "2026-10-08T10:01:18Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 276,
+  "count": 277,
   "items": [
+    {
+      "id": "2026-10-08-sec-cboe-bzx-3x-bitcoin-ether-etf-listing-approval",
+      "date": "2026-10-08",
+      "published": "2026-10-08T10:00:00Z",
+      "title": "SEC approves Cboe BZX listing of 3x Bitcoin and 3x Ether ETFs as Commodity-Based Trust Shares",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-10-08-sec-cboe-bzx-3x-bitcoin-ether-etf-listing-approval",
+      "issuing_body": "U.S. Securities and Exchange Commission",
+      "source_url": "https://www.federalregister.gov/d/2026-20507",
+      "source_label": "Federal Register, 91 FR 64207 — SEC Release No. 34-106577, File No. SR-CboeBZX-2026-065 (October 7, 2026)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "exchanges, ETP sponsors and issuers, broker-dealers, crypto asset managers",
+      "tags": [
+        "crypto",
+        "sec",
+        "etp",
+        "sro",
+        "bitcoin",
+        "ether",
+        "listing-standards"
+      ]
+    },
     {
       "id": "2026-10-07-sec-iex-crypto-trust-options-listing-standards",
       "date": "2026-10-07",
