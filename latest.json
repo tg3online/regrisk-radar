@@ -1,8 +1,132 @@
 {
-  "generated": "2026-10-08T10:01:18Z",
+  "generated": "2026-10-12T10:07:00Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 277,
+  "count": 283,
   "items": [
+    {
+      "id": "2026-10-12-cftc-crypto-asset-rulemaking-december-14-comment-deadline",
+      "date": "2026-10-12",
+      "published": "2026-10-13T00:00:00Z",
+      "title": "CFTC crypto asset rulemaking notice sets a December 14, 2026 comment deadline",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-10-12-cftc-crypto-asset-rulemaking-december-14-comment-deadline",
+      "issuing_body": "CFTC",
+      "source_url": "https://www.federalregister.gov/documents/2026/10/13/2026-20888/regulation-crypto-asset-transactions-and-regulation-crypto-asset-markets",
+      "source_label": "Federal Register — CFTC, 91 FR 64811 (Oct. 13, 2026), RIN 3038-AF80, document 2026-20888",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "crypto exchanges, digital asset trading platforms, designated contract markets, futures commission merchants",
+      "tags": [
+        "crypto",
+        "cftc",
+        "rulemaking",
+        "comment-deadline",
+        "anprm"
+      ]
+    },
+    {
+      "id": "2026-10-12-cftc-event-contracts-swap-definition-proposal",
+      "date": "2026-10-12",
+      "published": "2026-10-09T00:00:00Z",
+      "title": "CFTC proposes to define \"swap\" to explicitly include sports, politics, cultural and weather event contracts",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-10-12-cftc-event-contracts-swap-definition-proposal",
+      "issuing_body": "CFTC",
+      "source_url": "https://www.cftc.gov/PressRoom/PressReleases/9310-26",
+      "source_label": "CFTC Release 9310-26 (Oct. 9, 2026), with the proposed rule document (RIN 3038-AF82)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction-market platforms, designated contract markets, sportsbooks, exchanges, introducing brokers",
+      "tags": [
+        "gaming",
+        "crypto",
+        "prediction-markets",
+        "event-contracts",
+        "cftc",
+        "nprm",
+        "swap-definition"
+      ]
+    },
+    {
+      "id": "2026-10-12-cftc-casino-gambling-swap-exclusion-interim-final-rule",
+      "date": "2026-10-12",
+      "published": "2026-10-09T00:00:00Z",
+      "title": "CFTC interim final rule excludes licensed casino-style gambling products from the \"swap\" definition",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-10-12-cftc-casino-gambling-swap-exclusion-interim-final-rule",
+      "issuing_body": "CFTC",
+      "source_url": "https://www.cftc.gov/PressRoom/PressReleases/9309-26",
+      "source_label": "CFTC Release 9309-26 (Oct. 9, 2026), with the interim final rule document (RIN 3038-AF81)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "licensed sportsbooks, casino operators, tribal gaming operators, lottery and bingo operators, prediction-market platforms",
+      "tags": [
+        "gaming",
+        "sports-betting",
+        "casino",
+        "cftc",
+        "interim-final-rule",
+        "swap-definition"
+      ]
+    },
+    {
+      "id": "2026-10-12-ncua-payment-stablecoin-call-report-schedule",
+      "date": "2026-10-12",
+      "published": "2026-10-09T00:00:00Z",
+      "title": "NCUA proposes a new Call Report schedule collecting payment stablecoin data from credit unions",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-10-12-ncua-payment-stablecoin-call-report-schedule",
+      "issuing_body": "NCUA",
+      "source_url": "https://www.federalregister.gov/documents/2026/10/09/2026-20729/proposed-agency-information-collection-activities-comment-request",
+      "source_label": "Federal Register — NCUA, 91 FR 64699 (Oct. 9, 2026), document 2026-20729",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "credit unions, payment stablecoin issuers, reserve asset custodians, digital asset custody providers",
+      "tags": [
+        "crypto",
+        "payments",
+        "stablecoin",
+        "ncua",
+        "call-report",
+        "information-collection"
+      ]
+    },
+    {
+      "id": "2026-10-12-treasury-digital-assets-criteria-form-information-collection",
+      "date": "2026-10-12",
+      "published": "2026-10-09T00:00:00Z",
+      "title": "Treasury seeks comment on a Digital Assets Criteria Form for an information-sharing initiative",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-10-12-treasury-digital-assets-criteria-form-information-collection",
+      "issuing_body": "Treasury",
+      "source_url": "https://www.federalregister.gov/documents/2026/10/09/2026-20737/agency-information-collection-activities-proposed-collection-comment-request-information-sharing",
+      "source_label": "Federal Register — Treasury Department, 91 FR 64743 (Oct. 9, 2026), document 2026-20737",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "digital asset businesses, exchanges, custodians, compliance and BSA/AML functions",
+      "tags": [
+        "crypto",
+        "digital-assets",
+        "treasury",
+        "information-collection"
+      ]
+    },
+    {
+      "id": "2026-10-12-nyag-celsius-mashinsky-industry-ban-settlement",
+      "date": "2026-10-12",
+      "published": "2026-10-09T00:00:00Z",
+      "title": "New York Attorney General settlement permanently bars former Celsius CEO from the crypto, securities and commodities industries",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-10-12-nyag-celsius-mashinsky-industry-ban-settlement",
+      "issuing_body": "NY Attorney General",
+      "source_url": "https://ag.ny.gov/press-release/2026/attorney-general-james-bans-former-cryptocurrency-ceo-who-defrauded-investors",
+      "source_label": "New York Attorney General press release (Oct. 9, 2026)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "crypto lending and yield platforms, exchanges, state-registered dealers and salespersons",
+      "tags": [
+        "crypto",
+        "enforcement",
+        "state-ag",
+        "new-york",
+        "registration",
+        "industry-ban"
+      ]
+    },
     {
       "id": "2026-10-08-sec-cboe-bzx-3x-bitcoin-ether-etf-listing-approval",
       "date": "2026-10-08",

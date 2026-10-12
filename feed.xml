@@ -5,8 +5,104 @@
     <link>https://tg3online.github.io/regrisk-radar/</link>
     <description>Daily facts-only regulatory radar — crypto, gaming, payments &amp; fintech. Verified against primary sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Oct 2026 10:01:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 10:07:00 +0000</lastBuildDate>
     <atom:link href="https://tg3online.github.io/regrisk-radar/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CFTC crypto asset rulemaking notice sets a December 14, 2026 comment deadline</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-10-12-cftc-crypto-asset-rulemaking-december-14-comment-deadline</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-10-12-cftc-crypto-asset-rulemaking-december-14-comment-deadline</guid>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+      <category>CFTC</category>
+      <description>The CFTC&#x27;s advanced notice of proposed rulemaking titled &quot;Regulation Crypto Asset Transactions and Regulation Crypto Asset Markets&quot; (RIN 3038-AF80, document 2026-20888) carries a Federal Register publication date of October 13, 2026 at 91 FR 64811, pages 64811 to 64840. Its DATES section reads: &quot;Comments must be received on or before December 14, 2026.&quot; The document&#x27;s action line is &quot;Advanced notice of proposed rulemaking&quot; and no effective date is printed. The CFTC had announced the advanced notice in release 9307-26 on October 5, 2026.
+
+Primary source: Federal Register — CFTC, 91 FR 64811 (Oct. 13, 2026), RIN 3038-AF80, document 2026-20888 — https://www.federalregister.gov/documents/2026/10/13/2026-20888/regulation-crypto-asset-transactions-and-regulation-crypto-asset-markets
+
+Relevant to: crypto exchanges, digital asset trading platforms, designated contract markets, futures commission merchants
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+    <item>
+      <title>CFTC proposes to define &quot;swap&quot; to explicitly include sports, politics, cultural and weather event contracts</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-10-12-cftc-event-contracts-swap-definition-proposal</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-10-12-cftc-event-contracts-swap-definition-proposal</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <category>CFTC</category>
+      <description>In release 9310-26 dated October 9, 2026 the CFTC announced a notice of proposed rulemaking (RIN 3038-AF82) that would, in the document&#x27;s words, &quot;further define the term &#x27;swap&#x27; to explicitly include event contracts, including those based on sports-, politics-, cultural-, and weather-related events.&quot; The proposal amends 17 CFR 1.3 by revising paragraphs (2)(i)(E) and (F) and adding a new paragraph (2)(i)(G). Chairman Michael S. Selig stated that Americans use event contracts &quot;to hedge risks, speculate, and provide the public with information&quot; and described them as &quot;commodity derivatives squarely within the CFTC&#x27;s regulatory remit.&quot; The proposal&#x27;s DATES section prints a bracketed placeholder, &quot;Comments must be received by [INSERT 30 DAYS FOLLOWING PUBLICATION IN THE FEDERAL REGISTER]&quot;; as of this entry the proposal has no Federal Register publication date, so no comment date exists.
+
+Primary source: CFTC Release 9310-26 (Oct. 9, 2026), with the proposed rule document (RIN 3038-AF82) — https://www.cftc.gov/PressRoom/PressReleases/9310-26
+
+Relevant to: prediction-market platforms, designated contract markets, sportsbooks, exchanges, introducing brokers
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+    <item>
+      <title>CFTC interim final rule excludes licensed casino-style gambling products from the &quot;swap&quot; definition</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-10-12-cftc-casino-gambling-swap-exclusion-interim-final-rule</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-10-12-cftc-casino-gambling-swap-exclusion-interim-final-rule</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <category>CFTC</category>
+      <description>In release 9309-26 dated October 9, 2026 the CFTC announced an interim final rule (RIN 3038-AF81, action line &quot;Interim final rule; request for comments&quot;) adding a new paragraph (7), &quot;Casino-style gambling products,&quot; to the definition of &quot;Swap&quot; in 17 CFR 1.3. The document states the rule would &quot;codify its longstanding position that casino-style gambling products, including wagers placed on sportsbooks and casino games, are excluded from the &#x27;swap&#x27; definition,&quot; and Chairman Michael S. Selig stated: &quot;Casino-style gambling products are not derivatives.&quot; The exclusion applies to sports wagers accepted by a licensed sportsbook or sports wagering operator, casino games including table games, slot machines and other electronic gaming devices, and other licensed games of chance such as bingo, pool wagering, lotteries and raffles. It is conditioned on two tests printed in the document: a Provider Test (the product is offered by a state-licensed or tribal-authorized person acting within its license and regulated as gaming under state or tribal law) and a Product Test (the product is not traded on a board of trade, exchange, swap execution facility or any other multilateral or negotiated market). The DATES section prints bracketed placeholders for both the effective date (&quot;[INSERT DATE OF PUBLICATION IN THE FEDERAL REGISTER]&quot;) and the comment date (&quot;[INSERT DATE 30 DAYS AFTER DATE OF PUBLICATION IN THE FEDERAL REGISTER]&quot;); as of this entry the rule has no Federal Register publication date.
+
+Primary source: CFTC Release 9309-26 (Oct. 9, 2026), with the interim final rule document (RIN 3038-AF81) — https://www.cftc.gov/PressRoom/PressReleases/9309-26
+
+Relevant to: licensed sportsbooks, casino operators, tribal gaming operators, lottery and bingo operators, prediction-market platforms
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+    <item>
+      <title>NCUA proposes a new Call Report schedule collecting payment stablecoin data from credit unions</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-10-12-ncua-payment-stablecoin-call-report-schedule</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-10-12-ncua-payment-stablecoin-call-report-schedule</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <category>NCUA</category>
+      <description>At 91 FR 64699 on October 9, 2026 the National Credit Union Administration published a notice and request for comment on a revision of the NCUA Form 5300 Call Report (OMB No. 3133-0004). The summary states: &quot;Revisions include the collection of data on a credit union&#x27;s involvement with payment stablecoin activities.&quot; The proposal adds a new &quot;Schedule J, Payment Stablecoin Activities,&quot; which includes four new accounts for &quot;reporting payment stablecoins held on the credit union&#x27;s balance sheet,&quot; eight new accounts for reserve asset custody covering &quot;permitted payment stablecoin issuer (PPSI) third parties,&quot; and an item on cryptographic key custody and control. Comments are due December 8, 2026. The notice states the proposed changes would take effect with the March 31, 2027 report date, and estimates 4,224 respondents, 47.0 hours per response and 794,112 total annual burden hours.
+
+Primary source: Federal Register — NCUA, 91 FR 64699 (Oct. 9, 2026), document 2026-20729 — https://www.federalregister.gov/documents/2026/10/09/2026-20729/proposed-agency-information-collection-activities-comment-request
+
+Relevant to: credit unions, payment stablecoin issuers, reserve asset custodians, digital asset custody providers
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+    <item>
+      <title>Treasury seeks comment on a Digital Assets Criteria Form for an information-sharing initiative</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-10-12-treasury-digital-assets-criteria-form-information-collection</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-10-12-treasury-digital-assets-criteria-form-information-collection</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <category>Treasury</category>
+      <description>At 91 FR 64743 on October 9, 2026 the Department of the Treasury published a &quot;Notice of information collection; request for comment&quot; titled &quot;Agency Information Collection Activities; Proposed Collection; Comment Request; Information-Sharing Initiative: Digital Assets Criteria Form.&quot; The notice is issued under the Paperwork Reduction Act of 1995 and invites comment from the general public and other federal agencies on the proposed collection. Comments are due December 8, 2026.
+
+Primary source: Federal Register — Treasury Department, 91 FR 64743 (Oct. 9, 2026), document 2026-20737 — https://www.federalregister.gov/documents/2026/10/09/2026-20737/agency-information-collection-activities-proposed-collection-comment-request-information-sharing
+
+Relevant to: digital asset businesses, exchanges, custodians, compliance and BSA/AML functions
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+    <item>
+      <title>New York Attorney General settlement permanently bars former Celsius CEO from the crypto, securities and commodities industries</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-10-12-nyag-celsius-mashinsky-industry-ban-settlement</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-10-12-nyag-celsius-mashinsky-industry-ban-settlement</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <category>NY Attorney General</category>
+      <description>On October 9, 2026 New York Attorney General Letitia James announced a settlement with Alex Mashinsky, co-founder and former chief executive of the cryptocurrency lending platform Celsius Network LLC, under which he is &quot;permanently barred from doing business in the securities, commodities, and cryptocurrency industries.&quot; The release states the stipulation requires payments of up to $35 million: $25 million to New York if he fails to forfeit $10 million in ill-gotten gains to the federal government, and $10 million to New York if he does not serve his full prison sentence. The office&#x27;s claims included failing to register as a salesperson and as a securities and commodities dealer in violation of New York law. The release records that Mashinsky is serving a 12-year federal prison sentence and was ordered to forfeit more than $48 million, that Celsius creditors and investors had received more than $3.4 billion in the bankruptcy proceeding as of August 2026, and that Celsius founders and executives paid $16.5 million to the Federal Trade Commission.
+
+Primary source: New York Attorney General press release (Oct. 9, 2026) — https://ag.ny.gov/press-release/2026/attorney-general-james-bans-former-cryptocurrency-ceo-who-defrauded-investors
+
+Relevant to: crypto lending and yield platforms, exchanges, state-registered dealers and salespersons
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
     <item>
       <title>SEC approves Cboe BZX listing of 3x Bitcoin and 3x Ether ETFs as Commodity-Based Trust Shares</title>
       <link>https://tg3online.github.io/regrisk-radar/#2026-10-08-sec-cboe-bzx-3x-bitcoin-ether-etf-listing-approval</link>
