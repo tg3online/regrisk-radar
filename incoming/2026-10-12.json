@@ -1,0 +1,129 @@
+{
+  "_note": "RegRisk Radar drop file for the 2026-10-12 morning run. Public-safe fields only. Three further eligible-but-HELD entries (Federal Reserve and OCC American Express BSA/AML enforcement, FTC Cleo AI redress) are staged in radar/pending/ in riskdeskitems pending a client-conflict check and are deliberately NOT in this file.",
+  "entries": [
+    {
+      "id": "2026-10-12-cftc-crypto-asset-rulemaking-december-14-comment-deadline",
+      "date": "2026-10-12",
+      "published": "2026-10-13T00:00:00Z",
+      "issuing_body": "CFTC",
+      "title": "CFTC crypto asset rulemaking notice sets a December 14, 2026 comment deadline",
+      "facts": "The CFTC's advanced notice of proposed rulemaking titled \"Regulation Crypto Asset Transactions and Regulation Crypto Asset Markets\" (RIN 3038-AF80, document 2026-20888) carries a Federal Register publication date of October 13, 2026 at 91 FR 64811, pages 64811 to 64840. Its DATES section reads: \"Comments must be received on or before December 14, 2026.\" The document's action line is \"Advanced notice of proposed rulemaking\" and no effective date is printed. The CFTC had announced the advanced notice in release 9307-26 on October 5, 2026.",
+      "source_url": "https://www.federalregister.gov/documents/2026/10/13/2026-20888/regulation-crypto-asset-transactions-and-regulation-crypto-asset-markets",
+      "source_label": "Federal Register — CFTC, 91 FR 64811 (Oct. 13, 2026), RIN 3038-AF80, document 2026-20888",
+      "tags": [
+        "crypto",
+        "cftc",
+        "rulemaking",
+        "comment-deadline",
+        "anprm"
+      ],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "crypto exchanges, digital asset trading platforms, designated contract markets, futures commission merchants"
+    },
+    {
+      "id": "2026-10-12-cftc-event-contracts-swap-definition-proposal",
+      "date": "2026-10-12",
+      "published": "2026-10-09T00:00:00Z",
+      "issuing_body": "CFTC",
+      "title": "CFTC proposes to define \"swap\" to explicitly include sports, politics, cultural and weather event contracts",
+      "facts": "In release 9310-26 dated October 9, 2026 the CFTC announced a notice of proposed rulemaking (RIN 3038-AF82) that would, in the document's words, \"further define the term 'swap' to explicitly include event contracts, including those based on sports-, politics-, cultural-, and weather-related events.\" The proposal amends 17 CFR 1.3 by revising paragraphs (2)(i)(E) and (F) and adding a new paragraph (2)(i)(G). Chairman Michael S. Selig stated that Americans use event contracts \"to hedge risks, speculate, and provide the public with information\" and described them as \"commodity derivatives squarely within the CFTC's regulatory remit.\" The proposal's DATES section prints a bracketed placeholder, \"Comments must be received by [INSERT 30 DAYS FOLLOWING PUBLICATION IN THE FEDERAL REGISTER]\"; as of this entry the proposal has no Federal Register publication date, so no comment date exists.",
+      "source_url": "https://www.cftc.gov/PressRoom/PressReleases/9310-26",
+      "source_label": "CFTC Release 9310-26 (Oct. 9, 2026), with the proposed rule document (RIN 3038-AF82)",
+      "tags": [
+        "gaming",
+        "crypto",
+        "prediction-markets",
+        "event-contracts",
+        "cftc",
+        "nprm",
+        "swap-definition"
+      ],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction-market platforms, designated contract markets, sportsbooks, exchanges, introducing brokers"
+    },
+    {
+      "id": "2026-10-12-cftc-casino-gambling-swap-exclusion-interim-final-rule",
+      "date": "2026-10-12",
+      "published": "2026-10-09T00:00:00Z",
+      "issuing_body": "CFTC",
+      "title": "CFTC interim final rule excludes licensed casino-style gambling products from the \"swap\" definition",
+      "facts": "In release 9309-26 dated October 9, 2026 the CFTC announced an interim final rule (RIN 3038-AF81, action line \"Interim final rule; request for comments\") adding a new paragraph (7), \"Casino-style gambling products,\" to the definition of \"Swap\" in 17 CFR 1.3. The document states the rule would \"codify its longstanding position that casino-style gambling products, including wagers placed on sportsbooks and casino games, are excluded from the 'swap' definition,\" and Chairman Michael S. Selig stated: \"Casino-style gambling products are not derivatives.\" The exclusion applies to sports wagers accepted by a licensed sportsbook or sports wagering operator, casino games including table games, slot machines and other electronic gaming devices, and other licensed games of chance such as bingo, pool wagering, lotteries and raffles. It is conditioned on two tests printed in the document: a Provider Test (the product is offered by a state-licensed or tribal-authorized person acting within its license and regulated as gaming under state or tribal law) and a Product Test (the product is not traded on a board of trade, exchange, swap execution facility or any other multilateral or negotiated market). The DATES section prints bracketed placeholders for both the effective date (\"[INSERT DATE OF PUBLICATION IN THE FEDERAL REGISTER]\") and the comment date (\"[INSERT DATE 30 DAYS AFTER DATE OF PUBLICATION IN THE FEDERAL REGISTER]\"); as of this entry the rule has no Federal Register publication date.",
+      "source_url": "https://www.cftc.gov/PressRoom/PressReleases/9309-26",
+      "source_label": "CFTC Release 9309-26 (Oct. 9, 2026), with the interim final rule document (RIN 3038-AF81)",
+      "tags": [
+        "gaming",
+        "sports-betting",
+        "casino",
+        "cftc",
+        "interim-final-rule",
+        "swap-definition"
+      ],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "licensed sportsbooks, casino operators, tribal gaming operators, lottery and bingo operators, prediction-market platforms"
+    },
+    {
+      "id": "2026-10-12-ncua-payment-stablecoin-call-report-schedule",
+      "date": "2026-10-12",
+      "published": "2026-10-09T00:00:00Z",
+      "issuing_body": "NCUA",
+      "title": "NCUA proposes a new Call Report schedule collecting payment stablecoin data from credit unions",
+      "facts": "At 91 FR 64699 on October 9, 2026 the National Credit Union Administration published a notice and request for comment on a revision of the NCUA Form 5300 Call Report (OMB No. 3133-0004). The summary states: \"Revisions include the collection of data on a credit union's involvement with payment stablecoin activities.\" The proposal adds a new \"Schedule J, Payment Stablecoin Activities,\" which includes four new accounts for \"reporting payment stablecoins held on the credit union's balance sheet,\" eight new accounts for reserve asset custody covering \"permitted payment stablecoin issuer (PPSI) third parties,\" and an item on cryptographic key custody and control. Comments are due December 8, 2026. The notice states the proposed changes would take effect with the March 31, 2027 report date, and estimates 4,224 respondents, 47.0 hours per response and 794,112 total annual burden hours.",
+      "source_url": "https://www.federalregister.gov/documents/2026/10/09/2026-20729/proposed-agency-information-collection-activities-comment-request",
+      "source_label": "Federal Register — NCUA, 91 FR 64699 (Oct. 9, 2026), document 2026-20729",
+      "tags": [
+        "crypto",
+        "payments",
+        "stablecoin",
+        "ncua",
+        "call-report",
+        "information-collection"
+      ],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "credit unions, payment stablecoin issuers, reserve asset custodians, digital asset custody providers"
+    },
+    {
+      "id": "2026-10-12-treasury-digital-assets-criteria-form-information-collection",
+      "date": "2026-10-12",
+      "published": "2026-10-09T00:00:00Z",
+      "issuing_body": "Treasury",
+      "title": "Treasury seeks comment on a Digital Assets Criteria Form for an information-sharing initiative",
+      "facts": "At 91 FR 64743 on October 9, 2026 the Department of the Treasury published a \"Notice of information collection; request for comment\" titled \"Agency Information Collection Activities; Proposed Collection; Comment Request; Information-Sharing Initiative: Digital Assets Criteria Form.\" The notice is issued under the Paperwork Reduction Act of 1995 and invites comment from the general public and other federal agencies on the proposed collection. Comments are due December 8, 2026.",
+      "source_url": "https://www.federalregister.gov/documents/2026/10/09/2026-20737/agency-information-collection-activities-proposed-collection-comment-request-information-sharing",
+      "source_label": "Federal Register — Treasury Department, 91 FR 64743 (Oct. 9, 2026), document 2026-20737",
+      "tags": [
+        "crypto",
+        "digital-assets",
+        "treasury",
+        "information-collection"
+      ],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "digital asset businesses, exchanges, custodians, compliance and BSA/AML functions"
+    },
+    {
+      "id": "2026-10-12-nyag-celsius-mashinsky-industry-ban-settlement",
+      "date": "2026-10-12",
+      "published": "2026-10-09T00:00:00Z",
+      "issuing_body": "NY Attorney General",
+      "title": "New York Attorney General settlement permanently bars former Celsius CEO from the crypto, securities and commodities industries",
+      "facts": "On October 9, 2026 New York Attorney General Letitia James announced a settlement with Alex Mashinsky, co-founder and former chief executive of the cryptocurrency lending platform Celsius Network LLC, under which he is \"permanently barred from doing business in the securities, commodities, and cryptocurrency industries.\" The release states the stipulation requires payments of up to $35 million: $25 million to New York if he fails to forfeit $10 million in ill-gotten gains to the federal government, and $10 million to New York if he does not serve his full prison sentence. The office's claims included failing to register as a salesperson and as a securities and commodities dealer in violation of New York law. The release records that Mashinsky is serving a 12-year federal prison sentence and was ordered to forfeit more than $48 million, that Celsius creditors and investors had received more than $3.4 billion in the bankruptcy proceeding as of August 2026, and that Celsius founders and executives paid $16.5 million to the Federal Trade Commission.",
+      "source_url": "https://ag.ny.gov/press-release/2026/attorney-general-james-bans-former-cryptocurrency-ceo-who-defrauded-investors",
+      "source_label": "New York Attorney General press release (Oct. 9, 2026)",
+      "tags": [
+        "crypto",
+        "enforcement",
+        "state-ag",
+        "new-york",
+        "registration",
+        "industry-ban"
+      ],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "crypto lending and yield platforms, exchanges, state-registered dealers and salespersons"
+    }
+  ]
+}
