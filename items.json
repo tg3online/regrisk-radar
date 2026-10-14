@@ -50,6 +50,28 @@
       "relevant_to": "tribal gaming operators and their vendors, lottery-system suppliers, and state gaming regulators"
     },
     {
+      "id": "2026-10-14-psp-skill-games-enforcement-begins",
+      "date": "2026-10-14",
+      "published": "2026-10-14T00:00:00Z",
+      "issuing_body": "Pennsylvania State Police",
+      "title": "Pennsylvania State Police announce skill games enforcement has begun and that six operators or distributors have signed compliance agreements",
+      "facts": "In a release dated October 14, 2026 the Pennsylvania State Police announced that enforcement of Pennsylvania's skill games law \"has begun,\" following the Supreme Court of Pennsylvania's June 15, 2026 decision and the expiration of the compliance deadline for businesses to remove unauthorized devices from their premises. The release states that PSP has signed agreements with six skill games operators or distributors, and that several other distributors have expressed willingness to comply but requested additional time, with those agreements pending. Under the signed agreements operators must render devices inoperable beginning October 14, 2026, remove machines on a rolling basis, provide a list of all machines owned and their locations, give PSP weekly removal updates, and forfeit any machines not removed within the agreed timeline; in exchange PSP offered a removal timeline proportional to the equipment promised and a delay in seizures until after that timeline. The release states that as of October 14, 2026 machines located outside Pennsylvania Gaming Control Board-licensed businesses are unlawful and may be met with seizure, forfeiture of machines and proceeds, and criminal charges; that \"powering off or unplugging an otherwise operable machine is not sufficient\"; and that criminal charges will be pursued against any manufacturer, distributor or business that operates these devices, including new models that accept cards or other value. The release does not name the six operators or distributors and gives no figures for devices seized, citations issued or establishments affected.",
+      "source_url": "https://www.pa.gov/agencies/psp/newsroom/psp-begin-skill-games-enforcement--several-operators-have-commit",
+      "source_label": "Pennsylvania State Police news release (Oct. 14, 2026)",
+      "tags": [
+        "gaming",
+        "skill-games",
+        "slot-machines",
+        "enforcement",
+        "seizure",
+        "state-regulator",
+        "pennsylvania"
+      ],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "skill games manufacturers, distributors and route operators, licensed casinos and truck stop establishments, liquor-licensed venues, and payment and cash-handling vendors serving them"
+    },
+    {
       "id": "2026-10-12-cftc-crypto-asset-rulemaking-december-14-comment-deadline",
       "date": "2026-10-12",
       "published": "2026-10-13T00:00:00Z",

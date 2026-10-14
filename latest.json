@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-14T10:00:14Z",
+  "generated": "2026-10-14T21:55:36Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 286,
+  "count": 287,
   "items": [
     {
       "id": "2026-10-14-pa-skill-games-unlicensed-machines-unlawful",
@@ -43,6 +43,28 @@
         "compact",
         "federal-register",
         "washington"
+      ]
+    },
+    {
+      "id": "2026-10-14-psp-skill-games-enforcement-begins",
+      "date": "2026-10-14",
+      "published": "2026-10-14T00:00:00Z",
+      "title": "Pennsylvania State Police announce skill games enforcement has begun and that six operators or distributors have signed compliance agreements",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-10-14-psp-skill-games-enforcement-begins",
+      "issuing_body": "Pennsylvania State Police",
+      "source_url": "https://www.pa.gov/agencies/psp/newsroom/psp-begin-skill-games-enforcement--several-operators-have-commit",
+      "source_label": "Pennsylvania State Police news release (Oct. 14, 2026)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "skill games manufacturers, distributors and route operators, licensed casinos and truck stop establishments, liquor-licensed venues, and payment and cash-handling vendors serving them",
+      "tags": [
+        "gaming",
+        "skill-games",
+        "slot-machines",
+        "enforcement",
+        "seizure",
+        "state-regulator",
+        "pennsylvania"
       ]
     },
     {
