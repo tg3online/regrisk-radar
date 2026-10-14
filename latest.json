@@ -1,8 +1,50 @@
 {
-  "generated": "2026-10-13T22:14:14Z",
+  "generated": "2026-10-14T10:00:14Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 284,
+  "count": 286,
   "items": [
+    {
+      "id": "2026-10-14-pa-skill-games-unlicensed-machines-unlawful",
+      "date": "2026-10-14",
+      "published": "2026-10-14T00:00:00Z",
+      "title": "Pennsylvania State Police guidance: skill game machines outside licensed premises are unlawful from October 14, 2026 and subject to criminal prosecution and immediate seizure",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-10-14-pa-skill-games-unlicensed-machines-unlawful",
+      "issuing_body": "Pennsylvania State Police",
+      "source_url": "https://www.pa.gov/agencies/psp/resources/skill-games-resources",
+      "source_label": "Pennsylvania State Police, Skill Games Resources (pa.gov), retrieved Oct. 14, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "skill-game route operators, distributors and manufacturers, licensed casinos and truck-stop operators, bars and restaurants hosting terminals, and the payment providers serving them",
+      "tags": [
+        "gaming",
+        "skill-games",
+        "slot-machines",
+        "enforcement",
+        "state-regulator",
+        "pennsylvania"
+      ]
+    },
+    {
+      "id": "2026-10-14-bia-stillaguamish-washington-class-iii-gaming-compact",
+      "date": "2026-10-14",
+      "published": "2026-10-14T00:00:00Z",
+      "title": "Interior publishes approval by operation of law of a Stillaguamish Tribe and Washington State class III gaming compact amendment effective October 14, 2026",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-10-14-bia-stillaguamish-washington-class-iii-gaming-compact",
+      "issuing_body": "Bureau of Indian Affairs",
+      "source_url": "https://www.federalregister.gov/documents/2026/10/14/2026-20896/indian-gaming-approval-by-operation-of-law-of-the-stillaguamish-tribe-and-state-of-washington-gaming",
+      "source_label": "Federal Register notice 2026-20896, 91 FR 65252 (Oct. 14, 2026)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "tribal gaming operators and their vendors, lottery-system suppliers, and state gaming regulators",
+      "tags": [
+        "gaming",
+        "tribal-gaming",
+        "class-iii",
+        "compact",
+        "federal-register",
+        "washington"
+      ]
+    },
     {
       "id": "2026-10-12-cftc-crypto-asset-rulemaking-december-14-comment-deadline",
       "date": "2026-10-12",
