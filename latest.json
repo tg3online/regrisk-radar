@@ -1,8 +1,31 @@
 {
-  "generated": "2026-10-15T10:01:09Z",
+  "generated": "2026-10-15T21:57:21Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 288,
+  "count": 289,
   "items": [
+    {
+      "id": "2026-10-15-fincen-alert-iran-religious-charity-networks",
+      "date": "2026-10-15",
+      "published": "2026-10-15T00:00:00Z",
+      "title": "FinCEN issues an alert asking financial institutions to report potential Iranian regime abuse of religious charity networks, including the diversion of religious tithes",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-10-15-fincen-alert-iran-religious-charity-networks",
+      "issuing_body": "Financial Crimes Enforcement Network",
+      "source_url": "https://www.fincen.gov/news/news-releases/operation-economic-outcast-targets-iranian-regimes-abuse-religious-charity",
+      "source_label": "Financial Crimes Enforcement Network news release (Oct. 15, 2026)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "banks and credit unions, money services businesses and payment processors, casinos and card clubs, securities and futures firms, insurers, mortgage brokers, and precious-metals dealers",
+      "tags": [
+        "payments",
+        "fintech",
+        "aml",
+        "bsa",
+        "terrorist-financing",
+        "sanctions",
+        "fincen-alert",
+        "federal-regulator"
+      ]
+    },
     {
       "id": "2026-10-14-pa-skill-games-unlicensed-machines-unlawful",
       "date": "2026-10-14",

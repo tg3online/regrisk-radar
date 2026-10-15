@@ -6,6 +6,23 @@
   "description": "Daily facts-only regulatory radar — crypto, gaming, payments & fintech. Verified against primary sources.",
   "items": [
     {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-10-15-fincen-alert-iran-religious-charity-networks",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-10-15-fincen-alert-iran-religious-charity-networks",
+      "title": "FinCEN issues an alert asking financial institutions to report potential Iranian regime abuse of religious charity networks, including the diversion of religious tithes",
+      "content_text": "In a news release dated October 15, 2026 and titled \"Operation Economic Outcast Targets Iranian Regime's Abuse of Religious Charity Networks,\" the Financial Crimes Enforcement Network states that it is issuing an Alert, under Operation Economic Outcast, concerning possible Iranian regime abuse of religious charity networks, including the diversion of religious tithes known as khums, and that it asks financial institutions to report potential instances of that abuse to FinCEN. The release states that the regime exploits Shi'a donations and charitable organizations, and identifies hawala networks and cash couriers among the suspected channels. The release carries sector tags for Casinos, Depository Institutions, Insurance Industry, Money Services Businesses, Mortgage Co/Broker, Precious Metals/Jewelry Industry, and Securities and Futures. The release states no deadline and does not state a suspicious activity report key term on its face; the Alert itself is published as a separate document whose text is not reproduced on the release page, so no red-flag indicator and no filing instruction is stated here.\n\nPrimary source: Financial Crimes Enforcement Network news release (Oct. 15, 2026) — https://www.fincen.gov/news/news-releases/operation-economic-outcast-targets-iranian-regimes-abuse-religious-charity\n\nRelevant to: banks and credit unions, money services businesses and payment processors, casinos and card clubs, securities and futures firms, insurers, mortgage brokers, and precious-metals dealers\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-10-15T00:00:00Z",
+      "tags": [
+        "payments",
+        "fintech",
+        "aml",
+        "bsa",
+        "terrorist-financing",
+        "sanctions",
+        "fincen-alert",
+        "federal-regulator"
+      ]
+    },
+    {
       "id": "https://tg3online.github.io/regrisk-radar/#2026-10-14-pa-skill-games-unlicensed-machines-unlawful",
       "url": "https://tg3online.github.io/regrisk-radar/#2026-10-14-pa-skill-games-unlicensed-machines-unlawful",
       "title": "Pennsylvania State Police guidance: skill game machines outside licensed premises are unlawful from October 14, 2026 and subject to criminal prosecution and immediate seizure",
