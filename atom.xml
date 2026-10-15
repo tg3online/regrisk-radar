@@ -5,7 +5,7 @@
   <id>https://tg3online.github.io/regrisk-radar/</id>
   <link href="https://tg3online.github.io/regrisk-radar/" />
   <link href="https://tg3online.github.io/regrisk-radar/atom.xml" rel="self" type="application/atom+xml" />
-  <updated>2026-10-14T21:55:36Z</updated>
+  <updated>2026-10-15T10:01:09Z</updated>
   <entry>
     <title>Pennsylvania State Police guidance: skill game machines outside licensed premises are unlawful from October 14, 2026 and subject to criminal prosecution and immediate seizure</title>
     <id>https://tg3online.github.io/regrisk-radar/#2026-10-14-pa-skill-games-unlicensed-machines-unlawful</id>
@@ -86,6 +86,23 @@ RegRisk Radar is regulatory-risk intelligence provided for general informational
 Primary source: OFAC recent actions, Counter Narcotics and Counter Terrorism Designations (Oct. 13, 2026), with quoted language from Treasury press release sb0656 — https://ofac.treasury.gov/recent-actions/20261013
 
 Relevant to: racetracks and racebooks, casinos, gaming operators, sanctions screening and AML compliance functions
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</content>
+  </entry>
+  <entry>
+    <title>SEC grants accelerated approval to a Cboe Exchange rule change permitting the listing of cash-settled binary options overlying key performance indicators reported by 23 named stock issuers</title>
+    <id>https://tg3online.github.io/regrisk-radar/#2026-10-13-sec-cboe-binary-kpi-options-accelerated-approval</id>
+    <link href="https://tg3online.github.io/regrisk-radar/#2026-10-13-sec-cboe-binary-kpi-options-accelerated-approval" rel="alternate" />
+    <updated>2026-10-13T00:00:00Z</updated>
+    <published>2026-10-13T00:00:00Z</published>
+    <category term="Securities and Exchange Commission" />
+    <content type="text">In an order numbered 34-106659 in File No. SR-CBOE-2026-061, dated October 13, 2026 and titled &quot;Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Filing of Amendment No. 1 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment No. 1,&quot; the Securities and Exchange Commission states that it is &quot;to approve the proposed rule change, as modified by Amendment No. 1, on an accelerated basis.&quot; The proposed rule change permits Cboe Exchange, Inc. to list binary options overlying key performance indicators (&quot;KPIs&quot;) reported by certain issuers of stock (&quot;Binary KPI Options&quot;). The order reproduces a table at Exchange Rule 4.81(a) listing 23 US-listed issuers and more than 100 KPIs, the metrics including diluted earnings per share, revenue, net sales, income, segment-level revenue, free cash flow, unit production and total bitcoin holdings; the issuers named in that table include technology, bank, crypto-sector and retail-brokerage companies. On settlement the filing states that &quot;the settlement value for a binary KPI option is the value of the KPI for the applicable reporting period&quot; and that the exchange &quot;will source the settlement value from the earnings-related filing&quot; the issuer submits to the Commission. The filing states that if an issuer discloses the KPI before the expiration date, &quot;trading in the applicable binary KPI options series will cease, and the expiration date for the option accelerates&quot; under the Clearing Corporation&#x27;s rules, and that where KPI information is released after the expiration date trading ends at expiration while settlement processing is delayed until the information is available. The same order carries notice of Amendment No. 1 soliciting public comment; the comment deadline was not retrieved from the document and is not stated here.
+
+Primary source: SEC Release No. 34-106659, File No. SR-CBOE-2026-061 (Oct. 13, 2026) — https://www.sec.gov/files/rules/sro/cboe/2026/34-106659.pdf
+
+Relevant to: options and futures exchanges, prediction-market and event-contract platforms, retail brokerages and their compliance functions, clearing agencies, and crypto-sector issuers whose reported metrics underlie listed contracts
 
 For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
 

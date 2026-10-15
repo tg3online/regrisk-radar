@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-14T21:55:36Z",
+  "generated": "2026-10-15T10:01:09Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 287,
+  "count": 288,
   "items": [
     {
       "id": "2026-10-14-pa-skill-games-unlicensed-machines-unlawful",
@@ -108,6 +108,30 @@
         "horse-racing",
         "casino",
         "money-laundering"
+      ]
+    },
+    {
+      "id": "2026-10-13-sec-cboe-binary-kpi-options-accelerated-approval",
+      "date": "2026-10-13",
+      "published": "2026-10-13T00:00:00Z",
+      "title": "SEC grants accelerated approval to a Cboe Exchange rule change permitting the listing of cash-settled binary options overlying key performance indicators reported by 23 named stock issuers",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-10-13-sec-cboe-binary-kpi-options-accelerated-approval",
+      "issuing_body": "Securities and Exchange Commission",
+      "source_url": "https://www.sec.gov/files/rules/sro/cboe/2026/34-106659.pdf",
+      "source_label": "SEC Release No. 34-106659, File No. SR-CBOE-2026-061 (Oct. 13, 2026)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "options and futures exchanges, prediction-market and event-contract platforms, retail brokerages and their compliance functions, clearing agencies, and crypto-sector issuers whose reported metrics underlie listed contracts",
+      "tags": [
+        "crypto",
+        "fintech",
+        "event-contracts",
+        "binary-options",
+        "prediction-markets",
+        "sec",
+        "sro-rule-change",
+        "federal-regulator",
+        "US-Federal"
       ]
     },
     {
