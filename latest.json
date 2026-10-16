@@ -1,8 +1,54 @@
 {
-  "generated": "2026-10-16T09:56:29Z",
+  "generated": "2026-10-16T21:57:46Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 291,
+  "count": 293,
   "items": [
+    {
+      "id": "2026-10-16-cftc-swap-definition-exclude-casino-style-gambling",
+      "date": "2026-10-16",
+      "published": "2026-10-16T12:45:00Z",
+      "title": "CFTC files interim final rule excluding casino-style gambling products from the \"swap\" definition",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-10-16-cftc-swap-definition-exclude-casino-style-gambling",
+      "issuing_body": "Commodity Futures Trading Commission",
+      "source_url": "https://www.federalregister.gov/public-inspection/2026-21376/further-definition-of-swap-to-exclude-casino-style-gambling-products",
+      "source_label": "Federal Register public inspection document 2026-21376 (CFTC)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "sportsbooks and casino operators, prediction-market platforms, event-contract exchanges, derivatives intermediaries",
+      "tags": [
+        "gaming",
+        "crypto",
+        "cftc",
+        "swap-definition",
+        "event-contracts",
+        "prediction-markets",
+        "interim-final-rule",
+        "federal-register"
+      ]
+    },
+    {
+      "id": "2026-10-16-cftc-swap-definition-include-event-contracts",
+      "date": "2026-10-16",
+      "published": "2026-10-16T12:45:00Z",
+      "title": "CFTC files proposed rule to define event contracts, including sports and politics contracts, as swaps",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-10-16-cftc-swap-definition-include-event-contracts",
+      "issuing_body": "Commodity Futures Trading Commission",
+      "source_url": "https://www.federalregister.gov/public-inspection/2026-21377/further-definition-of-swap---inclusions",
+      "source_label": "Federal Register public inspection document 2026-21377 (CFTC)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction-market platforms, event-contract exchanges, designated contract markets, sportsbooks, derivatives intermediaries",
+      "tags": [
+        "crypto",
+        "gaming",
+        "cftc",
+        "swap-definition",
+        "event-contracts",
+        "prediction-markets",
+        "proposed-rule",
+        "federal-register"
+      ]
+    },
     {
       "id": "2026-10-16-sec-cboebzx-generic-listing-criteria-multi-crypto-trust-options",
       "date": "2026-10-16",
