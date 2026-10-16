@@ -5,8 +5,40 @@
     <link>https://tg3online.github.io/regrisk-radar/</link>
     <description>Daily facts-only regulatory radar — crypto, gaming, payments &amp; fintech. Verified against primary sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Oct 2026 21:57:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 09:56:29 +0000</lastBuildDate>
     <atom:link href="https://tg3online.github.io/regrisk-radar/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SEC publishes Cboe BZX rule change setting generic listing criteria for options on multi-crypto-asset trusts; comments due November 6, 2026</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-10-16-sec-cboebzx-generic-listing-criteria-multi-crypto-trust-options</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-10-16-sec-cboebzx-generic-listing-criteria-multi-crypto-trust-options</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <category>U.S. Securities and Exchange Commission</category>
+      <description>The Securities and Exchange Commission published Release No. 34-106648, File No. SR-CboeBZX-2026-082, in the Federal Register on October 16, 2026 at 91 FR 65809. The notice covers a Cboe BZX Exchange, Inc. proposed rule change, filed September 29, 2026 and designated non-controversial, that amends Exchange Rules 19.3 and 19.4 to establish generic listing criteria and continued listing standards for options on commodity-based trusts holding multiple crypto assets, and to permit the listing of options on exchange-traded funds as defined in Rule 6c-11 under the Investment Company Act of 1940. Under the generic criteria, each crypto asset held by the trust must have a total global supply with an average daily market value of at least $700 million over the prior 12 months and must underlie a derivatives contract trading on a market with which the Exchange has a comprehensive surveillance sharing agreement. The notice states that product-specific references to individual crypto asset products are replaced by the generic criteria, that the filing became operative upon filing after the Commission waived the 30-day operative delay, and that submissions referring to file number SR-CboeBZX-2026-082 &quot;should be submitted on or before November 6, 2026.&quot;
+
+Primary source: Federal Register - SEC Release No. 34-106648, File No. SR-CboeBZX-2026-082, 91 FR 65809 (Oct. 16, 2026) — https://www.federalregister.gov/documents/2026/10/16/2026-21128/self-regulatory-organizations-cboe-bzx-exchange-inc-notice-of-filing-and-immediate-effectiveness-of
+
+Relevant to: crypto ETP sponsors, options exchanges, market makers, broker-dealers
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+    <item>
+      <title>SEC order approving Cboe binary options on issuer KPIs published in the Federal Register at 91 FR 65854</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-10-16-sec-cboe-binary-kpi-options-order-federal-register</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-10-16-sec-cboe-binary-kpi-options-order-federal-register</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <category>U.S. Securities and Exchange Commission</category>
+      <description>Securities and Exchange Commission Release No. 34-106659, File No. SR-CBOE-2026-061, dated October 13, 2026, was published in the Federal Register on October 16, 2026 as document 2026-21149, Volume 91, No. 199, at pages 65854 to 65886. The release is titled &quot;Notice of Filing of Amendment No. 1 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment No. 1, To Permit the Listing of Binary Options Overlying Key Performance Indicators Reported by Certain Issuers of Stock,&quot; and permits Cboe Exchange, Inc. to list binary options overlying key performance indicators reported by certain issuers of stock. The Federal Register metadata record for the document carries no DATES value and no comments-close date, and the document&#x27;s solicitation-of-comments section was not retrieved.
+
+Primary source: Federal Register - SEC Release No. 34-106659, File No. SR-CBOE-2026-061, 91 FR 65854 (Oct. 16, 2026) — https://www.federalregister.gov/documents/2026/10/16/2026-21149/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-amendment-no-1-and-order
+
+Relevant to: exchanges, options market makers, broker-dealers, prediction-market platforms
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
     <item>
       <title>FinCEN issues an alert asking financial institutions to report potential Iranian regime abuse of religious charity networks, including the diversion of religious tithes</title>
       <link>https://tg3online.github.io/regrisk-radar/#2026-10-15-fincen-alert-iran-religious-charity-networks</link>

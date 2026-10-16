@@ -1,8 +1,49 @@
 {
-  "generated": "2026-10-15T21:57:21Z",
+  "generated": "2026-10-16T09:56:29Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 289,
+  "count": 291,
   "items": [
+    {
+      "id": "2026-10-16-sec-cboebzx-generic-listing-criteria-multi-crypto-trust-options",
+      "date": "2026-10-16",
+      "published": "2026-10-16T00:00:00Z",
+      "title": "SEC publishes Cboe BZX rule change setting generic listing criteria for options on multi-crypto-asset trusts; comments due November 6, 2026",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-10-16-sec-cboebzx-generic-listing-criteria-multi-crypto-trust-options",
+      "issuing_body": "U.S. Securities and Exchange Commission",
+      "source_url": "https://www.federalregister.gov/documents/2026/10/16/2026-21128/self-regulatory-organizations-cboe-bzx-exchange-inc-notice-of-filing-and-immediate-effectiveness-of",
+      "source_label": "Federal Register - SEC Release No. 34-106648, File No. SR-CboeBZX-2026-082, 91 FR 65809 (Oct. 16, 2026)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "crypto ETP sponsors, options exchanges, market makers, broker-dealers",
+      "tags": [
+        "crypto",
+        "sec",
+        "sro-rule-filing",
+        "listed-options",
+        "crypto-etp",
+        "comment-deadline"
+      ]
+    },
+    {
+      "id": "2026-10-16-sec-cboe-binary-kpi-options-order-federal-register",
+      "date": "2026-10-16",
+      "published": "2026-10-16T00:00:00Z",
+      "title": "SEC order approving Cboe binary options on issuer KPIs published in the Federal Register at 91 FR 65854",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-10-16-sec-cboe-binary-kpi-options-order-federal-register",
+      "issuing_body": "U.S. Securities and Exchange Commission",
+      "source_url": "https://www.federalregister.gov/documents/2026/10/16/2026-21149/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-amendment-no-1-and-order",
+      "source_label": "Federal Register - SEC Release No. 34-106659, File No. SR-CBOE-2026-061, 91 FR 65854 (Oct. 16, 2026)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "exchanges, options market makers, broker-dealers, prediction-market platforms",
+      "tags": [
+        "crypto",
+        "sec",
+        "sro-rule-filing",
+        "binary-options",
+        "federal-register"
+      ]
+    },
     {
       "id": "2026-10-15-fincen-alert-iran-religious-charity-networks",
       "date": "2026-10-15",
