@@ -1,8 +1,73 @@
 {
-  "generated": "2026-10-16T21:57:46Z",
+  "generated": "2026-10-19T09:55:20Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 293,
+  "count": 296,
   "items": [
+    {
+      "id": "2026-10-19-psp-pennsylvania-skill-games-enforcement-begins",
+      "date": "2026-10-19",
+      "published": "2026-10-19T10:32:00Z",
+      "title": "Pennsylvania State Police begin skill games enforcement, with seizure and prosecution exposure live as of October 14, 2026",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-10-19-psp-pennsylvania-skill-games-enforcement-begins",
+      "issuing_body": "Pennsylvania State Police",
+      "source_url": "https://www.pa.gov/agencies/psp/newsroom/psp-begin-skill-games-enforcement--several-operators-have-commit",
+      "source_label": "Pennsylvania State Police news release, October 14, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "skill games operators and distributors, licensed casino operators, bars and retail establishments hosting gaming devices, gaming equipment manufacturers",
+      "tags": [
+        "gaming",
+        "skill-games",
+        "state-enforcement",
+        "pennsylvania",
+        "seizure"
+      ]
+    },
+    {
+      "id": "2026-10-19-cftc-swap-inclusions-event-contracts-published-91-fr-66022",
+      "date": "2026-10-19",
+      "published": "2026-10-19T10:31:00Z",
+      "title": "CFTC proposal to define event contracts as swaps publishes at 91 FR 66022, comments due November 18, 2026",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-10-19-cftc-swap-inclusions-event-contracts-published-91-fr-66022",
+      "issuing_body": "Commodity Futures Trading Commission",
+      "source_url": "https://www.federalregister.gov/documents/2026/10/19/2026-21377/further-definition-of-swap-inclusions",
+      "source_label": "Federal Register, 91 FR 66022, document 2026-21377 (CFTC notice of proposed rulemaking, RIN 3038-AF82)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction-market platforms, event-contract exchanges, derivatives exchanges, sportsbooks, brokerages offering event contracts",
+      "tags": [
+        "gaming",
+        "crypto",
+        "derivatives",
+        "cftc",
+        "nprm",
+        "federal-register",
+        "comment-deadline",
+        "prediction-markets"
+      ]
+    },
+    {
+      "id": "2026-10-19-cftc-swap-exclusion-gambling-products-published-91-fr-65969",
+      "date": "2026-10-19",
+      "published": "2026-10-19T10:30:00Z",
+      "title": "CFTC interim final rule excluding casino-style gambling products from the swap definition publishes at 91 FR 65969, effective October 19, 2026, comments due November 18, 2026",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-10-19-cftc-swap-exclusion-gambling-products-published-91-fr-65969",
+      "issuing_body": "Commodity Futures Trading Commission",
+      "source_url": "https://www.federalregister.gov/documents/2026/10/19/2026-21376/further-definition-of-swap-to-exclude-casino-style-gambling-products",
+      "source_label": "Federal Register, 91 FR 65969, document 2026-21376 (CFTC interim final rule, RIN 3038-AF81)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "sportsbooks, casino operators, prediction-market platforms, derivatives exchanges, futures commission merchants",
+      "tags": [
+        "gaming",
+        "crypto",
+        "derivatives",
+        "cftc",
+        "interim-final-rule",
+        "federal-register",
+        "comment-deadline"
+      ]
+    },
     {
       "id": "2026-10-16-cftc-swap-definition-exclude-casino-style-gambling",
       "date": "2026-10-16",
