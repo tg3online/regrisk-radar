@@ -1,8 +1,28 @@
 {
-  "generated": "2026-10-19T09:55:20Z",
+  "generated": "2026-10-20T09:55:04Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 296,
+  "count": 299,
   "items": [
+    {
+      "id": "2026-10-20-sec-regulation-crypto-assets-comment-period-closes",
+      "date": "2026-10-20",
+      "published": "2026-10-20T00:00:00Z",
+      "title": "SEC Regulation Crypto Assets proposed rule: comment period closes October 20, 2026",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-10-20-sec-regulation-crypto-assets-comment-period-closes",
+      "issuing_body": "Securities and Exchange Commission",
+      "source_url": "https://www.federalregister.gov/documents/2026/08/21/2026-17183/regulation-crypto-assets",
+      "source_label": "Federal Register, SEC proposed rule, document 2026-17183, 91 FR 54510",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "crypto exchanges, token issuers, broker-dealers, investment advisers, custodians",
+      "tags": [
+        "crypto",
+        "SEC",
+        "rulemaking",
+        "comment-deadline",
+        "federal-register"
+      ]
+    },
     {
       "id": "2026-10-19-psp-pennsylvania-skill-games-enforcement-begins",
       "date": "2026-10-19",
@@ -66,6 +86,47 @@
         "interim-final-rule",
         "federal-register",
         "comment-deadline"
+      ]
+    },
+    {
+      "id": "2026-10-20-fincen-270m-suspicious-activity-federal-student-aid-fraud",
+      "date": "2026-10-20",
+      "published": "2026-10-19T00:00:00Z",
+      "title": "Treasury says FinCEN identified about $270 million in suspicious activity potentially linked to federal student aid fraud",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-10-20-fincen-270m-suspicious-activity-federal-student-aid-fraud",
+      "issuing_body": "U.S. Department of the Treasury / FinCEN",
+      "source_url": "https://home.treasury.gov/news/press-releases/sb0663",
+      "source_label": "U.S. Department of the Treasury press release, October 19, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "banks, credit unions, money services businesses, fintech deposit and payment providers, BSA compliance teams",
+      "tags": [
+        "payments",
+        "BSA-AML",
+        "FinCEN",
+        "suspicious-activity-reports",
+        "fraud"
+      ]
+    },
+    {
+      "id": "2026-10-20-cftc-part-40-registered-entities-collection-renewal-91-fr-66110",
+      "date": "2026-10-20",
+      "published": "2026-10-19T00:00:00Z",
+      "title": "CFTC seeks comment on renewing the Part 40 information collection for provisions common to registered entities",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-10-20-cftc-part-40-registered-entities-collection-renewal-91-fr-66110",
+      "issuing_body": "Commodity Futures Trading Commission",
+      "source_url": "https://www.federalregister.gov/documents/2026/10/19/2026-21275/agency-information-collection-activities-notice-of-intent-to-extend-collection-3038-0093-part-40",
+      "source_label": "Federal Register, CFTC notice, document 2026-21275, 91 FR 66110",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "designated contract markets, swap execution facilities, derivatives clearing organizations, event-contract and prediction-market platforms",
+      "tags": [
+        "CFTC",
+        "part-40",
+        "registered-entities",
+        "paperwork-reduction-act",
+        "comment-deadline",
+        "federal-register"
       ]
     },
     {
