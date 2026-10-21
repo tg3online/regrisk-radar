@@ -1,8 +1,29 @@
 {
-  "generated": "2026-10-20T09:55:04Z",
+  "generated": "2026-10-21T09:53:58Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 299,
+  "count": 300,
   "items": [
+    {
+      "id": "2026-10-21-cftc-cleared-swaps-customer-collateral-collection-renewal",
+      "date": "2026-10-21",
+      "published": "2026-10-21T00:00:00Z",
+      "title": "CFTC seeks comment on renewal of its cleared swaps customer collateral information collection, comments due November 20, 2026",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-10-21-cftc-cleared-swaps-customer-collateral-collection-renewal",
+      "issuing_body": "CFTC",
+      "source_url": "https://www.federalregister.gov/documents/2026/10/21/2026-21492/agency-information-collection-activities-under-omb-review",
+      "source_label": "Federal Register, CFTC notice 2026-21492, 91 FR 66549 (Oct. 21, 2026)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "futures commission merchants, derivatives clearing organizations, cleared-swaps customers",
+      "tags": [
+        "cftc",
+        "part-22",
+        "cleared-swaps",
+        "customer-collateral",
+        "paperwork-reduction-act",
+        "comment-deadline"
+      ]
+    },
     {
       "id": "2026-10-20-sec-regulation-crypto-assets-comment-period-closes",
       "date": "2026-10-20",
