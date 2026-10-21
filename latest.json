@@ -1,8 +1,78 @@
 {
-  "generated": "2026-10-21T09:53:58Z",
+  "generated": "2026-10-21T21:45:14Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 300,
+  "count": 303,
   "items": [
+    {
+      "id": "2026-10-21-occ-genius-act-payment-stablecoin-final-rule",
+      "date": "2026-10-21",
+      "published": "2026-10-21T21:55:00Z",
+      "title": "OCC issues final rule implementing the GENIUS Act for payment stablecoin issuance, effective January 18, 2027",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-10-21-occ-genius-act-payment-stablecoin-final-rule",
+      "issuing_body": "Office of the Comptroller of the Currency",
+      "source_url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-92.html",
+      "source_label": "OCC News Release 2026-92 (occ.gov)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "payment stablecoin issuers, national banks and federal savings associations, crypto exchanges, payment processors, custodians",
+      "tags": [
+        "crypto",
+        "payments",
+        "fintech",
+        "occ",
+        "genius-act",
+        "stablecoin",
+        "final-rule",
+        "12-cfr-15"
+      ]
+    },
+    {
+      "id": "2026-10-21-occ-genius-act-waivers-application-guidance",
+      "date": "2026-10-21",
+      "published": "2026-10-21T21:55:00Z",
+      "title": "OCC Bulletin 2026-51 sets out GENIUS Act waiver and application submission guidance ahead of the January 18, 2027 approval requirement",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-10-21-occ-genius-act-waivers-application-guidance",
+      "issuing_body": "Office of the Comptroller of the Currency",
+      "source_url": "https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-51.html",
+      "source_label": "OCC Bulletin 2026-51 (occ.gov)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prospective payment stablecoin issuers, foreign stablecoin issuers, bank subsidiaries, licensing counsel",
+      "tags": [
+        "crypto",
+        "payments",
+        "fintech",
+        "occ",
+        "genius-act",
+        "stablecoin",
+        "licensing",
+        "waivers"
+      ]
+    },
+    {
+      "id": "2026-10-21-occ-genius-act-stablecoin-issuer-reporting-forms",
+      "date": "2026-10-21",
+      "published": "2026-10-21T21:55:00Z",
+      "title": "OCC Bulletin 2026-52 finalizes weekly and quarterly reporting forms for permitted payment stablecoin issuers, with comments requested within 30 days of Federal Register publication",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-10-21-occ-genius-act-stablecoin-issuer-reporting-forms",
+      "issuing_body": "Office of the Comptroller of the Currency",
+      "source_url": "https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-52.html",
+      "source_label": "OCC Bulletin 2026-52 (occ.gov)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "permitted payment stablecoin issuers, foreign stablecoin issuers registered with the OCC, compliance and regulatory reporting teams",
+      "tags": [
+        "crypto",
+        "payments",
+        "fintech",
+        "occ",
+        "genius-act",
+        "stablecoin",
+        "information-collection",
+        "reporting",
+        "comment-deadline"
+      ]
+    },
     {
       "id": "2026-10-21-cftc-cleared-swaps-customer-collateral-collection-renewal",
       "date": "2026-10-21",
