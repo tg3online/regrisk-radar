@@ -1,0 +1,26 @@
+{
+  "_note": "RegRisk Radar drop file written by the 2026-10-21 MORNING intake run. One entry. The run's two other verified items are HELD on client-conflict grounds and staged in radar/pending/ in the private repo.",
+  "entries": [
+    {
+      "id": "2026-10-21-cftc-cleared-swaps-customer-collateral-collection-renewal",
+      "date": "2026-10-21",
+      "published": "2026-10-21T00:00:00Z",
+      "issuing_body": "CFTC",
+      "title": "CFTC seeks comment on renewal of its cleared swaps customer collateral information collection, comments due November 20, 2026",
+      "facts": "Federal Register document 2026-21492, a Commodity Futures Trading Commission notice published at 91 FR 66549 on October 21, 2026, requests comment on the extension of OMB-approved information collection 3038-0091, Disclosure and Retention of Certain Information Relating to Cleared Swaps Customer Collateral, which the notice states implements section 4d(f) of the Commodity Exchange Act as added by section 724(a) of the Dodd-Frank Act and the requirements of 17 CFR part 22. The notice states that the collection covers daily computation of cleared swaps customer collateral and residual interest under section 22.2(g), depository acknowledgment letters under section 22.5(a), transmission of customer identification and portfolio information and the calculation of required collateral under sections 22.11 and 22.12, disclosure to customers of governing default and collateral provisions under section 22.16, and written notice of certain withdrawals exceeding 25 percent of residual interest under section 22.17. The notice reports 95 respondents, consisting of 71 futures commission merchants and 24 derivatives clearing organizations, approximately 314 burden hours per respondent and 29,830 total annual burden hours, states that two comments were received on the earlier 60-day notice, and states that comments on this notice are due November 20, 2026.",
+      "source_url": "https://www.federalregister.gov/documents/2026/10/21/2026-21492/agency-information-collection-activities-under-omb-review",
+      "source_label": "Federal Register, CFTC notice 2026-21492, 91 FR 66549 (Oct. 21, 2026)",
+      "tags": [
+        "cftc",
+        "part-22",
+        "cleared-swaps",
+        "customer-collateral",
+        "paperwork-reduction-act",
+        "comment-deadline"
+      ],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "futures commission merchants, derivatives clearing organizations, cleared-swaps customers"
+    }
+  ]
+}
