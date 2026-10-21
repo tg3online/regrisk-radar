@@ -1,0 +1,47 @@
+{
+  "_note": "RegRisk Radar evening drop for 2026-10-21; b suffix because the morning drop for this date already merged.",
+  "entries": [
+    {
+      "id": "2026-10-21-occ-genius-act-payment-stablecoin-final-rule",
+      "date": "2026-10-21",
+      "published": "2026-10-21T21:55:00Z",
+      "issuing_body": "Office of the Comptroller of the Currency",
+      "title": "OCC issues final rule implementing the GENIUS Act for payment stablecoin issuance, effective January 18, 2027",
+      "facts": "On October 21, 2026 the Office of the Comptroller of the Currency issued News Release 2026-92 announcing a final rule implementing the Guiding and Establishing National Innovation for U.S. Stablecoins Act (GENIUS Act). The accompanying OCC Bulletin 2026-50, titled GENIUS Act Regulations: Final Rule, states that the rule adds a new 12 CFR part 15 addressing permissible activities, reserve assets, redemption, risk management, audits and supervision, transition for state-qualified issuers, custody, applications and registrations, supervision of foreign payment stablecoin issuers, revocation or rescission of approval, and capital and operational backstop requirements, and that it revises 12 CFR parts 3, 6, 8 and 19. The release states that the rule applies to permitted payment stablecoin issuers and foreign payment stablecoin issuers subject to OCC jurisdiction and to certain custody activities by OCC-supervised entities, and that it covers all OCC regulations required by the GENIUS Act except those concerning the Bank Secrecy Act, anti-money laundering and OFAC sanctions, which the OCC states will be addressed in a separate rulemaking with the Department of the Treasury. The effective date stated for the final rule and for the GENIUS Act is January 18, 2027. The OCC states that it will separately announce when it begins accepting and processing applications and waiver requests. Bulletin 2026-50 cites 91 Fed. Reg. 10202 (March 2, 2026) as the notice of proposed rulemaking.",
+      "source_url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-92.html",
+      "source_label": "OCC News Release 2026-92 (occ.gov)",
+      "tags": ["crypto", "payments", "fintech", "occ", "genius-act", "stablecoin", "final-rule", "12-cfr-15"],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "payment stablecoin issuers, national banks and federal savings associations, crypto exchanges, payment processors, custodians"
+    },
+    {
+      "id": "2026-10-21-occ-genius-act-waivers-application-guidance",
+      "date": "2026-10-21",
+      "published": "2026-10-21T21:55:00Z",
+      "issuing_body": "Office of the Comptroller of the Currency",
+      "title": "OCC Bulletin 2026-51 sets out GENIUS Act waiver and application submission guidance ahead of the January 18, 2027 approval requirement",
+      "facts": "OCC Bulletin 2026-51, dated October 21, 2026 and titled GENIUS Act: Waivers and Application Submission Guidance, states that an entity must be approved as a permitted payment stablecoin issuer beginning January 18, 2027, and that an issuer with a substantially complete application pending on or before that date may request a waiver. The bulletin states that the OCC generally expects to grant such waiver requests unless its review identifies more compelling reasons to deny them, and that it expects to limit the length of any waiver granted. The bulletin states that the OCC will begin accepting applications and waiver requests after the Office of Management and Budget approves the related information collection and will announce that by press release, that applicants must provide complete information in the relevant application form, and that the OCC will determine whether an application is substantially complete within 30 days.",
+      "source_url": "https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-51.html",
+      "source_label": "OCC Bulletin 2026-51 (occ.gov)",
+      "tags": ["crypto", "payments", "fintech", "occ", "genius-act", "stablecoin", "licensing", "waivers"],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prospective payment stablecoin issuers, foreign stablecoin issuers, bank subsidiaries, licensing counsel"
+    },
+    {
+      "id": "2026-10-21-occ-genius-act-stablecoin-issuer-reporting-forms",
+      "date": "2026-10-21",
+      "published": "2026-10-21T21:55:00Z",
+      "issuing_body": "Office of the Comptroller of the Currency",
+      "title": "OCC Bulletin 2026-52 finalizes weekly and quarterly reporting forms for permitted payment stablecoin issuers, with comments requested within 30 days of Federal Register publication",
+      "facts": "OCC Bulletin 2026-52, dated October 21, 2026, finalizes an information collection consisting of weekly and quarterly reporting forms and instructions for permitted payment stablecoin issuers and foreign payment stablecoin issuers registered with the OCC. The bulletin states that the forms were first proposed in June 2026 (OCC Bulletin 2026-24, 91 Fed. Reg. 35795, June 12, 2026) and that the revised forms reflect comments received on the proposal and changes made in the final rule the OCC issued the same day. Comments on the information collection are requested within 30 days of its publication in the Federal Register. Subject to approval by the Office of Management and Budget, the bulletin states that the collection takes effect with the January 25, 2027 report date for the weekly form and the March 31, 2027 report date for the quarterly form.",
+      "source_url": "https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-52.html",
+      "source_label": "OCC Bulletin 2026-52 (occ.gov)",
+      "tags": ["crypto", "payments", "fintech", "occ", "genius-act", "stablecoin", "information-collection", "reporting", "comment-deadline"],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "permitted payment stablecoin issuers, foreign stablecoin issuers registered with the OCC, compliance and regulatory reporting teams"
+    }
+  ]
+}
