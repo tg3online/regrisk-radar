@@ -1,8 +1,48 @@
 {
-  "generated": "2026-10-21T21:45:14Z",
+  "generated": "2026-10-22T09:54:18Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 303,
+  "count": 305,
   "items": [
+    {
+      "id": "2026-10-22-cftc-customer-clearing-documentation-collection-renewal",
+      "date": "2026-10-22",
+      "published": "2026-10-22T09:55:00Z",
+      "title": "CFTC seeks comment on renewal of its customer clearing documentation collection; comments due November 23, 2026",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-10-22-cftc-customer-clearing-documentation-collection-renewal",
+      "issuing_body": "Commodity Futures Trading Commission",
+      "source_url": "https://www.federalregister.gov/documents/2026/10/22/2026-21581/agency-information-collection-activities-under-omb-review",
+      "source_label": "Federal Register - CFTC notice 2026-21581 (October 22, 2026)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "futures commission merchants, swap dealers, derivatives clearing organizations",
+      "tags": [
+        "CFTC",
+        "clearing",
+        "information collection",
+        "comment deadline",
+        "swaps"
+      ]
+    },
+    {
+      "id": "2026-10-22-cftc-mandatory-clearing-review-collection-renewal",
+      "date": "2026-10-22",
+      "published": "2026-10-22T09:55:00Z",
+      "title": "CFTC seeks comment on its collection for the review of swaps for mandatory clearing; comments due November 23, 2026",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-10-22-cftc-mandatory-clearing-review-collection-renewal",
+      "issuing_body": "Commodity Futures Trading Commission",
+      "source_url": "https://www.federalregister.gov/documents/2026/10/22/2026-21579/agency-information-collection-activities-under-omb-review",
+      "source_label": "Federal Register - CFTC notice 2026-21579 (October 22, 2026)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "derivatives clearing organizations, swap dealers, futures commission merchants",
+      "tags": [
+        "CFTC",
+        "clearing",
+        "information collection",
+        "comment deadline",
+        "swaps"
+      ]
+    },
     {
       "id": "2026-10-21-occ-genius-act-payment-stablecoin-final-rule",
       "date": "2026-10-21",
