@@ -1,8 +1,100 @@
 {
-  "generated": "2026-10-22T09:54:18Z",
+  "generated": "2026-10-22T21:47:51Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 305,
+  "count": 309,
   "items": [
+    {
+      "id": "2026-10-22-treasury-information-returns-collection-1099-da",
+      "date": "2026-10-22",
+      "published": "2026-10-22T21:40:00Z",
+      "title": "Treasury seeks comment on a revision to its US information returns collection, whose covered-form list includes Form 1099-DA for digital asset broker proceeds",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-10-22-treasury-information-returns-collection-1099-da",
+      "issuing_body": "Department of the Treasury",
+      "source_url": "https://public-inspection.federalregister.gov/2026-21715.pdf",
+      "source_label": "Federal Register public inspection document 2026-21715 (Treasury notice and request for comment)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "digital asset brokers and exchanges, custodians, tax and information-reporting teams, payment platforms filing 1099-K",
+      "tags": [
+        "crypto",
+        "fintech",
+        "treasury",
+        "irs",
+        "1099-da",
+        "digital-asset-reporting",
+        "information-collection",
+        "us-federal"
+      ]
+    },
+    {
+      "id": "2026-10-22-occ-genius-act-stablecoin-issuer-reporting-forms",
+      "date": "2026-10-22",
+      "published": "2026-10-22T21:27:00Z",
+      "title": "OCC opens comment on stablecoin issuer reporting Forms PS-01 and PS-02, with first report dates of 25 January 2027 and 31 March 2027",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-10-22-occ-genius-act-stablecoin-issuer-reporting-forms",
+      "issuing_body": "Office of the Comptroller of the Currency",
+      "source_url": "https://public-inspection.federalregister.gov/2026-21705.pdf",
+      "source_label": "Federal Register public inspection document 2026-21705 (OCC notice and request for comment)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "stablecoin issuers, foreign stablecoin issuers subject to OCC jurisdiction, reserve custodians, compliance and finance teams",
+      "tags": [
+        "crypto",
+        "payments",
+        "occ",
+        "genius-act",
+        "stablecoin",
+        "reporting",
+        "information-collection",
+        "us-federal"
+      ]
+    },
+    {
+      "id": "2026-10-22-occ-genius-act-stablecoin-issuer-application-forms",
+      "date": "2026-10-22",
+      "published": "2026-10-22T21:24:00Z",
+      "title": "OCC opens comment on the new GENIUS Act application forms for permitted and foreign payment stablecoin issuers",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-10-22-occ-genius-act-stablecoin-issuer-application-forms",
+      "issuing_body": "Office of the Comptroller of the Currency",
+      "source_url": "https://public-inspection.federalregister.gov/2026-21704.pdf",
+      "source_label": "Federal Register public inspection document 2026-21704 (OCC notice and request for comment)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "stablecoin issuers, foreign stablecoin issuers seeking US registration, banks and payment companies planning issuance, their counsel",
+      "tags": [
+        "crypto",
+        "payments",
+        "occ",
+        "genius-act",
+        "stablecoin",
+        "licensing",
+        "information-collection",
+        "us-federal"
+      ]
+    },
+    {
+      "id": "2026-10-22-usda-fns-snap-ebt-card-security-proposed-rule",
+      "date": "2026-10-22",
+      "published": "2026-10-22T21:12:00Z",
+      "title": "USDA proposes SNAP EBT card security rule requiring chip and contactless cards, PIN restrictions, state-system multifactor authentication and a prohibition on interchange fees",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-10-22-usda-fns-snap-ebt-card-security-proposed-rule",
+      "issuing_body": "USDA Food and Nutrition Service",
+      "source_url": "https://public-inspection.federalregister.gov/2026-21658.pdf",
+      "source_label": "Federal Register public inspection document 2026-21658 (USDA FNS proposed rule)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "EBT processors and vendors, card issuers and acquirers, payment processors, SNAP-authorized retailers, state benefit agencies",
+      "tags": [
+        "payments",
+        "usda",
+        "snap",
+        "ebt",
+        "card-security",
+        "interchange",
+        "proposed-rule",
+        "us-federal"
+      ]
+    },
     {
       "id": "2026-10-22-cftc-customer-clearing-documentation-collection-renewal",
       "date": "2026-10-22",

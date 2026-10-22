@@ -5,8 +5,72 @@
     <link>https://tg3online.github.io/regrisk-radar/</link>
     <description>Daily facts-only regulatory radar — crypto, gaming, payments &amp; fintech. Verified against primary sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Oct 2026 09:54:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 21:47:51 +0000</lastBuildDate>
     <atom:link href="https://tg3online.github.io/regrisk-radar/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Treasury seeks comment on a revision to its US information returns collection, whose covered-form list includes Form 1099-DA for digital asset broker proceeds</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-10-22-treasury-information-returns-collection-1099-da</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-10-22-treasury-information-returns-collection-1099-da</guid>
+      <pubDate>Thu, 22 Oct 2026 21:40:00 +0000</pubDate>
+      <category>Department of the Treasury</category>
+      <description>Federal Register document 2026-21715, filed for public inspection and scheduled to publish on 23 October 2026, is a notice from the Departmental Offices of the United States Department of the Treasury concerning OMB Control Number 1545-0108, titled &quot;U.S. Information Returns and Related Forms, Schedules, Attachments, and Published Guidance.&quot; The notice states &quot;Type of Review: Revision of a currently approved collection,&quot; an Estimated Number of Respondents of 79,536,100 and Estimated Total Time (Hours) of 140,987,248. Among the forms the collection covers, the notice names Forms 1098, 1099-B, 1099-DA, 1099-DIV, 1099-INT, 1099-MISC, 1099-NEC, 1099-R, 5498 and W-9, together with related forms, schedules and attachments; a fuller appendix list includes Forms 1042, 1096, 1042-S and 1099-K. The appendix entry for the digital asset form reads &quot;1099-DA Digital Asset Proceeds From Broker Transactions 1545-2330,&quot; and a second appendix cites Treasury Decision 10000 on digital asset basis reporting. The notice states that comments should be received on or before a date 30 days after publication in the Federal Register to be assured of consideration; the filed document carries a bracketed placeholder rather than a calendar date. The respondent and burden figures stated above are collection-wide totals across all covered forms and are not specific to digital asset reporting.
+
+Primary source: Federal Register public inspection document 2026-21715 (Treasury notice and request for comment) — https://public-inspection.federalregister.gov/2026-21715.pdf
+
+Relevant to: digital asset brokers and exchanges, custodians, tax and information-reporting teams, payment platforms filing 1099-K
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+    <item>
+      <title>OCC opens comment on stablecoin issuer reporting Forms PS-01 and PS-02, with first report dates of 25 January 2027 and 31 March 2027</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-10-22-occ-genius-act-stablecoin-issuer-reporting-forms</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-10-22-occ-genius-act-stablecoin-issuer-reporting-forms</guid>
+      <pubDate>Thu, 22 Oct 2026 21:27:00 +0000</pubDate>
+      <category>Office of the Comptroller of the Currency</category>
+      <description>Federal Register document 2026-21705, filed for public inspection and scheduled to publish on 23 October 2026, is an OCC notice and request for comment on a new information collection titled &quot;Reporting Forms and Instructions for Permitted Payment Stablecoin Issuers Subject to the Jurisdiction of the Office of the Comptroller of the Currency,&quot; carrying the placeholder OMB Control No. 1557-NEW. It covers two forms. Form PS-01 is a weekly confidential report on payment stablecoin activity and reserves required under 12 CFR 15.14(h), filed separately for each payment stablecoin issued, with a reporting period running from 12:00 a.m. Eastern each Tuesday to 11:59:59 p.m. Eastern the following Monday and a filing deadline of Wednesday at 5:00 p.m. Eastern. Form PS-02 is a quarterly report of condition and income required under 12 CFR 15.14(i), for which senior management and the board must attest to the accuracy of the data. The notice states that PS-01 reporting begins with the 25 January 2027 report date and PS-02 with the 31 March 2027 report date, and that the first quarterly report covers the quarter ending 31 March 2027 and is due no later than 30 April 2027. Issuers with under one billion dollars in outstanding issuance including affiliates, no current formal enforcement proceeding or order, and full compliance with reserve and reporting requirements may report only the last day of the period, Monday, for certain schedules. The notice states that under the final rule foreign payment stablecoin issuers must file the same reports as domestic issuers and may request exemptions case by case. Comments are due 30 days after Federal Register publication; the filed document carries a bracketed placeholder rather than a calendar date.
+
+Primary source: Federal Register public inspection document 2026-21705 (OCC notice and request for comment) — https://public-inspection.federalregister.gov/2026-21705.pdf
+
+Relevant to: stablecoin issuers, foreign stablecoin issuers subject to OCC jurisdiction, reserve custodians, compliance and finance teams
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+    <item>
+      <title>OCC opens comment on the new GENIUS Act application forms for permitted and foreign payment stablecoin issuers</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-10-22-occ-genius-act-stablecoin-issuer-application-forms</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-10-22-occ-genius-act-stablecoin-issuer-application-forms</guid>
+      <pubDate>Thu, 22 Oct 2026 21:24:00 +0000</pubDate>
+      <category>Office of the Comptroller of the Currency</category>
+      <description>Federal Register document 2026-21704, filed for public inspection and scheduled to publish on 23 October 2026, is an OCC notice and request for comment on a new information collection titled &quot;Applications for Licensing or Registration to Issue Payment Stablecoins Under the GENIUS Act,&quot; carrying the placeholder OMB Control No. 1557-NEW. The collection comprises new application forms an entity must complete to obtain OCC approval as a permitted payment stablecoin issuer under 12 CFR 15.30, or to register with the OCC as a foreign payment stablecoin issuer under 12 CFR 15.32. The notice states an application must include an overview of the applicant, a detailed business plan, information on proposed activities, reserve policy, redemption policy and risk management, and a certification that the submitted materials contain no material misrepresentations or omissions. Permitted payment stablecoin issuer applicants must also submit Interagency Biographical and Financial Reports for each director, executive officer and principal shareholder. Foreign issuer registrants must submit evidence of comparable regulation under section 18 of the GENIUS Act, a consent to United States jurisdiction, and a commitment to provide information the OCC requires. The notice records the affected public as businesses or other for-profit entities, a frequency of &quot;on occasion,&quot; 40 estimated respondents, 40 estimated annual responses and 4,915 estimated annual burden hours. Comments are due 30 days after Federal Register publication; the filed document carries a bracketed placeholder rather than a calendar date.
+
+Primary source: Federal Register public inspection document 2026-21704 (OCC notice and request for comment) — https://public-inspection.federalregister.gov/2026-21704.pdf
+
+Relevant to: stablecoin issuers, foreign stablecoin issuers seeking US registration, banks and payment companies planning issuance, their counsel
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+    <item>
+      <title>USDA proposes SNAP EBT card security rule requiring chip and contactless cards, PIN restrictions, state-system multifactor authentication and a prohibition on interchange fees</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-10-22-usda-fns-snap-ebt-card-security-proposed-rule</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-10-22-usda-fns-snap-ebt-card-security-proposed-rule</guid>
+      <pubDate>Thu, 22 Oct 2026 21:12:00 +0000</pubDate>
+      <category>USDA Food and Nutrition Service</category>
+      <description>Federal Register document 2026-21658, filed for public inspection and scheduled to publish on 23 October 2026, is a United States Department of Agriculture Food and Nutrition Service proposed rule under Docket FNS-2025-0137, RIN 0584-AE99, titled &quot;Supplemental Nutrition Assistance Program: Electronic Benefits Transfer Card Security Measures.&quot; As described in the document, the proposal would require EBT cards to be issued with chip and near-field-communication technology, which the document notes is also known as tap-to-pay or contactless payment, within a proposed two-year implementation window after a final rule; print the card security code on the card and the primary account number on the back; issue cards inactive until the recipient activates them; require entry of the card security code and expiration date for online purchases; disallow common PINs such as sequential, repeated or birth-year-based PINs; require States to offer account options including blocks on out-of-State, online or all transactions, and transaction alerts; require verification for interactive-voice-response balance inquiries; require multifactor authentication for State EBT systems; limit manual vouchers to significant EBT connectivity problems such as outages or disasters; require EBT vendors to monitor and block unauthorized terminals; require twelve months of transaction history including retailer names and related account activity; and remove offline EBT system references and prohibit interchange fees on EBT transactions. The document refers to card skimming and to skimming of magnetic stripe data, to SNAP EBT mobile payments, and to third-party payment processors in its description of the X9 EBT Card Industry Forum. Comments are due 60 days after Federal Register publication; the filed document carries a placeholder rather than a calendar date.
+
+Primary source: Federal Register public inspection document 2026-21658 (USDA FNS proposed rule) — https://public-inspection.federalregister.gov/2026-21658.pdf
+
+Relevant to: EBT processors and vendors, card issuers and acquirers, payment processors, SNAP-authorized retailers, state benefit agencies
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
     <item>
       <title>CFTC seeks comment on renewal of its customer clearing documentation collection; comments due November 23, 2026</title>
       <link>https://tg3online.github.io/regrisk-radar/#2026-10-22-cftc-customer-clearing-documentation-collection-renewal</link>
