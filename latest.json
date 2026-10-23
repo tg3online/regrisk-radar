@@ -1,8 +1,72 @@
 {
-  "generated": "2026-10-22T21:47:51Z",
+  "generated": "2026-10-23T09:59:39Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 309,
+  "count": 312,
   "items": [
+    {
+      "id": "2026-10-23-sec-innovation-exemption-tokenized-venue-faqs",
+      "date": "2026-10-23",
+      "published": "2026-10-23T09:55:00Z",
+      "title": "SEC staff publish Innovation Exemption FAQs setting a 30-day public notice requirement for tokenized NMS stock trading venues",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-10-23-sec-innovation-exemption-tokenized-venue-faqs",
+      "issuing_body": "SEC Division of Trading and Markets",
+      "source_url": "https://www.sec.gov/rules-regulations/staff-guidance/trading-markets-frequently-asked-questions/frequently-asked-questions-innovation-exemption",
+      "source_label": "SEC Division of Trading and Markets - Frequently Asked Questions on the Innovation Exemption (October 20, 2026)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "tokenized securities trading venues, broker-dealers, liquidity providers, exchanges, transfer agents",
+      "tags": [
+        "SEC",
+        "crypto",
+        "tokenization",
+        "tokenized securities",
+        "staff guidance",
+        "notice requirement"
+      ]
+    },
+    {
+      "id": "2026-10-23-nyoag-comment-letter-regulation-crypto-assets",
+      "date": "2026-10-23",
+      "published": "2026-10-23T09:55:00Z",
+      "title": "New York Attorney General files comment letter asking the SEC to withdraw proposed Regulation Crypto Assets in its entirety",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-10-23-nyoag-comment-letter-regulation-crypto-assets",
+      "issuing_body": "New York State Office of the Attorney General",
+      "source_url": "https://www.sec.gov/comments/S7-2026-27/s7202627-1103120-3882828.pdf",
+      "source_label": "SEC comment file S7-2026-27 - comment letter of the New York State Office of the Attorney General (October 20, 2026)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "token issuers, crypto exchanges and trading platforms, crypto fundraising counsel, state-registered intermediaries",
+      "tags": [
+        "NYOAG",
+        "SEC",
+        "crypto",
+        "Regulation Crypto Assets",
+        "comment letter",
+        "state authority"
+      ]
+    },
+    {
+      "id": "2026-10-23-ohio-occc-licensee-notice-sports-event-contracts",
+      "date": "2026-10-23",
+      "published": "2026-10-23T09:55:00Z",
+      "title": "Ohio Casino Control Commission letter tells gaming licensees and service providers to stop supporting sports event contract operators and confirm compliance by October 30, 2026",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-10-23-ohio-occc-licensee-notice-sports-event-contracts",
+      "issuing_body": "Ohio Casino Control Commission",
+      "source_url": "https://www.covers.com/industry/ohio-gives-gaming-licensees-oct-30-deadline-to-cut-sports-prediction-market-ties-oct-22-2026",
+      "source_label": "Covers (October 22, 2026), corroborated by Legal Sports Report (October 21, 2026) and a Holland and Knight client alert (October 21, 2026) - the Commission letter itself is not publicly posted",
+      "source_type": "coverage_reporting_filing",
+      "primary_source_status": "cited_by_coverage_not_retrieved",
+      "relevant_to": "sports gaming operators, prediction-market platforms, fantasy contest operators, gaming suppliers, integrity monitors, testing laboratories, futures commission merchants",
+      "tags": [
+        "Ohio",
+        "gaming",
+        "prediction markets",
+        "sports event contracts",
+        "suitability",
+        "service providers",
+        "compliance deadline"
+      ]
+    },
     {
       "id": "2026-10-22-treasury-information-returns-collection-1099-da",
       "date": "2026-10-22",

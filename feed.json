@@ -6,6 +6,52 @@
   "description": "Daily facts-only regulatory radar — crypto, gaming, payments & fintech. Verified against primary sources.",
   "items": [
     {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-10-23-sec-innovation-exemption-tokenized-venue-faqs",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-10-23-sec-innovation-exemption-tokenized-venue-faqs",
+      "title": "SEC staff publish Innovation Exemption FAQs setting a 30-day public notice requirement for tokenized NMS stock trading venues",
+      "content_text": "The SEC Division of Trading and Markets published a page dated October 20, 2026 titled Frequently Asked Questions on the Innovation Exemption. It addresses the conditional exemptive order at Securities Exchange Act Release No. 106402 (September 17, 2026), 91 FR 60168 (September 22, 2026), File No. 4-927, which grants relief from the Exchange Act Section 3(a)(1) definition of exchange for certain distributed ledger trading venues trading tokenized NMS stocks, and from the Section 3(a)(5) definition of dealer for certain liquidity providers in tokenized NMS stocks. The FAQs state that such a trading venue must post its Notice prominently on its public website at least 30 calendar days before it begins operating, and must amend the Notice afterward to keep its disclosures current. They state that a venue may list a tokenized NMS stock in its public Notice as pending once Issuer Notice has been given, but may not trade that stock until the 30-day objection period ends; that if a timely Notice of Issuer Objection is received the venue must say so in its Notice and may not trade that stock; and that if no timely objection is received the venue may make the stock available and must update its Notice. The FAQs also state that the Commission publishes a list of persons that have given written notice of intent to operate under the exemption. The page states that the FAQs represent the views of Staff, are not a rule, regulation, or statement of the Commission, and create no new or additional obligations for any person.\n\nPrimary source: SEC Division of Trading and Markets - Frequently Asked Questions on the Innovation Exemption (October 20, 2026) — https://www.sec.gov/rules-regulations/staff-guidance/trading-markets-frequently-asked-questions/frequently-asked-questions-innovation-exemption\n\nRelevant to: tokenized securities trading venues, broker-dealers, liquidity providers, exchanges, transfer agents\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-10-23T09:55:00Z",
+      "tags": [
+        "SEC",
+        "crypto",
+        "tokenization",
+        "tokenized securities",
+        "staff guidance",
+        "notice requirement"
+      ]
+    },
+    {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-10-23-nyoag-comment-letter-regulation-crypto-assets",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-10-23-nyoag-comment-letter-regulation-crypto-assets",
+      "title": "New York Attorney General files comment letter asking the SEC to withdraw proposed Regulation Crypto Assets in its entirety",
+      "content_text": "A comment letter dated October 20, 2026 from the New York State Office of the Attorney General, Investor Protection Bureau, signed by Attorney General Letitia James and addressed to SEC Secretary Vanessa A. Countryman, was filed in SEC File No. S7-2026-27 in response to the proposed Regulation Crypto Assets, 161 Fed. Reg. 54,510 (August 21, 2026). The letter states that the Commission should withdraw the Proposal in its entirety. It further asks that the proposed startup exemption require financial statements; that issuers be required to file disclosure information on EDGAR rather than only on a website; that individuals, groups and decentralized unincorporated nonprofit associations not be permitted to use the exemption; that lockups for insiders and holding-period restrictions for early venture capital investors be imposed; that any exemption should not in any way infringe on states rights to pursue issuers that fail to comply with state registration requirements; and that market surveillance mechanisms and self-regulatory oversight be added. The letter is submitted by the New York Attorney General office alone, with no co-signers listed. It is a comment submission in a pending rulemaking, not an enforcement action.\n\nPrimary source: SEC comment file S7-2026-27 - comment letter of the New York State Office of the Attorney General (October 20, 2026) — https://www.sec.gov/comments/S7-2026-27/s7202627-1103120-3882828.pdf\n\nRelevant to: token issuers, crypto exchanges and trading platforms, crypto fundraising counsel, state-registered intermediaries\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-10-23T09:55:00Z",
+      "tags": [
+        "NYOAG",
+        "SEC",
+        "crypto",
+        "Regulation Crypto Assets",
+        "comment letter",
+        "state authority"
+      ]
+    },
+    {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-10-23-ohio-occc-licensee-notice-sports-event-contracts",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-10-23-ohio-occc-licensee-notice-sports-event-contracts",
+      "title": "Ohio Casino Control Commission letter tells gaming licensees and service providers to stop supporting sports event contract operators and confirm compliance by October 30, 2026",
+      "content_text": "Reporting by Covers (October 22, 2026) and Legal Sports Report (October 21, 2026), and a Holland and Knight client alert (October 21, 2026), states that the Ohio Casino Control Commission issued a letter dated October 20, 2026, confirmed at the Commission meeting of October 21, 2026 and signed by interim executive director Andromeda Morrison, addressed to Ohio licensees and applicants including sports gaming proprietors, management and mobile management services providers, fantasy contest operators, suppliers, key employees of those entities, certified independent integrity monitors and certified independent testing laboratories. The reporting quotes the letter as stating that offering sports event contracts to persons located in Ohio constitutes sports gaming under Ohio law and may not be conducted without appropriate licensure from the commission; that the Commission is deeply concerned that some licensees continue to facilitate, support, or otherwise provide services to entities offering such contracts; and that maintaining suitability is a continuing obligation of licensure which reflects on the licensee character, integrity, honesty, and reputation. According to the reporting, recipients must immediately cease providing such support, with liquidity provision, market making, integrity monitoring, and equipment, data security and technology services named; must notify the Commission that they are in compliance by October 30, 2026; and must preserve records supporting their responses. The reporting states that licensees that also operate as futures commission merchants or introducing brokers remain compliant if they block Ohio customers from directly or indirectly accessing sports event contracts, and that non-compliance could prompt reopened suitability investigations and licence suspension or revocation. The letter itself is not posted on the Commission website and was not retrieved.\n\nCoverage (reporting filing): Covers (October 22, 2026), corroborated by Legal Sports Report (October 21, 2026) and a Holland and Knight client alert (October 21, 2026) - the Commission letter itself is not publicly posted — https://www.covers.com/industry/ohio-gives-gaming-licensees-oct-30-deadline-to-cut-sports-prediction-market-ties-oct-22-2026\n\nRelevant to: sports gaming operators, prediction-market platforms, fantasy contest operators, gaming suppliers, integrity monitors, testing laboratories, futures commission merchants\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-10-23T09:55:00Z",
+      "tags": [
+        "Ohio",
+        "gaming",
+        "prediction markets",
+        "sports event contracts",
+        "suitability",
+        "service providers",
+        "compliance deadline"
+      ]
+    },
+    {
       "id": "https://tg3online.github.io/regrisk-radar/#2026-10-22-treasury-information-returns-collection-1099-da",
       "url": "https://tg3online.github.io/regrisk-radar/#2026-10-22-treasury-information-returns-collection-1099-da",
       "title": "Treasury seeks comment on a revision to its US information returns collection, whose covered-form list includes Form 1099-DA for digital asset broker proceeds",
