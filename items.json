@@ -72,6 +72,51 @@
       "relevant_to": "sports gaming operators, prediction-market platforms, fantasy contest operators, gaming suppliers, integrity monitors, testing laboratories, futures commission merchants"
     },
     {
+      "id": "2026-10-23-sec-fy2027-examination-priorities-tokenization",
+      "date": "2026-10-23",
+      "published": "2026-10-23T00:00:00Z",
+      "issuing_body": "U.S. Securities and Exchange Commission, Division of Examinations",
+      "title": "SEC Division of Examinations publishes its fiscal year 2027 examination priorities, naming tokenization among the market-infrastructure focus areas",
+      "facts": "In press release 2026-109 dated October 23, 2026 the U.S. Securities and Exchange Commission announced that its Division of Examinations has released its examination priorities for fiscal year 2027, covering more than 34,000 registrants. Among the Division's focus areas the release lists risks arising from evolving market infrastructure, \"including Treasury clearing reforms, tokenization, and related developments.\" The release states that the priorities reflect examination observations, market developments, investor concerns and emerging trends, and that they are not an exhaustive list of what the Division will examine. It also states that the Division will work to make registrants' experience with examination observations more accessible and will strengthen its coordination with the Commission's policymaking divisions and with other regulators. The press release does not use the terms crypto asset, digital asset, stablecoin, payments or fintech, and states no deadline. The underlying priorities report was not retrieved, so these facts are drawn from the press release alone.",
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2026-109-sec-announces-fiscal-year-2027-examination-priorities",
+      "source_label": "SEC press release 2026-109 (Oct. 23, 2026)",
+      "tags": [
+        "crypto",
+        "tokenization",
+        "sec",
+        "examinations",
+        "fy2027",
+        "exam-priorities",
+        "federal-regulator"
+      ],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "registered investment advisers and broker-dealers with tokenized asset activity, transfer agents, trading venues, and compliance teams planning for fiscal 2027 examinations"
+    },
+    {
+      "id": "2026-10-23-occ-genius-act-stablecoin-final-rule-published-91-fr-67000",
+      "date": "2026-10-23",
+      "published": "2026-10-23T00:00:00Z",
+      "issuing_body": "Office of the Comptroller of the Currency",
+      "title": "OCC payment stablecoin final rule is published in the Federal Register at 91 FR 67000 and is effective January 18, 2027",
+      "facts": "The Office of the Comptroller of the Currency's final rule on payment stablecoin issuance by OCC-supervised entities was published in the Federal Register on October 23, 2026 as document 2026-21706, at 91 FR 67000 and running to page 67194, under RIN 1557-AF41 and docket number OCC-2025-0372. The published DATES section reads: \"The final rule is effective on January 18, 2027.\" The same October 23, 2026 edition of the Federal Register also carries the two associated OCC information-collection notices: document 2026-21705, on the weekly and quarterly reporting forms for permitted payment stablecoin issuers and foreign payment stablecoin issuers, and document 2026-21704, on the licensing or registration application forms to issue payment stablecoins under the GENIUS Act.",
+      "source_url": "https://www.federalregister.gov/documents/2026/10/23/2026-21706/payment-stablecoin-issuance-by-occ-supervised-entities",
+      "source_label": "Federal Register, OCC final rule, 91 FR 67000 (Oct. 23, 2026)",
+      "tags": [
+        "crypto",
+        "payments",
+        "stablecoin",
+        "genius-act",
+        "occ",
+        "final-rule",
+        "federal-register",
+        "effective-2027-01-18"
+      ],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prospective and permitted payment stablecoin issuers, national banks and federal branches, custodians and reserve managers, and payment processors integrating stablecoin settlement"
+    },
+    {
       "id": "2026-10-22-treasury-information-returns-collection-1099-da",
       "date": "2026-10-22",
       "published": "2026-10-22T21:40:00Z",

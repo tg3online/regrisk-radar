@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-23T09:59:39Z",
+  "generated": "2026-10-23T21:47:31Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 312,
+  "count": 314,
   "items": [
     {
       "id": "2026-10-23-sec-innovation-exemption-tokenized-venue-faqs",
@@ -65,6 +65,51 @@
         "suitability",
         "service providers",
         "compliance deadline"
+      ]
+    },
+    {
+      "id": "2026-10-23-sec-fy2027-examination-priorities-tokenization",
+      "date": "2026-10-23",
+      "published": "2026-10-23T00:00:00Z",
+      "title": "SEC Division of Examinations publishes its fiscal year 2027 examination priorities, naming tokenization among the market-infrastructure focus areas",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-10-23-sec-fy2027-examination-priorities-tokenization",
+      "issuing_body": "U.S. Securities and Exchange Commission, Division of Examinations",
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2026-109-sec-announces-fiscal-year-2027-examination-priorities",
+      "source_label": "SEC press release 2026-109 (Oct. 23, 2026)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "registered investment advisers and broker-dealers with tokenized asset activity, transfer agents, trading venues, and compliance teams planning for fiscal 2027 examinations",
+      "tags": [
+        "crypto",
+        "tokenization",
+        "sec",
+        "examinations",
+        "fy2027",
+        "exam-priorities",
+        "federal-regulator"
+      ]
+    },
+    {
+      "id": "2026-10-23-occ-genius-act-stablecoin-final-rule-published-91-fr-67000",
+      "date": "2026-10-23",
+      "published": "2026-10-23T00:00:00Z",
+      "title": "OCC payment stablecoin final rule is published in the Federal Register at 91 FR 67000 and is effective January 18, 2027",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-10-23-occ-genius-act-stablecoin-final-rule-published-91-fr-67000",
+      "issuing_body": "Office of the Comptroller of the Currency",
+      "source_url": "https://www.federalregister.gov/documents/2026/10/23/2026-21706/payment-stablecoin-issuance-by-occ-supervised-entities",
+      "source_label": "Federal Register, OCC final rule, 91 FR 67000 (Oct. 23, 2026)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prospective and permitted payment stablecoin issuers, national banks and federal branches, custodians and reserve managers, and payment processors integrating stablecoin settlement",
+      "tags": [
+        "crypto",
+        "payments",
+        "stablecoin",
+        "genius-act",
+        "occ",
+        "final-rule",
+        "federal-register",
+        "effective-2027-01-18"
       ]
     },
     {
