@@ -5,7 +5,24 @@
   <id>https://tg3online.github.io/regrisk-radar/</id>
   <link href="https://tg3online.github.io/regrisk-radar/" />
   <link href="https://tg3online.github.io/regrisk-radar/atom.xml" rel="self" type="application/atom+xml" />
-  <updated>2026-10-23T21:47:31Z</updated>
+  <updated>2026-10-24T09:52:35Z</updated>
+  <entry>
+    <title>California&#x27;s financial regulator is reported to have filed a comment letter opposing the SEC&#x27;s proposed Regulation Crypto Assets</title>
+    <id>https://tg3online.github.io/regrisk-radar/#2026-10-24-ca-dfpi-comment-sec-regulation-crypto-assets</id>
+    <link href="https://tg3online.github.io/regrisk-radar/#2026-10-24-ca-dfpi-comment-sec-regulation-crypto-assets" rel="alternate" />
+    <updated>2026-10-24T10:05:00Z</updated>
+    <published>2026-10-24T10:05:00Z</published>
+    <category term="California Department of Financial Protection and Innovation" />
+    <content type="text">Trade coverage published October 21, 2026 reports that the California Department of Financial Protection and Innovation filed a comment letter objecting to the Securities and Exchange Commission&#x27;s proposed Regulation Crypto Assets, which would exempt certain digital-asset offerings from securities registration. The coverage states that the department argues the exemptions could supersede state registration requirements and limit California&#x27;s ability to apply its own securities laws, and that the letter warns investors could lose protections against fraudulent or abusive offerings. The coverage does not state the letter&#x27;s filing date, gives no file number and quotes no passage of the letter. A law-firm regulatory tracker dated October 22, 2026 separately records the same event and dates it October 22, 2026. The proposal is SEC File No. S7-2026-27, RIN 3235-AN38, and its comment period closed October 20, 2026. The department&#x27;s own press release announcing the letter could not be retrieved, and no corresponding comment document was located on the SEC docket.
+
+Coverage (reporting filing): TokenPost (trade coverage) - DFPI press release and SEC docket entry not retrieved — https://www.tokenpost.com/news/regulation/37328
+
+Relevant to: token issuers, crypto exchanges, state-licensed digital-asset firms, securities counsel
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</content>
+  </entry>
   <entry>
     <title>SEC staff publish Innovation Exemption FAQs setting a 30-day public notice requirement for tokenized NMS stock trading venues</title>
     <id>https://tg3online.github.io/regrisk-radar/#2026-10-23-sec-innovation-exemption-tokenized-venue-faqs</id>

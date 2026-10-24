@@ -1,8 +1,31 @@
 {
-  "generated": "2026-10-23T21:47:31Z",
+  "generated": "2026-10-24T09:52:35Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 314,
+  "count": 315,
   "items": [
+    {
+      "id": "2026-10-24-ca-dfpi-comment-sec-regulation-crypto-assets",
+      "date": "2026-10-24",
+      "published": "2026-10-24T10:05:00Z",
+      "title": "California's financial regulator is reported to have filed a comment letter opposing the SEC's proposed Regulation Crypto Assets",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-10-24-ca-dfpi-comment-sec-regulation-crypto-assets",
+      "issuing_body": "California Department of Financial Protection and Innovation",
+      "source_url": "https://www.tokenpost.com/news/regulation/37328",
+      "source_label": "TokenPost (trade coverage) - DFPI press release and SEC docket entry not retrieved",
+      "source_type": "coverage_reporting_filing",
+      "primary_source_status": "cited_by_coverage_not_retrieved",
+      "relevant_to": "token issuers, crypto exchanges, state-licensed digital-asset firms, securities counsel",
+      "tags": [
+        "crypto",
+        "securities",
+        "rulemaking",
+        "comment-letter",
+        "state-regulators",
+        "preemption",
+        "sec",
+        "california"
+      ]
+    },
     {
       "id": "2026-10-23-sec-innovation-exemption-tokenized-venue-faqs",
       "date": "2026-10-23",
