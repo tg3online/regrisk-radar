@@ -1,8 +1,29 @@
 {
-  "generated": "2026-10-24T09:52:35Z",
+  "generated": "2026-10-26T10:00:09Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 315,
+  "count": 316,
   "items": [
+    {
+      "id": "2026-10-26-treasury-garnishment-federal-benefit-accounts-collection-renewal",
+      "date": "2026-10-26",
+      "published": "2026-10-26T09:58:00Z",
+      "title": "Treasury seeks comment on renewing the garnishment-notice collection for accounts holding federal benefit payments",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-10-26-treasury-garnishment-federal-benefit-accounts-collection-renewal",
+      "issuing_body": "U.S. Department of the Treasury (Departmental Offices)",
+      "source_url": "https://www.federalregister.gov/documents/2026/10/26/2026-21774/agency-information-collection-activities-proposed-collection-comment-request-notice-to-account",
+      "source_label": "Federal Register, Treasury Departmental Offices notice (OMB 1505-0230), 2026-10-26",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "banks and credit unions, payment processors, deposit-account operations and compliance teams",
+      "tags": [
+        "treasury",
+        "payments",
+        "deposit-accounts",
+        "garnishment",
+        "information-collection",
+        "comment-deadline"
+      ]
+    },
     {
       "id": "2026-10-24-ca-dfpi-comment-sec-regulation-crypto-assets",
       "date": "2026-10-24",

@@ -5,8 +5,24 @@
     <link>https://tg3online.github.io/regrisk-radar/</link>
     <description>Daily facts-only regulatory radar — crypto, gaming, payments &amp; fintech. Verified against primary sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Oct 2026 09:52:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 10:00:09 +0000</lastBuildDate>
     <atom:link href="https://tg3online.github.io/regrisk-radar/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Treasury seeks comment on renewing the garnishment-notice collection for accounts holding federal benefit payments</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-10-26-treasury-garnishment-federal-benefit-accounts-collection-renewal</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-10-26-treasury-garnishment-federal-benefit-accounts-collection-renewal</guid>
+      <pubDate>Mon, 26 Oct 2026 09:58:00 +0000</pubDate>
+      <category>U.S. Department of the Treasury (Departmental Offices)</category>
+      <description>On 2026-10-26 the Department of the Treasury&#x27;s Departmental Offices published a Federal Register notice requesting public comment on an extension of the currently approved information collection &quot;Notice to Account Holder for Garnishment of Accounts Containing Federal Benefit Payments,&quot; OMB control number 1505-0230. The collection covers the notice a financial institution must give an account holder under 31 CFR 212.6 when a garnishment order reaches an account receiving directly deposited federal benefit payments, stating that a protected amount has been established and that funds above it are subject to garnishment, and describing the order, the protected amount, any fee charged and the account holder&#x27;s rights. The burden estimate also covers garnishment recordkeeping under 31 CFR 212.11 and attaching a Notice of Right to Garnish Federal Benefits to certain child support orders. Comments are due on or before 2026-12-28.
+
+Primary source: Federal Register, Treasury Departmental Offices notice (OMB 1505-0230), 2026-10-26 — https://www.federalregister.gov/documents/2026/10/26/2026-21774/agency-information-collection-activities-proposed-collection-comment-request-notice-to-account
+
+Relevant to: banks and credit unions, payment processors, deposit-account operations and compliance teams
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
     <item>
       <title>California&#x27;s financial regulator is reported to have filed a comment letter opposing the SEC&#x27;s proposed Regulation Crypto Assets</title>
       <link>https://tg3online.github.io/regrisk-radar/#2026-10-24-ca-dfpi-comment-sec-regulation-crypto-assets</link>
