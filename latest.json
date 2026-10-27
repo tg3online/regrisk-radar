@@ -1,8 +1,31 @@
 {
-  "generated": "2026-10-27T09:56:16Z",
+  "generated": "2026-10-27T21:46:41Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 317,
+  "count": 318,
   "items": [
+    {
+      "id": "2026-10-27-cftc-us-v-utah-event-contracts-preemption",
+      "date": "2026-10-27",
+      "published": "2026-10-27T21:55:00Z",
+      "title": "CFTC and the United States sue the State of Utah and its Attorney General, seeking a declaration that Utah gambling, election, public nuisance and common law are preempted as applied to event contracts on CFTC-regulated markets",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-10-27-cftc-us-v-utah-event-contracts-preemption",
+      "issuing_body": "Commodity Futures Trading Commission",
+      "source_url": "https://www.cftc.gov/PressRoom/PressReleases/9315-26",
+      "source_label": "CFTC Press Release 9315-26 (cftc.gov), with the complaint linked from the same page",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction-market platforms, designated contract markets, state-licensed sportsbooks and gaming licensees",
+      "tags": [
+        "cftc",
+        "litigation",
+        "prediction-markets",
+        "event-contracts",
+        "preemption",
+        "commodity-exchange-act",
+        "state-gaming",
+        "utah"
+      ]
+    },
     {
       "id": "2026-10-27-ofac-amended-faqs-blocking-rejecting-reporting",
       "date": "2026-10-27",

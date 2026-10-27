@@ -8,6 +8,29 @@
   },
   "items": [
     {
+      "id": "2026-10-27-cftc-us-v-utah-event-contracts-preemption",
+      "date": "2026-10-27",
+      "published": "2026-10-27T21:55:00Z",
+      "issuing_body": "Commodity Futures Trading Commission",
+      "title": "CFTC and the United States sue the State of Utah and its Attorney General, seeking a declaration that Utah gambling, election, public nuisance and common law are preempted as applied to event contracts on CFTC-regulated markets",
+      "facts": "CFTC press release 9315-26, issued 27 October 2026, announces that the Commission has sued to stop the State of Utah from using state laws to shut down CFTC-registered contract markets. The complaint linked from the release is captioned United States of America and Commodity Futures Trading Commission v. State of Utah and Derek Brown, in his official capacity as Utah Attorney General, was filed on 26 October 2026 in the United States District Court for the District of Utah, Central Division, and carries case number 2:26-cv-01055. It pleads a single count under the Supremacy Clause, asserting that Utah gambling, election, public nuisance and common law are expressly, field and conflict preempted by the Commodity Exchange Act as applied to event contracts listed on CFTC-regulated designated contract markets. The plaintiffs request a declaratory judgment that the Utah laws at issue are preempted, unconstitutional and invalid as applied to transactions on CFTC-regulated designated contract markets; preliminary and permanent injunctions barring the defendants and their successors, agents and employees from investigating CFTC-regulated entities and their affiliates or partners for violating those laws, or from enforcing them, as so applied; an award of costs and fees; and any other relief the court deems just and proper. The release states that the Commission has initiated legal proceedings against nine other states and has filed briefs in four federal courts of appeals and one state supreme court.",
+      "source_url": "https://www.cftc.gov/PressRoom/PressReleases/9315-26",
+      "source_label": "CFTC Press Release 9315-26 (cftc.gov), with the complaint linked from the same page",
+      "tags": [
+        "cftc",
+        "litigation",
+        "prediction-markets",
+        "event-contracts",
+        "preemption",
+        "commodity-exchange-act",
+        "state-gaming",
+        "utah"
+      ],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction-market platforms, designated contract markets, state-licensed sportsbooks and gaming licensees"
+    },
+    {
       "id": "2026-10-27-ofac-amended-faqs-blocking-rejecting-reporting",
       "date": "2026-10-27",
       "published": "2026-10-27T09:50:00Z",
