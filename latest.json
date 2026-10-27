@@ -1,8 +1,30 @@
 {
-  "generated": "2026-10-26T10:00:09Z",
+  "generated": "2026-10-27T09:56:16Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 316,
+  "count": 317,
   "items": [
+    {
+      "id": "2026-10-27-ofac-amended-faqs-blocking-rejecting-reporting",
+      "date": "2026-10-27",
+      "published": "2026-10-27T09:50:00Z",
+      "title": "OFAC amends eleven frequently asked questions on blocking and rejecting transactions and on filing reports with OFAC",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-10-27-ofac-amended-faqs-blocking-rejecting-reporting",
+      "issuing_body": "Department of the Treasury, Office of Foreign Assets Control",
+      "source_url": "https://ofac.treasury.gov/recent-actions/20261026",
+      "source_label": "OFAC Recent Actions, 26 October 2026 - Issuance of Amended Frequently Asked Questions Regarding Blocking and Rejecting Transactions and Filing Reports with OFAC",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "banks, money services businesses, payment processors, sanctions and BSA/AML compliance teams",
+      "tags": [
+        "ofac",
+        "treasury",
+        "sanctions",
+        "blocked-property",
+        "rejected-transactions",
+        "reporting",
+        "faq-amendment"
+      ]
+    },
     {
       "id": "2026-10-26-treasury-garnishment-federal-benefit-accounts-collection-renewal",
       "date": "2026-10-26",

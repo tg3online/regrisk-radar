@@ -5,8 +5,24 @@
     <link>https://tg3online.github.io/regrisk-radar/</link>
     <description>Daily facts-only regulatory radar — crypto, gaming, payments &amp; fintech. Verified against primary sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Oct 2026 10:00:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 09:56:16 +0000</lastBuildDate>
     <atom:link href="https://tg3online.github.io/regrisk-radar/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OFAC amends eleven frequently asked questions on blocking and rejecting transactions and on filing reports with OFAC</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-10-27-ofac-amended-faqs-blocking-rejecting-reporting</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-10-27-ofac-amended-faqs-blocking-rejecting-reporting</guid>
+      <pubDate>Tue, 27 Oct 2026 09:50:00 +0000</pubDate>
+      <category>Department of the Treasury, Office of Foreign Assets Control</category>
+      <description>An OFAC recent-actions notice dated 26 October 2026 states that OFAC is amending several frequently asked questions as part of an ongoing review to keep published guidance current, and that the batch covers blocking and rejecting transactions and filing reports with OFAC. The notice enumerates the amended set as FAQs 10, 32, 33, 34, 35, 36, 41, 42, 49, 50 and 53. The amended FAQs restate existing practice. Blocked funds must be placed into an interest-bearing account from which only OFAC-authorised debits may be made, must earn interest at a commercially reasonable rate, and must be reported to OFAC within 10 business days. A transaction that is prohibited but in which no blockable interest exists is rejected and returned to the originator rather than blocked. Blocked and rejected transactions are reported through the OFAC Reporting System within 10 business days of the action, with supporting records such as payment instructions or invoices attached, and holders of blocked property also file annual reports, for which FAQ 50 records a 30 September deadline. A U.S. financial institution that receives an account application and initial deposit from a person on the Specially Designated Nationals List must decline to open the account and block the deposit. An organisation may notify its customer that it has blocked property and may identify the sanctions programme or regulations under which it did so. None of the eleven amended FAQs, and no part of the notice itself, refers to digital assets, virtual currency or any other crypto-asset activity.
+
+Primary source: OFAC Recent Actions, 26 October 2026 - Issuance of Amended Frequently Asked Questions Regarding Blocking and Rejecting Transactions and Filing Reports with OFAC — https://ofac.treasury.gov/recent-actions/20261026
+
+Relevant to: banks, money services businesses, payment processors, sanctions and BSA/AML compliance teams
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
     <item>
       <title>Treasury seeks comment on renewing the garnishment-notice collection for accounts holding federal benefit payments</title>
       <link>https://tg3online.github.io/regrisk-radar/#2026-10-26-treasury-garnishment-federal-benefit-accounts-collection-renewal</link>
