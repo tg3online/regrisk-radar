@@ -1,8 +1,53 @@
 {
-  "generated": "2026-10-28T09:55:39Z",
+  "generated": "2026-10-28T21:45:16Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 319,
+  "count": 321,
   "items": [
+    {
+      "id": "2026-10-28-ofac-dprk-it-worker-sanctions-cryptocurrency",
+      "date": "2026-10-28",
+      "published": "2026-10-28T21:45:00Z",
+      "title": "Treasury sanctions ten individuals and one entity over DPRK IT worker fraud, citing cryptocurrency conversions and laundering",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-10-28-ofac-dprk-it-worker-sanctions-cryptocurrency",
+      "issuing_body": "U.S. Department of the Treasury, Office of Foreign Assets Control",
+      "source_url": "https://home.treasury.gov/news/press-releases/sb0669",
+      "source_label": "U.S. Department of the Treasury press release sb0669, October 28, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "digital-asset exchanges, payment processors, banks, sanctions-screening and AML compliance teams",
+      "tags": [
+        "crypto",
+        "payments",
+        "sanctions",
+        "ofac",
+        "treasury",
+        "north-korea",
+        "aml",
+        "designations"
+      ]
+    },
+    {
+      "id": "2026-10-28-cftc-roundtable-24-7-trading-tokenization",
+      "date": "2026-10-28",
+      "published": "2026-10-28T21:45:00Z",
+      "title": "CFTC announces a December 15 roundtable on 24/7 trading, listing tokenization among the topics",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-10-28-cftc-roundtable-24-7-trading-tokenization",
+      "issuing_body": "Commodity Futures Trading Commission",
+      "source_url": "https://www.cftc.gov/PressRoom/PressReleases/9318-26",
+      "source_label": "CFTC Release Number 9318-26, October 28, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "derivatives exchanges and clearing organizations, event-contract and prediction-market platforms, tokenization and digital-asset market infrastructure teams",
+      "tags": [
+        "crypto",
+        "fintech",
+        "cftc",
+        "derivatives",
+        "tokenization",
+        "market-structure",
+        "roundtable"
+      ]
+    },
     {
       "id": "2026-10-28-ofac-amended-faqs-blocking-rejecting-reporting",
       "date": "2026-10-28",
