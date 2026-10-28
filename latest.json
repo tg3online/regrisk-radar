@@ -1,8 +1,28 @@
 {
-  "generated": "2026-10-27T21:46:41Z",
+  "generated": "2026-10-28T09:55:39Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 318,
+  "count": 319,
   "items": [
+    {
+      "id": "2026-10-28-ofac-amended-faqs-blocking-rejecting-reporting",
+      "date": "2026-10-28",
+      "published": "2026-10-28T10:05:00Z",
+      "title": "OFAC amends eleven FAQs on blocking and rejecting transactions and on filing reports",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-10-28-ofac-amended-faqs-blocking-rejecting-reporting",
+      "issuing_body": "Office of Foreign Assets Control, U.S. Department of the Treasury",
+      "source_url": "https://ofac.treasury.gov/recent-actions/20261026",
+      "source_label": "OFAC - Recent Actions, October 26, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "banks, money transmitters, payment processors, digital-asset exchanges",
+      "tags": [
+        "payments",
+        "sanctions",
+        "ofac",
+        "compliance",
+        "reporting"
+      ]
+    },
     {
       "id": "2026-10-27-cftc-us-v-utah-event-contracts-preemption",
       "date": "2026-10-27",

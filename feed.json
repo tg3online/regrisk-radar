@@ -6,6 +6,20 @@
   "description": "Daily facts-only regulatory radar — crypto, gaming, payments & fintech. Verified against primary sources.",
   "items": [
     {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-10-28-ofac-amended-faqs-blocking-rejecting-reporting",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-10-28-ofac-amended-faqs-blocking-rejecting-reporting",
+      "title": "OFAC amends eleven FAQs on blocking and rejecting transactions and on filing reports",
+      "content_text": "In a recent action dated October 26, 2026, the Office of Foreign Assets Control stated that it was amending several Frequently Asked Questions that day as part of its ongoing process of reviewing published guidance to keep the information current, and that the amended set covers the topics of blocking and rejecting transactions and filing reports with OFAC. The amended FAQs are numbered 10, 32, 33, 34, 35, 36, 41, 42, 49, 50 and 53. As they now read on OFAC's updated-FAQs page for October 26, 2026, they state among other things that a prohibited transaction in which no blockable interest exists must be rejected rather than forwarded; that blocking reports and reject reports are due within ten business days and are filed through the OFAC Reporting System, with reject reports filed under 31 CFR 501.604; that U.S. persons holding blocked property as of June 30 must file an annual report of blocked property by September 30 of the same year on form TD F 90-22.50; that blocked funds must earn interest at a commercially reasonable rate while normal service charges may generally be debited from blocked accounts; and that a customer inquiry about whether a transaction is permitted is distinguishable from a payment instruction, which must be blocked or rejected and reported. Of the eleven, only FAQ 32 touches digital assets, and it does so by referring readers to FAQ 646 for information on blocking digital currency. Neither page states a comment period or a compliance deadline, and neither page shows a redline or a prior version, so what changed in each FAQ is not stated.\n\nPrimary source: OFAC - Recent Actions, October 26, 2026 — https://ofac.treasury.gov/recent-actions/20261026\n\nRelevant to: banks, money transmitters, payment processors, digital-asset exchanges\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-10-28T10:05:00Z",
+      "tags": [
+        "payments",
+        "sanctions",
+        "ofac",
+        "compliance",
+        "reporting"
+      ]
+    },
+    {
       "id": "https://tg3online.github.io/regrisk-radar/#2026-10-27-cftc-us-v-utah-event-contracts-preemption",
       "url": "https://tg3online.github.io/regrisk-radar/#2026-10-27-cftc-us-v-utah-event-contracts-preemption",
       "title": "CFTC and the United States sue the State of Utah and its Attorney General, seeking a declaration that Utah gambling, election, public nuisance and common law are preempted as applied to event contracts on CFTC-regulated markets",
