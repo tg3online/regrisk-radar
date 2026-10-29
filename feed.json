@@ -6,6 +6,96 @@
   "description": "Daily facts-only regulatory radar — crypto, gaming, payments & fintech. Verified against primary sources.",
   "items": [
     {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-10-29-finra-binary-options-non-occ-cleared-options-rule-change",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-10-29-finra-binary-options-non-occ-cleared-options-rule-change",
+      "title": "FINRA rule change on binary options and options cleared outside OCC is operative on filing; comments due November 19, 2026",
+      "content_text": "Published in the Federal Register on October 29, 2026 as document 2026-22027 at 91 FR 68190, Release No. 34-106731, File No. SR-FINRA-2026-022, the Securities and Exchange Commission noticed a proposed rule change filed by the Financial Industry Regulatory Authority on October 22, 2026 and noticed on October 26, 2026. FINRA states that its options rules were drafted principally for options on securities or indexes cleared through the Options Clearing Corporation, and the filing amends FINRA Rules 2220, 2351, 2357, 2360 and 4210 to address binary options, options whose payout is based on a specified metric, and options issued or guaranteed by a registered clearing agency other than the Options Clearing Corporation. The filing defines a binary option as a cash-settled option with a fixed exercise settlement amount payable only if the settlement value at expiration satisfies the exercise price condition for the option type; provides that trading mechanics are governed by the rules of the listing exchange; adds a position limit provision at Rule 2360(b)(3)(D) using limits set by the listing exchange; and provides that large options position reporting aggregation follows the listing exchange's contract equivalency conventions. It replaces Options Clearing Corporation-specific references with a defined term for a clearing agency registered under Section 17A, consolidates the standardized equity option and standardized index option definitions into a single standardized option definition while excluding FLEX Options and OCC Cleared OTC Options, requires members to deliver the applicable clearing agency's options disclosure document to customers approved to trade that agency's options, and requires customers to acknowledge that document and agree in the account agreement to be bound by that clearing agency's rules. FINRA designated the filing non-controversial under Rule 19b-4(f)(6), it is effective on filing, and the Commission waived the 30-day operative delay. Comments are due November 19, 2026.\n\nPrimary source: Federal Register (govinfo.gov), 91 FR 68190, Release No. 34-106731, File No. SR-FINRA-2026-022 — https://www.govinfo.gov/content/pkg/FR-2026-10-29/html/2026-22027.htm\n\nRelevant to: broker-dealers, event-contract and prediction-market venues, options clearing members, compliance and supervision teams\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-10-29T09:55:00Z",
+      "tags": [
+        "fintech",
+        "binary-options",
+        "prediction-markets",
+        "event-contracts",
+        "sec",
+        "finra",
+        "clearing",
+        "position-limits",
+        "customer-disclosure",
+        "federal-register"
+      ]
+    },
+    {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-10-29-occ-genius-act-stablecoin-licensing-collection-correction",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-10-29-occ-genius-act-stablecoin-licensing-collection-correction",
+      "title": "OCC corrects the GENIUS Act effective date in its payment stablecoin licensing collection notice to January 18, 2027",
+      "content_text": "Published in the Federal Register on October 29, 2026 as document 2026-22036, the Office of the Comptroller of the Currency, a bureau of the Department of the Treasury, issued a correction to its notice of October 23, 2026, FR Doc. 2026-21704, published at page 66939. The correction states that the Description section of the October 23 notice contained a typographical error and that the date of the GENIUS Act's effective date is changed from January 18, 2026 to January 18, 2027. The underlying collection is a new information collection, OMB control number 1557-NEW, titled Applications for Licensing or Registration to Issue Payment Stablecoins Under the GENIUS Act, covering applications from entities seeking to issue payment stablecoins in the United States. The notice states that comments to the OCC are due November 23, 2026 and that written comments on the information collection should be submitted to the Office of Management and Budget within 30 days of publication of the notice.\n\nPrimary source: Federal Register (govinfo.gov), FR Doc. 2026-22036, OMB control number 1557-NEW — https://www.govinfo.gov/content/pkg/FR-2026-10-29/html/2026-22036.htm\n\nRelevant to: prospective payment stablecoin issuers, banks and trust companies, payments providers, licensing counsel\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-10-29T09:55:00Z",
+      "tags": [
+        "crypto",
+        "payments",
+        "stablecoins",
+        "genius-act",
+        "occ",
+        "licensing",
+        "information-collection",
+        "federal-register"
+      ]
+    },
+    {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-10-29-ofac-drcongo-rwanda-defence-ministry-financial-institution-designations",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-10-29-ofac-drcongo-rwanda-defence-ministry-financial-institution-designations",
+      "title": "OFAC designates Rwanda's Ministry of Defence and a Rwandan credit and savings society under E.O. 13413, citing weapons payments and tens of millions in transactions for armed groups",
+      "content_text": "In a Sanctions List Update dated October 28, 2026 titled North Korea Designations; Democratic Republic of the Congo-related Designations, the Office of Foreign Assets Control added two entities to the Specially Designated Nationals List under the DRCONGO program: the Ministry of Defence of the Republic of Rwanda and a Rwandan credit and savings society. In Treasury press release sb0668 of October 28, 2026, Treasury states that both were designated under Executive Order 13413, as amended; that the Rwandan Ministry of Defence is the umbrella organization for Rwanda's security services and directs the Rwanda Defence Force, which has deployed troops in the North Kivu and South Kivu provinces of the Democratic Republic of the Congo to operate alongside M23 and supply it with equipment, logistics and training; and that the designated institution is a Rwandan financial institution that has facilitated payments for Rwanda Defence Force weapons, ammunition, military equipment, travel and training, including payments to entities in China and additional countries for weapons, that one of its branches enabled transport of gold from M23-controlled territory to Kigali, and that it facilitated financial transactions for M23 and the Congo River Alliance amounting to tens of millions of dollars. The same October 28 action added ten individuals and one entity under the DPRK2 and DPRK3 programs, and the Specially Designated Nationals listing carries Digital Currency Address entries in Ethereum and Tron for three of those individuals and for none of the DRCONGO entities. Neither page states a wind-down period, a general license or a compliance deadline for this action.\n\nPrimary source: U.S. Department of the Treasury press release sb0668 (with OFAC recent action 20261028) — https://home.treasury.gov/news/press-releases/sb0668\n\nRelevant to: banks and correspondent banks, money transmitters, payment processors, sanctions screening and compliance teams\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-10-29T09:55:00Z",
+      "tags": [
+        "payments",
+        "sanctions",
+        "ofac",
+        "sdn",
+        "financial-institution",
+        "drcongo",
+        "eo-13413",
+        "screening"
+      ]
+    },
+    {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-10-29-multistate-consent-order-crypto-kiosk-operator-bsa-aml",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-10-29-multistate-consent-order-crypto-kiosk-operator-bsa-aml",
+      "title": "Thirty-four state financial regulators order a crypto money transmitter to end all virtual currency kiosk operations by January 1, 2027 in a $2.5 million BSA/AML consent order",
+      "content_text": "A multistate Settlement Agreement and Consent Order with a cryptocurrency money transmitter and virtual currency kiosk operator, with an Effective Date of October 7, 2026 and listing 34 participating jurisdictions in Appendix A, resolves a Multi-State Examination conducted by nine state agencies covering the period March 31, 2023 through March 31, 2025. The Report of Examination found serious deficiencies in the company's compliance with applicable laws, the principal finding being that it did not maintain an effective Bank Secrecy Act and anti-money laundering program for its virtual currency kiosk business, with weaknesses identified in transaction monitoring, know-your-customer procedures, suspicious activity reporting, enhanced due diligence and recordkeeping, together with insufficient responses to violations raised in prior examinations. The company neither admits nor denies the allegations or any violations. The order imposes an administrative penalty of $2,200,000 allocated among the participating states and administrative costs of $300,000 payable to seven states, both due within 90 days of receipt of payment instructions, and an Additional Penalty of $4,000,000 due within 20 days that applies only if the company does not cease Virtual Currency Kiosk Operations in all participating states by January 1, 2027. Operations may not restart in a state without that state's written permission, NMLS business activities must be updated within five business days of ceasing operations in a state, and the states' Executive Committee must be notified on or before January 1, 2027. The order also requires engagement of an Independent Consultant within 60 days of the Effective Date to serve for two years and evaluate the BSA/AML program, an Assessment Report within six months of engagement, a Corrective Action Plan within 90 days of that report to be completed within 12 months absent an extension, a Validation Report within 30 days of notice that the plan is complete, quarterly progress reports within 10 days after each calendar quarter, a supplemental Report of Examination response within 120 days, a compliance management system within six months, an operational manager list within 45 days, and proof of licensing within 90 days with minimum licensing requirements maintained continuously. The states' release of civil and administrative claims covers conduct between January 1, 2020 and the Effective Date and takes effect once the penalty and costs are fully paid. On October 28, 2026 the Governor of Kentucky announced that Kentucky had joined the settlement.\n\nPrimary source: Multistate Settlement Agreement and Consent Order, hosted by the Oregon Division of Financial Regulation — https://dfr.oregon.gov/AdminOrders/Final%20Agreement%20with%20redactions.pdf\n\nRelevant to: money transmitters, crypto kiosk and ATM operators, state-licensed crypto businesses, BSA/AML compliance officers\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-10-29T09:55:00Z",
+      "tags": [
+        "crypto",
+        "payments",
+        "money-transmission",
+        "bsa-aml",
+        "state-regulators",
+        "multistate",
+        "consent-order",
+        "enforcement",
+        "crypto-kiosks",
+        "licensing",
+        "nmls"
+      ]
+    },
+    {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-10-29-cftc-dco-collection-extension-tokenized-collateral-declined",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-10-29-cftc-dco-collection-extension-tokenized-collateral-declined",
+      "title": "CFTC raises its registered clearing organization estimate from 13 to 24 in a collection extension and declines a tokenized collateral request",
+      "content_text": "Published in the Federal Register on October 29, 2026 at 91 FR 68117 through 68118 and dated October 27, 2026, the Commodity Futures Trading Commission gave notice that it has submitted to the Office of Information and Regulatory Affairs a request to extend OMB Control No. 3038-0076, Requirements for Derivatives Clearing Organizations, a currently approved collection. The collection covers reporting and recordkeeping requirements for registered derivatives clearing organizations under Commission Regulations 39.10 through 39.27 implementing Section 5b of the Commodity Exchange Act, registration applications under Regulation 39.3 and Form DCO, requirements for systemically important derivatives clearing organizations under Subpart C, and requirements for derivatives clearing organizations operating under alternative compliance under Subpart D. The notice states that the Commission increased its estimates to 24 registered derivatives clearing organizations, from 13, and 10 pending applicants, from 1, with an estimated total burden of 98,886 hours across 109 respondents and $821,470 in capital and operating costs. The notice records that a commenter requested new recordkeeping and risk-analysis requirements addressing tokenized collateral, citing CFTC Staff Letter 25-39 of December 8, 2025, and that the Commission declined to change the collection on that basis, stating that the staff guidance does not create additional rights or requirements. The DATES section states that comments are due on or before November 30, 2026, while the ADDRESSES section refers to submitting comments within 30 days of publication.\n\nPrimary source: Federal Register (govinfo.gov), 91 FR 68117, OMB Control No. 3038-0076 — https://www.govinfo.gov/content/pkg/FR-2026-10-29/html/2026-22076.htm\n\nRelevant to: derivatives clearing organizations and applicants, event-contract and crypto derivatives venues, clearing members\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-10-29T09:55:00Z",
+      "tags": [
+        "fintech",
+        "crypto",
+        "cftc",
+        "clearing",
+        "dco",
+        "tokenized-collateral",
+        "information-collection",
+        "federal-register"
+      ]
+    },
+    {
       "id": "https://tg3online.github.io/regrisk-radar/#2026-10-28-ofac-dprk-it-worker-sanctions-cryptocurrency",
       "url": "https://tg3online.github.io/regrisk-radar/#2026-10-28-ofac-dprk-it-worker-sanctions-cryptocurrency",
       "title": "Treasury sanctions ten individuals and one entity over DPRK IT worker fraud, citing cryptocurrency conversions and laundering",
