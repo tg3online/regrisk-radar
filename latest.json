@@ -1,8 +1,137 @@
 {
-  "generated": "2026-10-29T09:56:40Z",
+  "generated": "2026-11-02T10:55:48Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 326,
+  "count": 332,
   "items": [
+    {
+      "id": "2026-11-02-eighth-circuit-vacates-federal-reserve-debit-interchange-cap",
+      "date": "2026-11-02",
+      "published": "2026-11-02T10:55:00Z",
+      "title": "Eighth Circuit affirms vacatur of the Federal Reserve's 21-cent debit interchange fee cap and remands Regulation II to the Board",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-02-eighth-circuit-vacates-federal-reserve-debit-interchange-cap",
+      "issuing_body": "U.S. Court of Appeals for the Eighth Circuit",
+      "source_url": "https://ecf.ca8.uscourts.gov/opndir/26/10/253000P.pdf",
+      "source_label": "Opinion, No. 25-3000 (8th Cir., filed October 26, 2026), U.S. Court of Appeals for the Eighth Circuit opinions directory",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "card issuers, acquirers, payment processors, merchants and payment-facilitation platforms",
+      "tags": [
+        "payments",
+        "debit-interchange",
+        "regulation-ii",
+        "durbin-amendment",
+        "federal-reserve",
+        "litigation"
+      ]
+    },
+    {
+      "id": "2026-11-02-fincen-alert-foreign-agent-directed-transactions",
+      "date": "2026-11-02",
+      "published": "2026-11-02T10:55:00Z",
+      "title": "FinCEN issues alert FIN-2026-Alert009 on foreign-agent-directed transactions through U.S. money services businesses, citing more than 8 billion dollars in suspicious payments",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-02-fincen-alert-foreign-agent-directed-transactions",
+      "issuing_body": "FinCEN",
+      "source_url": "https://www.fincen.gov/system/files/2026-10/FinCEN-Alert-Foreign-Agent-Directed-Transactions.pdf",
+      "source_label": "FinCEN Alert FIN-2026-Alert009, October 30, 2026 (fincen.gov)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "money services businesses, money transmitters, banks serving MSBs, cross-border payment providers",
+      "tags": [
+        "payments",
+        "bsa-aml",
+        "msb",
+        "money-transmission",
+        "sar",
+        "cross-border"
+      ]
+    },
+    {
+      "id": "2026-11-02-ftc-eight-states-sue-restaurant-pos-payments-provider",
+      "date": "2026-11-02",
+      "published": "2026-11-02T10:55:00Z",
+      "title": "FTC and eight state enforcers sue a restaurant point-of-sale and payment-processing provider over undisclosed fees, unauthorized add-ons and cancellation practices",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-02-ftc-eight-states-sue-restaurant-pos-payments-provider",
+      "issuing_body": "FTC",
+      "source_url": "https://www.ftc.gov/news-events/news/press-releases/2026/10/ftc-states-take-action-against-toast-inc-over-hidden-unauthorized-fees-deceptive-subscription",
+      "source_label": "FTC press release, October 29, 2026 (ftc.gov)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "point-of-sale and merchant-services providers, payment processors, subscription billing and embedded-lending platforms",
+      "tags": [
+        "payments",
+        "pos",
+        "merchant-acquiring",
+        "rosca",
+        "negative-option",
+        "embedded-lending",
+        "ftc-act",
+        "state-ag",
+        "litigation"
+      ]
+    },
+    {
+      "id": "2026-11-02-sec-charges-two-entities-crypto-wealth-sharing-scheme",
+      "date": "2026-11-02",
+      "published": "2026-11-02T10:55:00Z",
+      "title": "SEC charges two entities over a 130 million dollar crypto wealth-sharing scheme that allegedly used false Form ADV and Form D filings as proof of registration",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-02-sec-charges-two-entities-crypto-wealth-sharing-scheme",
+      "issuing_body": "SEC",
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2026-110-two-entities-charged-130-million-fraud-scheme-used-false-sec-filings-boost-investor-confidence",
+      "source_label": "SEC press release 2026-110, October 29, 2026 (sec.gov)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "crypto trading platforms, investment advisers, retail-facing digital-asset marketers",
+      "tags": [
+        "crypto",
+        "enforcement",
+        "fraud",
+        "investment-adviser",
+        "form-adv",
+        "form-d",
+        "retail-investors"
+      ]
+    },
+    {
+      "id": "2026-11-02-nyse-american-binary-return-derivatives-rule-change",
+      "date": "2026-11-02",
+      "published": "2026-11-02T10:55:00Z",
+      "title": "SR-NYSEAMER-2026-96 modifies NYSE American binary return derivatives rules, effective on filing with the 30-day operative delay waived and comments due November 30, 2026",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-02-nyse-american-binary-return-derivatives-rule-change",
+      "issuing_body": "SEC",
+      "source_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-30/html/2026-22132.htm",
+      "source_label": "91 FR 68563, Federal Register document 2026-22132, October 30, 2026 (govinfo.gov)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "binary-options and event-contract venues, options market makers, prediction-market platforms",
+      "tags": [
+        "binary-options",
+        "byrds",
+        "event-contracts",
+        "listing-standards",
+        "sro-rule-filing",
+        "market-structure"
+      ]
+    },
+    {
+      "id": "2026-11-02-fincen-notice-charities-nonprofit-illicit-activity",
+      "date": "2026-11-02",
+      "published": "2026-11-02T10:55:00Z",
+      "title": "FinCEN issues notice FIN-2026-NTC2 on the use of charities and non-profit organizations for illicit activity",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-02-fincen-notice-charities-nonprofit-illicit-activity",
+      "issuing_body": "FinCEN",
+      "source_url": "https://www.fincen.gov/system/files/2026-10/FinCEN-Notice-Illicit-Activity-Charities-Non-Profit-Org.pdf",
+      "source_label": "FinCEN Notice FIN-2026-NTC2, October 30, 2026 (fincen.gov)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "banks, money services businesses and payment processors with non-profit customers",
+      "tags": [
+        "payments",
+        "bsa-aml",
+        "sar",
+        "charities",
+        "non-profit"
+      ]
+    },
     {
       "id": "2026-10-29-finra-binary-options-non-occ-cleared-options-rule-change",
       "date": "2026-10-29",
