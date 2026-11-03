@@ -1,8 +1,71 @@
 {
-  "generated": "2026-11-02T10:55:48Z",
+  "generated": "2026-11-03T10:56:02Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 332,
+  "count": 335,
   "items": [
+    {
+      "id": "2026-11-03-sec-txse-commodity-based-trust-shares-generic-listing-standards",
+      "date": "2026-11-03",
+      "published": "2026-11-03T11:40:00Z",
+      "title": "SEC grants accelerated approval to Texas Stock Exchange generic listing standards for Commodity-Based Trust Shares; comments due November 24, 2026",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-03-sec-txse-commodity-based-trust-shares-generic-listing-standards",
+      "issuing_body": "U.S. Securities and Exchange Commission",
+      "source_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-03/html/2026-22377.htm",
+      "source_label": "Federal Register, 2026-11-03 (document 2026-22377), via govinfo.gov",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "exchanges, crypto ETP sponsors, broker-dealers, asset managers",
+      "tags": [
+        "crypto",
+        "listing-standards",
+        "crypto-etp",
+        "sec",
+        "sro-rule-change",
+        "comment-deadline"
+      ]
+    },
+    {
+      "id": "2026-11-03-sec-nysearca-bitwise-10-crypto-index-etf-generic-listing-standards",
+      "date": "2026-11-03",
+      "published": "2026-11-03T11:40:00Z",
+      "title": "NYSE Arca rule change moving the Bitwise 10 Crypto Index ETF to amended generic listing standards takes effect on filing; comments due November 24, 2026",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-03-sec-nysearca-bitwise-10-crypto-index-etf-generic-listing-standards",
+      "issuing_body": "U.S. Securities and Exchange Commission",
+      "source_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-03/html/2026-22374.htm",
+      "source_label": "Federal Register, 2026-11-03 (document 2026-22374), via govinfo.gov",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "exchanges, crypto ETP sponsors, asset managers, market makers",
+      "tags": [
+        "crypto",
+        "listing-standards",
+        "crypto-etp",
+        "sec",
+        "sro-rule-change",
+        "effective-on-filing",
+        "comment-deadline"
+      ]
+    },
+    {
+      "id": "2026-11-03-new-jersey-coinbase-staking-order-rescinded",
+      "date": "2026-11-03",
+      "published": "2026-11-03T11:40:00Z",
+      "title": "Trade outlets report New Jersey rescinded its 2023 Coinbase staking cease-and-desist order and withdrew the 5 million dollar penalty, without prejudice",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-03-new-jersey-coinbase-staking-order-rescinded",
+      "issuing_body": "New Jersey Bureau of Securities (as reported)",
+      "source_url": "https://thedefiant.io/news/regulation/new-jersey-rescinds-coinbase-staking-order-clearing-path-for-restart",
+      "source_label": "The Defiant, 2026-11-02 (corroborated by FinanceFeeds, 2026-11-03)",
+      "source_type": "media_coverage",
+      "primary_source_status": "unavailable",
+      "relevant_to": "exchanges, staking service providers, custodians, state-licensed crypto operators",
+      "tags": [
+        "crypto",
+        "staking",
+        "state-securities-enforcement",
+        "new-jersey",
+        "order-rescinded"
+      ]
+    },
     {
       "id": "2026-11-02-eighth-circuit-vacates-federal-reserve-debit-interchange-cap",
       "date": "2026-11-02",

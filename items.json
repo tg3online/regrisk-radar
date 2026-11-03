@@ -8,6 +8,69 @@
   },
   "items": [
     {
+      "id": "2026-11-03-sec-txse-commodity-based-trust-shares-generic-listing-standards",
+      "date": "2026-11-03",
+      "published": "2026-11-03T11:40:00Z",
+      "issuing_body": "U.S. Securities and Exchange Commission",
+      "title": "SEC grants accelerated approval to Texas Stock Exchange generic listing standards for Commodity-Based Trust Shares; comments due November 24, 2026",
+      "facts": "On November 3, 2026 the SEC published notice of filing and an order granting accelerated approval of SR-TXSE-2026-041, filed by Texas Stock Exchange LLC on October 16, 2026. The rule change amends Exchange Rule 17.111(d) to add generic listing standards for Commodity-Based Trust Shares, allowing the Exchange to list and trade such shares pursuant to Rule 19b-4(e) without a separate Section 19(b) filing for each product. The standards permit up to 15 percent of a trust's net asset value to consist of certain digital commodities and securities that do not independently meet the generic criteria, permit actively managed Commodity-Based Trust Shares, and add disclosure, liquidity, trading halt, information-barrier and surveillance requirements. The Commission found good cause under Section 19(b)(2) of the Exchange Act to approve the proposal before the thirtieth day after publication, stating that it conforms to standards previously approved for other exchanges and is consistent with Section 6(b)(5). Comments should be submitted on or before November 24, 2026.",
+      "source_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-03/html/2026-22377.htm",
+      "source_label": "Federal Register, 2026-11-03 (document 2026-22377), via govinfo.gov",
+      "tags": [
+        "crypto",
+        "listing-standards",
+        "crypto-etp",
+        "sec",
+        "sro-rule-change",
+        "comment-deadline"
+      ],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "exchanges, crypto ETP sponsors, broker-dealers, asset managers"
+    },
+    {
+      "id": "2026-11-03-sec-nysearca-bitwise-10-crypto-index-etf-generic-listing-standards",
+      "date": "2026-11-03",
+      "published": "2026-11-03T11:40:00Z",
+      "issuing_body": "U.S. Securities and Exchange Commission",
+      "title": "NYSE Arca rule change moving the Bitwise 10 Crypto Index ETF to amended generic listing standards takes effect on filing; comments due November 24, 2026",
+      "facts": "On November 3, 2026 the SEC published notice of SR-NYSEARCA-2026-106, Release No. 34-106772, filed by NYSE Arca on October 21, 2026 under Section 19(b)(3)(A)(iii) of the Securities Exchange Act and Rule 19b-4(f)(6) and therefore effective upon filing. The rule change moves the listing of the Bitwise 10 Crypto Index ETF from Rule 8.500-E, governing Trust Units, under which the shares were originally approved on July 22, 2025, to the generic listing standards of Rule 8.201-E as amended on July 28, 2026. The amended Rule 8.201-E permits up to 15 percent of a trust's net asset value to consist of digital commodities or securities that do not independently meet the core generic criteria, adds a definition of digital commodity, and permits actively managed Commodity-Based Trust Shares. The Exchange represents that the shares will satisfy Rule 8.201-E on both an initial and a continued listing basis and that it will comply with Rule 19b-4(e). The notice states that comments should be submitted on or before November 24, 2026 and that the Commission may temporarily suspend the change within 60 days of the filing date.",
+      "source_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-03/html/2026-22374.htm",
+      "source_label": "Federal Register, 2026-11-03 (document 2026-22374), via govinfo.gov",
+      "tags": [
+        "crypto",
+        "listing-standards",
+        "crypto-etp",
+        "sec",
+        "sro-rule-change",
+        "effective-on-filing",
+        "comment-deadline"
+      ],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "exchanges, crypto ETP sponsors, asset managers, market makers"
+    },
+    {
+      "id": "2026-11-03-new-jersey-coinbase-staking-order-rescinded",
+      "date": "2026-11-03",
+      "published": "2026-11-03T11:40:00Z",
+      "issuing_body": "New Jersey Bureau of Securities (as reported)",
+      "title": "Trade outlets report New Jersey rescinded its 2023 Coinbase staking cease-and-desist order and withdrew the 5 million dollar penalty, without prejudice",
+      "facts": "Two independent trade outlets reported on November 2 and November 3, 2026 that New Jersey rescinded its June 2023 cease-and-desist order against Coinbase's staking products, together with the associated 5 million dollar civil penalty, in a rescission dated October 30, 2026 that was disclosed publicly on November 2, 2026. Both reports state that the withdrawal was made without prejudice and carried no ruling on the underlying allegation that the staking products were unregistered securities under New Jersey law, leaving the State able to bring future proceedings. One of the two reports attributes the action to the New Jersey Bureau of Securities and states that it does not cite an official New Jersey order; the other attributes the action to the State without naming the agency. No order, notice or filing on a New Jersey state surface was retrieved: both Bureau of Securities routes returned errors when checked on November 3, 2026.",
+      "source_url": "https://thedefiant.io/news/regulation/new-jersey-rescinds-coinbase-staking-order-clearing-path-for-restart",
+      "source_label": "The Defiant, 2026-11-02 (corroborated by FinanceFeeds, 2026-11-03)",
+      "tags": [
+        "crypto",
+        "staking",
+        "state-securities-enforcement",
+        "new-jersey",
+        "order-rescinded"
+      ],
+      "source_type": "media_coverage",
+      "primary_source_status": "unavailable",
+      "relevant_to": "exchanges, staking service providers, custodians, state-licensed crypto operators"
+    },
+    {
       "id": "2026-11-02-eighth-circuit-vacates-federal-reserve-debit-interchange-cap",
       "date": "2026-11-02",
       "published": "2026-11-02T10:55:00Z",
