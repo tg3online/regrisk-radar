@@ -5,7 +5,7 @@
   <id>https://tg3online.github.io/regrisk-radar/</id>
   <link href="https://tg3online.github.io/regrisk-radar/" />
   <link href="https://tg3online.github.io/regrisk-radar/atom.xml" rel="self" type="application/atom+xml" />
-  <updated>2026-11-03T10:56:02Z</updated>
+  <updated>2026-11-03T22:47:17Z</updated>
   <entry>
     <title>SEC grants accelerated approval to Texas Stock Exchange generic listing standards for Commodity-Based Trust Shares; comments due November 24, 2026</title>
     <id>https://tg3online.github.io/regrisk-radar/#2026-11-03-sec-txse-commodity-based-trust-shares-generic-listing-standards</id>
@@ -52,6 +52,23 @@ RegRisk Radar is regulatory-risk intelligence provided for general informational
 Coverage: The Defiant, 2026-11-02 (corroborated by FinanceFeeds, 2026-11-03) — https://thedefiant.io/news/regulation/new-jersey-rescinds-coinbase-staking-order-clearing-path-for-restart
 
 Relevant to: exchanges, staking service providers, custodians, state-licensed crypto operators
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</content>
+  </entry>
+  <entry>
+    <title>CFTC says perpetual futures on individual equity securities may begin trading on CFTC-registered exchanges, deemed approved under Regulation 40.3</title>
+    <id>https://tg3online.github.io/regrisk-radar/#2026-11-03-cftc-equity-perpetual-futures</id>
+    <link href="https://tg3online.github.io/regrisk-radar/#2026-11-03-cftc-equity-perpetual-futures" rel="alternate" />
+    <updated>2026-11-03T00:00:00Z</updated>
+    <published>2026-11-03T00:00:00Z</published>
+    <category term="Commodity Futures Trading Commission" />
+    <content type="text">The CFTC published Release 9319-26 on 2026-11-03 carrying a statement by Chairman Michael S. Selig that perpetual futures contracts on individual equity securities can begin trading for the first time on CFTC-registered exchanges, specifically designated contract markets that are dually registered with the SEC as notice-registered national securities exchanges to trade security futures products. The statement says the contracts were deemed approved by the Commission under Regulation 40.3 as security futures products under the Commodity Futures Modernization Act of 2000, that they would operate within the protections of the CFTC&#x27;s regulatory framework, and that the step builds on the Commission&#x27;s earlier approval of a bitcoin perpetual futures contract and on a March 2026 memorandum of understanding between the CFTC and the SEC. Neither the release nor the linked statement names any specific exchange or contract.
+
+Primary source: CFTC Release 9319-26, cftc.gov — https://www.cftc.gov/PressRoom/PressReleases/9319-26
+
+Relevant to: crypto exchanges, designated contract markets, futures commission merchants, retail brokerages
 
 For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
 
@@ -154,6 +171,40 @@ RegRisk Radar is regulatory-risk intelligence provided for general informational
 Primary source: FinCEN Notice FIN-2026-NTC2, October 30, 2026 (fincen.gov) — https://www.fincen.gov/system/files/2026-10/FinCEN-Notice-Illicit-Activity-Charities-Non-Profit-Org.pdf
 
 Relevant to: banks, money services businesses and payment processors with non-profit customers
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</content>
+  </entry>
+  <entry>
+    <title>FTC and the State of Washington announce action against payment processor Riverside Payments, with a 32,083,921 dollar judgment suspended on payment of 600,000 dollars</title>
+    <id>https://tg3online.github.io/regrisk-radar/#2026-11-02-ftc-washington-riverside-payments</id>
+    <link href="https://tg3online.github.io/regrisk-radar/#2026-11-02-ftc-washington-riverside-payments" rel="alternate" />
+    <updated>2026-11-02T00:00:00Z</updated>
+    <published>2026-11-02T00:00:00Z</published>
+    <category term="Federal Trade Commission" />
+    <content type="text">The FTC announced on 2026-11-02 that it and the State of Washington took action in the U.S. District Court for the Western District of Washington against Riverside Payments Inc., its affiliate Cascade Equipment Leasing LLC, and operators Brandon Skinner and Jason Reese, alleging violations of the FTC Act and of the Gramm-Leach-Bliley Act prohibition on obtaining consumers&#x27; financial information by using false or fraudulent statements. The FTC alleges the defendants falsely promised to save small businesses money on payment-processing services, imposed undisclosed fees and auto-renewing contracts, made misleading risk-free cancellation claims, made it extremely difficult for small businesses to cancel, and made unsubstantiated sales-agent earnings claims. The announced order imposes a 32,083,921 dollar judgment against Riverside, Skinner, Reese and Cascade that is suspended after a 600,000 dollar payment because of inability to pay, with the full amount due if they are found to have lied about their finances; requires a 60-day waiver of early termination fees or penalties for merchants rescinding processing agreements; prohibits misrepresenting costs, savings, cancellation conditions and negative option features; and requires disclosure of material terms before billing information is obtained, express informed consent for negative option billing, and a simple cancellation method. The release does not state a case number or filing date.
+
+Primary source: FTC press release, ftc.gov — https://www.ftc.gov/news-events/news/press-releases/2026/11/ftc-washington-take-action-against-payment-processor-deceiving-small-businesses-about-costs
+
+Relevant to: payment processors, ISOs and merchant acquirers, subscription and negative-option billing operators
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</content>
+  </entry>
+  <entry>
+    <title>Reported: Northern District of Illinois enjoins Illinois from enforcing four gambling and sports-wagering provisions against event contracts traded on CFTC-regulated venues, and Illinois appeals to the Seventh Circuit</title>
+    <id>https://tg3online.github.io/regrisk-radar/#2026-10-30-ndill-prediction-markets-preliminary-injunction</id>
+    <link href="https://tg3online.github.io/regrisk-radar/#2026-10-30-ndill-prediction-markets-preliminary-injunction" rel="alternate" />
+    <updated>2026-10-30T00:00:00Z</updated>
+    <published>2026-10-30T00:00:00Z</published>
+    <category term="U.S. District Court for the Northern District of Illinois" />
+    <content type="text">As reported by RG.org on 2026-11-02 and independently by Gambling.com on 2026-11-03, Judge Martha Pacold of the U.S. District Court for the Northern District of Illinois entered a preliminary injunction on 2026-10-30 in consolidated cases brought by Coinbase Financial Markets, KalshiEX and the United States against Illinois Attorney General Kwame Raoul and members and the administrator of the Illinois Gaming Board. Both outlets report that the order bars the defendants and their agents from enforcing Article 25 of the Illinois Sports Wagering Act, 720 ILCS 5/28-1(a), Section 18(a)(1) of the Illinois Gambling Act and Illinois Gaming Board rule 11 Ill. Admin. Code 1900.1210(a) as related to the trading of swaps, including sports event contracts, listed on or available through CFTC-regulated designated contract markets and futures commission merchants, and that the bar covers licensing requirements, associated fees, taxes and related criminal provisions as well as civil enforcement, subpoenas and other compulsory investigative process. Both report that the injunction followed an October 2026 memorandum opinion finding the plaintiffs likely to succeed on their claim that federal commodities law preempts the Illinois provisions as applied to swaps, and that the state defendants filed a notice of appeal to the U.S. Court of Appeals for the Seventh Circuit. RG.org further reports that the parties must file a joint status report proposing next steps by 2026-11-12. The court&#x27;s order itself was not retrieved: both outlets cite CourtListener docket pages, which returned a robots restriction.
+
+Coverage (reporting filing): RG.org, trade coverage citing the court&#x27;s order — https://rg.org/news/prediction-markets/illinois-appeal-prediction-markets-injunction-kalshi-coinbase-cftc
+
+Relevant to: prediction-market platforms, sports event contract exchanges, futures commission merchants, sportsbook operators
 
 For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
 

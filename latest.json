@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-03T10:56:02Z",
+  "generated": "2026-11-03T22:47:17Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 335,
+  "count": 338,
   "items": [
     {
       "id": "2026-11-03-sec-txse-commodity-based-trust-shares-generic-listing-standards",
@@ -64,6 +64,28 @@
         "state-securities-enforcement",
         "new-jersey",
         "order-rescinded"
+      ]
+    },
+    {
+      "id": "2026-11-03-cftc-equity-perpetual-futures",
+      "date": "2026-11-03",
+      "published": "2026-11-03T00:00:00Z",
+      "title": "CFTC says perpetual futures on individual equity securities may begin trading on CFTC-registered exchanges, deemed approved under Regulation 40.3",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-03-cftc-equity-perpetual-futures",
+      "issuing_body": "Commodity Futures Trading Commission",
+      "source_url": "https://www.cftc.gov/PressRoom/PressReleases/9319-26",
+      "source_label": "CFTC Release 9319-26, cftc.gov",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "crypto exchanges, designated contract markets, futures commission merchants, retail brokerages",
+      "tags": [
+        "crypto",
+        "fintech",
+        "perpetual-futures",
+        "security-futures-products",
+        "market-structure",
+        "cftc",
+        "sec"
       ]
     },
     {
@@ -193,6 +215,52 @@
         "sar",
         "charities",
         "non-profit"
+      ]
+    },
+    {
+      "id": "2026-11-02-ftc-washington-riverside-payments",
+      "date": "2026-11-02",
+      "published": "2026-11-02T00:00:00Z",
+      "title": "FTC and the State of Washington announce action against payment processor Riverside Payments, with a 32,083,921 dollar judgment suspended on payment of 600,000 dollars",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-02-ftc-washington-riverside-payments",
+      "issuing_body": "Federal Trade Commission",
+      "source_url": "https://www.ftc.gov/news-events/news/press-releases/2026/11/ftc-washington-take-action-against-payment-processor-deceiving-small-businesses-about-costs",
+      "source_label": "FTC press release, ftc.gov",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "payment processors, ISOs and merchant acquirers, subscription and negative-option billing operators",
+      "tags": [
+        "payments",
+        "payment-processing",
+        "merchant-acquiring",
+        "ftc-act",
+        "gramm-leach-bliley",
+        "negative-option",
+        "enforcement",
+        "ftc"
+      ]
+    },
+    {
+      "id": "2026-10-30-ndill-prediction-markets-preliminary-injunction",
+      "date": "2026-10-30",
+      "published": "2026-10-30T00:00:00Z",
+      "title": "Reported: Northern District of Illinois enjoins Illinois from enforcing four gambling and sports-wagering provisions against event contracts traded on CFTC-regulated venues, and Illinois appeals to the Seventh Circuit",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-10-30-ndill-prediction-markets-preliminary-injunction",
+      "issuing_body": "U.S. District Court for the Northern District of Illinois",
+      "source_url": "https://rg.org/news/prediction-markets/illinois-appeal-prediction-markets-injunction-kalshi-coinbase-cftc",
+      "source_label": "RG.org, trade coverage citing the court's order",
+      "source_type": "coverage_reporting_filing",
+      "primary_source_status": "cited_by_coverage_not_retrieved",
+      "relevant_to": "prediction-market platforms, sports event contract exchanges, futures commission merchants, sportsbook operators",
+      "tags": [
+        "gaming",
+        "prediction-markets",
+        "sports-event-contracts",
+        "preemption",
+        "commodity-exchange-act",
+        "preliminary-injunction",
+        "illinois",
+        "seventh-circuit"
       ]
     },
     {
