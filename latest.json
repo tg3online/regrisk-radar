@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-04T10:58:57Z",
+  "generated": "2026-11-04T22:50:15Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 346,
+  "count": 347,
   "items": [
     {
       "id": "2026-11-04-fdic-nprm-large-bank-deposit-insurance-determination-part-370",
@@ -431,6 +431,27 @@
         "form-adv",
         "form-d",
         "retail-investors"
+      ]
+    },
+    {
+      "id": "2026-11-04-2300-doj-gurevich-nomad-bridge-extradition",
+      "date": "2026-10-30",
+      "published": "2026-10-30T00:00:00Z",
+      "title": "DOJ announces extradition and initial appearance of an Israeli national charged over a $2.89 million virtual currency theft from the Nomad Bridge",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-04-2300-doj-gurevich-nomad-bridge-extradition",
+      "issuing_body": "U.S. Department of Justice",
+      "source_url": "https://www.justice.gov/opa/pr/israeli-national-extradited-face-charges-stealing-nearly-3m-virtual-currency-heist",
+      "source_label": "U.S. Department of Justice, Office of Public Affairs, Press Release 26-1300 (October 30, 2026)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "crypto bridge and cross-chain protocol teams, exchanges, custodians, compliance leads",
+      "tags": [
+        "crypto",
+        "enforcement",
+        "doj",
+        "money-laundering",
+        "bridge-exploit",
+        "virtual-currency"
       ]
     },
     {
