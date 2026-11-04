@@ -5,8 +5,24 @@
     <link>https://tg3online.github.io/regrisk-radar/</link>
     <description>Daily facts-only regulatory radar — crypto, gaming, payments &amp; fintech. Verified against primary sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Nov 2026 22:47:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 10:58:57 +0000</lastBuildDate>
     <atom:link href="https://tg3online.github.io/regrisk-radar/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FDIC proposes to rescind part 370 and fold its institutions into a revised large-bank deposit insurance determination rule</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-11-04-fdic-nprm-large-bank-deposit-insurance-determination-part-370</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-11-04-fdic-nprm-large-bank-deposit-insurance-determination-part-370</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+      <category>FDIC</category>
+      <description>The FDIC published a notice of proposed rulemaking and request for comment in the Federal Register of November 4, 2026, RIN 3064-AG35, touching 12 CFR parts 314, 360 and 370. The proposal would remove and reserve part 370, the recordkeeping rule for timely deposit insurance determination, revise 12 CFR 360.9 so that institutions currently subject to part 370 would generally become subject to the revised rule with certain modifications, clarify its requirements, and index specified regulatory thresholds to inflation. The revised section 360.9 would apply to insured depository institutions with at least 2 billion dollars in deposits and either 250,000 deposit accounts or 20 billion dollars in total assets regardless of account count, and would add a larger covered institution category of at least 2 billion dollars in deposits and two million or more deposit accounts. The document states that account holders who hold deposits for others, such as deposit brokers, are expected to complete a new Appendix I in the event of failure, and it exempts certain accounts maintained by account holders for the benefit of others from a new disclosure requirement where deposits are held for certain trusts. Comments must be received by January 4, 2027.
+
+Primary source: Federal Register, FDIC notice of proposed rulemaking 2026-22495, November 4, 2026 — https://www.govinfo.gov/content/pkg/FR-2026-11-04/html/2026-22495.htm
+
+Relevant to: banks holding custodial and for-benefit-of deposits, deposit brokers, banking-as-a-service partners, fintech deposit programs
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
     <item>
       <title>SEC grants accelerated approval to Texas Stock Exchange generic listing standards for Commodity-Based Trust Shares; comments due November 24, 2026</title>
       <link>https://tg3online.github.io/regrisk-radar/#2026-11-03-sec-txse-commodity-based-trust-shares-generic-listing-standards</link>
@@ -66,6 +82,70 @@ RegRisk Radar is regulatory-risk intelligence provided for general informational
 Primary source: CFTC Release 9319-26, cftc.gov — https://www.cftc.gov/PressRoom/PressReleases/9319-26
 
 Relevant to: crypto exchanges, designated contract markets, futures commission merchants, retail brokerages
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+    <item>
+      <title>SEC staff issues Canton Coin no-action letter describing the token as a digital commodity</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-11-03-sec-corpfin-canton-coin-no-action-digital-commodity</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-11-03-sec-corpfin-canton-coin-no-action-digital-commodity</guid>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <category>SEC Division of Corporation Finance</category>
+      <description>On November 3, 2026 the SEC Division of Corporation Finance responded to an October 30, 2026 incoming letter and stated that it will not recommend enforcement action to the Commission if Canton Coin is minted without registration under Section 5 of the Securities Act and Section 12(g) of the Exchange Act, where minting occurs programmatically by Super Validators, Validators and application providers in the manner described. The response is signed by Deputy Chief Counsel Jonathan A. Ingram. The Division stated that, in reliance on the representations provided, Canton Coin is a digital commodity as described in the Interpretation, relying on representations that the token is intrinsically linked to and derives its value from the programmatic operation of the Canton Network rather than from the essential managerial efforts of others, and that the network has no central party as defined in the Interpretation. The letter states that different facts or conditions might require the Division to reach different conclusions and that it does not express any legal conclusion on the issues presented.
+
+Primary source: SEC Division of Corporation Finance, no-action response, November 3, 2026 — https://www.sec.gov/rules-regulations/no-action-interpretive-exemptive-letters/division-corporation-finance-no-action/canton-coin-110326
+
+Relevant to: token issuers, blockchain networks, digital-asset exchanges, crypto counsel
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+    <item>
+      <title>Industry group backed by Cboe and Citadel Securities sues CFTC over single-stock perpetual futures approval</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-11-03-capital-markets-alliance-v-cftc-single-stock-perpetual-futures</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-11-03-capital-markets-alliance-v-cftc-single-stock-perpetual-futures</guid>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <category>Capital Markets Alliance, plaintiff, v. CFTC, federal district court</category>
+      <description>On November 3, 2026 the Capital Markets Alliance, an industry group reported as backed by Cboe and Citadel Securities, filed a federal lawsuit against the Commodity Futures Trading Commission seeking to block the Commission from authorizing single-stock perpetual futures. Reporting states that the suit asks the court to overturn the approvals, to declare the contracts security-based swaps subject to SEC authority, and to halt trading pending judicial review, and that it alleges the Commission violated the Administrative Procedure Act by approving the products without adequate justification, failing to assess investor risks and departing from precedent on perpetual derivatives. The products were reported as deemed approved under Commission Regulation 40.3 and were the subject of a statement by CFTC Chairman Michael Selig issued the same day. No reviewed source names the specific district court or a case number.
+
+Coverage (reporting filing): Reuters (Douglas Gillison), November 3, 2026, via syndication — https://www.centraloregondaily.com/news/consumer/cboe-citadel-securities-backed-group-sues-us-regulator-over-single-stock-perpetual-futures/article_8bac787f-e164-5c5a-a34d-261f43b435d6.html
+
+Relevant to: derivatives exchanges, futures commission merchants, crypto-derivatives platforms, retail brokerages
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+    <item>
+      <title>Block discloses an agreement in principle with DOJ over its anti-money-laundering program</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-11-03-block-doj-bsa-aml-agreement-in-principle</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-11-03-block-doj-bsa-aml-agreement-in-principle</guid>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <category>US Department of Justice, disclosed by Block, Inc. in a Form 10-Q</category>
+      <description>In a disclosure made alongside its third-quarter results on November 3, 2026, Block, Inc. stated that it reached an agreement in principle with the US Department of Justice in October 2026 to resolve an investigation of its anti-money-laundering program. Reporting of the disclosure states that the proposed terms would defer for three years a criminal charge alleging that Block failed to maintain an effective anti-money-laundering program as required by the Bank Secrecy Act, that the gross component is about 964 million dollars and is reduced to an expected net payment of roughly 764 million dollars after credits for prior regulatory resolutions, that the amount has been accrued, and that the resolution remains subject to a final agreement and court approval. Reporting states that Block warned final terms could result in losses exceeding the amount already accrued. The disclosure is tied to Block&#x27;s Form 10-Q for the quarterly period ended September 30, 2026, filed November 3, 2026. The Department of Justice has not published an announcement of the matter.
+
+Coverage (reporting filing): Reuters, November 3, 2026, via syndication — https://www.investing.com/news/economy-news/block-lifts-profit-outlook-on-cash-app-strength-reaches-preliminary-doj-settlement-4996965
+
+Relevant to: payment apps, money services businesses, neobanks, BSA and AML compliance officers
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+    <item>
+      <title>OppFi withdraws its Federal Reserve, OCC and FDIC applications for the BNC National Bank acquisition</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-11-03-oppfi-withdraws-bnc-national-bank-charter-applications</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-11-03-oppfi-withdraws-bnc-national-bank-charter-applications</guid>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <category>OppFi Inc., withdrawal before the Federal Reserve, OCC and FDIC</category>
+      <description>In a press release furnished as Exhibit 99.1 to a Form 8-K filed November 3, 2026, OppFi Inc. stated that it has withdrawn its applications to the Board of Governors of the Federal Reserve System, the Office of the Comptroller of the Currency and the Federal Deposit Insurance Corporation relating to its proposed acquisition of BNCCORP, Inc. and its subsidiary BNC National Bank. The release attributes the withdrawal to what it describes as the lack of articulated objective standards against which federal regulators are evaluating OppFi&#x27;s business, and states that communication restrictions in the application process prevented a meaningful opportunity to address regulators&#x27; concerns. The release describes the acquisition as pending and does not state that the merger agreement has terminated.
+
+Primary source: SEC EDGAR, OppFi Inc. Form 8-K Exhibit 99.1, filed November 3, 2026 — https://www.sec.gov/Archives/edgar/data/1818502/000181850226000094/oppfi-providesxupdatexon.htm
+
+Relevant to: consumer lenders pursuing charters, bank acquirers, banking-as-a-service sponsors, fintech corporate counsel
 
 For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
 
@@ -194,6 +274,54 @@ RegRisk Radar is regulatory-risk intelligence provided for general informational
 Coverage (reporting filing): RG.org, trade coverage citing the court&#x27;s order — https://rg.org/news/prediction-markets/illinois-appeal-prediction-markets-injunction-kalshi-coinbase-cftc
 
 Relevant to: prediction-market platforms, sports event contract exchanges, futures commission merchants, sportsbook operators
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+    <item>
+      <title>FinCEN issues an alert on foreign-agent-directed transactions and a notice on the use of charities and non-profits for illicit activity</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-10-30-fincen-alert-foreign-agent-directed-transactions-and-nonprofit-notice</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-10-30-fincen-alert-foreign-agent-directed-transactions-and-nonprofit-notice</guid>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <category>FinCEN</category>
+      <description>On October 30, 2026 FinCEN announced two documents issued in connection with initiatives announced by Treasury Secretary Scott Bessent in Minnesota under the White House Task Force to Eliminate Fraud. The first is an alert titled Alert on Risks Associated with Foreign-Agent-Directed Transactions, which asks financial institutions to watch for suspicious activity in certain cross-border payments involving US money services businesses. The second is a notice titled Notice on the Use of Charities and Non-Profit Organizations for Illicit Activity, issued to help financial institutions detect and report suspicious activity involving the exploitation of charities and non-profit organizations. The announcement is the retrieved source; the two underlying documents were not retrieved, so no red flags, key terms or filing instructions from them are stated here.
+
+Primary source: FinCEN news release, October 30, 2026 — https://www.fincen.gov/news/news-releases/fincen-issues-alert-and-notice-support-new-fraud-prevention-measures-minnesota
+
+Relevant to: money services businesses, remittance providers, banks with MSB customers, AML compliance teams
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+    <item>
+      <title>FinCEN advises institutions of FATF list changes, with four jurisdictions removed from increased monitoring</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-10-30-fincen-fatf-jurisdictions-four-removed-from-increased-monitoring</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-10-30-fincen-fatf-jurisdictions-four-removed-from-increased-monitoring</guid>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <category>FinCEN</category>
+      <description>On October 30, 2026 FinCEN issued a news release on the Financial Action Task Force identification of jurisdictions with anti-money-laundering, counter-terrorist-financing and counter-proliferation-financing deficiencies. Bulgaria, Cote d&#x27;Ivoire, the Democratic Republic of the Congo and Monaco were removed from the list of Jurisdictions Under Increased Monitoring, and no jurisdiction was added. Iran, the Democratic People&#x27;s Republic of Korea and Burma remain High-Risk Jurisdictions Subject to a Call for Action, with countermeasures called for as to Iran and the DPRK and enhanced due diligence as to Burma. The release states that US financial institutions should consider the FATF&#x27;s stance toward these jurisdictions when reviewing their obligations and risk-based policies, that correspondent due diligence for foreign financial institutions is required under 31 CFR 1010.610(a) with parallel requirements for money services businesses as to foreign agents and counterparties, that risk-based due diligence should not be used as the basis to engage in wholesale or indiscriminate de-risking, that institutions should take the FATF&#x27;s decisions and the reasons behind the delistings into consideration when assessing risk, and that a Suspicious Activity Report must be filed where activity raises suspicion of money laundering or other violations.
+
+Primary source: FinCEN news release, October 30, 2026 — https://www.fincen.gov/news/news-releases/financial-action-task-force-identifies-jurisdictions-anti-money-laundering-6
+
+Relevant to: correspondent banks, money services businesses, crypto exchanges with cross-border flows, sanctions and AML teams
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+    <item>
+      <title>SEC charges BG Wealth Sharing and DSJ Exchange over a 130 million dollar crypto scheme that used false Commission filings</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-10-30-sec-bg-wealth-sharing-dsj-exchange-crypto-fraud-false-filings</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-10-30-sec-bg-wealth-sharing-dsj-exchange-crypto-fraud-false-filings</guid>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <category>SEC</category>
+      <description>In press release 2026-110 the SEC announced charges against BG Wealth Sharing Ltd and DSJ Exchange Pty Ltd, described as foreign-operated and Colorado-incorporated entities, in the US District Court for the Northern District of California. The Commission alleges the entities raised more than 130 million dollars from tens of thousands of retail investors from at least October 2025 through June 2026 by promising extraordinary, risk-free returns generated by so-called SI-generated signals for crypto asset trading, and by holding out DSJ Exchange as a licensed and secure crypto trading platform. The complaint alleges the defendants submitted false Form ADV and Form D filings that were publicly viewable on the Commission&#x27;s own systems and were shared with investors as supposed proof of SEC licensing or approval, and that payments were made periodically to certain investors while remaining funds were misappropriated. Both entities are charged under the antifraud provisions of the Securities Act and the Exchange Act, and BG Wealth Sharing is additionally charged under Sections 204(a) and 207 of the Investment Advisers Act. The Commission seeks permanent injunctions, disgorgement with prejudgment interest and civil penalties, and conduct-based injunctions against BG Wealth Sharing. The SEC states it has removed the false filings from its website. The related litigation release, LR-26679, is dated October 30, 2026.
+
+Primary source: SEC press release 2026-110, October 29, 2026, with litigation release LR-26679 of October 30, 2026 — https://www.sec.gov/newsroom/press-releases/2026-110-two-entities-charged-130-million-fraud-scheme-used-false-sec-filings-boost-investor-confidence
+
+Relevant to: crypto trading platforms, investment advisers, retail-facing digital-asset marketers, investor-protection teams
 
 For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
 

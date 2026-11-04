@@ -1,8 +1,30 @@
 {
-  "generated": "2026-11-03T22:47:17Z",
+  "generated": "2026-11-04T10:58:57Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 338,
+  "count": 346,
   "items": [
+    {
+      "id": "2026-11-04-fdic-nprm-large-bank-deposit-insurance-determination-part-370",
+      "date": "2026-11-04",
+      "published": "2026-11-04T00:00:00Z",
+      "title": "FDIC proposes to rescind part 370 and fold its institutions into a revised large-bank deposit insurance determination rule",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-04-fdic-nprm-large-bank-deposit-insurance-determination-part-370",
+      "issuing_body": "FDIC",
+      "source_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-04/html/2026-22495.htm",
+      "source_label": "Federal Register, FDIC notice of proposed rulemaking 2026-22495, November 4, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "banks holding custodial and for-benefit-of deposits, deposit brokers, banking-as-a-service partners, fintech deposit programs",
+      "tags": [
+        "fintech",
+        "fdic",
+        "deposit-insurance",
+        "recordkeeping",
+        "part-370",
+        "rulemaking",
+        "comment-deadline"
+      ]
+    },
     {
       "id": "2026-11-03-sec-txse-commodity-based-trust-shares-generic-listing-standards",
       "date": "2026-11-03",
@@ -86,6 +108,90 @@
         "market-structure",
         "cftc",
         "sec"
+      ]
+    },
+    {
+      "id": "2026-11-03-sec-corpfin-canton-coin-no-action-digital-commodity",
+      "date": "2026-11-03",
+      "published": "2026-11-03T00:00:00Z",
+      "title": "SEC staff issues Canton Coin no-action letter describing the token as a digital commodity",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-03-sec-corpfin-canton-coin-no-action-digital-commodity",
+      "issuing_body": "SEC Division of Corporation Finance",
+      "source_url": "https://www.sec.gov/rules-regulations/no-action-interpretive-exemptive-letters/division-corporation-finance-no-action/canton-coin-110326",
+      "source_label": "SEC Division of Corporation Finance, no-action response, November 3, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "token issuers, blockchain networks, digital-asset exchanges, crypto counsel",
+      "tags": [
+        "crypto",
+        "sec",
+        "no-action-letter",
+        "digital-commodity",
+        "token-issuance"
+      ]
+    },
+    {
+      "id": "2026-11-03-capital-markets-alliance-v-cftc-single-stock-perpetual-futures",
+      "date": "2026-11-03",
+      "published": "2026-11-03T00:00:00Z",
+      "title": "Industry group backed by Cboe and Citadel Securities sues CFTC over single-stock perpetual futures approval",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-03-capital-markets-alliance-v-cftc-single-stock-perpetual-futures",
+      "issuing_body": "Capital Markets Alliance, plaintiff, v. CFTC, federal district court",
+      "source_url": "https://www.centraloregondaily.com/news/consumer/cboe-citadel-securities-backed-group-sues-us-regulator-over-single-stock-perpetual-futures/article_8bac787f-e164-5c5a-a34d-261f43b435d6.html",
+      "source_label": "Reuters (Douglas Gillison), November 3, 2026, via syndication",
+      "source_type": "coverage_reporting_filing",
+      "primary_source_status": "cited_by_coverage_not_retrieved",
+      "relevant_to": "derivatives exchanges, futures commission merchants, crypto-derivatives platforms, retail brokerages",
+      "tags": [
+        "crypto",
+        "derivatives",
+        "cftc",
+        "sec",
+        "perpetual-futures",
+        "litigation",
+        "administrative-procedure-act"
+      ]
+    },
+    {
+      "id": "2026-11-03-block-doj-bsa-aml-agreement-in-principle",
+      "date": "2026-11-03",
+      "published": "2026-11-03T00:00:00Z",
+      "title": "Block discloses an agreement in principle with DOJ over its anti-money-laundering program",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-03-block-doj-bsa-aml-agreement-in-principle",
+      "issuing_body": "US Department of Justice, disclosed by Block, Inc. in a Form 10-Q",
+      "source_url": "https://www.investing.com/news/economy-news/block-lifts-profit-outlook-on-cash-app-strength-reaches-preliminary-doj-settlement-4996965",
+      "source_label": "Reuters, November 3, 2026, via syndication",
+      "source_type": "coverage_reporting_filing",
+      "primary_source_status": "cited_by_coverage_not_retrieved",
+      "relevant_to": "payment apps, money services businesses, neobanks, BSA and AML compliance officers",
+      "tags": [
+        "payments",
+        "fintech",
+        "bsa-aml",
+        "doj",
+        "deferred-prosecution",
+        "enforcement"
+      ]
+    },
+    {
+      "id": "2026-11-03-oppfi-withdraws-bnc-national-bank-charter-applications",
+      "date": "2026-11-03",
+      "published": "2026-11-03T00:00:00Z",
+      "title": "OppFi withdraws its Federal Reserve, OCC and FDIC applications for the BNC National Bank acquisition",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-03-oppfi-withdraws-bnc-national-bank-charter-applications",
+      "issuing_body": "OppFi Inc., withdrawal before the Federal Reserve, OCC and FDIC",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1818502/000181850226000094/oppfi-providesxupdatexon.htm",
+      "source_label": "SEC EDGAR, OppFi Inc. Form 8-K Exhibit 99.1, filed November 3, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "consumer lenders pursuing charters, bank acquirers, banking-as-a-service sponsors, fintech corporate counsel",
+      "tags": [
+        "fintech",
+        "bank-charter",
+        "occ",
+        "federal-reserve",
+        "fdic",
+        "consumer-lending"
       ]
     },
     {
@@ -261,6 +367,70 @@
         "preliminary-injunction",
         "illinois",
         "seventh-circuit"
+      ]
+    },
+    {
+      "id": "2026-10-30-fincen-alert-foreign-agent-directed-transactions-and-nonprofit-notice",
+      "date": "2026-10-30",
+      "published": "2026-10-30T00:00:00Z",
+      "title": "FinCEN issues an alert on foreign-agent-directed transactions and a notice on the use of charities and non-profits for illicit activity",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-10-30-fincen-alert-foreign-agent-directed-transactions-and-nonprofit-notice",
+      "issuing_body": "FinCEN",
+      "source_url": "https://www.fincen.gov/news/news-releases/fincen-issues-alert-and-notice-support-new-fraud-prevention-measures-minnesota",
+      "source_label": "FinCEN news release, October 30, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "money services businesses, remittance providers, banks with MSB customers, AML compliance teams",
+      "tags": [
+        "payments",
+        "bsa-aml",
+        "fincen",
+        "money-services-business",
+        "cross-border-payments",
+        "suspicious-activity-reporting"
+      ]
+    },
+    {
+      "id": "2026-10-30-fincen-fatf-jurisdictions-four-removed-from-increased-monitoring",
+      "date": "2026-10-30",
+      "published": "2026-10-30T00:00:00Z",
+      "title": "FinCEN advises institutions of FATF list changes, with four jurisdictions removed from increased monitoring",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-10-30-fincen-fatf-jurisdictions-four-removed-from-increased-monitoring",
+      "issuing_body": "FinCEN",
+      "source_url": "https://www.fincen.gov/news/news-releases/financial-action-task-force-identifies-jurisdictions-anti-money-laundering-6",
+      "source_label": "FinCEN news release, October 30, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "correspondent banks, money services businesses, crypto exchanges with cross-border flows, sanctions and AML teams",
+      "tags": [
+        "payments",
+        "bsa-aml",
+        "fincen",
+        "fatf",
+        "correspondent-banking",
+        "de-risking"
+      ]
+    },
+    {
+      "id": "2026-10-30-sec-bg-wealth-sharing-dsj-exchange-crypto-fraud-false-filings",
+      "date": "2026-10-30",
+      "published": "2026-10-30T00:00:00Z",
+      "title": "SEC charges BG Wealth Sharing and DSJ Exchange over a 130 million dollar crypto scheme that used false Commission filings",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-10-30-sec-bg-wealth-sharing-dsj-exchange-crypto-fraud-false-filings",
+      "issuing_body": "SEC",
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2026-110-two-entities-charged-130-million-fraud-scheme-used-false-sec-filings-boost-investor-confidence",
+      "source_label": "SEC press release 2026-110, October 29, 2026, with litigation release LR-26679 of October 30, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "crypto trading platforms, investment advisers, retail-facing digital-asset marketers, investor-protection teams",
+      "tags": [
+        "crypto",
+        "sec",
+        "enforcement",
+        "securities-fraud",
+        "form-adv",
+        "form-d",
+        "retail-investors"
       ]
     },
     {
