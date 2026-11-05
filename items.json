@@ -30,6 +30,26 @@
       "relevant_to": "banks holding custodial and for-benefit-of deposits, deposit brokers, banking-as-a-service partners, fintech deposit programs"
     },
     {
+      "id": "2026-11-05-arkansas-ag-kalshi-vgw-illegal-gambling",
+      "date": "2026-11-04",
+      "published": "2026-11-04T00:00:00Z",
+      "issuing_body": "Arkansas Attorney General",
+      "title": "Arkansas attorney general sues Kalshi and VGW over alleged illegal gambling",
+      "facts": "Two outlets report that on Wednesday, November 4, 2026, Arkansas Attorney General Tim Griffin filed separate lawsuits against KalshiEX LLC and Kalshi Inc., and against VGW, the operator of Chumba Casino, LuckyLand Casino, LuckyLand Slots and Global Poker, accusing both of offering gambling to Arkansans in violation of the Arkansas Deceptive Trade Practices Act. According to that reporting, the Kalshi suit was filed in Independence County and the VGW suit in White County, the complaint against Kalshi alleges the platform accepted wagers on sports from users as young as 18, and the state seeks a declaration that the Deceptive Trade Practices Act was violated together with restitution, penalties, taxes and injunctive relief. The attorney general's own press release and the complaints themselves were not retrieved for this entry, and no docket numbers are established.",
+      "source_url": "https://www.coindesk.com/policy/2026/11/05/the-pile-of-lawsuits-against-kalshi-just-grew-by-one",
+      "source_label": "CoinDesk, November 5, 2026 (coverage; corroborated by rg.org, same date)",
+      "tags": [
+        "gaming",
+        "prediction-markets",
+        "sweepstakes",
+        "state-enforcement",
+        "arkansas"
+      ],
+      "source_type": "coverage_reporting_filing",
+      "primary_source_status": "cited_by_coverage_not_retrieved",
+      "relevant_to": "prediction-market platforms, sweepstakes and social-casino operators, payment processors"
+    },
+    {
       "id": "2026-11-03-sec-txse-commodity-based-trust-shares-generic-listing-standards",
       "date": "2026-11-03",
       "published": "2026-11-03T11:40:00Z",

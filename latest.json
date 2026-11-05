@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-04T22:50:15Z",
+  "generated": "2026-11-05T10:57:22Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 347,
+  "count": 348,
   "items": [
     {
       "id": "2026-11-04-fdic-nprm-large-bank-deposit-insurance-determination-part-370",
@@ -23,6 +23,26 @@
         "part-370",
         "rulemaking",
         "comment-deadline"
+      ]
+    },
+    {
+      "id": "2026-11-05-arkansas-ag-kalshi-vgw-illegal-gambling",
+      "date": "2026-11-04",
+      "published": "2026-11-04T00:00:00Z",
+      "title": "Arkansas attorney general sues Kalshi and VGW over alleged illegal gambling",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-05-arkansas-ag-kalshi-vgw-illegal-gambling",
+      "issuing_body": "Arkansas Attorney General",
+      "source_url": "https://www.coindesk.com/policy/2026/11/05/the-pile-of-lawsuits-against-kalshi-just-grew-by-one",
+      "source_label": "CoinDesk, November 5, 2026 (coverage; corroborated by rg.org, same date)",
+      "source_type": "coverage_reporting_filing",
+      "primary_source_status": "cited_by_coverage_not_retrieved",
+      "relevant_to": "prediction-market platforms, sweepstakes and social-casino operators, payment processors",
+      "tags": [
+        "gaming",
+        "prediction-markets",
+        "sweepstakes",
+        "state-enforcement",
+        "arkansas"
       ]
     },
     {
