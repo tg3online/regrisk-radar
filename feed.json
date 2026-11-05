@@ -36,6 +36,20 @@
       ]
     },
     {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-11-04-ninth-circuit-denies-kalshi-rehearing-nevada",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-11-04-ninth-circuit-denies-kalshi-rehearing-nevada",
+      "title": "Ninth Circuit denies Kalshi's petitions for panel rehearing and rehearing en banc in the Nevada sports event-contract case",
+      "content_text": "Two outlets report that the U.S. Court of Appeals for the Ninth Circuit issued a brief order denying Kalshi's petition for panel rehearing and its petition for rehearing en banc in its Nevada sports event-contract case. One outlet dates the order November 4, 2026; the other says only Wednesday. Both quote the order as stating that the full court has been advised of the petition for rehearing en banc and that no judge has requested a vote on whether to rehear the matter en banc, and one quotes the panel as unanimously voting to deny both petitions. Reporting states the denial leaves in place the panel's August 2026 ruling, which upheld the dissolution of a preliminary injunction and allows the Nevada Gaming Control Board to enforce state gambling laws, and that Kalshi has 90 days to petition the U.S. Supreme Court for review; one outlet places that deadline at February 2, 2027 absent an extension. The order itself was not retrieved and the appellate docket number is not established.\n\nCoverage (reporting filing): Legal Sports Report, Nov. 5, 2026 (coverage quoting the order; order not retrieved) — https://www.legalsportsreport.com/285892/us-appeals-court-denies-kalshi-request-for-rehearing/\n\nRelevant to: prediction-market platforms, sportsbooks, state gaming regulators, exchanges listing sports event contracts\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-11-04T00:00:00Z",
+      "tags": [
+        "prediction-markets",
+        "sports-event-contracts",
+        "gaming",
+        "appellate",
+        "state-gambling-law"
+      ]
+    },
+    {
       "id": "https://tg3online.github.io/regrisk-radar/#2026-11-03-sec-txse-commodity-based-trust-shares-generic-listing-standards",
       "url": "https://tg3online.github.io/regrisk-radar/#2026-11-03-sec-txse-commodity-based-trust-shares-generic-listing-standards",
       "title": "SEC grants accelerated approval to Texas Stock Exchange generic listing standards for Commodity-Based Trust Shares; comments due November 24, 2026",
@@ -154,6 +168,21 @@
         "federal-reserve",
         "fdic",
         "consumer-lending"
+      ]
+    },
+    {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-11-03-sdny-tro-denied-single-stock-perpetual-derivatives",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-11-03-sdny-tro-denied-single-stock-perpetual-derivatives",
+      "title": "Federal judge denies TRO against CFTC approval of single-stock perpetual derivatives, but finds the CFTC likely exceeded its authority",
+      "content_text": "In Capital Markets Alliance Association v. Commodity Futures Trading Commission and Michael S. Selig, No. 26-CV-9608 (S.D.N.Y., filed 11/03/26), Judge Valerie Caproni ordered that the plaintiff's motion for a temporary restraining order is denied. The motion sought to stay CFTC approvals of applications filed by KalshiEX LLC, Bitnomial Exchange LLC and Coinbase Derivatives LLC to trade perpetual derivatives on single stocks. The order states that the plaintiff is likely to succeed on the merits of its claim that the CFTC lacks statutory authority to allow perpetual derivatives on individual stocks to be offered to retail investors on CFTC-regulated platforms, that because the perpetual contracts do not provide for a sale for future delivery of a single security they cannot be a security future over which the CFTC has statutory and regulatory authority, and that such contracts appear to satisfy the definition of a swap, which the order states is subject to regulation by the Securities and Exchange Commission. The TRO was denied because the court found the plaintiff had failed to demonstrate it is likely to suffer irreparable harm absent emergency relief, the supporting declarations being conjectural. The order sets the defendants' opposition to the preliminary-injunction motion for Friday, November 6, 2026 and the plaintiff's reply for Tuesday, November 10, 2026, subject to change by the assigned district judge.\n\nPrimary source: Order denying temporary restraining order, Capital Markets Alliance Association v. CFTC, No. 1:26-cv-09608 (S.D.N.Y. Nov. 3, 2026) — https://storage.courtlistener.com/recap/gov.uscourts.nysd.676387/gov.uscourts.nysd.676387.11.0.pdf\n\nRelevant to: derivatives exchanges, crypto trading platforms, prediction-market operators, brokers listing single-stock perpetuals\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-11-03T00:00:00Z",
+      "tags": [
+        "perpetual-futures",
+        "crypto",
+        "market-structure",
+        "cftc",
+        "sec",
+        "litigation"
       ]
     },
     {
@@ -432,6 +461,19 @@
         "tokenized-collateral",
         "information-collection",
         "federal-register"
+      ]
+    },
+    {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-10-29-sec-blox-lending-digital-licensing-debt-box",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-10-29-sec-blox-lending-digital-licensing-debt-box",
+      "title": "SEC complaint against Blox Lending, Digital Licensing (DEBT Box) and three individuals alleges over $200 million raised from more than 100,000 investors through crypto-asset license agreements",
+      "content_text": "The SEC's complaint in Securities and Exchange Commission v. Jason R. Anderson, Schad Brannon, Roydon Nelson, Blox Lending, LLC and Digital Licensing, Inc., with Business Funding Solutions, LLC as relief defendant, No. 2:26-cv-01066 (D. Utah, filed 10/28/26), alleges that the defendants made false and misleading statements to investors about supposed revenue from various lines of business to raise over $200 million from over 100,000 investors, and that DEBT Box never received revenue from any such projects. The complaint alleges the Anderson defendants disguised over $101 million of funds that investors paid for investments as supposed revenue, which it states had the purpose and effect of Ponzi payments, and that they manipulated the price of crypto assets issued by DEBT Box to mask the absence of revenue. It states that DEBT Box generated at least $200 million in sales of securities, from which it received about $161 million of investor funds, that about $101 million of that $161 million was used to buy project-specific tokens, and that less than $15 million of the $200 million was deployed to real-world businesses. Charges are brought under Section 17(a) of the Securities Act of 1933 and Section 10(b) of the Securities Exchange Act of 1934 and Rule 10b-5. The corresponding litigation release, LR-26678, is dated October 29, 2026.\n\nPrimary source: SEC complaint, SEC v. Anderson, Blox Lending, LLC, Digital Licensing, Inc., et al., No. 2:26-cv-01066 (D. Utah, filed Oct. 28, 2026) — https://www.sec.gov/files/litigation/complaints/2026/comp26678.pdf\n\nRelevant to: token issuers, crypto lending platforms, digital-asset marketers, broker-dealers\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-10-29T00:00:00Z",
+      "tags": [
+        "crypto",
+        "securities-fraud",
+        "enforcement",
+        "tokens"
       ]
     },
     {

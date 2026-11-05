@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-05T10:57:22Z",
+  "generated": "2026-11-05T22:48:10Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 348,
+  "count": 351,
   "items": [
     {
       "id": "2026-11-04-fdic-nprm-large-bank-deposit-insurance-determination-part-370",
@@ -43,6 +43,26 @@
         "sweepstakes",
         "state-enforcement",
         "arkansas"
+      ]
+    },
+    {
+      "id": "2026-11-04-ninth-circuit-denies-kalshi-rehearing-nevada",
+      "date": "2026-11-04",
+      "published": "2026-11-04T00:00:00Z",
+      "title": "Ninth Circuit denies Kalshi's petitions for panel rehearing and rehearing en banc in the Nevada sports event-contract case",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-04-ninth-circuit-denies-kalshi-rehearing-nevada",
+      "issuing_body": "U.S. Court of Appeals for the Ninth Circuit",
+      "source_url": "https://www.legalsportsreport.com/285892/us-appeals-court-denies-kalshi-request-for-rehearing/",
+      "source_label": "Legal Sports Report, Nov. 5, 2026 (coverage quoting the order; order not retrieved)",
+      "source_type": "coverage_reporting_filing",
+      "primary_source_status": "cited_by_coverage_not_retrieved",
+      "relevant_to": "prediction-market platforms, sportsbooks, state gaming regulators, exchanges listing sports event contracts",
+      "tags": [
+        "prediction-markets",
+        "sports-event-contracts",
+        "gaming",
+        "appellate",
+        "state-gambling-law"
       ]
     },
     {
@@ -212,6 +232,27 @@
         "federal-reserve",
         "fdic",
         "consumer-lending"
+      ]
+    },
+    {
+      "id": "2026-11-03-sdny-tro-denied-single-stock-perpetual-derivatives",
+      "date": "2026-11-03",
+      "published": "2026-11-03T00:00:00Z",
+      "title": "Federal judge denies TRO against CFTC approval of single-stock perpetual derivatives, but finds the CFTC likely exceeded its authority",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-03-sdny-tro-denied-single-stock-perpetual-derivatives",
+      "issuing_body": "U.S. District Court, Southern District of New York",
+      "source_url": "https://storage.courtlistener.com/recap/gov.uscourts.nysd.676387/gov.uscourts.nysd.676387.11.0.pdf",
+      "source_label": "Order denying temporary restraining order, Capital Markets Alliance Association v. CFTC, No. 1:26-cv-09608 (S.D.N.Y. Nov. 3, 2026)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "derivatives exchanges, crypto trading platforms, prediction-market operators, brokers listing single-stock perpetuals",
+      "tags": [
+        "perpetual-futures",
+        "crypto",
+        "market-structure",
+        "cftc",
+        "sec",
+        "litigation"
       ]
     },
     {
@@ -592,6 +633,25 @@
         "tokenized-collateral",
         "information-collection",
         "federal-register"
+      ]
+    },
+    {
+      "id": "2026-10-29-sec-blox-lending-digital-licensing-debt-box",
+      "date": "2026-10-29",
+      "published": "2026-10-29T00:00:00Z",
+      "title": "SEC complaint against Blox Lending, Digital Licensing (DEBT Box) and three individuals alleges over $200 million raised from more than 100,000 investors through crypto-asset license agreements",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-10-29-sec-blox-lending-digital-licensing-debt-box",
+      "issuing_body": "SEC",
+      "source_url": "https://www.sec.gov/files/litigation/complaints/2026/comp26678.pdf",
+      "source_label": "SEC complaint, SEC v. Anderson, Blox Lending, LLC, Digital Licensing, Inc., et al., No. 2:26-cv-01066 (D. Utah, filed Oct. 28, 2026)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "token issuers, crypto lending platforms, digital-asset marketers, broker-dealers",
+      "tags": [
+        "crypto",
+        "securities-fraud",
+        "enforcement",
+        "tokens"
       ]
     },
     {
