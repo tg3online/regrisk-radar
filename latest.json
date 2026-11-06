@@ -1,8 +1,77 @@
 {
-  "generated": "2026-11-06T11:03:26Z",
+  "generated": "2026-11-06T22:46:47Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 355,
+  "count": 358,
   "items": [
+    {
+      "id": "2026-11-06-fincen-fed-withdraw-travel-rule-cvc-nprm",
+      "date": "2026-11-06",
+      "published": "2026-11-06T22:42:00Z",
+      "title": "FinCEN and the Federal Reserve Board withdraw the proposed rule extending recordkeeping and travel rule obligations to convertible virtual currencies",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-06-fincen-fed-withdraw-travel-rule-cvc-nprm",
+      "issuing_body": "Financial Crimes Enforcement Network (FinCEN), U.S. Department of the Treasury",
+      "source_url": "https://www.fincen.gov/news/news-releases/fincen-announces-withdrawal-proposed-rule-related-recordkeeping-and-travel-rule",
+      "source_label": "FinCEN news release, November 6, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "money services businesses, convertible virtual currency exchanges, banks, payment processors",
+      "tags": [
+        "fincen",
+        "federal-reserve",
+        "travel-rule",
+        "recordkeeping",
+        "convertible-virtual-currency",
+        "crypto",
+        "payments",
+        "rulemaking"
+      ]
+    },
+    {
+      "id": "2026-11-06-ofac-canadian-msbs-iran-digital-assets",
+      "date": "2026-11-06",
+      "published": "2026-11-06T22:41:00Z",
+      "title": "OFAC designates eight Canada-based money services businesses said to exchange Iranian rials for digital assets",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-06-ofac-canadian-msbs-iran-digital-assets",
+      "issuing_body": "Office of Foreign Assets Control, U.S. Department of the Treasury",
+      "source_url": "https://home.treasury.gov/news/press-releases/sb0686",
+      "source_label": "U.S. Department of the Treasury press release sb0686",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "money services businesses, digital asset exchanges, banks screening sanctions exposure, payment processors",
+      "tags": [
+        "ofac",
+        "sanctions",
+        "designations",
+        "crypto",
+        "digital-assets",
+        "money-services-businesses",
+        "iran",
+        "payments"
+      ]
+    },
+    {
+      "id": "2026-11-06-fincen-mexc-global-special-measure-9714",
+      "date": "2026-11-06",
+      "published": "2026-11-06T22:40:00Z",
+      "title": "FinCEN order prohibits US financial institutions from any transmittal of funds to or from MEXC Global, effective 30 days after Federal Register publication",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-06-fincen-mexc-global-special-measure-9714",
+      "issuing_body": "Financial Crimes Enforcement Network (FinCEN), U.S. Department of the Treasury",
+      "source_url": "https://www.fincen.gov/system/files/2026-11/MEXC-Section-9714.pdf",
+      "source_label": "FinCEN order: Imposition of Special Measure Prohibiting the Transmittal of Funds Involving MEXC Global (PDF)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "convertible virtual currency exchanges, banks and money services businesses with digital asset exposure, payment processors",
+      "tags": [
+        "fincen",
+        "crypto",
+        "sanctions",
+        "aml",
+        "special-measure",
+        "section-9714",
+        "cvc-exchanger",
+        "payments"
+      ]
+    },
     {
       "id": "2026-11-05-cftc-dcm-impartial-access-geographic-restrictions",
       "date": "2026-11-05",

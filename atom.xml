@@ -5,7 +5,58 @@
   <id>https://tg3online.github.io/regrisk-radar/</id>
   <link href="https://tg3online.github.io/regrisk-radar/" />
   <link href="https://tg3online.github.io/regrisk-radar/atom.xml" rel="self" type="application/atom+xml" />
-  <updated>2026-11-06T11:03:26Z</updated>
+  <updated>2026-11-06T22:46:47Z</updated>
+  <entry>
+    <title>FinCEN and the Federal Reserve Board withdraw the proposed rule extending recordkeeping and travel rule obligations to convertible virtual currencies</title>
+    <id>https://tg3online.github.io/regrisk-radar/#2026-11-06-fincen-fed-withdraw-travel-rule-cvc-nprm</id>
+    <link href="https://tg3online.github.io/regrisk-radar/#2026-11-06-fincen-fed-withdraw-travel-rule-cvc-nprm" rel="alternate" />
+    <updated>2026-11-06T22:42:00Z</updated>
+    <published>2026-11-06T22:42:00Z</published>
+    <category term="Financial Crimes Enforcement Network (FinCEN), U.S. Department of the Treasury" />
+    <content type="text">On November 6, 2026 FinCEN announced the withdrawal of a notice of proposed rulemaking on recordkeeping and travel rule obligations. FinCEN&#x27;s release states that the proposal &quot;would have amended the Recordkeeping and Travel Rule&quot; to cover convertible virtual currencies, and would also have lowered the threshold for funds transfers and transmittals of funds that begin or end outside the United States, and that the proposal &quot;is being jointly withdrawn with the Federal Reserve Board of Governors.&quot; The withdrawal is carried by Federal Register document 2026-22809, titled Threshold for the Requirement to Collect, Retain, and Transmit Information on Funds Transfers and Transmittals of Funds That Begin or End Outside the United States, and Clarification, etc.; Withdrawal. That document was filed for public inspection at 8:45 a.m. Eastern on November 6, 2026 and carries a Federal Register publication date of November 9, 2026. The public inspection record lists FinCEN as the only issuing agency and states no comment period, effective date, RIN or docket number. FinCEN&#x27;s release does not state the threshold amounts or a reason for the withdrawal.
+
+Primary source: FinCEN news release, November 6, 2026 — https://www.fincen.gov/news/news-releases/fincen-announces-withdrawal-proposed-rule-related-recordkeeping-and-travel-rule
+
+Relevant to: money services businesses, convertible virtual currency exchanges, banks, payment processors
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</content>
+  </entry>
+  <entry>
+    <title>OFAC designates eight Canada-based money services businesses said to exchange Iranian rials for digital assets</title>
+    <id>https://tg3online.github.io/regrisk-radar/#2026-11-06-ofac-canadian-msbs-iran-digital-assets</id>
+    <link href="https://tg3online.github.io/regrisk-radar/#2026-11-06-ofac-canadian-msbs-iran-digital-assets" rel="alternate" />
+    <updated>2026-11-06T22:41:00Z</updated>
+    <published>2026-11-06T22:41:00Z</published>
+    <category term="Office of Foreign Assets Control, U.S. Department of the Treasury" />
+    <content type="text">On November 6, 2026 OFAC designated eight Canada-based money services businesses under Executive Order 13902. Treasury&#x27;s release states that the companies &quot;facilitate the exchange of Iranian rials and other currencies for digital assets&quot; and that several of them transacted with sanctioned Iranian digital asset exchanges and with addresses associated with the Islamic Revolutionary Guard Corps. The release names Diverse Trade Inc, doing business as Million Exchange; 1380079 BC Limited, doing business as Amin Exchange; Top PC Technician Inc; NIA Nations Currency Ltd; 2397639 Ontario Ltd, doing business as Farah Exchange; CCC Inc; B Galaxy Inc, doing business as Cryptoyal; and Darvish Exchange. The release states that the action was coordinated with FinCEN, with Canada&#x27;s financial intelligence unit FINTRAC and with the Drug Enforcement Administration, and it refers back to designations announced on June 2, 2026 and on August 7, 2026. The OFAC recent-actions listing for November 6, 2026 was not reachable at the time of capture, so blocked-property details from that listing are not recorded here.
+
+Primary source: U.S. Department of the Treasury press release sb0686 — https://home.treasury.gov/news/press-releases/sb0686
+
+Relevant to: money services businesses, digital asset exchanges, banks screening sanctions exposure, payment processors
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</content>
+  </entry>
+  <entry>
+    <title>FinCEN order prohibits US financial institutions from any transmittal of funds to or from MEXC Global, effective 30 days after Federal Register publication</title>
+    <id>https://tg3online.github.io/regrisk-radar/#2026-11-06-fincen-mexc-global-special-measure-9714</id>
+    <link href="https://tg3online.github.io/regrisk-radar/#2026-11-06-fincen-mexc-global-special-measure-9714" rel="alternate" />
+    <updated>2026-11-06T22:40:00Z</updated>
+    <published>2026-11-06T22:40:00Z</published>
+    <category term="Financial Crimes Enforcement Network (FinCEN), U.S. Department of the Treasury" />
+    <content type="text">On November 6, 2026 FinCEN issued an order titled Imposition of Special Measure Prohibiting the Transmittal of Funds Involving MEXC Global, invoking section 9714(a) of the Combating Russian Money Laundering Act (Public Law 116-283), as amended by section 6106(b) of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117-81). The order states that FinCEN finds MEXC Global to be &quot;a financial institution of primary money laundering concern in connection with Russian illicit finance&quot;, and provides that &quot;A covered financial institution is prohibited from engaging in any transmittal of funds from or to MEXC Global.&quot; For purposes of the order, transmittals of funds means the sending and receiving of funds, including convertible virtual currency, and MEXC Global covers its branches, subsidiaries and offices operating outside the United States and successor entities, while expressly excluding any located in the United States. The order states that it is effective 30 days after publication in the Federal Register and has no cessation date, and that it does not modify Bank Secrecy Act obligations, including the filing of Suspicious Activity Reports, or sanctions obligations administered by OFAC. The copy published by FinCEN is a pre-publication copy whose DATES line is an unfilled placeholder, so no operative effective date is stated. Treasury&#x27;s accompanying release describes MEXC Global as a convertible virtual currency exchanger and states that it facilitated at least $16 billion in illicit transactions between May 2021 and May 2026.
+
+Primary source: FinCEN order: Imposition of Special Measure Prohibiting the Transmittal of Funds Involving MEXC Global (PDF) — https://www.fincen.gov/system/files/2026-11/MEXC-Section-9714.pdf
+
+Relevant to: convertible virtual currency exchanges, banks and money services businesses with digital asset exposure, payment processors
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</content>
+  </entry>
   <entry>
     <title>CFTC issues interpretive guidance on designated contract market impartial access and domestic geographic restrictions</title>
     <id>https://tg3online.github.io/regrisk-radar/#2026-11-05-cftc-dcm-impartial-access-geographic-restrictions</id>
