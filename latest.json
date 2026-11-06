@@ -1,8 +1,68 @@
 {
-  "generated": "2026-11-05T22:48:10Z",
+  "generated": "2026-11-06T11:03:26Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 351,
+  "count": 355,
   "items": [
+    {
+      "id": "2026-11-05-cftc-dcm-impartial-access-geographic-restrictions",
+      "date": "2026-11-05",
+      "published": "2026-11-05T00:00:00Z",
+      "title": "CFTC issues interpretive guidance on designated contract market impartial access and domestic geographic restrictions",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-05-cftc-dcm-impartial-access-geographic-restrictions",
+      "issuing_body": "Commodity Futures Trading Commission",
+      "source_url": "https://www.cftc.gov/PressRoom/PressReleases/9323-26",
+      "source_label": "CFTC Release 9323-26, November 5, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "designated contract markets, prediction-market platforms, futures intermediaries, exchanges",
+      "tags": [
+        "cftc",
+        "dcm",
+        "impartial-access",
+        "event-contracts",
+        "interpretive-guidance"
+      ]
+    },
+    {
+      "id": "2026-11-05-ofac-cyber-tco-designations-scam-networks",
+      "date": "2026-11-05",
+      "published": "2026-11-05T00:00:00Z",
+      "title": "OFAC cyber-related and transnational criminal organization designations target scam networks Treasury describes as using digital assets",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-05-ofac-cyber-tco-designations-scam-networks",
+      "issuing_body": "U.S. Department of the Treasury, Office of Foreign Assets Control",
+      "source_url": "https://home.treasury.gov/news/press-releases/sb0683/",
+      "source_label": "U.S. Treasury press release sb0683, November 5, 2026 (linked from OFAC Recent Actions, November 5, 2026)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "sanctions-compliance teams, exchanges, payment processors, digital-asset businesses",
+      "tags": [
+        "ofac",
+        "sanctions",
+        "crypto",
+        "enforcement",
+        "designations"
+      ]
+    },
+    {
+      "id": "2026-11-05-cftc-staff-letter-26-30-dco-trust-company-settlements",
+      "date": "2026-11-05",
+      "published": "2026-11-05T00:00:00Z",
+      "title": "CFTC staff no-action letter addresses use of trust companies for daily settlements by derivatives clearing organizations",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-05-cftc-staff-letter-26-30-dco-trust-company-settlements",
+      "issuing_body": "CFTC Division of Clearing and Risk",
+      "source_url": "https://www.cftc.gov/csl/26-30/download",
+      "source_label": "CFTC Staff Letter No. 26-30, November 5, 2026 (announced in CFTC Release 9322-26)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "derivatives clearing organizations, digital-asset custodians, trust companies, exchanges",
+      "tags": [
+        "cftc",
+        "no-action-letter",
+        "clearing",
+        "settlement",
+        "digital-asset-custody"
+      ]
+    },
     {
       "id": "2026-11-04-fdic-nprm-large-bank-deposit-insurance-determination-part-370",
       "date": "2026-11-04",
@@ -63,6 +123,26 @@
         "gaming",
         "appellate",
         "state-gambling-law"
+      ]
+    },
+    {
+      "id": "2026-11-04-ndcal-blue-lake-rancheria-v-kalshi-preliminary-injunction",
+      "date": "2026-11-04",
+      "published": "2026-11-04T00:00:00Z",
+      "title": "Federal court enjoins Kalshi from offering sports contracts on the plaintiff tribes' Indian lands",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-04-ndcal-blue-lake-rancheria-v-kalshi-preliminary-injunction",
+      "issuing_body": "U.S. District Court for the Northern District of California",
+      "source_url": "https://storage.courtlistener.com/recap/gov.uscourts.cand.453216/gov.uscourts.cand.453216.106.0.pdf",
+      "source_label": "Order re: Preliminary Injunction, N.D. Cal. No. 3:25-cv-06162-JSC, Dkt. 106, November 4, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction-market platforms, tribal gaming operators, sportsbooks, exchanges",
+      "tags": [
+        "prediction-markets",
+        "gaming",
+        "tribal-gaming",
+        "preliminary-injunction",
+        "kalshi"
       ]
     },
     {

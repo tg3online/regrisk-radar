@@ -6,6 +6,48 @@
   "description": "Daily facts-only regulatory radar — crypto, gaming, payments & fintech. Verified against primary sources.",
   "items": [
     {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-11-05-cftc-dcm-impartial-access-geographic-restrictions",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-11-05-cftc-dcm-impartial-access-geographic-restrictions",
+      "title": "CFTC issues interpretive guidance on designated contract market impartial access and domestic geographic restrictions",
+      "content_text": "CFTC release 9323-26, dated November 5, 2026, states that the Commission issued an interpretation of the requirement that designated contract markets (DCMs) provide \"competitive, open, fair, and impartial access to their members and persons with trading privileges under Commission Regulation 38.151(b).\" The release states that \"DCMs must cease domestic geographic restrictions that violate the Impartial Access Requirements within 30 days, or else submit to the Division of Market Oversight (\"Division\") an explanation for why such compliance is not feasible,\" and that within the same period \"DCMs should ensure that intermediaries accessing their markets are not impeding and are complying with the DCM's Impartial Access Requirements, or else submit to the Division an explanation for why such compliance is not feasible.\" Chairman Michael S. Selig is quoted saying that \"Derivatives markets must operate on a uniform basis at a national scale in order to achieve the purposes set out in the Commodity Exchange Act\" and that \"Geographic access restrictions are inconsistent with those purposes and the Act's impartial access requirements.\" The linked document, titled \"DCM Impartial Access Interpretive Guidance\" and marked as approved by the Commission subject to pre-publication technical corrections, states that \"The CEA and Commission Regulations generally do not permit a DCM to limit access based on the location of an otherwise eligible market participant within the United States\" and that \"the Commission believes that geographic access restrictions are inconsistent with the CEA and Commission rules and regulations.\" The release does not state the date from which the 30 days run, and the guidance document's date and effective-date fields are placeholders.\n\nPrimary source: CFTC Release 9323-26, November 5, 2026 — https://www.cftc.gov/PressRoom/PressReleases/9323-26\n\nRelevant to: designated contract markets, prediction-market platforms, futures intermediaries, exchanges\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-11-05T00:00:00Z",
+      "tags": [
+        "cftc",
+        "dcm",
+        "impartial-access",
+        "event-contracts",
+        "interpretive-guidance"
+      ]
+    },
+    {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-11-05-ofac-cyber-tco-designations-scam-networks",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-11-05-ofac-cyber-tco-designations-scam-networks",
+      "title": "OFAC cyber-related and transnational criminal organization designations target scam networks Treasury describes as using digital assets",
+      "content_text": "OFAC's action of November 5, 2026 is titled \"Cyber-related and Transnational Criminal Organizations Designations; Cuba Designations; Publication of Cuba-related Determination.\" The Treasury press release of the same date, \"Treasury Targets Global Scam Networks and the Corporate Infrastructure That Enables Them,\" states that \"Prince Group TCO-affiliated actors have generated billions of dollars in illicit proceeds through sophisticated cyber-enabled fraud schemes, including digital asset investment scams, romance scams, and other online fraud that have victimized Americans and individuals around the world.\" It states that \"Criminal proceeds are subsequently laundered through an international network of shell companies, offshore holding companies, financial facilitators, and digital asset transactions, allowing transnational criminal organizations to conceal the origin of illicit funds and integrate them into the legitimate financial system,\" and that \"These schemes rely on deception and social engineering to persuade victims to transfer funds or digital assets to criminally controlled accounts.\" The release further states that \"Chui Kok Wa (Chui) led an extensive network of scammers located in Madagascar that targeted Americans with scams, including defrauding Americans of digital assets\" and that those scammers \"exploited cyber-enabled technologies, including cryptocurrencies and digital systems and technologies, to defraud numerous Americans of over $400,000 equivalent.\" Designations were made pursuant to Executive Order 13581, as amended, and Executive Order 13694, as further amended. The release states that \"any entities that are owned, directly or indirectly, individually or in the aggregate, 50 percent or more by one or more blocked persons are also blocked.\" No digital currency addresses appear in the retrieved text of either page.\n\nPrimary source: U.S. Treasury press release sb0683, November 5, 2026 (linked from OFAC Recent Actions, November 5, 2026) — https://home.treasury.gov/news/press-releases/sb0683/\n\nRelevant to: sanctions-compliance teams, exchanges, payment processors, digital-asset businesses\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-11-05T00:00:00Z",
+      "tags": [
+        "ofac",
+        "sanctions",
+        "crypto",
+        "enforcement",
+        "designations"
+      ]
+    },
+    {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-11-05-cftc-staff-letter-26-30-dco-trust-company-settlements",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-11-05-cftc-staff-letter-26-30-dco-trust-company-settlements",
+      "title": "CFTC staff no-action letter addresses use of trust companies for daily settlements by derivatives clearing organizations",
+      "content_text": "CFTC release 9322-26, dated November 5, 2026, states that \"The Commodity Futures Trading Commission's Division of Clearing and Risk today issued a no-action letter addressing whether derivatives clearing organizations may use trust companies to conduct daily settlements with clearing members,\" and that \"a derivatives clearing organization may use a trust company for daily settlements if it treats the trust company as it would a settlement bank under applicable CFTC requirements.\" CFTC Letter No. 26-30, dated November 5, 2026, is addressed to the General Counsel of Nodal Clear, LLC, is signed by Richard Haynes, Acting Director of the Division of Clearing and Risk, and responds to a Nodal letter of October 29, 2026. It states: \"Based on the facts presented and the representations Nodal has made, the Division will not recommend that the Commission take enforcement action against any DCO for using a trust company to conduct daily settlements with clearing members, if the DCO treats the trust company as if it were a settlement bank for the purpose of compliance with Regulations 39.14(c) and (d).\" The letter notes that Regulation 39.14(a)(2) defines \"settlement bank\" as \"a bank\" and that \"There are no references to trust companies in Regulation 39.14.\" Recording Nodal's representations, the letter states that \"state-regulated trust companies are among the leading custodians of digital assets\" and that the clarification \"will facilitate the ability of DCOs to accept such assets as margin collateral.\" The letter states that the position represents \"the views of the Division only\" and is \"not binding on the Commission.\"\n\nPrimary source: CFTC Staff Letter No. 26-30, November 5, 2026 (announced in CFTC Release 9322-26) — https://www.cftc.gov/csl/26-30/download\n\nRelevant to: derivatives clearing organizations, digital-asset custodians, trust companies, exchanges\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-11-05T00:00:00Z",
+      "tags": [
+        "cftc",
+        "no-action-letter",
+        "clearing",
+        "settlement",
+        "digital-asset-custody"
+      ]
+    },
+    {
       "id": "https://tg3online.github.io/regrisk-radar/#2026-11-04-fdic-nprm-large-bank-deposit-insurance-determination-part-370",
       "url": "https://tg3online.github.io/regrisk-radar/#2026-11-04-fdic-nprm-large-bank-deposit-insurance-determination-part-370",
       "title": "FDIC proposes to rescind part 370 and fold its institutions into a revised large-bank deposit insurance determination rule",
@@ -47,6 +89,20 @@
         "gaming",
         "appellate",
         "state-gambling-law"
+      ]
+    },
+    {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-11-04-ndcal-blue-lake-rancheria-v-kalshi-preliminary-injunction",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-11-04-ndcal-blue-lake-rancheria-v-kalshi-preliminary-injunction",
+      "title": "Federal court enjoins Kalshi from offering sports contracts on the plaintiff tribes' Indian lands",
+      "content_text": "An order entered November 4, 2026 in Blue Lake Rancheria, et al. v. Kalshi Inc., et al., No. 3:25-cv-06162-JSC (N.D. Cal.), Document 106, signed by United States District Judge Jacqueline Scott Corley, states: \"Following the further status conference held on November 4, 2026, the Court GRANTS Plaintiffs' motion for a preliminary injunction (Dkt. No. 35) and ORDERS:\" The first paragraph states that \"Kalshi Inc. and KalshiEX (together, \"Kalshi\") are enjoined from offering on the Tribes' Indian lands any sports contracts, including, but not limited to, contracts that facially involve, relate to, or reference the sports of baseball, tennis, pickleball, soccer, basketball, football, golf, chess, esports, hockey, motorsports, boxing, wrestling, and Ultimate Fighting Championship events.\" The second paragraph states that \"No later than November 13, 2026, Plaintiffs shall provide Kalshi with maps delineating the boundaries of Plaintiffs' Indian lands.\" The third paragraph states that \"Within 21 days of this Order, Kalshi shall provide the Court with an updated status report on the steps it has taken to comply with this injunction.\" The order states no reasoning and cites no statute, and its text does not name the plaintiff tribes.\n\nPrimary source: Order re: Preliminary Injunction, N.D. Cal. No. 3:25-cv-06162-JSC, Dkt. 106, November 4, 2026 — https://storage.courtlistener.com/recap/gov.uscourts.cand.453216/gov.uscourts.cand.453216.106.0.pdf\n\nRelevant to: prediction-market platforms, tribal gaming operators, sportsbooks, exchanges\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-11-04T00:00:00Z",
+      "tags": [
+        "prediction-markets",
+        "gaming",
+        "tribal-gaming",
+        "preliminary-injunction",
+        "kalshi"
       ]
     },
     {
