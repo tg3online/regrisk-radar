@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-06T22:46:47Z",
+  "generated": "2026-11-07T11:03:08Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 358,
+  "count": 361,
   "items": [
     {
       "id": "2026-11-06-fincen-fed-withdraw-travel-rule-cvc-nprm",
@@ -73,6 +73,30 @@
       ]
     },
     {
+      "id": "2026-11-06-treasury-fatf-plenary-digital-asset-standards",
+      "date": "2026-11-06",
+      "published": "2026-11-06T00:00:00Z",
+      "title": "Treasury reports FATF plenary adopted the U.S. Mutual Evaluation Report, agreed to accelerate digital asset standards, and agreed to launch a targeted review of jurisdictions with virtual assets sector deficiencies",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-06-treasury-fatf-plenary-digital-asset-standards",
+      "issuing_body": "U.S. Department of the Treasury",
+      "source_url": "https://home.treasury.gov/news/press-releases/sb0687",
+      "source_label": "U.S. Treasury press release sb0687, 6 November 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "exchanges and virtual asset service providers, banks with correspondent relationships, AML and sanctions compliance teams",
+      "tags": [
+        "crypto",
+        "payments",
+        "treasury",
+        "fatf",
+        "aml",
+        "virtual-assets",
+        "correspondent-banking",
+        "iran",
+        "sanctions"
+      ]
+    },
+    {
       "id": "2026-11-05-cftc-dcm-impartial-access-geographic-restrictions",
       "date": "2026-11-05",
       "published": "2026-11-05T00:00:00Z",
@@ -130,6 +154,28 @@
         "clearing",
         "settlement",
         "digital-asset-custody"
+      ]
+    },
+    {
+      "id": "2026-11-05-doj-edva-former-fbi-agent-cryptocurrency-theft-plea",
+      "date": "2026-11-05",
+      "published": "2026-11-05T00:00:00Z",
+      "title": "Former FBI agent pleads guilty to wire fraud and money laundering over roughly $2.47 million in cryptocurrency taken using credentials held in FBI investigations",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-05-doj-edva-former-fbi-agent-cryptocurrency-theft-plea",
+      "issuing_body": "U.S. Attorney's Office, Eastern District of Virginia (Department of Justice)",
+      "source_url": "https://www.justice.gov/usao-edva/pr/former-fbi-agent-pleads-guilty-cryptocurrency-theft",
+      "source_label": "U.S. Attorney's Office, E.D. Va. press release, 5 November 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "exchanges, custodians, law-enforcement liaison and investigations teams, key-management and insider-risk functions",
+      "tags": [
+        "crypto",
+        "doj",
+        "enforcement",
+        "guilty-plea",
+        "money-laundering",
+        "wire-fraud",
+        "custody"
       ]
     },
     {
@@ -402,6 +448,28 @@
         "cftc",
         "sec",
         "litigation"
+      ]
+    },
+    {
+      "id": "2026-11-03-sec-crypto-broker-dealer-rules-oira-review",
+      "date": "2026-11-03",
+      "published": "2026-11-03T00:00:00Z",
+      "title": "SEC rulemaking on broker-dealer financial responsibility and recordkeeping for crypto assets arrives at OIRA for Executive Order 12866 review",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-03-sec-crypto-broker-dealer-rules-oira-review",
+      "issuing_body": "Securities and Exchange Commission / OMB Office of Information and Regulatory Affairs",
+      "source_url": "https://www.reginfo.gov/public/do/eoDetails?rrid=1571318",
+      "source_label": "OMB / OIRA pending EO 12866 review record, reginfo.gov",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "broker-dealers, crypto custodians, digital-asset trading platforms, compliance and finance teams",
+      "tags": [
+        "crypto",
+        "sec",
+        "rulemaking",
+        "broker-dealer",
+        "custody",
+        "recordkeeping",
+        "oira"
       ]
     },
     {

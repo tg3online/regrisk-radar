@@ -57,6 +57,24 @@
       ]
     },
     {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-11-06-treasury-fatf-plenary-digital-asset-standards",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-11-06-treasury-fatf-plenary-digital-asset-standards",
+      "title": "Treasury reports FATF plenary adopted the U.S. Mutual Evaluation Report, agreed to accelerate digital asset standards, and agreed to launch a targeted review of jurisdictions with virtual assets sector deficiencies",
+      "content_text": "Treasury's release states that senior Treasury officials led a U.S. government delegation to FATF plenary meetings in Paris concluding the FATF's first Plenary under the United Kingdom presidency, and that the FATF adopted the Mutual Evaluation Reports of the United States and Mexico. The release states that the FATF agreed to accelerate global implementation of digital asset-related standards and agreed to launch a targeted review of certain jurisdictions with longstanding deficiencies related to the virtual assets sector that heighten illicit finance risks, with decision points to be taken up at the next FATF plenary. It further states that Iran remains on the FATF's blacklist and that the FATF reminded all jurisdictions to impose countermeasures on Iran to restrict correspondent banking, digital asset transactions, and business relationships with Iran, and that the FATF adopted a report examining the financial flows fueling scam compounds and agreed to publish a new report on scam centers. The release names no Treasury official and gives no date for the next plenary or for the review.\n\nPrimary source: U.S. Treasury press release sb0687, 6 November 2026 — https://home.treasury.gov/news/press-releases/sb0687\n\nRelevant to: exchanges and virtual asset service providers, banks with correspondent relationships, AML and sanctions compliance teams\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-11-06T00:00:00Z",
+      "tags": [
+        "crypto",
+        "payments",
+        "treasury",
+        "fatf",
+        "aml",
+        "virtual-assets",
+        "correspondent-banking",
+        "iran",
+        "sanctions"
+      ]
+    },
+    {
       "id": "https://tg3online.github.io/regrisk-radar/#2026-11-05-cftc-dcm-impartial-access-geographic-restrictions",
       "url": "https://tg3online.github.io/regrisk-radar/#2026-11-05-cftc-dcm-impartial-access-geographic-restrictions",
       "title": "CFTC issues interpretive guidance on designated contract market impartial access and domestic geographic restrictions",
@@ -96,6 +114,22 @@
         "clearing",
         "settlement",
         "digital-asset-custody"
+      ]
+    },
+    {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-11-05-doj-edva-former-fbi-agent-cryptocurrency-theft-plea",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-11-05-doj-edva-former-fbi-agent-cryptocurrency-theft-plea",
+      "title": "Former FBI agent pleads guilty to wire fraud and money laundering over roughly $2.47 million in cryptocurrency taken using credentials held in FBI investigations",
+      "content_text": "The U.S. Attorney's Office for the Eastern District of Virginia announced that Patrick Steven Yaroch, 37, of Ashburn, a former FBI agent, pleaded guilty to wire fraud and money laundering in Case No. 1:26-CR-208, that the plea was accepted by U.S. District Judge Patricia Tolliver Giles, that sentencing is set for March 4, 2027, and that he faces up to 20 years in prison. The release states that Yaroch had access to FBI systems containing cryptocurrency credentials collected in investigations and that he used his position to steal cryptocurrency from wallets controlled by the subjects of various other investigations, obtaining approximately $2,474,380.66 in fraudulent proceeds through approximately 100 fraudulent transfers using credentials related to 35 separate FBI investigations. The release states no fine, forfeiture or restitution term.\n\nPrimary source: U.S. Attorney's Office, E.D. Va. press release, 5 November 2026 — https://www.justice.gov/usao-edva/pr/former-fbi-agent-pleads-guilty-cryptocurrency-theft\n\nRelevant to: exchanges, custodians, law-enforcement liaison and investigations teams, key-management and insider-risk functions\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-11-05T00:00:00Z",
+      "tags": [
+        "crypto",
+        "doj",
+        "enforcement",
+        "guilty-plea",
+        "money-laundering",
+        "wire-fraud",
+        "custody"
       ]
     },
     {
@@ -290,6 +324,22 @@
         "cftc",
         "sec",
         "litigation"
+      ]
+    },
+    {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-11-03-sec-crypto-broker-dealer-rules-oira-review",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-11-03-sec-crypto-broker-dealer-rules-oira-review",
+      "title": "SEC rulemaking on broker-dealer financial responsibility and recordkeeping for crypto assets arrives at OIRA for Executive Order 12866 review",
+      "content_text": "The OMB Office of Information and Regulatory Affairs pending-review record states that a Securities and Exchange Commission rulemaking titled Amendments to Broker-Dealer Financial Responsibility and Recordkeeping and Reporting Rules Regarding Crypto Assets, RIN 3235-AN48, at the Proposed Rule stage, was received on 11/03/2026, is classified Economically Significant, and carries no legal deadline. The corresponding Unified Agenda entry lists the legal authority as Exchange Act 15(c) and Exchange Act 17(a), a CFR citation of Not Yet Determined, and a timetable entry of NPRM 07/00/2026 with no Federal Register citation. Its abstract opens by stating that the Division is considering recommending that the Commission amend Rules 15c3-1 and 15c3-3. The rule text is not public at this stage and no comment period or effective date has been set.\n\nPrimary source: OMB / OIRA pending EO 12866 review record, reginfo.gov — https://www.reginfo.gov/public/do/eoDetails?rrid=1571318\n\nRelevant to: broker-dealers, crypto custodians, digital-asset trading platforms, compliance and finance teams\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-11-03T00:00:00Z",
+      "tags": [
+        "crypto",
+        "sec",
+        "rulemaking",
+        "broker-dealer",
+        "custody",
+        "recordkeeping",
+        "oira"
       ]
     },
     {
