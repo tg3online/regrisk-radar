@@ -5,7 +5,7 @@
   <id>https://tg3online.github.io/regrisk-radar/</id>
   <link href="https://tg3online.github.io/regrisk-radar/" />
   <link href="https://tg3online.github.io/regrisk-radar/atom.xml" rel="self" type="application/atom+xml" />
-  <updated>2026-11-07T11:03:08Z</updated>
+  <updated>2026-11-07T22:55:06Z</updated>
   <entry>
     <title>FinCEN and the Federal Reserve Board withdraw the proposed rule extending recordkeeping and travel rule obligations to convertible virtual currencies</title>
     <id>https://tg3online.github.io/regrisk-radar/#2026-11-06-fincen-fed-withdraw-travel-rule-cvc-nprm</id>
@@ -137,6 +137,23 @@ RegRisk Radar is regulatory-risk intelligence provided for general informational
 Primary source: U.S. Attorney&#x27;s Office, E.D. Va. press release, 5 November 2026 — https://www.justice.gov/usao-edva/pr/former-fbi-agent-pleads-guilty-cryptocurrency-theft
 
 Relevant to: exchanges, custodians, law-enforcement liaison and investigations teams, key-management and insider-risk functions
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</content>
+  </entry>
+  <entry>
+    <title>OCC issues a supervisory framework for bank examiners on banks&#x27; use of super intelligence</title>
+    <id>https://tg3online.github.io/regrisk-radar/#2026-11-04-occ-super-intelligence-supervisory-framework</id>
+    <link href="https://tg3online.github.io/regrisk-radar/#2026-11-04-occ-super-intelligence-supervisory-framework" rel="alternate" />
+    <updated>2026-11-04T11:30:00Z</updated>
+    <published>2026-11-04T11:30:00Z</published>
+    <category term="Office of the Comptroller of the Currency" />
+    <content type="text">On November 4, 2026 the Office of the Comptroller of the Currency issued OCC Bulletin 2026-54, &quot;Super Intelligence: Supervisory Framework,&quot; announced the same day in news release NR 2026-97 and addressed to chief executive officers of all national banks, federal savings associations and federal branches and agencies, to department and division heads, to all examining personnel and to other interested parties. The OCC states that the framework is issued to support OCC examiners in evaluating banks&#x27; use of super intelligence in normal-course business activities. The bulletin states that the framework &quot;does not establish supervisory expectations for banks&quot; and that banks &quot;are not expected to use this document to assess their use of SI or their SI risk management.&quot; It states that examiners &quot;should not treat SI as a separate and distinct risk category&quot; and that banks should not be required to define a separate super intelligence risk appetite, and it describes classifying use cases by potential consequences, transfer of agency and degree of human oversight rather than by the technical sophistication of the system used. A footnote defines &quot;Super Intelligence&quot; as the technologies and systems previously encompassed by the term &quot;Artificial Intelligence,&quot; citing 15 U.S.C. 9401(3) and Executive Order 14434, 91 Fed. Reg. 63129 (October 2, 2026). The bulletin is signed by the Senior Deputy Comptroller and Chief National Bank Examiner, states no effective date and no comment deadline, and says the OCC intends to update the framework regularly. The OCC classifies the release and the bulletin under the topic Financial Technology.
+
+Primary source: OCC Bulletin 2026-54, November 4, 2026 — https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-54.html
+
+Relevant to: national banks and federal savings associations, bank technology and model-risk functions, fintech firms partnering with OCC-supervised banks
 
 For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
 

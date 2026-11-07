@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-07T11:03:08Z",
+  "generated": "2026-11-07T22:55:06Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 361,
+  "count": 362,
   "items": [
     {
       "id": "2026-11-06-fincen-fed-withdraw-travel-rule-cvc-nprm",
@@ -176,6 +176,29 @@
         "money-laundering",
         "wire-fraud",
         "custody"
+      ]
+    },
+    {
+      "id": "2026-11-04-occ-super-intelligence-supervisory-framework",
+      "date": "2026-11-04",
+      "published": "2026-11-04T11:30:00Z",
+      "title": "OCC issues a supervisory framework for bank examiners on banks' use of super intelligence",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-04-occ-super-intelligence-supervisory-framework",
+      "issuing_body": "Office of the Comptroller of the Currency",
+      "source_url": "https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-54.html",
+      "source_label": "OCC Bulletin 2026-54, November 4, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "national banks and federal savings associations, bank technology and model-risk functions, fintech firms partnering with OCC-supervised banks",
+      "tags": [
+        "occ",
+        "supervision",
+        "bank-examination",
+        "super-intelligence",
+        "artificial-intelligence",
+        "financial-technology",
+        "fintech",
+        "bulletin"
       ]
     },
     {

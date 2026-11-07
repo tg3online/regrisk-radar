@@ -183,6 +183,29 @@
       "relevant_to": "exchanges, custodians, law-enforcement liaison and investigations teams, key-management and insider-risk functions"
     },
     {
+      "id": "2026-11-04-occ-super-intelligence-supervisory-framework",
+      "date": "2026-11-04",
+      "published": "2026-11-04T11:30:00Z",
+      "issuing_body": "Office of the Comptroller of the Currency",
+      "title": "OCC issues a supervisory framework for bank examiners on banks' use of super intelligence",
+      "facts": "On November 4, 2026 the Office of the Comptroller of the Currency issued OCC Bulletin 2026-54, \"Super Intelligence: Supervisory Framework,\" announced the same day in news release NR 2026-97 and addressed to chief executive officers of all national banks, federal savings associations and federal branches and agencies, to department and division heads, to all examining personnel and to other interested parties. The OCC states that the framework is issued to support OCC examiners in evaluating banks' use of super intelligence in normal-course business activities. The bulletin states that the framework \"does not establish supervisory expectations for banks\" and that banks \"are not expected to use this document to assess their use of SI or their SI risk management.\" It states that examiners \"should not treat SI as a separate and distinct risk category\" and that banks should not be required to define a separate super intelligence risk appetite, and it describes classifying use cases by potential consequences, transfer of agency and degree of human oversight rather than by the technical sophistication of the system used. A footnote defines \"Super Intelligence\" as the technologies and systems previously encompassed by the term \"Artificial Intelligence,\" citing 15 U.S.C. 9401(3) and Executive Order 14434, 91 Fed. Reg. 63129 (October 2, 2026). The bulletin is signed by the Senior Deputy Comptroller and Chief National Bank Examiner, states no effective date and no comment deadline, and says the OCC intends to update the framework regularly. The OCC classifies the release and the bulletin under the topic Financial Technology.",
+      "source_url": "https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-54.html",
+      "source_label": "OCC Bulletin 2026-54, November 4, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "national banks and federal savings associations, bank technology and model-risk functions, fintech firms partnering with OCC-supervised banks",
+      "tags": [
+        "occ",
+        "supervision",
+        "bank-examination",
+        "super-intelligence",
+        "artificial-intelligence",
+        "financial-technology",
+        "fintech",
+        "bulletin"
+      ]
+    },
+    {
       "id": "2026-11-04-fdic-nprm-large-bank-deposit-insurance-determination-part-370",
       "date": "2026-11-04",
       "published": "2026-11-04T00:00:00Z",
