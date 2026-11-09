@@ -75,6 +75,21 @@
       ]
     },
     {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-11-06-sec-kalshiex-perpetual-sfp-listing-standards",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-11-06-sec-kalshiex-perpetual-sfp-listing-standards",
+      "title": "SEC publishes KalshiEX rule change revising listing standards for perpetual security futures products, effective November 19, 2026",
+      "content_text": "In Release No. 34-106841, dated November 6, 2026, the SEC published notice of filing and immediate effectiveness of a proposed rule change submitted by KalshiEX LLC on November 4, 2026 under Section 19(b)(7) of the Securities Exchange Act of 1934 and Rule 19b-7 (File No. SR-KalshiEX-2026-03). The notice states that Kalshi proposes to revise certain of its listing standards applicable to the underlying securities of perpetual security futures products in order to reduce the time to market for the listing and trading of those products. It states that the change would waive the five-day lookback period in Kalshi Rule 14.3(d) for certain covered securities, starting on or after the second business day following the covered security's IPO day, where the security has a market capitalization of at least 3 billion U.S. dollars based upon the offering price of its IPO and an IPO-day trading volume under Rule 14.3(c) of at least 2,400,000 shares. The notice states that the existing 100 billion U.S. dollar current market-capitalization requirement in Rule 14.3(b) continues to apply and that the other Rule 14.3 criteria are unchanged. The notice states that the proposed rule change will become effective on November 19, 2026, and that the Commission may summarily abrogate it within 60 days of effectiveness. The comment period is stated as 21 days from publication in the Federal Register; the notice carries an unfilled date placeholder and the filing had not appeared in the Federal Register as of November 9, 2026.\n\nPrimary source: SEC Release No. 34-106841, SR-KalshiEX-2026-03, November 6, 2026 — https://www.sec.gov/files/rules/sro/kalshiex/2026/34-106841.pdf\n\nRelevant to: prediction-market platforms, designated contract markets, exchanges, broker-dealers and futures commission merchants\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-11-06T00:00:00Z",
+      "tags": [
+        "sec",
+        "kalshiex",
+        "security-futures",
+        "perpetual-futures",
+        "prediction-markets",
+        "listing-standards"
+      ]
+    },
+    {
       "id": "https://tg3online.github.io/regrisk-radar/#2026-11-05-cftc-dcm-impartial-access-geographic-restrictions",
       "url": "https://tg3online.github.io/regrisk-radar/#2026-11-05-cftc-dcm-impartial-access-geographic-restrictions",
       "title": "CFTC issues interpretive guidance on designated contract market impartial access and domestic geographic restrictions",

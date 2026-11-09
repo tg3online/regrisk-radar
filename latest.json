@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-07T22:55:06Z",
+  "generated": "2026-11-09T10:59:08Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 362,
+  "count": 363,
   "items": [
     {
       "id": "2026-11-06-fincen-fed-withdraw-travel-rule-cvc-nprm",
@@ -94,6 +94,27 @@
         "correspondent-banking",
         "iran",
         "sanctions"
+      ]
+    },
+    {
+      "id": "2026-11-06-sec-kalshiex-perpetual-sfp-listing-standards",
+      "date": "2026-11-06",
+      "published": "2026-11-06T00:00:00Z",
+      "title": "SEC publishes KalshiEX rule change revising listing standards for perpetual security futures products, effective November 19, 2026",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-06-sec-kalshiex-perpetual-sfp-listing-standards",
+      "issuing_body": "Securities and Exchange Commission",
+      "source_url": "https://www.sec.gov/files/rules/sro/kalshiex/2026/34-106841.pdf",
+      "source_label": "SEC Release No. 34-106841, SR-KalshiEX-2026-03, November 6, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction-market platforms, designated contract markets, exchanges, broker-dealers and futures commission merchants",
+      "tags": [
+        "sec",
+        "kalshiex",
+        "security-futures",
+        "perpetual-futures",
+        "prediction-markets",
+        "listing-standards"
       ]
     },
     {
