@@ -122,6 +122,27 @@
       "relevant_to": "prediction-market platforms, designated contract markets, exchanges, broker-dealers and futures commission merchants"
     },
     {
+      "id": "2026-11-06-occ-coinbase-national-trust-company-charter-consummated",
+      "date": "2026-11-06",
+      "published": "2026-11-06T00:00:00Z",
+      "issuing_body": "Office of the Comptroller of the Currency",
+      "title": "OCC licensing record shows Coinbase National Trust Company charter as Consummated/Effective on 11/06/2026",
+      "facts": "The Office of the Comptroller of the Currency's Corporate Applications Search licensing record for OCC Control Number 2025-Charter-343449 shows a filing status of \"Consummated/Effective\" dated 11/06/2026. The record gives the application type as \"New Bank Charter\" on the transaction form \"Charter National Bank Under Holding Company (Trust Bank)\", the proposed bank name as \"Coinbase National Trust Company\", and the proposed charter number as 25390. The same record lists \"Receipt\" at 10/03/2025 and \"Approved\" at 04/02/2026, records \"Trust Powers Requested? Yes\", gives the proposed headquarters as \"One Madison Ave. Suites 2400 and 2500 New York, NY 10010\", and shows a public comment period running 10/03/2025 to 11/03/2025. The record as retrieved contains no conditions or restrictions field, and no OCC news release for this action could be retrieved.",
+      "source_url": "https://apps.occ.gov/CAS/home/details?FilingID=3RAoRRek6o4j&FilingSubtypeID=1093&FilingTypeID=2",
+      "source_label": "OCC Corporate Applications Search (CAS) licensing record, Control No. 2025-Charter-343449 (apps.occ.gov)",
+      "tags": [
+        "occ",
+        "charter",
+        "national-trust-company",
+        "crypto-custody",
+        "digital-assets",
+        "licensing"
+      ],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "crypto exchanges and custodians, national trust banks, institutional digital-asset custody clients, bank charter applicants"
+    },
+    {
       "id": "2026-11-05-cftc-dcm-impartial-access-geographic-restrictions",
       "date": "2026-11-05",
       "published": "2026-11-05T00:00:00Z",

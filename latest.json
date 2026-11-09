@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-09T10:59:08Z",
+  "generated": "2026-11-09T22:50:50Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 363,
+  "count": 364,
   "items": [
     {
       "id": "2026-11-06-fincen-fed-withdraw-travel-rule-cvc-nprm",
@@ -115,6 +115,27 @@
         "perpetual-futures",
         "prediction-markets",
         "listing-standards"
+      ]
+    },
+    {
+      "id": "2026-11-06-occ-coinbase-national-trust-company-charter-consummated",
+      "date": "2026-11-06",
+      "published": "2026-11-06T00:00:00Z",
+      "title": "OCC licensing record shows Coinbase National Trust Company charter as Consummated/Effective on 11/06/2026",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-06-occ-coinbase-national-trust-company-charter-consummated",
+      "issuing_body": "Office of the Comptroller of the Currency",
+      "source_url": "https://apps.occ.gov/CAS/home/details?FilingID=3RAoRRek6o4j&FilingSubtypeID=1093&FilingTypeID=2",
+      "source_label": "OCC Corporate Applications Search (CAS) licensing record, Control No. 2025-Charter-343449 (apps.occ.gov)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "crypto exchanges and custodians, national trust banks, institutional digital-asset custody clients, bank charter applicants",
+      "tags": [
+        "occ",
+        "charter",
+        "national-trust-company",
+        "crypto-custody",
+        "digital-assets",
+        "licensing"
       ]
     },
     {
