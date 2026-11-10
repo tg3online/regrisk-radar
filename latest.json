@@ -1,8 +1,52 @@
 {
-  "generated": "2026-11-10T10:59:45Z",
+  "generated": "2026-11-10T22:48:38Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 365,
+  "count": 367,
   "items": [
+    {
+      "id": "2026-11-10-fincen-mexc-global-section-9714-federal-register-publication",
+      "date": "2026-11-10",
+      "published": "2026-11-10T22:41:58Z",
+      "title": "FinCEN's MEXC Global special-measure order is published in the Federal Register at 91 FR 72420, effective December 10, 2026",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-10-fincen-mexc-global-section-9714-federal-register-publication",
+      "issuing_body": "FinCEN / U.S. Department of the Treasury",
+      "source_url": "https://www.federalregister.gov/documents/2026/11/10/2026-22962/imposition-of-special-measure-prohibiting-the-transmittal-of-funds-involving-mexc-global",
+      "source_label": "Federal Register - FinCEN order, 91 FR 72420 (Nov. 10, 2026), document 2026-22962",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "exchanges, payment processors, banks and money services businesses with convertible-virtual-currency exposure",
+      "tags": [
+        "crypto",
+        "fincen",
+        "treasury",
+        "section-9714",
+        "special-measure",
+        "federal-register",
+        "aml"
+      ]
+    },
+    {
+      "id": "2026-11-10-cftc-dcm-impartial-access-federal-register-publication",
+      "date": "2026-11-10",
+      "published": "2026-11-10T22:41:58Z",
+      "title": "CFTC's DCM impartial-access interpretation is published in the Federal Register at 91 FR 72407, effective November 10, 2026",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-10-cftc-dcm-impartial-access-federal-register-publication",
+      "issuing_body": "Commodity Futures Trading Commission",
+      "source_url": "https://www.federalregister.gov/documents/2026/11/10/2026-22863/dcm-impartial-access-requirements",
+      "source_label": "Federal Register - CFTC interpretation, 91 FR 72407 (Nov. 10, 2026), document 2026-22863",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction-market platforms, event-contract and futures exchanges, designated contract markets",
+      "tags": [
+        "gaming",
+        "cftc",
+        "designated-contract-market",
+        "impartial-access",
+        "prediction-markets",
+        "event-contracts",
+        "federal-register"
+      ]
+    },
     {
       "id": "2026-11-09-fincen-exchange-overseas-scam-centers-readout",
       "date": "2026-11-09",
