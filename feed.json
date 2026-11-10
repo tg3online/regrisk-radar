@@ -6,6 +6,21 @@
   "description": "Daily facts-only regulatory radar — crypto, gaming, payments & fintech. Verified against primary sources.",
   "items": [
     {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-11-09-fincen-exchange-overseas-scam-centers-readout",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-11-09-fincen-exchange-overseas-scam-centers-readout",
+      "title": "FinCEN publishes a readout of a FinCEN Exchange event on transnational scam centers attended by digital asset industry partners",
+      "content_text": "FinCEN published a readout dated November 9, 2026 of a FinCEN Exchange event on combating illicit financial activity associated with transnational scam centers. The readout states that the event brought together representatives from financial institutions, digital asset industry partners, law enforcement agencies, and other government partners, and that participants shared information on the financial activities of scam center operations. The readout announces no new rule, advisory, obligation or deadline. It refers institutions to FinCEN materials issued in August 2026 - an Alert and a Financial Trend Analysis on digital asset investment scams - states that institutions should be vigilant and review them, and cites Executive Order 14390.\n\nPrimary source: FinCEN news release, \"READOUT: FinCEN Hosts Exchange Event to Combat Overseas Scam Centers,\" November 9, 2026 — https://www.fincen.gov/news/news-releases/readout-fincen-hosts-exchange-event-combat-overseas-scam-centers\n\nRelevant to: digital asset exchanges and custodians, banks, money services businesses, payment processors\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-11-09T00:00:00Z",
+      "tags": [
+        "fincen",
+        "treasury",
+        "illicit-finance",
+        "digital-assets",
+        "scam-centers",
+        "aml"
+      ]
+    },
+    {
       "id": "https://tg3online.github.io/regrisk-radar/#2026-11-06-fincen-fed-withdraw-travel-rule-cvc-nprm",
       "url": "https://tg3online.github.io/regrisk-radar/#2026-11-06-fincen-fed-withdraw-travel-rule-cvc-nprm",
       "title": "FinCEN and the Federal Reserve Board withdraw the proposed rule extending recordkeeping and travel rule obligations to convertible virtual currencies",
