@@ -5,8 +5,40 @@
     <link>https://tg3online.github.io/regrisk-radar/</link>
     <description>Daily facts-only regulatory radar — crypto, gaming, payments &amp; fintech. Verified against primary sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Nov 2026 22:48:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 10:59:12 +0000</lastBuildDate>
     <atom:link href="https://tg3online.github.io/regrisk-radar/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SEC reports fiscal year 2026 enforcement results: 348 actions and $1.095 billion in monetary relief</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-11-11-sec-fy2026-enforcement-annual-results</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-11-11-sec-fy2026-enforcement-annual-results</guid>
+      <pubDate>Wed, 11 Nov 2026 11:05:00 +0000</pubDate>
+      <category>SEC</category>
+      <description>In Release 2026-113, dated Washington D.C., Nov. 10, 2026, the Securities and Exchange Commission announced its enforcement results for fiscal year 2026, which ended September 30. The release states that the Commission filed 348 enforcement actions, including 235 standalone actions and 113 follow-on administrative proceedings, and also instituted 13 trading suspensions in response to suspected manipulation involving the securities of Asia-based issuers. It states that the Commission obtained orders for monetary relief totaling $1.095 billion, comprised of $752 million in disgorgement and prejudgment interest and $343 million in civil penalties, with $235 million of the disgorgement ordered deemed satisfied by a court in a separate non-SEC action, and that the SEC returned approximately $731 million to more than 250,000 harmed investors. The release further states that two-thirds of all standalone enforcement actions filed in fiscal year 2026 included charges against at least one individual. Among the noteworthy actions described, the release states that the SEC brought charges against three purported crypto asset trading platforms and four investment clubs, and describes a settled action finding an audit partner&#x27;s negligent conduct during audits of the now-defunct crypto asset trading platform FTX.
+
+Primary source: SEC Press Release 2026-113 (Nov. 10, 2026) — https://www.sec.gov/newsroom/press-releases/2026-113-sec-announces-enforcement-annual-results-fiscal-year-2026
+
+Relevant to: crypto asset trading platforms, broker-dealers, investment advisers, fund managers
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+    <item>
+      <title>Polymarket US and Robinhood Derivatives reported to have sued Missouri officials over prediction-market enforcement</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-11-11-polymarket-robinhood-missouri-prediction-market-suits</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-11-11-polymarket-robinhood-missouri-prediction-market-suits</guid>
+      <pubDate>Wed, 11 Nov 2026 11:05:00 +0000</pubDate>
+      <category>Federal court filings, Eastern District of Missouri (as reported)</category>
+      <description>Trade coverage published November 10, 2026 reports that Polymarket US and Robinhood Derivatives each filed suit in federal court against Missouri officials, including Attorney General Catherine Hanaway, on the preceding Monday. According to that coverage, Robinhood Derivatives pleads federal preemption and exclusive Commodity Futures Trading Commission jurisdiction over sports event contracts, and Polymarket US pleads that Missouri&#x27;s sports wagering framework unlawfully restricts interstate commerce; one outlet places both cases in the United States District Court for the Eastern District of Missouri and gives the captions QCX LLC v. Hanaway and Robinhood Derivatives LLC v. Missouri Attorney General. The coverage states that both suits follow cease-and-desist letters Missouri announced on September 18, 2026 to six operators, and that Novig filed its own challenge on October 16, 2026. No complaint, docket entry or court order was retrieved for this entry, and no outlet states a calendar filing date for either suit; the Missouri Attorney General&#x27;s own newsroom carries no release dated November 9, 10 or 11, 2026.
+
+Coverage: DeFi Rate, trade coverage (Nov. 10, 2026) — https://defirate.com/news/three-more-operators-sue-missouri-state-countersues-novig/
+
+Relevant to: prediction-market platforms, sportsbooks, exchanges, brokerages offering event contracts
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
     <item>
       <title>FinCEN&#x27;s MEXC Global special-measure order is published in the Federal Register at 91 FR 72420, effective December 10, 2026</title>
       <link>https://tg3online.github.io/regrisk-radar/#2026-11-10-fincen-mexc-global-section-9714-federal-register-publication</link>

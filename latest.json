@@ -1,8 +1,47 @@
 {
-  "generated": "2026-11-10T22:48:38Z",
+  "generated": "2026-11-11T10:59:12Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 367,
+  "count": 369,
   "items": [
+    {
+      "id": "2026-11-11-sec-fy2026-enforcement-annual-results",
+      "date": "2026-11-11",
+      "published": "2026-11-11T11:05:00Z",
+      "title": "SEC reports fiscal year 2026 enforcement results: 348 actions and $1.095 billion in monetary relief",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-11-sec-fy2026-enforcement-annual-results",
+      "issuing_body": "SEC",
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2026-113-sec-announces-enforcement-annual-results-fiscal-year-2026",
+      "source_label": "SEC Press Release 2026-113 (Nov. 10, 2026)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "crypto asset trading platforms, broker-dealers, investment advisers, fund managers",
+      "tags": [
+        "crypto",
+        "enforcement",
+        "sec",
+        "annual-results"
+      ]
+    },
+    {
+      "id": "2026-11-11-polymarket-robinhood-missouri-prediction-market-suits",
+      "date": "2026-11-11",
+      "published": "2026-11-11T11:05:00Z",
+      "title": "Polymarket US and Robinhood Derivatives reported to have sued Missouri officials over prediction-market enforcement",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-11-polymarket-robinhood-missouri-prediction-market-suits",
+      "issuing_body": "Federal court filings, Eastern District of Missouri (as reported)",
+      "source_url": "https://defirate.com/news/three-more-operators-sue-missouri-state-countersues-novig/",
+      "source_label": "DeFi Rate, trade coverage (Nov. 10, 2026)",
+      "source_type": "media_coverage",
+      "primary_source_status": "unavailable",
+      "relevant_to": "prediction-market platforms, sportsbooks, exchanges, brokerages offering event contracts",
+      "tags": [
+        "gaming",
+        "prediction-markets",
+        "event-contracts",
+        "preemption",
+        "missouri"
+      ]
+    },
     {
       "id": "2026-11-10-fincen-mexc-global-section-9714-federal-register-publication",
       "date": "2026-11-10",
