@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-11T10:59:12Z",
+  "generated": "2026-11-11T22:58:28Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 369,
+  "count": 372,
   "items": [
     {
       "id": "2026-11-11-sec-fy2026-enforcement-annual-results",
@@ -84,6 +84,48 @@
         "prediction-markets",
         "event-contracts",
         "federal-register"
+      ]
+    },
+    {
+      "id": "2026-11-11-ftc-hims-hers-amended-complaint-five-states",
+      "date": "2026-11-10",
+      "published": "2026-11-10T00:00:00Z",
+      "title": "Five states join FTC amended complaint against Hims and Hers over subscription billing, cancellation and privacy practices",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-11-ftc-hims-hers-amended-complaint-five-states",
+      "issuing_body": "Federal Trade Commission",
+      "source_url": "https://www.ftc.gov/news-events/news/press-releases/2026/11/five-states-join-ftc-lawsuit-alleging-hims-hers-engaged-deceptive-unlawful-privacy-practices",
+      "source_label": "FTC press release, November 10, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "subscription billers, payment processors, direct-to-consumer and telehealth platforms",
+      "tags": [
+        "payments",
+        "fintech",
+        "rosca",
+        "subscription-billing",
+        "ftc",
+        "enforcement"
+      ]
+    },
+    {
+      "id": "2026-11-11-mgcb-illegal-gambling-awareness-week",
+      "date": "2026-11-10",
+      "published": "2026-11-10T00:00:00Z",
+      "title": "Michigan Gaming Control Board marks Illegal Gambling Awareness Week, naming unlicensed sweepstakes casinos and prediction markets",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-11-mgcb-illegal-gambling-awareness-week",
+      "issuing_body": "Michigan Gaming Control Board",
+      "source_url": "https://www.michigan.gov/mgcb/news/2026/11/10/mgcb-marks-illegal-gambling-awareness-week",
+      "source_label": "Michigan Gaming Control Board press release, November 10, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction-market platforms, sweepstakes casinos, online gaming operators",
+      "tags": [
+        "gaming",
+        "prediction-markets",
+        "sweepstakes-casinos",
+        "event-contracts",
+        "state-enforcement",
+        "michigan"
       ]
     },
     {
@@ -240,6 +282,27 @@
         "crypto-custody",
         "digital-assets",
         "licensing"
+      ]
+    },
+    {
+      "id": "2026-11-11-ca-ag-multistate-amicus-briefs-kalshi-preemption",
+      "date": "2026-11-06",
+      "published": "2026-11-06T00:00:00Z",
+      "title": "California joins two bipartisan multistate amicus briefs backing New York and Wisconsin against Kalshi on gambling-law preemption",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-11-ca-ag-multistate-amicus-briefs-kalshi-preemption",
+      "issuing_body": "California Attorney General",
+      "source_url": "https://oag.ca.gov/news/press-releases/attorney-general-bonta-defends-state-gambling-laws-against-kalshi-again",
+      "source_label": "California Attorney General press release, November 6, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction-market platforms, sports-betting operators, exchanges",
+      "tags": [
+        "gaming",
+        "prediction-markets",
+        "event-contracts",
+        "preemption",
+        "state-enforcement",
+        "appellate"
       ]
     },
     {
