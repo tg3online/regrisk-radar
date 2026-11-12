@@ -1,0 +1,93 @@
+{
+  "_note": "RegRisk Radar drop file, 2026-11-12 EVENING run (suffix b; the morning file for this date already merged). Facts-only, public-safe fields only.",
+  "entries": [
+    {
+      "id": "2026-11-12-louisiana-ag-sues-prediction-market-operators",
+      "date": "2026-11-12",
+      "published": "2026-11-12T21:44:00Z",
+      "issuing_body": "Louisiana Attorney General (reported filing)",
+      "title": "Louisiana Attorney General reported to have sued prediction-market operators over unlicensed sports wagering, seeking a restraining order and an injunction",
+      "facts": "Two independently bylined trade reports published on the afternoon of November 12, 2026 state that Louisiana Attorney General Liz Murrill filed a lawsuit that day against prediction-market operators for offering what she characterises as unlicensed gambling and sports betting in Louisiana, and that she is seeking a temporary restraining order and an injunction. Both reports name Kalshi, Polymarket, Robinhood, Crypto.com, Underdog, Novig and ProphetX among the defendants; one of the two additionally names three further companies and places the case in a Louisiana state district court. Murrill is quoted as saying the companies “have violated our laws with impunity.” No petition, docket number, case caption or statutory citation has been retrieved, and the Louisiana Attorney General's own newsroom carries no release on the suit as of this entry.",
+      "source_url": "https://www.theblock.co/news/regulation/2026-11-12-louisiana-sues-kalshi-robinhood-other-prediction-markets-escalating-regulatory-fight-439052",
+      "source_label": "The Block (Sarah Wynn), 12 Nov 2026 — trade coverage; corroborated by Sports Betting Dime (Robert Linnehan), same day. No Louisiana Attorney General release or court petition retrieved.",
+      "tags": [
+        "gaming",
+        "prediction-markets",
+        "event-contracts",
+        "sports-wagering",
+        "state-enforcement",
+        "louisiana",
+        "crypto"
+      ],
+      "source_type": "coverage_reporting_filing",
+      "primary_source_status": "cited_by_coverage_not_retrieved",
+      "relevant_to": "prediction-market platforms, sportsbooks, crypto exchanges, payment processors"
+    },
+    {
+      "id": "2026-11-12-doj-north-korea-cryptocurrency-theft-disruption",
+      "date": "2026-11-12",
+      "published": "2026-11-12T21:20:09Z",
+      "issuing_body": "U.S. Department of Justice, Office of Public Affairs",
+      "title": "Justice Department announces actions to disrupt North Korean cryptocurrency theft, citing a $400 million scheme and more than $6 billion in virtual assets taken from Binance",
+      "facts": "In Press Release Number 26-1356, dated Thursday, November 12, 2026, the Justice Department states that the FaceStealer scheme “has resulted in the theft of more than $400 million worth of cryptocurrency” and, in its Central District of California section, “more than $400 million in the last 18 months,” and that “Pursuant to a federal warrant, the FBI seized over 900 webcam videos of FaceStealer victims.” The release further states that “on or about Oct. 29, members of the North Korean military, referred to by the FBI as ‘TraderTraitor’” “stole more than $6 billion worth of virtual assets from the Binance cryptocurrency exchange,” that “Collective U.S. government and private sector efforts so far have resulted in the freeze of more than $2.7 billion,” and that the Department has “already obtained court-authorization to seize or restrain in excess of $1.2 billion.” The release names no charged defendant, and the words indictment, complaint and charges do not appear in its text.",
+      "source_url": "https://www.justice.gov/opa/pr/justice-department-announces-actions-disrupt-north-koreas-massive-theft-cryptocurrency",
+      "source_label": "U.S. Department of Justice, Office of Public Affairs — Press Release 26-1356, 12 Nov 2026 (retrieved in full; figures re-quoted verbatim on a second pass)",
+      "tags": [
+        "crypto",
+        "enforcement",
+        "illicit-finance",
+        "doj",
+        "seizure",
+        "forfeiture",
+        "sanctions-evasion",
+        "exchange"
+      ],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "crypto exchanges, custodians, compliance and AML teams, payment processors"
+    },
+    {
+      "id": "2026-11-12-sec-amicus-backing-cftc-equity-perpetual-futures",
+      "date": "2026-11-12",
+      "published": "2026-11-12T12:00:00Z",
+      "issuing_body": "SEC (reported amicus filing)",
+      "title": "SEC reported to have filed an amicus brief supporting the CFTC in industry litigation challenging CFTC authorization of perpetual futures on individual US stocks",
+      "facts": "Three independent sources published on November 11 and 12, 2026 report that the SEC filed an amicus brief supporting the CFTC in litigation brought by the Capital Markets Alliance, an industry association reported to include Cboe and Citadel Securities among its members, challenging the CFTC's authorization of perpetual futures tied to individual US stocks on Administrative Procedure Act grounds and seeking vacatur of the approvals. Two of the sources quote the brief as addressing why a depiction “of a CFTC gone rogue, and an SEC gone missing” is mistaken, and report the SEC as stating that the exchanges' related rule changes remain subject to SEC review and that the two agencies collaborate frequently. One source states the brief takes no position on whether the contracts are futures or swaps; another states it takes no position on abrogation. The brief itself has not been retrieved: the SEC's own briefs listing and the court docket were both inaccessible, and the court, docket entry and a filing date of November 9, 2026 rest on a single one of the three sources.",
+      "source_url": "https://securitiesdocket.com/sec-backs-cftc-in-court-fight-over-stock-perps/",
+      "source_label": "Securities Docket (Jennifer Lee), 12 Nov 2026 — trade coverage; corroborated by The Block (Sarah Wynn), 11 Nov 2026, and the Lowenstein Sandler Crypto Brief, 12 Nov 2026. The amicus brief itself was not retrieved.",
+      "tags": [
+        "fintech",
+        "security-futures",
+        "perpetual-futures",
+        "sec",
+        "cftc",
+        "jurisdiction",
+        "litigation"
+      ],
+      "source_type": "coverage_reporting_filing",
+      "primary_source_status": "cited_by_coverage_not_retrieved",
+      "relevant_to": "exchanges, futures commission merchants, brokerages, crypto derivatives venues"
+    },
+    {
+      "id": "2026-11-12-doj-operation-tornado-dark-web-virtual-currency-seizure",
+      "date": "2026-11-12",
+      "published": "2026-11-12T00:00:00Z",
+      "issuing_body": "U.S. Department of Justice, Office of Public Affairs",
+      "title": "Justice Department announces international dark-web enforcement operation reporting 354 arrests and seizure of over $234 million in cash and virtual currencies",
+      "facts": "A Justice Department release dated November 12, 2026 states that an international law enforcement operation targeting opioid and fentanyl traffickers on the dark web “resulted in the seizure of over $234 million in both cash and virtual currencies,” and reports 354 arrests worldwide, including 132 in the United States. Named participating components include the Criminal Division's Computer Crime and Intellectual Property Section and its Money Laundering, Narcotics and Forfeiture Section, the Drug Enforcement Administration, the FBI and several U.S. Attorney's Offices.",
+      "source_url": "https://www.justice.gov/opa/pr/international-law-enforcement-operation-targeting-opioid-and-fentanyl-traffickers-dark-web",
+      "source_label": "U.S. Department of Justice, Office of Public Affairs — press release, 12 Nov 2026 (retrieved; release number not asserted, as the page displayed the same number for a different release)",
+      "tags": [
+        "crypto",
+        "enforcement",
+        "illicit-finance",
+        "doj",
+        "dark-web",
+        "seizure"
+      ],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "crypto exchanges, custodians, AML and sanctions compliance teams"
+    }
+  ]
+}
