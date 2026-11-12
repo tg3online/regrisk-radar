@@ -6,6 +6,55 @@
   "description": "Daily facts-only regulatory radar — crypto, gaming, payments & fintech. Verified against primary sources.",
   "items": [
     {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-11-12-louisiana-ag-sues-prediction-market-operators",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-11-12-louisiana-ag-sues-prediction-market-operators",
+      "title": "Louisiana Attorney General reported to have sued prediction-market operators over unlicensed sports wagering, seeking a restraining order and an injunction",
+      "content_text": "Two independently bylined trade reports published on the afternoon of November 12, 2026 state that Louisiana Attorney General Liz Murrill filed a lawsuit that day against prediction-market operators for offering what she characterises as unlicensed gambling and sports betting in Louisiana, and that she is seeking a temporary restraining order and an injunction. Both reports name Kalshi, Polymarket, Robinhood, Crypto.com, Underdog, Novig and ProphetX among the defendants; one of the two additionally names three further companies and places the case in a Louisiana state district court. Murrill is quoted as saying the companies “have violated our laws with impunity.” No petition, docket number, case caption or statutory citation has been retrieved, and the Louisiana Attorney General's own newsroom carries no release on the suit as of this entry.\n\nCoverage (reporting filing): The Block (Sarah Wynn), 12 Nov 2026 — trade coverage; corroborated by Sports Betting Dime (Robert Linnehan), same day. No Louisiana Attorney General release or court petition retrieved. — https://www.theblock.co/news/regulation/2026-11-12-louisiana-sues-kalshi-robinhood-other-prediction-markets-escalating-regulatory-fight-439052\n\nRelevant to: prediction-market platforms, sportsbooks, crypto exchanges, payment processors\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-11-12T21:44:00Z",
+      "tags": [
+        "gaming",
+        "prediction-markets",
+        "event-contracts",
+        "sports-wagering",
+        "state-enforcement",
+        "louisiana",
+        "crypto"
+      ]
+    },
+    {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-11-12-doj-north-korea-cryptocurrency-theft-disruption",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-11-12-doj-north-korea-cryptocurrency-theft-disruption",
+      "title": "Justice Department announces actions to disrupt North Korean cryptocurrency theft, citing a $400 million scheme and more than $6 billion in virtual assets taken from Binance",
+      "content_text": "In Press Release Number 26-1356, dated Thursday, November 12, 2026, the Justice Department states that the FaceStealer scheme “has resulted in the theft of more than $400 million worth of cryptocurrency” and, in its Central District of California section, “more than $400 million in the last 18 months,” and that “Pursuant to a federal warrant, the FBI seized over 900 webcam videos of FaceStealer victims.” The release further states that “on or about Oct. 29, members of the North Korean military, referred to by the FBI as ‘TraderTraitor’” “stole more than $6 billion worth of virtual assets from the Binance cryptocurrency exchange,” that “Collective U.S. government and private sector efforts so far have resulted in the freeze of more than $2.7 billion,” and that the Department has “already obtained court-authorization to seize or restrain in excess of $1.2 billion.” The release names no charged defendant, and the words indictment, complaint and charges do not appear in its text.\n\nPrimary source: U.S. Department of Justice, Office of Public Affairs — Press Release 26-1356, 12 Nov 2026 (retrieved in full; figures re-quoted verbatim on a second pass) — https://www.justice.gov/opa/pr/justice-department-announces-actions-disrupt-north-koreas-massive-theft-cryptocurrency\n\nRelevant to: crypto exchanges, custodians, compliance and AML teams, payment processors\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-11-12T21:20:09Z",
+      "tags": [
+        "crypto",
+        "enforcement",
+        "illicit-finance",
+        "doj",
+        "seizure",
+        "forfeiture",
+        "sanctions-evasion",
+        "exchange"
+      ]
+    },
+    {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-11-12-sec-amicus-backing-cftc-equity-perpetual-futures",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-11-12-sec-amicus-backing-cftc-equity-perpetual-futures",
+      "title": "SEC reported to have filed an amicus brief supporting the CFTC in industry litigation challenging CFTC authorization of perpetual futures on individual US stocks",
+      "content_text": "Three independent sources published on November 11 and 12, 2026 report that the SEC filed an amicus brief supporting the CFTC in litigation brought by the Capital Markets Alliance, an industry association reported to include Cboe and Citadel Securities among its members, challenging the CFTC's authorization of perpetual futures tied to individual US stocks on Administrative Procedure Act grounds and seeking vacatur of the approvals. Two of the sources quote the brief as addressing why a depiction “of a CFTC gone rogue, and an SEC gone missing” is mistaken, and report the SEC as stating that the exchanges' related rule changes remain subject to SEC review and that the two agencies collaborate frequently. One source states the brief takes no position on whether the contracts are futures or swaps; another states it takes no position on abrogation. The brief itself has not been retrieved: the SEC's own briefs listing and the court docket were both inaccessible, and the court, docket entry and a filing date of November 9, 2026 rest on a single one of the three sources.\n\nCoverage (reporting filing): Securities Docket (Jennifer Lee), 12 Nov 2026 — trade coverage; corroborated by The Block (Sarah Wynn), 11 Nov 2026, and the Lowenstein Sandler Crypto Brief, 12 Nov 2026. The amicus brief itself was not retrieved. — https://securitiesdocket.com/sec-backs-cftc-in-court-fight-over-stock-perps/\n\nRelevant to: exchanges, futures commission merchants, brokerages, crypto derivatives venues\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-11-12T12:00:00Z",
+      "tags": [
+        "fintech",
+        "security-futures",
+        "perpetual-futures",
+        "sec",
+        "cftc",
+        "jurisdiction",
+        "litigation"
+      ]
+    },
+    {
       "id": "https://tg3online.github.io/regrisk-radar/#2026-11-12-sdny-novig-preliminary-injunction-denied-not-swaps",
       "url": "https://tg3online.github.io/regrisk-radar/#2026-11-12-sdny-novig-preliminary-injunction-denied-not-swaps",
       "title": "SDNY denies Novig's preliminary injunction, holding its sports event contracts are not swaps under the Commodity Exchange Act",
@@ -47,6 +96,21 @@
         "sports-betting",
         "congress",
         "hearing"
+      ]
+    },
+    {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-11-12-doj-operation-tornado-dark-web-virtual-currency-seizure",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-11-12-doj-operation-tornado-dark-web-virtual-currency-seizure",
+      "title": "Justice Department announces international dark-web enforcement operation reporting 354 arrests and seizure of over $234 million in cash and virtual currencies",
+      "content_text": "A Justice Department release dated November 12, 2026 states that an international law enforcement operation targeting opioid and fentanyl traffickers on the dark web “resulted in the seizure of over $234 million in both cash and virtual currencies,” and reports 354 arrests worldwide, including 132 in the United States. Named participating components include the Criminal Division's Computer Crime and Intellectual Property Section and its Money Laundering, Narcotics and Forfeiture Section, the Drug Enforcement Administration, the FBI and several U.S. Attorney's Offices.\n\nPrimary source: U.S. Department of Justice, Office of Public Affairs — press release, 12 Nov 2026 (retrieved; release number not asserted, as the page displayed the same number for a different release) — https://www.justice.gov/opa/pr/international-law-enforcement-operation-targeting-opioid-and-fentanyl-traffickers-dark-web\n\nRelevant to: crypto exchanges, custodians, AML and sanctions compliance teams\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "crypto",
+        "enforcement",
+        "illicit-finance",
+        "doj",
+        "dark-web",
+        "seizure"
       ]
     },
     {

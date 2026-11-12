@@ -1,8 +1,75 @@
 {
-  "generated": "2026-11-12T11:06:33Z",
+  "generated": "2026-11-12T22:51:40Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 375,
+  "count": 379,
   "items": [
+    {
+      "id": "2026-11-12-louisiana-ag-sues-prediction-market-operators",
+      "date": "2026-11-12",
+      "published": "2026-11-12T21:44:00Z",
+      "title": "Louisiana Attorney General reported to have sued prediction-market operators over unlicensed sports wagering, seeking a restraining order and an injunction",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-12-louisiana-ag-sues-prediction-market-operators",
+      "issuing_body": "Louisiana Attorney General (reported filing)",
+      "source_url": "https://www.theblock.co/news/regulation/2026-11-12-louisiana-sues-kalshi-robinhood-other-prediction-markets-escalating-regulatory-fight-439052",
+      "source_label": "The Block (Sarah Wynn), 12 Nov 2026 — trade coverage; corroborated by Sports Betting Dime (Robert Linnehan), same day. No Louisiana Attorney General release or court petition retrieved.",
+      "source_type": "coverage_reporting_filing",
+      "primary_source_status": "cited_by_coverage_not_retrieved",
+      "relevant_to": "prediction-market platforms, sportsbooks, crypto exchanges, payment processors",
+      "tags": [
+        "gaming",
+        "prediction-markets",
+        "event-contracts",
+        "sports-wagering",
+        "state-enforcement",
+        "louisiana",
+        "crypto"
+      ]
+    },
+    {
+      "id": "2026-11-12-doj-north-korea-cryptocurrency-theft-disruption",
+      "date": "2026-11-12",
+      "published": "2026-11-12T21:20:09Z",
+      "title": "Justice Department announces actions to disrupt North Korean cryptocurrency theft, citing a $400 million scheme and more than $6 billion in virtual assets taken from Binance",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-12-doj-north-korea-cryptocurrency-theft-disruption",
+      "issuing_body": "U.S. Department of Justice, Office of Public Affairs",
+      "source_url": "https://www.justice.gov/opa/pr/justice-department-announces-actions-disrupt-north-koreas-massive-theft-cryptocurrency",
+      "source_label": "U.S. Department of Justice, Office of Public Affairs — Press Release 26-1356, 12 Nov 2026 (retrieved in full; figures re-quoted verbatim on a second pass)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "crypto exchanges, custodians, compliance and AML teams, payment processors",
+      "tags": [
+        "crypto",
+        "enforcement",
+        "illicit-finance",
+        "doj",
+        "seizure",
+        "forfeiture",
+        "sanctions-evasion",
+        "exchange"
+      ]
+    },
+    {
+      "id": "2026-11-12-sec-amicus-backing-cftc-equity-perpetual-futures",
+      "date": "2026-11-12",
+      "published": "2026-11-12T12:00:00Z",
+      "title": "SEC reported to have filed an amicus brief supporting the CFTC in industry litigation challenging CFTC authorization of perpetual futures on individual US stocks",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-12-sec-amicus-backing-cftc-equity-perpetual-futures",
+      "issuing_body": "SEC (reported amicus filing)",
+      "source_url": "https://securitiesdocket.com/sec-backs-cftc-in-court-fight-over-stock-perps/",
+      "source_label": "Securities Docket (Jennifer Lee), 12 Nov 2026 — trade coverage; corroborated by The Block (Sarah Wynn), 11 Nov 2026, and the Lowenstein Sandler Crypto Brief, 12 Nov 2026. The amicus brief itself was not retrieved.",
+      "source_type": "coverage_reporting_filing",
+      "primary_source_status": "cited_by_coverage_not_retrieved",
+      "relevant_to": "exchanges, futures commission merchants, brokerages, crypto derivatives venues",
+      "tags": [
+        "fintech",
+        "security-futures",
+        "perpetual-futures",
+        "sec",
+        "cftc",
+        "jurisdiction",
+        "litigation"
+      ]
+    },
     {
       "id": "2026-11-12-sdny-novig-preliminary-injunction-denied-not-swaps",
       "date": "2026-11-12",
@@ -63,6 +130,27 @@
         "sports-betting",
         "congress",
         "hearing"
+      ]
+    },
+    {
+      "id": "2026-11-12-doj-operation-tornado-dark-web-virtual-currency-seizure",
+      "date": "2026-11-12",
+      "published": "2026-11-12T00:00:00Z",
+      "title": "Justice Department announces international dark-web enforcement operation reporting 354 arrests and seizure of over $234 million in cash and virtual currencies",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-12-doj-operation-tornado-dark-web-virtual-currency-seizure",
+      "issuing_body": "U.S. Department of Justice, Office of Public Affairs",
+      "source_url": "https://www.justice.gov/opa/pr/international-law-enforcement-operation-targeting-opioid-and-fentanyl-traffickers-dark-web",
+      "source_label": "U.S. Department of Justice, Office of Public Affairs — press release, 12 Nov 2026 (retrieved; release number not asserted, as the page displayed the same number for a different release)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "crypto exchanges, custodians, AML and sanctions compliance teams",
+      "tags": [
+        "crypto",
+        "enforcement",
+        "illicit-finance",
+        "doj",
+        "dark-web",
+        "seizure"
       ]
     },
     {
