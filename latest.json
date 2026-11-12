@@ -1,8 +1,70 @@
 {
-  "generated": "2026-11-11T22:58:28Z",
+  "generated": "2026-11-12T11:06:33Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 372,
+  "count": 375,
   "items": [
+    {
+      "id": "2026-11-12-sdny-novig-preliminary-injunction-denied-not-swaps",
+      "date": "2026-11-12",
+      "published": "2026-11-12T11:05:00Z",
+      "title": "SDNY denies Novig's preliminary injunction, holding its sports event contracts are not swaps under the Commodity Exchange Act",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-12-sdny-novig-preliminary-injunction-denied-not-swaps",
+      "issuing_body": "U.S. District Court, Southern District of New York",
+      "source_url": "https://www.sportsbettingdime.com/app/uploads/2026/11/gov.uscourts.nysd_.669887.73.0.pdf",
+      "source_label": "Opinion and Order (ECF No. 73), Ludlow Exchange LLC v. James, No. 1:26-cv-06676 (S.D.N.Y. Nov. 10, 2026) - court PDF, copy hosted by Sports Betting Dime",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction-market platforms, sportsbooks, exchanges, payment processors serving event-contract operators",
+      "tags": [
+        "gaming",
+        "prediction-markets",
+        "event-contracts",
+        "preemption",
+        "commodity-exchange-act",
+        "new-york",
+        "litigation"
+      ]
+    },
+    {
+      "id": "2026-11-12-sec-kalshiex-perpetual-sfp-listing-standards-fr-publication",
+      "date": "2026-11-12",
+      "published": "2026-11-12T11:05:00Z",
+      "title": "KalshiEX rule change on perpetual security futures listing standards publishes at 91 FR 72935, comments due December 3, 2026",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-12-sec-kalshiex-perpetual-sfp-listing-standards-fr-publication",
+      "issuing_body": "SEC (Federal Register)",
+      "source_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-12/pdf/2026-22958.pdf",
+      "source_label": "Federal Register, 91 FR 72935 (Nov. 12, 2026), SEC Release No. 34-106841, File No. SR-KALSHIEX-2026-03 (govinfo PDF)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction-market platforms, security futures exchanges, broker-dealers, clearing firms",
+      "tags": [
+        "fintech",
+        "prediction-markets",
+        "security-futures",
+        "sro-rulemaking",
+        "sec",
+        "federal-register"
+      ]
+    },
+    {
+      "id": "2026-11-12-house-hearing-sports-gambling-college-campuses",
+      "date": "2026-11-12",
+      "published": "2026-11-12T11:05:00Z",
+      "title": "House subcommittee holds hearing on sports gambling on college campuses with the chair of the Massachusetts Gaming Commission among the witnesses",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-12-house-hearing-sports-gambling-college-campuses",
+      "issuing_body": "U.S. House Committee on Education and the Workforce",
+      "source_url": "https://edworkforce.house.gov/calendar/eventsingle.aspx?EventID=413855",
+      "source_label": "U.S. House Committee on Education and the Workforce, hearing page (Nov. 11, 2026)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "sportsbooks, prediction-market platforms, affiliate marketers, state gaming licensees",
+      "tags": [
+        "gaming",
+        "sports-betting",
+        "congress",
+        "hearing"
+      ]
+    },
     {
       "id": "2026-11-11-sec-fy2026-enforcement-annual-results",
       "date": "2026-11-11",
