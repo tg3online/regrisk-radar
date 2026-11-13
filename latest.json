@@ -1,8 +1,48 @@
 {
-  "generated": "2026-11-12T22:51:40Z",
+  "generated": "2026-11-13T10:54:21Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 379,
+  "count": 381,
   "items": [
+    {
+      "id": "2026-11-13-sec-ise-digital-commodity-options-listing-criteria",
+      "date": "2026-11-13",
+      "published": "2026-11-13T12:00:00Z",
+      "title": "SEC grants accelerated approval to Nasdaq ISE listing criteria for options on trusts holding digital commodities",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-13-sec-ise-digital-commodity-options-listing-criteria",
+      "issuing_body": "U.S. Securities and Exchange Commission",
+      "source_url": "https://www.sec.gov/files/rules/sro/ise/2026/34-106863.pdf",
+      "source_label": "SEC Release No. 34-106863 (SR-ISE-2026-42), November 10, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "options exchanges, digital-asset ETP issuers, market makers, broker-dealers",
+      "tags": [
+        "crypto",
+        "sec",
+        "options",
+        "listing-standards",
+        "etp",
+        "sro-rulemaking"
+      ]
+    },
+    {
+      "id": "2026-11-13-white-house-sec-cftc-nominations-to-senate",
+      "date": "2026-11-12",
+      "published": "2026-11-12T22:04:41Z",
+      "title": "White House sends four SEC and CFTC nominations to the Senate",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-13-white-house-sec-cftc-nominations-to-senate",
+      "issuing_body": "The White House",
+      "source_url": "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-sent-to-the-senate-16a6/",
+      "source_label": "The White House, Nominations Sent to the Senate, November 12, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "crypto exchanges, derivatives market participants, prediction-market platforms, fintech firms",
+      "tags": [
+        "sec",
+        "cftc",
+        "nominations",
+        "agency-composition"
+      ]
+    },
     {
       "id": "2026-11-12-louisiana-ag-sues-prediction-market-operators",
       "date": "2026-11-12",
