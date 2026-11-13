@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-13T10:54:21Z",
+  "generated": "2026-11-13T22:50:40Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 381,
+  "count": 386,
   "items": [
     {
       "id": "2026-11-13-sec-ise-digital-commodity-options-listing-criteria",
@@ -22,6 +22,72 @@
         "listing-standards",
         "etp",
         "sro-rulemaking"
+      ]
+    },
+    {
+      "id": "2026-11-13-cftc-united-states-sue-arkansas-prediction-markets",
+      "date": "2026-11-13",
+      "published": "2026-11-13T00:00:00Z",
+      "title": "CFTC and the United States sue Arkansas and its Attorney General in federal court over prediction-market jurisdiction",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-13-cftc-united-states-sue-arkansas-prediction-markets",
+      "issuing_body": "Commodity Futures Trading Commission",
+      "source_url": "https://www.cftc.gov/PressRoom/PressReleases/9325-26",
+      "source_label": "CFTC Release Number 9325-26, November 13, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction-market and event-contract platforms, designated contract markets, exchanges and brokerages offering event contracts, and operators with multi-state exposure",
+      "tags": [
+        "gaming",
+        "crypto",
+        "cftc",
+        "prediction-markets",
+        "event-contracts",
+        "preemption",
+        "state-enforcement",
+        "litigation",
+        "arkansas"
+      ]
+    },
+    {
+      "id": "2026-11-13-louisiana-court-tro-prediction-markets-reported",
+      "date": "2026-11-13",
+      "published": "2026-11-13T00:00:00Z",
+      "title": "Louisiana state court reported to have granted a temporary restraining order directing prediction markets to suspend operations",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-13-louisiana-court-tro-prediction-markets-reported",
+      "issuing_body": "21st Judicial District Court, Parish of Tangipahoa, Louisiana (reported)",
+      "source_url": "https://www.casino.org/news/louisiana-demands-prediction-markets-halt-operations/",
+      "source_label": "Casino.org, Devin O'Connor, November 13, 2026 (coverage; court order not retrieved)",
+      "source_type": "coverage_reporting_filing",
+      "primary_source_status": "cited_by_coverage_not_retrieved",
+      "relevant_to": "prediction-market and event-contract platforms, sportsbooks, exchanges and brokerages offering event contracts to Louisiana users",
+      "tags": [
+        "gaming",
+        "prediction-markets",
+        "event-contracts",
+        "state-enforcement",
+        "temporary-restraining-order",
+        "louisiana"
+      ]
+    },
+    {
+      "id": "2026-11-13-cftc-selig-beer-institute-tokenization-remarks",
+      "date": "2026-11-13",
+      "published": "2026-11-13T00:00:00Z",
+      "title": "CFTC Chairman Selig devotes a section of public remarks to tokenization, describing it as broader than native crypto assets",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-13-cftc-selig-beer-institute-tokenization-remarks",
+      "issuing_body": "Commodity Futures Trading Commission",
+      "source_url": "https://www.cftc.gov/PressRoom/SpeechesTestimony/opaselig15",
+      "source_label": "CFTC Speeches and Testimony, Chairman Michael S. Selig, November 13, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "tokenization platforms, real-world-asset issuers, commodity warehousing and warrant operators, and crypto market infrastructure firms",
+      "tags": [
+        "crypto",
+        "cftc",
+        "tokenization",
+        "blockchain",
+        "real-world-assets",
+        "speech"
       ]
     },
     {
@@ -191,6 +257,51 @@
         "doj",
         "dark-web",
         "seizure"
+      ]
+    },
+    {
+      "id": "2026-11-13-nydfs-virtual-currency-advertising-marketing-guidance",
+      "date": "2026-11-13",
+      "published": "2026-11-12T00:00:00Z",
+      "title": "NYDFS issues advertising and marketing guidance for all New York licensed and chartered virtual currency entities",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-13-nydfs-virtual-currency-advertising-marketing-guidance",
+      "issuing_body": "New York State Department of Financial Services",
+      "source_url": "https://www.dfs.ny.gov/reports_and_publications/press_releases/pr20261112",
+      "source_label": "NYDFS press release, November 12, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "BitLicensees, limited purpose trust companies, crypto exchanges and wallet providers marketing into New York, and their marketing and compliance teams",
+      "tags": [
+        "crypto",
+        "nydfs",
+        "bitlicense",
+        "virtual-currency",
+        "advertising",
+        "marketing",
+        "supervisory-guidance",
+        "new-york"
+      ]
+    },
+    {
+      "id": "2026-11-13-federal-reserve-2027-payment-services-pricing",
+      "date": "2026-11-13",
+      "published": "2026-11-12T00:00:00Z",
+      "title": "Federal Reserve Board announces 2027 pricing for Reserve Bank payment services, an estimated 1.4 percent average increase",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-13-federal-reserve-2027-payment-services-pricing",
+      "issuing_body": "Federal Reserve Board",
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
+      "source_label": "Federal Reserve Board press release, November 12, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "banks and credit unions using Reserve Bank payment services, ACH and instant-payment originators, and payment processors whose cost base tracks Reserve Bank fees",
+      "tags": [
+        "payments",
+        "federal-reserve",
+        "priced-services",
+        "ach",
+        "instant-payments",
+        "check-clearing",
+        "fee-schedule"
       ]
     },
     {
