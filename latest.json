@@ -1,8 +1,69 @@
 {
-  "generated": "2026-11-13T22:50:40Z",
+  "generated": "2026-11-16T10:54:15Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 386,
+  "count": 389,
   "items": [
+    {
+      "id": "2026-11-16-cftc-united-states-sue-louisiana-event-contracts",
+      "date": "2026-11-13",
+      "published": "2026-11-16T12:30:00Z",
+      "title": "CFTC and the United States sue Louisiana after a state court order shut down event-contract trading by CFTC-regulated exchanges",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-16-cftc-united-states-sue-louisiana-event-contracts",
+      "issuing_body": "CFTC",
+      "source_url": "https://www.cftc.gov/PressRoom/PressReleases/9326-26",
+      "source_label": "CFTC Release 9326-26, November 13, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction-market platforms, designated contract markets, futures commission merchants, brokerages offering event contracts",
+      "tags": [
+        "prediction-markets",
+        "event-contracts",
+        "preemption",
+        "litigation",
+        "CFTC",
+        "Louisiana"
+      ]
+    },
+    {
+      "id": "2026-11-16-agencies-extend-third-party-risk-guidance-comment-period",
+      "date": "2026-11-13",
+      "published": "2026-11-16T12:29:00Z",
+      "title": "Federal banking agencies and the NCUA extend the comment period on proposed third-party risk management guidance to December 16, 2026",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-16-agencies-extend-third-party-risk-guidance-comment-period",
+      "issuing_body": "Federal Reserve Board, FDIC, OCC and NCUA",
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm",
+      "source_label": "Federal Reserve Board joint press release, November 13, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "banks and credit unions with non-bank partners, payment and lending platforms operating through bank partnerships",
+      "tags": [
+        "third-party-risk",
+        "bank-partnerships",
+        "comment-deadline",
+        "prudential"
+      ]
+    },
+    {
+      "id": "2026-11-16-mgcb-illegal-gambling-enforcement-tally",
+      "date": "2026-11-13",
+      "published": "2026-11-16T12:28:00Z",
+      "title": "Michigan Gaming Control Board reports 259 cease and desist letters since mid-2024 and names prediction-market operators that stopped serving Michigan",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-16-mgcb-illegal-gambling-enforcement-tally",
+      "issuing_body": "Michigan Gaming Control Board",
+      "source_url": "https://www.michigan.gov/mgcb/news/2026/11/13/mgcb-sets-the-national-pace-against-illegal-gambling",
+      "source_label": "Michigan Gaming Control Board news release, November 13, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction-market platforms, offshore and sweepstakes operators, payment processors serving gaming operators",
+      "tags": [
+        "gaming",
+        "prediction-markets",
+        "sweepstakes",
+        "enforcement",
+        "Michigan",
+        "cease-and-desist"
+      ]
+    },
     {
       "id": "2026-11-13-sec-ise-digital-commodity-options-listing-criteria",
       "date": "2026-11-13",

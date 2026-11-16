@@ -5,8 +5,56 @@
     <link>https://tg3online.github.io/regrisk-radar/</link>
     <description>Daily facts-only regulatory radar — crypto, gaming, payments &amp; fintech. Verified against primary sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Nov 2026 22:50:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 10:54:15 +0000</lastBuildDate>
     <atom:link href="https://tg3online.github.io/regrisk-radar/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CFTC and the United States sue Louisiana after a state court order shut down event-contract trading by CFTC-regulated exchanges</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-11-16-cftc-united-states-sue-louisiana-event-contracts</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-11-16-cftc-united-states-sue-louisiana-event-contracts</guid>
+      <pubDate>Mon, 16 Nov 2026 12:30:00 +0000</pubDate>
+      <category>CFTC</category>
+      <description>The Commodity Futures Trading Commission announced on November 13, 2026 that the CFTC and the United States filed a lawsuit against Louisiana to block the state from prohibiting the offering of event contracts by CFTC-regulated designated contract markets, futures commission merchants and derivatives clearing organizations. The release states that Louisiana obtained a state court order on Thursday shutting down the operation of more than 30 companies connected to CFTC-regulated derivatives trading, and that the order was issued without notice to the defendants or an opportunity for them to be heard. The complaint hosted by the CFTC is brought by the United States of America and the Commodity Futures Trading Commission in the United States District Court for the Eastern District of Louisiana, page-stamped Case 2:26-cv-02612 and filed 11/13/26. Named defendants include the State of Louisiana, Attorney General Liz Murrill in her official capacity, the Louisiana Gaming Control Board and nine of its members in their official capacities, the Louisiana State Police Gaming Enforcement Division and State Police Superintendent Frank J. Besson, and Revenue Secretary Jarrod J. Coniglio. Release 9326-26 follows Release 9325-26 of the same date, in which the CFTC sued the State of Arkansas and stated that Arkansas was the 11th state the agency had sued.
+
+Primary source: CFTC Release 9326-26, November 13, 2026 — https://www.cftc.gov/PressRoom/PressReleases/9326-26
+
+Relevant to: prediction-market platforms, designated contract markets, futures commission merchants, brokerages offering event contracts
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+    <item>
+      <title>Federal banking agencies and the NCUA extend the comment period on proposed third-party risk management guidance to December 16, 2026</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-11-16-agencies-extend-third-party-risk-guidance-comment-period</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-11-16-agencies-extend-third-party-risk-guidance-comment-period</guid>
+      <pubDate>Mon, 16 Nov 2026 12:29:00 +0000</pubDate>
+      <category>Federal Reserve Board, FDIC, OCC and NCUA</category>
+      <description>On November 13, 2026 the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, the Office of the Comptroller of the Currency and the National Credit Union Administration issued a joint announcement extending the comment period on their proposed guidance on managing risks associated with third-party relationships. The announcement states that comments on the proposal were originally due November 16 and that the agencies will extend the period until December 16. The proposal, issued in September 2026, is described in the announcement as principles-based and non-binding, and as intended to promote consistency and prudent innovation in the banking industry. The Federal Reserve Board separately extended until December 16 the comment period on a proposed guide for Federal Reserve-supervised traditional community banks. The body of the announcement does not name financial technology firms, crypto, digital assets or payments.
+
+Primary source: Federal Reserve Board joint press release, November 13, 2026 — https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm
+
+Relevant to: banks and credit unions with non-bank partners, payment and lending platforms operating through bank partnerships
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+    <item>
+      <title>Michigan Gaming Control Board reports 259 cease and desist letters since mid-2024 and names prediction-market operators that stopped serving Michigan</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-11-16-mgcb-illegal-gambling-enforcement-tally</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-11-16-mgcb-illegal-gambling-enforcement-tally</guid>
+      <pubDate>Mon, 16 Nov 2026 12:28:00 +0000</pubDate>
+      <category>Michigan Gaming Control Board</category>
+      <description>The Michigan Gaming Control Board issued a news release dated November 13, 2026 stating that 259 illegal online gambling sites have received cease and desist letters since mid-2024 and that 166 have complied, which the board puts at a 64.1 percent compliance rate, up from about 50 percent reported in October 2025. The release states that a temporary restraining order obtained with the Michigan Department of Attorney General in June 2026 barred KalshiEX from offering sports contracts in Michigan, and that Robinhood in September 2026 and Coinbase and Polymarket in October 2026 each agreed to stop offering sports wagering contracts to Michigan customers. It reports a sweep of 45 operators in April 2026 and more than 30 offshore operators ordered out in October 2026, and names Bovada as ordered out in May 2024. It further states that between October 1, 2022 and October 31, 2026, 281 locations removed a total of 682 illegal gaming machines after receiving letters, and that joint investigations with the Attorney General have produced 146 convictions, 1,824 seized machines and $598,524.98 in seized cash since 2015. The release says every cease and desist letter is announced publicly so that payment processors, social media companies, internet service providers and data hosts are alerted.
+
+Primary source: Michigan Gaming Control Board news release, November 13, 2026 — https://www.michigan.gov/mgcb/news/2026/11/13/mgcb-sets-the-national-pace-against-illegal-gambling
+
+Relevant to: prediction-market platforms, offshore and sweepstakes operators, payment processors serving gaming operators
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
     <item>
       <title>SEC grants accelerated approval to Nasdaq ISE listing criteria for options on trusts holding digital commodities</title>
       <link>https://tg3online.github.io/regrisk-radar/#2026-11-13-sec-ise-digital-commodity-options-listing-criteria</link>
