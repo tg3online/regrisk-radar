@@ -1,8 +1,31 @@
 {
-  "generated": "2026-11-16T10:54:15Z",
+  "generated": "2026-11-16T22:43:47Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 389,
+  "count": 390,
   "items": [
+    {
+      "id": "2026-11-16-senate-democrats-ask-cftc-withdraw-geofencing-interpretation",
+      "date": "2026-11-16",
+      "published": "2026-11-16T22:45:00Z",
+      "title": "Nine Democratic senators ask the CFTC to withdraw or freeze its event-contract geofencing interpretation and to preserve records back to January 1, 2025",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-16-senate-democrats-ask-cftc-withdraw-geofencing-interpretation",
+      "issuing_body": "United States Senate (nine Democratic senators)",
+      "source_url": "https://www.schiff.senate.gov/wp-content/uploads/2026/11/Inquiry-to-CFTC-on-prediction-market-geofencing.pdf",
+      "source_label": "Letter to CFTC Chairman Michael Selig, November 16, 2026 (PDF, schiff.senate.gov)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction-market platforms, designated contract markets, event-contract exchanges, tribal gaming operators, sportsbooks",
+      "tags": [
+        "prediction-markets",
+        "event-contracts",
+        "geofencing",
+        "CFTC",
+        "congressional-oversight",
+        "tribal-gaming",
+        "IGRA",
+        "records-preservation"
+      ]
+    },
     {
       "id": "2026-11-16-cftc-united-states-sue-louisiana-event-contracts",
       "date": "2026-11-13",

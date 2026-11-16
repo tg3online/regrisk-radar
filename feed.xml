@@ -5,8 +5,24 @@
     <link>https://tg3online.github.io/regrisk-radar/</link>
     <description>Daily facts-only regulatory radar — crypto, gaming, payments &amp; fintech. Verified against primary sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Nov 2026 10:54:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 22:43:47 +0000</lastBuildDate>
     <atom:link href="https://tg3online.github.io/regrisk-radar/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nine Democratic senators ask the CFTC to withdraw or freeze its event-contract geofencing interpretation and to preserve records back to January 1, 2025</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-11-16-senate-democrats-ask-cftc-withdraw-geofencing-interpretation</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-11-16-senate-democrats-ask-cftc-withdraw-geofencing-interpretation</guid>
+      <pubDate>Mon, 16 Nov 2026 22:45:00 +0000</pubDate>
+      <category>United States Senate (nine Democratic senators)</category>
+      <description>A letter dated November 16, 2026, addressed to Commodity Futures Trading Commission Chairman Michael Selig, states that the Commission&#x27;s November 5 interpretation, identified in the letter&#x27;s first footnote as Release Number 9323-26, orders Designated Contract Markets to end access criteria that restrict access to certain event contract markets based on prospective traders&#x27; location or residence, for example geofencing, within 30 days. The letter states that the decision directly conflicts with active court orders and undermines state and tribal law, and asks that the Commission withdraw the interpretation or freeze all efforts to implement it until litigation is resolved. At minimum, the letter asks the Commission to state expressly that three categories of restriction do not violate the impartial access requirements of 17 CFR 38.151(b): geographic restrictions imposed by court order, those adopted to comply with the Indian Gaming Regulatory Act or tribal-state compacts, and those an exchange adopts voluntarily. The letter asks the Commission to preserve all records and communications on these topics from January 1, 2025 to the present and going forward, to suspend any auto-delete functions immediately, and to notify persons with control over potentially relevant records of similar preservation obligations. It requests a response by November 23, 2026, including written confirmation that records are being preserved. The signature block lists Adam B. Schiff, Catherine Cortez Masto, Amy Klobuchar, Jacky Rosen, Maria Cantwell, Alex Padilla, Elissa Slotkin, Patty Murray and Gary C. Peters, each as United States Senator, with Klobuchar also identified as Ranking Member of the Committee on Agriculture, Nutrition, and Forestry. The letter refers to sports event contracts on Tribal lands as unauthorized Class III gaming under the Indian Gaming Regulatory Act, and to an order in Blue Lake Rancheria v. Kalshi requiring geofencing around the plaintiff&#x27;s tribal lands.
+
+Primary source: Letter to CFTC Chairman Michael Selig, November 16, 2026 (PDF, schiff.senate.gov) — https://www.schiff.senate.gov/wp-content/uploads/2026/11/Inquiry-to-CFTC-on-prediction-market-geofencing.pdf
+
+Relevant to: prediction-market platforms, designated contract markets, event-contract exchanges, tribal gaming operators, sportsbooks
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
     <item>
       <title>CFTC and the United States sue Louisiana after a state court order shut down event-contract trading by CFTC-regulated exchanges</title>
       <link>https://tg3online.github.io/regrisk-radar/#2026-11-16-cftc-united-states-sue-louisiana-event-contracts</link>
