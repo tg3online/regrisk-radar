@@ -1,8 +1,74 @@
 {
-  "generated": "2026-11-17T10:53:53Z",
+  "generated": "2026-11-17T22:47:10Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 393,
+  "count": 396,
   "items": [
+    {
+      "id": "2026-11-17-novig-ludlow-exchange-sues-ohio-officials-event-contracts",
+      "date": "2026-11-17",
+      "published": "2026-11-17T22:55:00Z",
+      "title": "Novig operator Ludlow Exchange sues Ohio Attorney General and Casino Control Commission officials over sports event contracts",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-17-novig-ludlow-exchange-sues-ohio-officials-event-contracts",
+      "issuing_body": "United States District Court for the Northern District of Ohio",
+      "source_url": "https://storage.courtlistener.com/recap/gov.uscourts.ohnd.333075/gov.uscourts.ohnd.333075.1.0.pdf",
+      "source_label": "Complaint, Ludlow Exchange LLC v. Wilson, N.D. Ohio (court filing via CourtListener RECAP)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction-market platforms, sports event contract operators, designated contract markets, state-licensed sportsbooks",
+      "tags": [
+        "prediction-markets",
+        "event-contracts",
+        "sports-event-contracts",
+        "preemption",
+        "commodity-exchange-act",
+        "ohio",
+        "litigation",
+        "cease-and-desist"
+      ]
+    },
+    {
+      "id": "2026-11-17-cftc-blockchain-dcm-dco-approval-statement",
+      "date": "2026-11-17",
+      "published": "2026-11-17T22:55:00Z",
+      "title": "CFTC Chairman reports approval of a designated contract market designation and derivatives clearing organization registration for a firm using blockchain-based architecture",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-17-cftc-blockchain-dcm-dco-approval-statement",
+      "issuing_body": "Commodity Futures Trading Commission",
+      "source_url": "https://www.cftc.gov/PressRoom/SpeechesTestimony/seligstatement111626",
+      "source_label": "CFTC, Statement of Chairman Michael S. Selig, November 16, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "derivatives exchanges, clearing organizations, tokenized market infrastructure providers, crypto trading platforms",
+      "tags": [
+        "cftc",
+        "blockchain",
+        "digital-assets",
+        "designated-contract-market",
+        "derivatives-clearing-organization",
+        "market-infrastructure",
+        "registration"
+      ]
+    },
+    {
+      "id": "2026-11-17-cftc-december-roundtable-24-7-trading-agenda",
+      "date": "2026-11-17",
+      "published": "2026-11-17T22:55:00Z",
+      "title": "CFTC Announces Agenda for December Roundtable on 24/7 Trading",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-17-cftc-december-roundtable-24-7-trading-agenda",
+      "issuing_body": "Commodity Futures Trading Commission",
+      "source_url": "https://www.cftc.gov/PressRoom/PressReleases/9327-26.html",
+      "source_label": "CFTC Release Number 9327-26, November 17, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "derivatives exchanges, clearing organizations, crypto trading platforms, tokenization providers",
+      "tags": [
+        "cftc",
+        "24-7-trading",
+        "tokenization",
+        "market-structure",
+        "derivatives",
+        "roundtable"
+      ]
+    },
     {
       "id": "2026-11-17-federal-reserve-2027-payment-services-pricing",
       "date": "2026-11-17",
