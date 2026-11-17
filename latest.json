@@ -1,8 +1,70 @@
 {
-  "generated": "2026-11-16T22:43:47Z",
+  "generated": "2026-11-17T10:53:53Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 390,
+  "count": 393,
   "items": [
+    {
+      "id": "2026-11-17-federal-reserve-2027-payment-services-pricing",
+      "date": "2026-11-17",
+      "published": "2026-11-17T00:00:00Z",
+      "title": "Federal Reserve Board announces 2027 pricing for Reserve Bank payment services, effective January 1, 2027",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-17-federal-reserve-2027-payment-services-pricing",
+      "issuing_body": "Board of Governors of the Federal Reserve System",
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
+      "source_label": "Federal Reserve Board press release, November 12, 2026, pricing for 2027 payment services and check service changes",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "banks, credit unions, payment processors, ACH originators and instant payment participants",
+      "tags": [
+        "federal-reserve",
+        "payments",
+        "ach",
+        "instant-payments",
+        "check-services",
+        "pricing"
+      ]
+    },
+    {
+      "id": "2026-11-17-mgcb-saginaw-chippewa-white-hat-gaming-platform",
+      "date": "2026-11-17",
+      "published": "2026-11-17T00:00:00Z",
+      "title": "Michigan Gaming Control Board approves Saginaw Chippewa Indian Tribe transition to the White Hat Gaming platform",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-17-mgcb-saginaw-chippewa-white-hat-gaming-platform",
+      "issuing_body": "Michigan Gaming Control Board",
+      "source_url": "https://www.michigan.gov/mgcb/news/2026/11/12/mgcb-approves-white-hat-gaming-platform-for-saginaw-chippewa-tribe",
+      "source_label": "Michigan Gaming Control Board news release, November 12, 2026, MGCB Approves Saginaw Chippewa Indian Tribe's Transition to White Hat Gaming Platform",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "tribal gaming operators, online casino and sportsbook platform providers, Michigan gaming licensees",
+      "tags": [
+        "michigan",
+        "mgcb",
+        "tribal-gaming",
+        "internet-gaming",
+        "sports-betting",
+        "platform-provider"
+      ]
+    },
+    {
+      "id": "2026-11-17-cftc-chairman-tokenization-remarks-beer-institute",
+      "date": "2026-11-17",
+      "published": "2026-11-17T00:00:00Z",
+      "title": "CFTC Chairman Selig addresses tokenization in remarks to the Beer Institute Annual Membership Meeting",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-17-cftc-chairman-tokenization-remarks-beer-institute",
+      "issuing_body": "Commodity Futures Trading Commission",
+      "source_url": "https://www.cftc.gov/PressRoom/SpeechesTestimony/opaselig15",
+      "source_label": "CFTC speech, November 13, 2026, Remarks at Beer Institute Annual Membership Meeting, Chairman Michael S. Selig",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "digital asset platforms, tokenization projects, derivatives market participants and commodity hedgers",
+      "tags": [
+        "cftc",
+        "tokenization",
+        "digital-assets",
+        "derivatives",
+        "speech"
+      ]
+    },
     {
       "id": "2026-11-16-senate-democrats-ask-cftc-withdraw-geofencing-interpretation",
       "date": "2026-11-16",
