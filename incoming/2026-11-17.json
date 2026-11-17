@@ -1,0 +1,46 @@
+{
+  "entries": [
+    {
+      "id": "2026-11-17-federal-reserve-2027-payment-services-pricing",
+      "date": "2026-11-17",
+      "published": "2026-11-17T00:00:00Z",
+      "issuing_body": "Board of Governors of the Federal Reserve System",
+      "title": "Federal Reserve Board announces 2027 pricing for Reserve Bank payment services, effective January 1, 2027",
+      "facts": "On November 12, 2026 the Federal Reserve Board announced pricing, effective January 1, 2027, for the payment services the Federal Reserve Banks provide to banks and credit unions, together with changes to streamline and adjust their check services. The announcement covers check clearing, ACH, instant payments, and wholesale payment and settlement services. It states that the Federal Reserve expects to recover 101.5 percent of actual and imputed expenses in 2027, and that the price changes will result in an estimated 1.4 percent average price increase for established, mature services. The check changes include increasing fees that banks and credit unions pay to process checks. The announcement states that the changes do not impact consumers' and businesses' ability to pay with or receive checks.",
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
+      "source_label": "Federal Reserve Board press release, November 12, 2026, pricing for 2027 payment services and check service changes",
+      "tags": ["federal-reserve", "payments", "ach", "instant-payments", "check-services", "pricing"],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "banks, credit unions, payment processors, ACH originators and instant payment participants"
+    },
+    {
+      "id": "2026-11-17-mgcb-saginaw-chippewa-white-hat-gaming-platform",
+      "date": "2026-11-17",
+      "published": "2026-11-17T00:00:00Z",
+      "issuing_body": "Michigan Gaming Control Board",
+      "title": "Michigan Gaming Control Board approves Saginaw Chippewa Indian Tribe transition to the White Hat Gaming platform",
+      "facts": "In a release dated November 12, 2026 the Michigan Gaming Control Board announced that it approved Soaring Eagle Gaming's request to move its internet gaming and internet sports betting platform operations to White Hat Gaming Inc., which replaces GAN as the Saginaw Chippewa Indian Tribe's platform provider. The release states that the Tribe was authorized to begin offering online play on the new platform on November 10, 2026. Stated conditions of the approval include submitting all taxes, payments and fees required under the Lawful Internet Gaming Act and the Lawful Sports Betting Act, and using Board-approved cashiering and depositing locations.",
+      "source_url": "https://www.michigan.gov/mgcb/news/2026/11/12/mgcb-approves-white-hat-gaming-platform-for-saginaw-chippewa-tribe",
+      "source_label": "Michigan Gaming Control Board news release, November 12, 2026, MGCB Approves Saginaw Chippewa Indian Tribe's Transition to White Hat Gaming Platform",
+      "tags": ["michigan", "mgcb", "tribal-gaming", "internet-gaming", "sports-betting", "platform-provider"],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "tribal gaming operators, online casino and sportsbook platform providers, Michigan gaming licensees"
+    },
+    {
+      "id": "2026-11-17-cftc-chairman-tokenization-remarks-beer-institute",
+      "date": "2026-11-17",
+      "published": "2026-11-17T00:00:00Z",
+      "issuing_body": "Commodity Futures Trading Commission",
+      "title": "CFTC Chairman Selig addresses tokenization in remarks to the Beer Institute Annual Membership Meeting",
+      "facts": "In remarks delivered in Washington, DC on November 13, 2026, CFTC Chairman Michael S. Selig addressed aluminum pricing, including the London Metal Exchange benchmark and the Midwest premium, a possible United States based aluminum contract, and recycled aluminum derivatives. The remarks include a section on tokenization which states that when most people hear the word tokenization or blockchain they likely think of crypto assets like bitcoin or ether, and that tokenization is much broader than native crypto assets, citing United States Treasurys and agricultural commodities such as cattle. The remarks state that the CFTC oversees a nearly 600 trillion dollar notional derivatives market. The remarks announce no rule, no enforcement action and no change of policy, and contain no mention of prediction markets, event contracts or geofencing.",
+      "source_url": "https://www.cftc.gov/PressRoom/SpeechesTestimony/opaselig15",
+      "source_label": "CFTC speech, November 13, 2026, Remarks at Beer Institute Annual Membership Meeting, Chairman Michael S. Selig",
+      "tags": ["cftc", "tokenization", "digital-assets", "derivatives", "speech"],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "digital asset platforms, tokenization projects, derivatives market participants and commodity hedgers"
+    }
+  ]
+}
