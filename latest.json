@@ -1,8 +1,77 @@
 {
-  "generated": "2026-11-17T22:47:10Z",
+  "generated": "2026-11-18T11:04:52Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 396,
+  "count": 399,
   "items": [
+    {
+      "id": "2026-11-18-cftc-order-staying-kalshiex-trump-mention-contracts",
+      "date": "2026-11-18",
+      "published": "2026-11-18T00:00:00Z",
+      "title": "CFTC institutes proceedings into whether KalshiEX filed a false self-certification and stays the listing of its Trump mention contracts, with an answer due December 11, 2026",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-18-cftc-order-staying-kalshiex-trump-mention-contracts",
+      "issuing_body": "Commodity Futures Trading Commission (CFTC)",
+      "source_url": "https://www.cftc.gov/filings/documents/2026/orgdcmkexorderinstproce261116.pdf",
+      "source_label": "CFTC order, Order Instituting Proceedings and Staying the Listing of the Contract under Commission Regulation 40.2(c), In the Matter of Contracts Self-Certified by KalshiEX LLC; and CFTC industry filings record for designated contract market product 55252",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction-market platforms, designated contract markets, futures commission merchants, exchanges listing event contracts",
+      "tags": [
+        "cftc",
+        "prediction-markets",
+        "event-contracts",
+        "mention-markets",
+        "self-certification",
+        "enforcement",
+        "kalshi",
+        "binary-options"
+      ]
+    },
+    {
+      "id": "2026-11-18-fincen-customer-due-diligence-beneficial-ownership-nprm",
+      "date": "2026-11-18",
+      "published": "2026-11-18T00:00:00Z",
+      "title": "FinCEN proposes to amend customer due diligence and beneficial ownership requirements for covered financial institutions, with comments due 60 days after Federal Register publication",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-18-fincen-customer-due-diligence-beneficial-ownership-nprm",
+      "issuing_body": "Financial Crimes Enforcement Network (FinCEN), Treasury",
+      "source_url": "https://home.treasury.gov/news/press-releases/sb0691",
+      "source_label": "U.S. Department of the Treasury press release sb0691, FinCEN Issues Proposed Rule to Strengthen Customer Due Diligence Requirements for Covered Financial Institutions, November 17, 2026; and the notice of proposed rulemaking as transmitted to the Federal Register, RIN 1506-AB78",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "banks, broker-dealers, futures commission merchants, payment companies and digital asset firms that rely on covered financial institutions for banking access",
+      "tags": [
+        "fincen",
+        "treasury",
+        "bsa-aml",
+        "customer-due-diligence",
+        "beneficial-ownership",
+        "proposed-rule",
+        "banks",
+        "payments"
+      ]
+    },
+    {
+      "id": "2026-11-18-sec-nyse-arca-american-binary-kpi-options-filings",
+      "date": "2026-11-18",
+      "published": "2026-11-18T00:00:00Z",
+      "title": "SEC publishes NYSE Arca and NYSE American filings to permit binary options on issuer key performance indicators, including bitcoin produced, hashrate, bitcoin holdings and digital asset trading volume",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-18-sec-nyse-arca-american-binary-kpi-options-filings",
+      "issuing_body": "Securities and Exchange Commission (SEC)",
+      "source_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-18/pdf/2026-23427.pdf",
+      "source_label": "Federal Register, November 18, 2026, SEC Release No. 34-106899, File No. SR-NYSEARCA-2026-107, document 2026-23427 at 91 FR 74225, served by the U.S. Government Publishing Office; companion notice document 2026-23425 at 91 FR 74244, Release No. 34-106898, File No. SR-NYSEAMER-2026-97",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "securities exchanges, options market makers, digital asset exchanges and miners whose reported metrics would underlie listed contracts, prediction-market platforms",
+      "tags": [
+        "sec",
+        "binary-options",
+        "key-performance-indicators",
+        "digital-assets",
+        "bitcoin-mining",
+        "market-structure",
+        "nyse-arca",
+        "nyse-american"
+      ]
+    },
     {
       "id": "2026-11-17-novig-ludlow-exchange-sues-ohio-officials-event-contracts",
       "date": "2026-11-17",
