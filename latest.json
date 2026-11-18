@@ -1,8 +1,112 @@
 {
-  "generated": "2026-11-18T11:04:52Z",
+  "generated": "2026-11-18T22:54:50Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 399,
+  "count": 404,
   "items": [
+    {
+      "id": "2026-11-18-senate-agriculture-cftc-commissioner-nomination-hearing",
+      "date": "2026-11-18",
+      "published": "2026-11-18T23:05:00Z",
+      "title": "Senate Agriculture Committee holds nomination hearing for two CFTC Commissioner nominees",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-18-senate-agriculture-cftc-commissioner-nomination-hearing",
+      "issuing_body": "Senate Committee on Agriculture, Nutrition, and Forestry",
+      "source_url": "https://www.agriculture.senate.gov/hearings/nomination-hearing-11-17-2026",
+      "source_label": "Senate Committee on Agriculture, Nutrition, and Forestry, Nomination Hearing page, November 17, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction-market platforms, event-contract exchanges, crypto derivatives venues, futures commission merchants",
+      "tags": [
+        "CFTC",
+        "nominations",
+        "event-contracts",
+        "crypto-derivatives",
+        "security-futures",
+        "congressional-oversight"
+      ]
+    },
+    {
+      "id": "2026-11-18-cftc-records-kex-perpetual-single-stock-futures-certification",
+      "date": "2026-11-18",
+      "published": "2026-11-18T23:05:00Z",
+      "title": "CFTC product records show a designated contract market self-certified a tranche of perpetual single stock futures",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-18-cftc-records-kex-perpetual-single-stock-futures-certification",
+      "issuing_body": "CFTC",
+      "source_url": "https://www.cftc.gov/IndustryOversight/IndustryFilings/TradingOrganizationProducts/67964",
+      "source_label": "CFTC Industry Filings, Designated Contract Market product record 67964, November 17, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "designated contract markets, futures commission merchants, exchanges, derivatives market participants",
+      "tags": [
+        "CFTC",
+        "self-certification",
+        "security-futures",
+        "single-stock-futures",
+        "market-structure",
+        "designated-contract-market"
+      ]
+    },
+    {
+      "id": "2026-11-18-cftc-records-kex-bitcoin-mining-difficulty-event-contracts",
+      "date": "2026-11-18",
+      "published": "2026-11-18T23:05:00Z",
+      "title": "CFTC product records show a designated contract market self-certified Bitcoin mining difficulty event contracts",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-18-cftc-records-kex-bitcoin-mining-difficulty-event-contracts",
+      "issuing_body": "CFTC",
+      "source_url": "https://www.cftc.gov/IndustryOversight/IndustryFilings/TradingOrganizationProducts/68013",
+      "source_label": "CFTC Industry Filings, Designated Contract Market product record 68013, November 17, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction-market platforms, event-contract exchanges, bitcoin miners, crypto derivatives venues",
+      "tags": [
+        "CFTC",
+        "self-certification",
+        "event-contracts",
+        "binary-options",
+        "bitcoin-mining-difficulty",
+        "prediction-markets"
+      ]
+    },
+    {
+      "id": "2026-11-18-cftc-records-qcex-metacritic-score-contracts-certification",
+      "date": "2026-11-18",
+      "published": "2026-11-18T23:05:00Z",
+      "title": "CFTC product record shows a designated contract market self-certified Metacritic Score Contracts under Regulation 40.2",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-18-cftc-records-qcex-metacritic-score-contracts-certification",
+      "issuing_body": "CFTC",
+      "source_url": "https://www.cftc.gov/IndustryOversight/IndustryFilings/TradingOrganizationProducts/68021",
+      "source_label": "CFTC Industry Filings, Designated Contract Market product record 68021, November 17, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction-market platforms, event-contract exchanges, entertainment and media data licensors",
+      "tags": [
+        "CFTC",
+        "self-certification",
+        "regulation-40.2",
+        "event-contracts",
+        "binary-options",
+        "prediction-markets"
+      ]
+    },
+    {
+      "id": "2026-11-18-bia-chukchansi-california-class-iii-compact-extension",
+      "date": "2026-11-18",
+      "published": "2026-11-18T23:05:00Z",
+      "title": "Bureau of Indian Affairs notice announces extension of a California Class III gaming compact to December 31, 2027",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-18-bia-chukchansi-california-class-iii-compact-extension",
+      "issuing_body": "Bureau of Indian Affairs",
+      "source_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-18/pdf/2026-23404.pdf",
+      "source_label": "Federal Register, Bureau of Indian Affairs notice, FR Doc. 2026-23404, November 18, 2026 (govinfo)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "tribal gaming operators, casino operators, state gaming regulators",
+      "tags": [
+        "tribal-gaming",
+        "class-III-gaming",
+        "compact-extension",
+        "Bureau-of-Indian-Affairs",
+        "Federal-Register"
+      ]
+    },
     {
       "id": "2026-11-18-cftc-order-staying-kalshiex-trump-mention-contracts",
       "date": "2026-11-18",
