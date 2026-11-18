@@ -1,0 +1,73 @@
+{
+  "entries": [
+    {
+      "id": "2026-11-18-cftc-order-staying-kalshiex-trump-mention-contracts",
+      "date": "2026-11-18",
+      "published": "2026-11-18T00:00:00Z",
+      "issuing_body": "Commodity Futures Trading Commission (CFTC)",
+      "title": "CFTC institutes proceedings into whether KalshiEX filed a false self-certification and stays the listing of its Trump mention contracts, with an answer due December 11, 2026",
+      "facts": "An order of the Commodity Futures Trading Commission, captioned In the Matter of the Will word be said by Donald Trump after Issuance and before date Contracts Self-Certified by KalshiEX LLC under Commission Regulation 40.2, is titled Order Instituting Proceedings and Staying the Listing of the Contract under Commission Regulation 40.2(c). Its first operative paragraph states that a proceeding is instituted to determine whether Kalshi's certification of the Contracts was false. Its second requires Kalshi to file a written answer with the Secretary of the Commission no later than December 11, 2026, demonstrating why its certification that the Contracts comply with the Act and the Core Principles should not be found to be false. Its fourth states that the listing of the Contracts is stayed, effective immediately, during the pendency of the proceedings. The order covers the What nicknames will Trump say before 2027 contract and the TRUMPSAY contract series, cites 17 CFR 40.2(c), and cites CFTC Letter No. 26-27, Staff Advisory on Individual Mention, Attendance and Interaction Event Contracts, dated September 22, 2026. The order states that it makes no final determination as to whether the contracts comply with the Act. The Commission's industry filings record for designated contract market product 55252 lists the organization as KEX, the type as Swap (Binary Option), the status as Certified and the remarks as Certification Stayed. No issuance date appears on the face of the order; the Commission's own filing path dates the document to November 16, 2026.",
+      "source_url": "https://www.cftc.gov/filings/documents/2026/orgdcmkexorderinstproce261116.pdf",
+      "source_label": "CFTC order, Order Instituting Proceedings and Staying the Listing of the Contract under Commission Regulation 40.2(c), In the Matter of Contracts Self-Certified by KalshiEX LLC; and CFTC industry filings record for designated contract market product 55252",
+      "tags": [
+        "cftc",
+        "prediction-markets",
+        "event-contracts",
+        "mention-markets",
+        "self-certification",
+        "enforcement",
+        "kalshi",
+        "binary-options"
+      ],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction-market platforms, designated contract markets, futures commission merchants, exchanges listing event contracts"
+    },
+    {
+      "id": "2026-11-18-fincen-customer-due-diligence-beneficial-ownership-nprm",
+      "date": "2026-11-18",
+      "published": "2026-11-18T00:00:00Z",
+      "issuing_body": "Financial Crimes Enforcement Network (FinCEN), Treasury",
+      "title": "FinCEN proposes to amend customer due diligence and beneficial ownership requirements for covered financial institutions, with comments due 60 days after Federal Register publication",
+      "facts": "A Treasury press release dated November 17, 2026 states that the Financial Crimes Enforcement Network issued a proposed rule to amend customer due diligence requirements for covered financial institutions as part of Treasury's implementation of Executive Order 14406. The release states that the proposal would explicitly provide that covered financial institutions can obtain additional information about beneficial owners, would codify relief removing the requirement to re-verify beneficial owners each time a legal entity customer opens a new account, and would specify the beneficial owner information institutions must obtain. The release states that the comment period closes 60 days after the proposed rule's publication in the Federal Register. The notice of proposed rulemaking as transmitted to the Federal Register identifies the agency as the Financial Crimes Enforcement Network, Treasury, at 31 CFR Part 1010, RIN 1506-AB78, docket FINCEN-2026-0298, titled Customer Due Diligence Requirements for Covered Financial Institutions, and carries a header stating that it has been submitted to the Office of the Federal Register for publication and is currently pending placement on public display. Its DATES paragraph carries a bracketed placeholder rather than a calendar date. Federal Register queries run on November 18, 2026 returned no published document for this rulemaking. The National Credit Union Administration published a separate notice dated November 17, 2026 reporting the same proposal.",
+      "source_url": "https://home.treasury.gov/news/press-releases/sb0691",
+      "source_label": "U.S. Department of the Treasury press release sb0691, FinCEN Issues Proposed Rule to Strengthen Customer Due Diligence Requirements for Covered Financial Institutions, November 17, 2026; and the notice of proposed rulemaking as transmitted to the Federal Register, RIN 1506-AB78",
+      "tags": [
+        "fincen",
+        "treasury",
+        "bsa-aml",
+        "customer-due-diligence",
+        "beneficial-ownership",
+        "proposed-rule",
+        "banks",
+        "payments"
+      ],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "banks, broker-dealers, futures commission merchants, payment companies and digital asset firms that rely on covered financial institutions for banking access"
+    },
+    {
+      "id": "2026-11-18-sec-nyse-arca-american-binary-kpi-options-filings",
+      "date": "2026-11-18",
+      "published": "2026-11-18T00:00:00Z",
+      "issuing_body": "Securities and Exchange Commission (SEC)",
+      "title": "SEC publishes NYSE Arca and NYSE American filings to permit binary options on issuer key performance indicators, including bitcoin produced, hashrate, bitcoin holdings and digital asset trading volume",
+      "facts": "Two Securities and Exchange Commission notices were published in the Federal Register on November 18, 2026. Document 2026-23427, at 91 FR 74225, is Release No. 34-106899, File No. SR-NYSEARCA-2026-107, captioned Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Amend Its Rules to Permit the Listing of Binary Options Overlying Key Performance Indicators. Document 2026-23425, at 91 FR 74244, is Release No. 34-106898, File No. SR-NYSEAMER-2026-97, with a corresponding caption. Both notices state that the exchange filed with the Commission on November 4, 2026. NYSE Arca proposes new Rules 5.96-O through 5.104-O and NYSE American proposes new Rules 900KPI through 908KPI, in each case for binary KPI options described as European-style, cash-settled options contracts, and both filings state that the proposal is substantively the same as a Cboe proposal identified as SR-CBOE-2026-061. Both define a key performance indicator as a key financial or operating metric disclosed by an issuer in its earnings-related filings, identified as Form 8-K, Form 10-Q or Form 10-K. The eligible metric tables name Marathon Digital Holdings metrics including Number of Blocks Won, Energized Hashrate, Total Bitcoin Holdings, BTC Produced and BTC Purchased, and Coinbase Global metrics Total Trading Volume and Transaction Revenue, and both notices describe non-financial categories including digital asset trading volume and digital asset mining and holdings metrics. Stated terms include a one dollar exercise settlement amount, a contract multiplier of one, a position limit of 25,000 standard option contracts per expiration with 100 binary KPI contracts counting as one standard contract, a minimum increment of not less than one cent, and expirations up to twelve months out. Both notices state that the exchange will not commence listing and trading of binary KPI options until a clearing agency is operationally ready, a Rule 9b-1 disclosure document is in place and an implementation notice has issued to members. The closing portions of both notices, including the comment deadline, were not retrieved.",
+      "source_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-18/pdf/2026-23427.pdf",
+      "source_label": "Federal Register, November 18, 2026, SEC Release No. 34-106899, File No. SR-NYSEARCA-2026-107, document 2026-23427 at 91 FR 74225, served by the U.S. Government Publishing Office; companion notice document 2026-23425 at 91 FR 74244, Release No. 34-106898, File No. SR-NYSEAMER-2026-97",
+      "tags": [
+        "sec",
+        "binary-options",
+        "key-performance-indicators",
+        "digital-assets",
+        "bitcoin-mining",
+        "market-structure",
+        "nyse-arca",
+        "nyse-american"
+      ],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "securities exchanges, options market makers, digital asset exchanges and miners whose reported metrics would underlie listed contracts, prediction-market platforms"
+    }
+  ]
+}
