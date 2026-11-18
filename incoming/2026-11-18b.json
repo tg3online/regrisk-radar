@@ -1,0 +1,109 @@
+{
+  "_note": "drop file for the RegRisk Radar merge Action; entries only, no gated fields",
+  "entries": [
+    {
+      "id": "2026-11-18-senate-agriculture-cftc-commissioner-nomination-hearing",
+      "date": "2026-11-18",
+      "published": "2026-11-18T23:05:00Z",
+      "issuing_body": "Senate Committee on Agriculture, Nutrition, and Forestry",
+      "title": "Senate Agriculture Committee holds nomination hearing for two CFTC Commissioner nominees",
+      "facts": "The Senate Committee on Agriculture, Nutrition, and Forestry held a Nomination Hearing on Tuesday, November 17, 2026 in 106 Dirksen Senate Office Building for Nathan Anonick, of Virginia, and Matthew Rowland, of the District of Columbia, each nominated to be a Commissioner of the Commodity Futures Trading Commission. Rowland's written statement, dated November 17, 2026 and posted by the committee, cites explosive growth in new markets for event contracts, crypto derivatives, and security futures, and states that this calls for the CFTC to reexamine and strengthen its customer protection rules. The committee hearing page lists the two nominations and gives no docket or bill number. The hearing page states conflicting start times, 03:00pm in the page body and 10:00 AM in the page metadata, so no time is stated here. The Anonick written statement was not retrieved.",
+      "source_url": "https://www.agriculture.senate.gov/hearings/nomination-hearing-11-17-2026",
+      "source_label": "Senate Committee on Agriculture, Nutrition, and Forestry, Nomination Hearing page, November 17, 2026",
+      "tags": [
+        "CFTC",
+        "nominations",
+        "event-contracts",
+        "crypto-derivatives",
+        "security-futures",
+        "congressional-oversight"
+      ],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction-market platforms, event-contract exchanges, crypto derivatives venues, futures commission merchants"
+    },
+    {
+      "id": "2026-11-18-cftc-records-kex-perpetual-single-stock-futures-certification",
+      "date": "2026-11-18",
+      "published": "2026-11-18T23:05:00Z",
+      "issuing_body": "CFTC",
+      "title": "CFTC product records show a designated contract market self-certified a tranche of perpetual single stock futures",
+      "facts": "CFTC Designated Contract Market product records dated November 17, 2026 show the organization shown on the records as KEX self-certified a series of products including APHPERP, ACNPERP, AXPPERP, CPERP, CRWDPERP, DEPERP, DELLPERP, DHRPERP, GEPERP, GEVPERP, GSPERP, ISRGPERP, KLACPERP, LINPERP, LRCXPERP, MSPERP, NEEPERP, PMPERP, RTXPERP, SHOPPERP, TJXPERP, TMOPERP, TMUSPERP, UNPPERP and WFCPERP. Each record shows Type Future, Category Security Futures Product, Subcategory SSF - Single Stock Future, and Status Certified. The record for APHPERP carries an associated document titled Perpetual SFPs Tranche 2 - Certification. The abbreviation KEX is not expanded on any of these record pages. The certification documents themselves were not retrieved.",
+      "source_url": "https://www.cftc.gov/IndustryOversight/IndustryFilings/TradingOrganizationProducts/67964",
+      "source_label": "CFTC Industry Filings, Designated Contract Market product record 67964, November 17, 2026",
+      "tags": [
+        "CFTC",
+        "self-certification",
+        "security-futures",
+        "single-stock-futures",
+        "market-structure",
+        "designated-contract-market"
+      ],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "designated contract markets, futures commission merchants, exchanges, derivatives market participants"
+    },
+    {
+      "id": "2026-11-18-cftc-records-kex-bitcoin-mining-difficulty-event-contracts",
+      "date": "2026-11-18",
+      "published": "2026-11-18T23:05:00Z",
+      "issuing_body": "CFTC",
+      "title": "CFTC product records show a designated contract market self-certified Bitcoin mining difficulty event contracts",
+      "facts": "CFTC Designated Contract Market product records dated November 17, 2026 show the organization shown on the records as KEX self-certified binary option event contracts on Bitcoin mining difficulty. Record 68013 is recorded as a contract on whether Bitcoin's mining difficulty will be above, below, exactly, at least, at most or between a stated value in or at a stated time period, and record 68012 is the same contract scoped to December 2026. Both show Type Swap (Binary Option), Category Event, Subcategory Cryptocurrency, and Status Certified. The same organization self-certified record 68009, a contract on whether IGN will give Grand Theft Auto VI a stated rating, shown as Type Swap (Binary Option), Category Event, Subcategory Culture, and Status Certified. The abbreviation KEX is not expanded on any of these record pages. Each record lists an associated product document and a request for confidential treatment; none of those documents was retrieved, so contract terms and settlement sources are not stated here.",
+      "source_url": "https://www.cftc.gov/IndustryOversight/IndustryFilings/TradingOrganizationProducts/68013",
+      "source_label": "CFTC Industry Filings, Designated Contract Market product record 68013, November 17, 2026",
+      "tags": [
+        "CFTC",
+        "self-certification",
+        "event-contracts",
+        "binary-options",
+        "bitcoin-mining-difficulty",
+        "prediction-markets"
+      ],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction-market platforms, event-contract exchanges, bitcoin miners, crypto derivatives venues"
+    },
+    {
+      "id": "2026-11-18-cftc-records-qcex-metacritic-score-contracts-certification",
+      "date": "2026-11-18",
+      "published": "2026-11-18T23:05:00Z",
+      "issuing_body": "CFTC",
+      "title": "CFTC product record shows a designated contract market self-certified Metacritic Score Contracts under Regulation 40.2",
+      "facts": "A CFTC Designated Contract Market product record dated November 17, 2026 shows the organization shown on the record as QCEX self-certified Metacritic Score Contracts (MCSCD), with Type Swap (Binary Option), Category Event, Subcategory Culture, and Status Certified. The record's associated documents are titled PMUS - MCSCD - (2026.11.17) - 40.2d - Cover Letter and Product Certification and PMUS - MCSC - (2026.11.17) - 40.2 - Confidentiality Request, citing Commission Regulation 40.2 and 40.2(d). The record page itself carries no rule field. The abbreviation QCEX is not expanded on the record page. A companion record 68020 for Metacritic Score Contracts (MCSC) appears in the CFTC listing and was not individually retrieved. Neither certification document was retrieved.",
+      "source_url": "https://www.cftc.gov/IndustryOversight/IndustryFilings/TradingOrganizationProducts/68021",
+      "source_label": "CFTC Industry Filings, Designated Contract Market product record 68021, November 17, 2026",
+      "tags": [
+        "CFTC",
+        "self-certification",
+        "regulation-40.2",
+        "event-contracts",
+        "binary-options",
+        "prediction-markets"
+      ],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction-market platforms, event-contract exchanges, entertainment and media data licensors"
+    },
+    {
+      "id": "2026-11-18-bia-chukchansi-california-class-iii-compact-extension",
+      "date": "2026-11-18",
+      "published": "2026-11-18T23:05:00Z",
+      "issuing_body": "Bureau of Indian Affairs",
+      "title": "Bureau of Indian Affairs notice announces extension of a California Class III gaming compact to December 31, 2027",
+      "facts": "A Bureau of Indian Affairs notice published in the Federal Register on November 18, 2026, FR Doc. 2026-23404 at Vol. 91, No. 221, page 74187, announces the extension of the Class III gaming compact between the Picayune Rancheria of Chukchansi Indians, California, and the State of California. The notice states that the parties have reached an agreement to extend the expiration date of their existing Tribal-State Class III gaming compact to December 31, 2027, and that the extension takes effect on November 18, 2026. The notice states that an extension to an existing Tribal-State Class III gaming compact does not require approval by the Secretary if the extension does not modify any other terms of the compact. It cites 25 CFR 293.5 and is signed by William Henry Kirkland III, Assistant Secretary for Indian Affairs.",
+      "source_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-18/pdf/2026-23404.pdf",
+      "source_label": "Federal Register, Bureau of Indian Affairs notice, FR Doc. 2026-23404, November 18, 2026 (govinfo)",
+      "tags": [
+        "tribal-gaming",
+        "class-III-gaming",
+        "compact-extension",
+        "Bureau-of-Indian-Affairs",
+        "Federal-Register"
+      ],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "tribal gaming operators, casino operators, state gaming regulators"
+    }
+  ]
+}
