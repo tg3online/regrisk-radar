@@ -1,0 +1,134 @@
+{
+  "_note": "Evening (pm) drop for 2026-11-19. The 'b' suffix is required because incoming/2026-11-19.json from the morning run has already merged. Six entries, all from intake/daily/2026-11-19-pm.json, all verification_status=verified, all sanitized, none flagged for legal/compliance review, no do_not_publish_reasons. Entry ids are keyed to the event's own publication date, not the run date. No gated-layer fields are present.",
+  "entries": [
+    {
+      "id": "2026-11-19-sec-eight-entities-fake-crypto-platforms",
+      "date": "2026-11-19",
+      "published": "2026-11-19T00:00:00Z",
+      "issuing_body": "U.S. Securities and Exchange Commission",
+      "title": "SEC charges eight entities over fake crypto asset trading platforms, alleging more than $37 million taken from U.S. investors",
+      "facts": "In press release 2026-115, datelined Washington D.C., Nov. 19, 2026, the SEC stated that it \"today charged eight Colorado-based entities, likely operated by individuals located overseas, for defrauding U.S. investors out of more than $37 million.\" The entities named are Advisor WeChat Capital, Tech Brokerage Asset Alliance Ltd., HB Wealth Advisors, IdeaCrypto Exchange LLC, Convergent Wealth Advisors Inc., RealSimple Crypto Exchange Inc., Associated Wealth Advisors Ltd. and Essential Crypto Exchange. The SEC stated the action was filed in the United States District Court for the District of Colorado and charges all eight under Section 10(b) of the Exchange Act and Rule 10b-5, four of them under Sections 206(1) and 206(2) of the Advisers Act, and two under Section 207 of the Advisers Act. The relief sought is stated as permanent injunctions, conduct-based injunctions, disgorgement of ill-gotten gains, prejudgment interest and civil penalties. The complaint states the defendants defrauded \"more than 1,500 United States investors out of at least $37 million\", and puts the total at \"$37,445,800 received from investors\", comprising approximately $35,542,323 in crypto asset deposits and $1,903,477 in fiat currency. The complaint states the adviser-and-platform pairs operated across periods from approximately August 2024 to May 2026. The SEC also stated that a Form D filed by Tech Brokerage Asset Alliance and Forms ADV filed by Convergent Wealth and Essential Crypto have been removed from the Commission website. The allegations are as stated by the SEC and have not been adjudicated.",
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2026-115-sec-eight-entities-used-fake-crypto-asset-trading-platforms-steal-more-37-million-us-investors",
+      "source_label": "SEC Press Release 2026-115 (sec.gov)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "crypto exchanges, trading platforms, investment advisers, custodians",
+      "tags": [
+        "SEC",
+        "enforcement",
+        "crypto",
+        "fraud",
+        "investment-advisers",
+        "US-Federal"
+      ]
+    },
+    {
+      "id": "2026-11-18-ca4-kalshiex-v-martin-affirmed",
+      "date": "2026-11-18",
+      "published": "2026-11-18T00:00:00Z",
+      "issuing_body": "U.S. Court of Appeals for the Fourth Circuit",
+      "title": "Fourth Circuit affirms denial of KalshiEX's preliminary injunction against Maryland, with no rationale on CEA preemption commanding a majority",
+      "facts": "The U.S. Court of Appeals for the Fourth Circuit issued a published opinion in KalshiEX LLC v. John Martin, No. 25-1892, on appeal from the District of Maryland (No. 1:25-cv-01283-ABA). The opinion states \"Argued: May 7, 2026 Decided: November 18, 2026\" and the panel was Circuit Judges Gregory, Thacker and Benjamin. The opinion is marked PUBLISHED and its header reads \"Affirmed by published per curiam opinion, in which Judge Gregory and Judge Thacker joined.\" The per curiam text is a single sentence: \"The judgment of the district court is AFFIRMED.\" Judge Gregory, concurring, wrote that \"Kalshi has not demonstrated that the CEA preempts Maryland's sports wagering laws\", that \"Until Congress and the CFTC are clear, I conclude that Maryland has concurrent authority under these facts\", that \"the CEA does not field preempt Maryland's gaming laws\", and that those laws \"are not conflict preempted\"; he also wrote \"I do not decide whether Kalshi's sports event contracts are 'swaps' within the meaning of the CEA.\" Judge Thacker, concurring in the judgment, wrote that she reaches affirmance \"via a different route than does my concurring colleague\", that \"In my view, Appellant's sporting event based contracts are not swaps within the meaning of the CEA\", and \"Therefore, Maryland officials can co-regulate these contracts.\" Judge Benjamin dissented, writing \"I would vacate the district court's denial of the preliminary injunction and remand for further proceedings.\" The per curiam opinion states no reasoning, so only the affirmance itself carries majority support.",
+      "source_url": "https://www.ca4.uscourts.gov/opinions/251892.P.pdf",
+      "source_label": "Fourth Circuit published opinion, No. 25-1892 (ca4.uscourts.gov)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction-market platforms, event-contract exchanges, sportsbooks, state-licensed gaming operators",
+      "tags": [
+        "courts",
+        "fourth-circuit",
+        "CEA-preemption",
+        "prediction-markets",
+        "sports-event-contracts",
+        "gaming",
+        "US-MD"
+      ]
+    },
+    {
+      "id": "2026-11-17-utah-ag-sues-stake-us",
+      "date": "2026-11-17",
+      "published": "2026-11-17T00:00:00Z",
+      "issuing_body": "Utah Attorney General",
+      "title": "Utah sues the operators of Stake.us, alleging it runs an illegal online casino",
+      "facts": "In a release dated Nov 17, 2026 titled \"Utah sues Stake, alleging it runs an illegal online casino\", the Utah Attorney General's office stated that Attorney General Derek Brown and the Utah Department of Commerce's Division of Consumer Protection filed suit in the Third Judicial District Court in Salt Lake County. The release names the defendants as \"Sweepsteaks Limited of Cyprus and Easygo Group Holdings Pty Ltd of Australia (together, 'Stake')\", reproducing the spelling as printed. The release states the claims are brought under the Utah Consumer Sales Practices Act for unconscionable and deceptive practices, together with unjust enrichment, public nuisance and declaratory judgment. The relief sought as stated includes a declaration that Stake.us constitutes illegal gambling under Utah law, an order that the defendants stop offering games in Utah, and the return of money to Utah residents; the newsroom summary states the state \"seeks to shut down Stake.us in Utah and recover money taken from residents.\" The release gives no case number and no filing date for the complaint, and does not link the complaint or a docket. The Utah Department of Commerce published a corresponding release of the same date and title. The allegations are as stated by the Utah Attorney General and have not been adjudicated.",
+      "source_url": "https://attorneygeneral.utah.gov/utah-sues-stake/",
+      "source_label": "Utah Attorney General press release (attorneygeneral.utah.gov)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "sweepstakes casinos, social-casino operators, promotional-games platforms, payment processors serving them",
+      "tags": [
+        "state-AG",
+        "Utah",
+        "enforcement",
+        "sweepstakes-casino",
+        "gaming",
+        "consumer-protection",
+        "US-UT"
+      ]
+    },
+    {
+      "id": "2026-11-18-nydfs-check-cashing-fee-rfi",
+      "date": "2026-11-18",
+      "published": "2026-11-18T00:00:00Z",
+      "issuing_body": "New York State Department of Financial Services",
+      "title": "NYDFS asks licensed check cashers for fee data covering January 2023 through September 2026, with submissions due December 21, 2026",
+      "facts": "An NYDFS industry letter headed \"Industry Letter - November 18, 2026: Request for Information Regarding Check Cashing Fees\" is addressed to \"DFS-Licensed Check Cashers\" and requests information on fees charged for checks cashed from January 2023 through September 2026. The letter states that responses \"should be as detailed and specific as possible, and numeric information is urged where applicable\", acknowledges that licensees \"may not be able to provide all of the requested data\", and states that licensees are \"strongly encouraged to submit a response with as much information as is available\". On its purpose, the letter states that \"pursuant to 3 NYCRR 400.11, members of the industry may request an amendment to currently permissible check cashing rates in the coming months\", and that the Department is collecting the data \"to prepare to assess any such requests\". The letter directs licensees to \"complete all submissions by December 21, 2026\", by email to CheckCasherRFI2026@dfs.ny.gov with a subject line including \"Request for Information Regarding Check Cashing Fees\". It states that \"this request does not replace required annual reports\" and that responses \"may be subject to public inspection and should not include any sensitive or confidential information\". The only regulation cited in the letter is 3 NYCRR 400.11.",
+      "source_url": "https://www.dfs.ny.gov/industry-guidance/industry-letters/il20261118-request-for-information-regarding-check-cashing-fees",
+      "source_label": "NYDFS Industry Letter, November 18, 2026 (dfs.ny.gov)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "check cashers, money services businesses, payments licensees operating in New York",
+      "tags": [
+        "NYDFS",
+        "payments",
+        "check-cashing",
+        "request-for-information",
+        "rate-regulation",
+        "US-NY"
+      ]
+    },
+    {
+      "id": "2026-11-17-fdic-custodial-deposits-proposed-rule",
+      "date": "2026-11-17",
+      "published": "2026-11-17T00:00:00Z",
+      "issuing_body": "Federal Deposit Insurance Corporation",
+      "title": "FDIC Board approves a proposed rule on custodial deposits, reported as capping the brokered-deposit exclusion at 20 percent of total liabilities",
+      "facts": "Trade reporting states that the FDIC Board of Directors approved a proposed rule on custodial deposits on November 17, 2026. ABA Banking Journal, in a report dated November 17, 2026 headed \"FDIC proposes custodial deposits rule, holds designated reserve ratio at 2%\", states that institutions with fewer than $10 billion in assets could exclude qualifying custodial deposits from brokered-deposit treatment up to 20 percent of total liabilities, that the rule implements the 21st Century ROAD to Housing Act, and that comments are due 60 days after publication in the Federal Register; the same report states the FDIC agreed to hold the designated reserve ratio at 2% in 2027. American Banker, published November 18, 2026, states the board \"on Tuesday voted to issue a rule\" and quotes the proposal text as providing that the amount \"does not exceed 20 percent of the total liabilities of the eligible institution\". EconoTimes, published November 18, 2026, states both items were approved through a notational vote on Tuesday, Nov. 17, that the vote was unanimous, and that a notice on the 2027 designated reserve ratio was also approved. The FDIC's own press release, board-matters and financial-institution-letter pages could not be retrieved on any route attempted, so no FDIC document underlies this entry. A Federal Register search for the term \"custodial deposits\" with a publication date on or after November 14, 2026 returned zero documents, indicating the proposal had not yet been published in the Federal Register.",
+      "source_url": "https://bankingjournal.aba.com/2026/11/fdic-proposes-custodial-deposits-rule-holds-designated-reserve-ratio-at-2/",
+      "source_label": "ABA Banking Journal report (bankingjournal.aba.com) — FDIC primary not retrieved",
+      "source_type": "coverage_reporting_filing",
+      "primary_source_status": "cited_by_coverage_not_retrieved",
+      "relevant_to": "fintech deposit platforms, banking-as-a-service providers, community banks, custodians",
+      "tags": [
+        "FDIC",
+        "proposed-rule",
+        "brokered-deposits",
+        "custodial-deposits",
+        "fintech",
+        "US-Federal"
+      ]
+    },
+    {
+      "id": "2026-11-17-waller-payments-tokenized-markets",
+      "date": "2026-11-17",
+      "published": "2026-11-17T00:00:00Z",
+      "issuing_body": "Federal Reserve Board",
+      "title": "Federal Reserve Governor Waller speaks on payments and tokenized markets, posing open questions on smart-contract fraud, lost keys and failed blockchains",
+      "facts": "Federal Reserve Governor Christopher J. Waller delivered a speech titled \"Considerations at the Intersection of Payments and Tokenized Markets\" on November 17, 2026, marked \"For release on delivery 9:10 a.m. EST\", at \"Navigating the Future of Banking and Payments\", The Clearing House Annual Conference 2026, New York, New York. The speech states that \"Tokenization is changing the nature of competition in payments\" and that \"I find it more likely that several different solutions will emerge to support different customers and use cases.\" It states that \"tokenized finance will need choice in payment methods, with both tokenized and traditional payments having roles to play\" and that \"Choice also matters in settlement methods for tokenized markets.\" It states that \"stablecoins are starting to be used behind the scenes to settle obligations among participants in card networks.\" It poses, without answering, the questions \"Who bears responsibility when fraudsters take advantage of the automatic execution of smart contracts?\", \"How will operators of new systems take responsibility for compromised or lost keys\" and \"What happens to assets that are stranded on failed blockchains.\" It states that \"Clear legal treatment of tokenized claims, settlement records, custody, insolvency, and resolution will be critical\" and that \"the Fed can act as a connector and convener.\" A footnote states \"The views expressed here are my own and not necessarily those of my colleagues on the Federal Reserve Board.\" The speech announces no new rule, program or supervisory expectation.",
+      "source_url": "https://www.federalreserve.gov/newsevents/speech/files/waller20261117a.pdf",
+      "source_label": "Federal Reserve speech text, PDF (federalreserve.gov)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "payment providers, stablecoin issuers, tokenization platforms, custodians",
+      "tags": [
+        "Federal-Reserve",
+        "speech",
+        "tokenization",
+        "stablecoin",
+        "payments",
+        "crypto",
+        "US-Federal"
+      ]
+    }
+  ]
+}
