@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-19T11:06:23Z",
+  "generated": "2026-11-19T22:57:16Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 409,
+  "count": 415,
   "items": [
     {
       "id": "2026-11-19-mgcb-october-2026-igaming-sports-betting-revenue",
@@ -111,6 +111,27 @@
         "GENIUS-Act",
         "proposed-rule",
         "federal-register"
+      ]
+    },
+    {
+      "id": "2026-11-19-sec-eight-entities-fake-crypto-platforms",
+      "date": "2026-11-19",
+      "published": "2026-11-19T00:00:00Z",
+      "title": "SEC charges eight entities over fake crypto asset trading platforms, alleging more than $37 million taken from U.S. investors",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-19-sec-eight-entities-fake-crypto-platforms",
+      "issuing_body": "U.S. Securities and Exchange Commission",
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2026-115-sec-eight-entities-used-fake-crypto-asset-trading-platforms-steal-more-37-million-us-investors",
+      "source_label": "SEC Press Release 2026-115 (sec.gov)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "crypto exchanges, trading platforms, investment advisers, custodians",
+      "tags": [
+        "SEC",
+        "enforcement",
+        "crypto",
+        "fraud",
+        "investment-advisers",
+        "US-Federal"
       ]
     },
     {
@@ -287,6 +308,49 @@
       ]
     },
     {
+      "id": "2026-11-18-ca4-kalshiex-v-martin-affirmed",
+      "date": "2026-11-18",
+      "published": "2026-11-18T00:00:00Z",
+      "title": "Fourth Circuit affirms denial of KalshiEX's preliminary injunction against Maryland, with no rationale on CEA preemption commanding a majority",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-18-ca4-kalshiex-v-martin-affirmed",
+      "issuing_body": "U.S. Court of Appeals for the Fourth Circuit",
+      "source_url": "https://www.ca4.uscourts.gov/opinions/251892.P.pdf",
+      "source_label": "Fourth Circuit published opinion, No. 25-1892 (ca4.uscourts.gov)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction-market platforms, event-contract exchanges, sportsbooks, state-licensed gaming operators",
+      "tags": [
+        "courts",
+        "fourth-circuit",
+        "CEA-preemption",
+        "prediction-markets",
+        "sports-event-contracts",
+        "gaming",
+        "US-MD"
+      ]
+    },
+    {
+      "id": "2026-11-18-nydfs-check-cashing-fee-rfi",
+      "date": "2026-11-18",
+      "published": "2026-11-18T00:00:00Z",
+      "title": "NYDFS asks licensed check cashers for fee data covering January 2023 through September 2026, with submissions due December 21, 2026",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-18-nydfs-check-cashing-fee-rfi",
+      "issuing_body": "New York State Department of Financial Services",
+      "source_url": "https://www.dfs.ny.gov/industry-guidance/industry-letters/il20261118-request-for-information-regarding-check-cashing-fees",
+      "source_label": "NYDFS Industry Letter, November 18, 2026 (dfs.ny.gov)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "check cashers, money services businesses, payments licensees operating in New York",
+      "tags": [
+        "NYDFS",
+        "payments",
+        "check-cashing",
+        "request-for-information",
+        "rate-regulation",
+        "US-NY"
+      ]
+    },
+    {
       "id": "2026-11-17-novig-ludlow-exchange-sues-ohio-officials-event-contracts",
       "date": "2026-11-17",
       "published": "2026-11-17T22:55:00Z",
@@ -412,6 +476,71 @@
         "digital-assets",
         "derivatives",
         "speech"
+      ]
+    },
+    {
+      "id": "2026-11-17-utah-ag-sues-stake-us",
+      "date": "2026-11-17",
+      "published": "2026-11-17T00:00:00Z",
+      "title": "Utah sues the operators of Stake.us, alleging it runs an illegal online casino",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-17-utah-ag-sues-stake-us",
+      "issuing_body": "Utah Attorney General",
+      "source_url": "https://attorneygeneral.utah.gov/utah-sues-stake/",
+      "source_label": "Utah Attorney General press release (attorneygeneral.utah.gov)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "sweepstakes casinos, social-casino operators, promotional-games platforms, payment processors serving them",
+      "tags": [
+        "state-AG",
+        "Utah",
+        "enforcement",
+        "sweepstakes-casino",
+        "gaming",
+        "consumer-protection",
+        "US-UT"
+      ]
+    },
+    {
+      "id": "2026-11-17-fdic-custodial-deposits-proposed-rule",
+      "date": "2026-11-17",
+      "published": "2026-11-17T00:00:00Z",
+      "title": "FDIC Board approves a proposed rule on custodial deposits, reported as capping the brokered-deposit exclusion at 20 percent of total liabilities",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-17-fdic-custodial-deposits-proposed-rule",
+      "issuing_body": "Federal Deposit Insurance Corporation",
+      "source_url": "https://bankingjournal.aba.com/2026/11/fdic-proposes-custodial-deposits-rule-holds-designated-reserve-ratio-at-2/",
+      "source_label": "ABA Banking Journal report (bankingjournal.aba.com) — FDIC primary not retrieved",
+      "source_type": "coverage_reporting_filing",
+      "primary_source_status": "cited_by_coverage_not_retrieved",
+      "relevant_to": "fintech deposit platforms, banking-as-a-service providers, community banks, custodians",
+      "tags": [
+        "FDIC",
+        "proposed-rule",
+        "brokered-deposits",
+        "custodial-deposits",
+        "fintech",
+        "US-Federal"
+      ]
+    },
+    {
+      "id": "2026-11-17-waller-payments-tokenized-markets",
+      "date": "2026-11-17",
+      "published": "2026-11-17T00:00:00Z",
+      "title": "Federal Reserve Governor Waller speaks on payments and tokenized markets, posing open questions on smart-contract fraud, lost keys and failed blockchains",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-17-waller-payments-tokenized-markets",
+      "issuing_body": "Federal Reserve Board",
+      "source_url": "https://www.federalreserve.gov/newsevents/speech/files/waller20261117a.pdf",
+      "source_label": "Federal Reserve speech text, PDF (federalreserve.gov)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "payment providers, stablecoin issuers, tokenization platforms, custodians",
+      "tags": [
+        "Federal-Reserve",
+        "speech",
+        "tokenization",
+        "stablecoin",
+        "payments",
+        "crypto",
+        "US-Federal"
       ]
     },
     {
