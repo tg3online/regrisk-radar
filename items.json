@@ -8,6 +8,116 @@
   },
   "items": [
     {
+      "id": "2026-11-19-mgcb-october-2026-igaming-sports-betting-revenue",
+      "date": "2026-11-19",
+      "published": "2026-11-19T12:04:00Z",
+      "issuing_body": "Michigan Gaming Control Board",
+      "title": "Michigan reports 388.8 million dollars in October 2026 internet gaming and online sports betting gross receipts",
+      "facts": "A Michigan Gaming Control Board release dated November 18, 2026 states that combined October 2026 gross receipts for internet gaming and internet sports betting were 388.8 million dollars, up 9.3 percent from September, comprising 318.1 million dollars of internet gaming gross receipts and 70.7 million dollars of internet sports betting gross receipts. Adjusted gross receipts totaled 352.9 million dollars, 305.3 million dollars from internet gaming and 47.6 million dollars from internet sports betting, with internet gaming adjusted gross receipts up 16.7 percent year over year and internet sports betting adjusted gross receipts down 3.3 percent year over year. Internet sports betting handle was 605.4 million dollars, up 11.1 percent from September. Operators reported 67.5 million dollars in state taxes and payments, 64.3 million dollars from internet gaming and 3.2 million dollars from internet sports betting. The three Detroit casinos reported 15.2 million dollars to the City of Detroit and tribal operators reported 8.9 million dollars in payments to governing bodies. The release states that as of October 2026, 15 commercial and tribal operators were authorized, 13 offering internet sports betting and all 15 offering internet gaming.",
+      "source_url": "https://www.michigan.gov/mgcb/news/2026/11/18/october-2026-igaming-revenue",
+      "source_label": "Michigan Gaming Control Board news release, November 18, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "online casino and sportsbook operators, platform providers, tribal gaming operators, state gaming regulators",
+      "tags": [
+        "michigan",
+        "internet-gaming",
+        "sports-betting",
+        "revenue-report",
+        "state-gaming-regulator",
+        "tribal-gaming"
+      ]
+    },
+    {
+      "id": "2026-11-19-sec-lr-26686-krish-kumar-final-judgment",
+      "date": "2026-11-19",
+      "published": "2026-11-19T12:03:00Z",
+      "issuing_body": "SEC",
+      "title": "SEC litigation release reports final judgment ordering 495,578.53 dollars and a five-year bar against fund manager Krish Kumar",
+      "facts": "A final judgment in Securities and Exchange Commission v. Krish Kumar, United States District Court for the Northern District of Oklahoma, Case No. 26-CV-0184-CVE-JFJ, dated October 9, 2026, permanently enjoins Kumar from violating Exchange Act Section 10(b) and Rule 10b-5, Securities Act Section 17(a), and Advisers Act Sections 206(1), 206(2) and 206(4) and Rule 206(4)-8. It bars him for five years running from March 31, 2026 from participating in the issuance, purchase, offer or sale of any security other than for his own account, and from acting as or being associated with any investment adviser. It orders disgorgement of 20,000 dollars described as net profits gained as a result of the conduct alleged in the complaint, prejudgment interest of 2,676.53 dollars and a civil penalty of 472,902 dollars, a total of 495,578.53 dollars payable within 30 days. The underlying complaint, filed March 26, 2026, alleges Kumar was sole manager of Future Fractal Investments LLC and Arcane Resonance Fund, LLC, and raised approximately 6 million dollars from at least 13 investors for Future Fractal on a stated options strategy limited to two index ETFs before trading outside it. The complaint states at paragraph 21 that Arcane was purportedly focused on trading in crypto assets, at paragraph 24 that investor money went into his personal account at a crypto asset trading platform, at paragraph 43 that Kumar attributed a loss to a shift in strategy to invest mostly in meme coins, and at paragraph 4 that an issuer whose options he bought is a publicly traded crypto-asset technology company focused on Bitcoin mining. The SEC litigation releases index lists this matter as LR-26686, dated November 18, 2026.",
+      "source_url": "https://www.sec.gov/files/litigation/litreleases/2026/judg26686.pdf",
+      "source_label": "SEC final judgment, SEC v. Kumar, N.D. Okla. (LR-26686)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "fund managers, registered investment advisers, crypto asset trading platforms",
+      "tags": [
+        "SEC",
+        "enforcement",
+        "investment-adviser-fraud",
+        "crypto-assets",
+        "meme-coins",
+        "final-judgment"
+      ]
+    },
+    {
+      "id": "2026-11-19-interagency-third-party-risk-guidance-comment-extension",
+      "date": "2026-11-19",
+      "published": "2026-11-19T12:02:00Z",
+      "issuing_body": "OCC, Federal Reserve, FDIC, NCUA",
+      "title": "Interagency proposed third-party risk management guidance comment period extended to December 16, 2026",
+      "facts": "A Federal Register notice published November 18, 2026 as FR Doc. 2026-23416 at 91 FR 74279 to 74281, by the Office of the Comptroller of the Currency, the Federal Reserve System, the Federal Deposit Insurance Corporation and the National Credit Union Administration, carries the action Proposed interagency guidance and request for comment; extension of comment period. It states that the comment period for the notice published on September 15, 2026 at 91 FR 58536 is extended, and the record gives a comments close date of December 16, 2026. The record states that the agencies published proposed interagency guidance on third-party risk management on September 15, 2026; that the guidance would draw on the agencies' supervisory experience and discuss the benefits of aligning a banking organization's third-party risk management with the assessed risk level of each third-party relationship; that comments had been requested by November 16, 2026; and that the agencies determined an extension to December 16, 2026 is appropriate. The docket identifiers are OCC-2026-0793, Docket No. OP-1881 and NCUA-2026-1684, and the regulation identifier numbers are 1557-ZA18, 3064-ZA58 and 3133-ZA54.",
+      "source_url": "https://www.federalregister.gov/documents/2026/11/18/2026-23416/proposed-third-party-risk-management-guidance-extension-of-comment-period",
+      "source_label": "Federal Register, FR Doc. 2026-23416, 91 FR 74279",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "banks and credit unions, fintech firms in bank partnerships, payment processors, third-party service providers",
+      "tags": [
+        "third-party-risk-management",
+        "interagency-guidance",
+        "bank-fintech-partnerships",
+        "comment-period-extension",
+        "federal-register",
+        "OCC",
+        "FDIC",
+        "NCUA"
+      ]
+    },
+    {
+      "id": "2026-11-19-cftc-dcm-event-contract-self-certifications-nov-18",
+      "date": "2026-11-19",
+      "published": "2026-11-19T12:01:00Z",
+      "issuing_body": "CFTC",
+      "title": "CFTC product records dated November 18, 2026 show five designated contract market organization codes self-certifying event contracts and binary options",
+      "facts": "CFTC Designated Contract Market product records dated 11/18/2026 show organizations identified on the listing only by the codes KEX, REX, LEX, GMNI and QCEX self-certifying products with Status Certified. Records read from the listing include record 68199, organization LEX, product INTFR WINNER, Type Swap, Category Event, Subcategory Sports; records 68101 and 68102, organization KEX, products titled Will OpenAI announce artificial general intelligence and Will a named company announce artificial general intelligence, Type Swap (Binary Option), Category Event, Subcategory Science/Technology; records 68145 and 68147, organization KEX, products on the additional duty rate levied on goods of Indian origin, Type Swap (Binary Option), Category Event, Subcategory Policy/Regulatory/Legal; and records 68133, 68134, 68136 through 68144, 68146 and 68148 through 68155, organization REX, cricket contracts including BBLENTITYSTAT, BBLTOTAL, BBLWIN, ODIENTITYSTAT, ODITOTAL, T20IENTITYSTAT, T20ITOTAL, TESTENTITYSTAT, TESTTOTAL and TESTWIN together with dated single-event variants, each Type Swap (Binary Option), Category Event, Subcategory Sports. Records 68199 and 68101 each list an associated document titled REQUEST FOR CONFIDENTIAL TREATMENT - DETAILED WRITTEN JUSTIFICATION. The listing page was read to record 68157 and is truncated beyond that point, so the day's filings number at least those listed here. The organization codes are not expanded anywhere on the listing or on the individual record pages. No record read carries Subcategory Cryptocurrency or Category Security Futures Product.",
+      "source_url": "https://www.cftc.gov/IndustryOversight/IndustryFilings/TradingOrganizationProducts",
+      "source_label": "CFTC Industry Filings, Trading Organization Products listing",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "event-contract exchanges, prediction-market platforms, sportsbooks, state gaming regulators",
+      "tags": [
+        "CFTC",
+        "self-certification",
+        "regulation-40.2",
+        "event-contracts",
+        "binary-options",
+        "prediction-markets",
+        "designated-contract-market"
+      ]
+    },
+    {
+      "id": "2026-11-19-fincen-cdd-proposed-rule-federal-register",
+      "date": "2026-11-19",
+      "published": "2026-11-19T12:00:00Z",
+      "issuing_body": "FinCEN",
+      "title": "FinCEN customer due diligence proposed rule published in the Federal Register, comments due January 19, 2027",
+      "facts": "FinCEN's proposed rule Customer Due Diligence Requirements for Covered Financial Institutions was published in the Federal Register on November 19, 2026 as FR Doc. 2026-23614 at 91 FR 74514, RIN 1506-AB78, docket FINCEN-2026-0298, amending 31 CFR Part 1010. The DATES section states that comments must be received by January 19, 2027, and the document states that FinCEN proposes the rule would be effective 90 days after publication. The document states the proposal implements section 3(b) of Executive Order 14406; that it would move into the rule text the specific information to be collected about each beneficial owner under 1010.230(b)(1)(ii) and provide that an ITIN is not an acceptable substitute for a Social Security number; that it would codify the February 2026 exceptive relief FIN-2026-R001 so beneficial owners are identified and verified at first account opening, on knowledge of facts calling prior information into question, and as needed under risk-based procedures, rather than at each new account opening; that it would permit institutions to obtain beneficial ownership information from third-party sources; and that it would make explicit that institutions may collect additional information where risk or supervisory concerns warrant. The covered-institution set is banks, brokers and dealers in securities, mutual funds, and futures commission merchants and introducing brokers in commodities. The document states that permitted payment stablecoin issuers are the subject of a separate pending proposal which, if finalized, would apply to them as a category of institution covered by CDD obligations.",
+      "source_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-19/pdf/2026-23614.pdf",
+      "source_label": "Federal Register, FR Doc. 2026-23614, 91 FR 74514 (govinfo PDF)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "banks, broker-dealers, mutual funds, futures commission merchants, payment stablecoin issuers",
+      "tags": [
+        "FinCEN",
+        "customer-due-diligence",
+        "beneficial-ownership",
+        "BSA-AML",
+        "stablecoin",
+        "GENIUS-Act",
+        "proposed-rule",
+        "federal-register"
+      ]
+    },
+    {
       "id": "2026-11-18-senate-agriculture-cftc-commissioner-nomination-hearing",
       "date": "2026-11-18",
       "published": "2026-11-18T23:05:00Z",

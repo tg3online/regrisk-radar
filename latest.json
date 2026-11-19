@@ -1,8 +1,118 @@
 {
-  "generated": "2026-11-18T22:54:50Z",
+  "generated": "2026-11-19T11:06:23Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 404,
+  "count": 409,
   "items": [
+    {
+      "id": "2026-11-19-mgcb-october-2026-igaming-sports-betting-revenue",
+      "date": "2026-11-19",
+      "published": "2026-11-19T12:04:00Z",
+      "title": "Michigan reports 388.8 million dollars in October 2026 internet gaming and online sports betting gross receipts",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-19-mgcb-october-2026-igaming-sports-betting-revenue",
+      "issuing_body": "Michigan Gaming Control Board",
+      "source_url": "https://www.michigan.gov/mgcb/news/2026/11/18/october-2026-igaming-revenue",
+      "source_label": "Michigan Gaming Control Board news release, November 18, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "online casino and sportsbook operators, platform providers, tribal gaming operators, state gaming regulators",
+      "tags": [
+        "michigan",
+        "internet-gaming",
+        "sports-betting",
+        "revenue-report",
+        "state-gaming-regulator",
+        "tribal-gaming"
+      ]
+    },
+    {
+      "id": "2026-11-19-sec-lr-26686-krish-kumar-final-judgment",
+      "date": "2026-11-19",
+      "published": "2026-11-19T12:03:00Z",
+      "title": "SEC litigation release reports final judgment ordering 495,578.53 dollars and a five-year bar against fund manager Krish Kumar",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-19-sec-lr-26686-krish-kumar-final-judgment",
+      "issuing_body": "SEC",
+      "source_url": "https://www.sec.gov/files/litigation/litreleases/2026/judg26686.pdf",
+      "source_label": "SEC final judgment, SEC v. Kumar, N.D. Okla. (LR-26686)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "fund managers, registered investment advisers, crypto asset trading platforms",
+      "tags": [
+        "SEC",
+        "enforcement",
+        "investment-adviser-fraud",
+        "crypto-assets",
+        "meme-coins",
+        "final-judgment"
+      ]
+    },
+    {
+      "id": "2026-11-19-interagency-third-party-risk-guidance-comment-extension",
+      "date": "2026-11-19",
+      "published": "2026-11-19T12:02:00Z",
+      "title": "Interagency proposed third-party risk management guidance comment period extended to December 16, 2026",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-19-interagency-third-party-risk-guidance-comment-extension",
+      "issuing_body": "OCC, Federal Reserve, FDIC, NCUA",
+      "source_url": "https://www.federalregister.gov/documents/2026/11/18/2026-23416/proposed-third-party-risk-management-guidance-extension-of-comment-period",
+      "source_label": "Federal Register, FR Doc. 2026-23416, 91 FR 74279",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "banks and credit unions, fintech firms in bank partnerships, payment processors, third-party service providers",
+      "tags": [
+        "third-party-risk-management",
+        "interagency-guidance",
+        "bank-fintech-partnerships",
+        "comment-period-extension",
+        "federal-register",
+        "OCC",
+        "FDIC",
+        "NCUA"
+      ]
+    },
+    {
+      "id": "2026-11-19-cftc-dcm-event-contract-self-certifications-nov-18",
+      "date": "2026-11-19",
+      "published": "2026-11-19T12:01:00Z",
+      "title": "CFTC product records dated November 18, 2026 show five designated contract market organization codes self-certifying event contracts and binary options",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-19-cftc-dcm-event-contract-self-certifications-nov-18",
+      "issuing_body": "CFTC",
+      "source_url": "https://www.cftc.gov/IndustryOversight/IndustryFilings/TradingOrganizationProducts",
+      "source_label": "CFTC Industry Filings, Trading Organization Products listing",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "event-contract exchanges, prediction-market platforms, sportsbooks, state gaming regulators",
+      "tags": [
+        "CFTC",
+        "self-certification",
+        "regulation-40.2",
+        "event-contracts",
+        "binary-options",
+        "prediction-markets",
+        "designated-contract-market"
+      ]
+    },
+    {
+      "id": "2026-11-19-fincen-cdd-proposed-rule-federal-register",
+      "date": "2026-11-19",
+      "published": "2026-11-19T12:00:00Z",
+      "title": "FinCEN customer due diligence proposed rule published in the Federal Register, comments due January 19, 2027",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-19-fincen-cdd-proposed-rule-federal-register",
+      "issuing_body": "FinCEN",
+      "source_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-19/pdf/2026-23614.pdf",
+      "source_label": "Federal Register, FR Doc. 2026-23614, 91 FR 74514 (govinfo PDF)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "banks, broker-dealers, mutual funds, futures commission merchants, payment stablecoin issuers",
+      "tags": [
+        "FinCEN",
+        "customer-due-diligence",
+        "beneficial-ownership",
+        "BSA-AML",
+        "stablecoin",
+        "GENIUS-Act",
+        "proposed-rule",
+        "federal-register"
+      ]
+    },
     {
       "id": "2026-11-18-senate-agriculture-cftc-commissioner-nomination-hearing",
       "date": "2026-11-18",
