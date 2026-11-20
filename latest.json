@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-20T11:04:31Z",
+  "generated": "2026-11-20T22:51:03Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 425,
+  "count": 427,
   "items": [
     {
       "id": "2026-11-20-sec-exchange-filings-binary-options-key-performance-indicators",
@@ -300,6 +300,27 @@
       ]
     },
     {
+      "id": "2026-11-19-fincen-customer-due-diligence-proposed-rule",
+      "date": "2026-11-19",
+      "published": "2026-11-19T00:00:00Z",
+      "title": "FinCEN proposes strengthened customer due diligence requirements for covered financial institutions, comments due January 19, 2027",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-19-fincen-customer-due-diligence-proposed-rule",
+      "issuing_body": "FinCEN",
+      "source_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-19/pdf/2026-23614.pdf",
+      "source_label": "Federal Register, FinCEN notice of proposed rulemaking, document 2026-23614 (govinfo PDF)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "banks, broker-dealers, futures commission merchants, payments and fintech firms with covered-institution obligations",
+      "tags": [
+        "fincen",
+        "bsa-aml",
+        "customer-due-diligence",
+        "beneficial-ownership",
+        "proposed-rule",
+        "comment-deadline"
+      ]
+    },
+    {
       "id": "2026-11-18-senate-agriculture-cftc-commissioner-nomination-hearing",
       "date": "2026-11-18",
       "published": "2026-11-18T23:05:00Z",
@@ -534,6 +555,27 @@
         "request-for-information",
         "rate-regulation",
         "US-NY"
+      ]
+    },
+    {
+      "id": "2026-11-18-sec-nyse-american-binary-options-key-performance-indicators",
+      "date": "2026-11-18",
+      "published": "2026-11-18T00:00:00Z",
+      "title": "NYSE American becomes a fourth exchange with an immediately effective filing permitting binary options on key performance indicators",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-18-sec-nyse-american-binary-options-key-performance-indicators",
+      "issuing_body": "SEC",
+      "source_url": "https://www.federalregister.gov/documents/2026/11/18/2026-23425/self-regulatory-organizations-nyse-american-llc-notice-of-filing-and-immediate-effectiveness-of",
+      "source_label": "Federal Register, SEC notice of filing and immediate effectiveness, document 2026-23425",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "national securities exchanges, prediction-market platforms, derivatives venues, broker-dealers",
+      "tags": [
+        "sec",
+        "binary-options",
+        "key-performance-indicators",
+        "exchange-rule-filing",
+        "immediately-effective",
+        "event-contracts"
       ]
     },
     {
