@@ -1,0 +1,209 @@
+{
+  "entries": [
+    {
+      "id": "2026-11-19-ofac-counter-narcotics-trx-digital-currency-address",
+      "date": "2026-11-19",
+      "published": "2026-11-19T12:00:00Z",
+      "issuing_body": "Treasury / OFAC",
+      "title": "OFAC counter narcotics designations of November 19, 2026 include a blocked TRX digital currency address",
+      "facts": "OFAC's recent-actions entry for November 19, 2026, titled Counter Narcotics Designations; Cyber-related Designations; Issuance of Illicit Drugs General License; Issuance of Amended Russia-related General License and Frequently Asked Questions, lists Specially Designated Nationals additions under the program tags ILLICIT-DRUGS-EO14059, CYBER4 and SDNTK. One entry carries a Digital Currency Address field: TRX TVwLtgUXyDhmcSoQ9x2z9QSua41f8mDFvU, listed for VARELA VILLAR, Alexandre (a.k.a. VARE, Alex; a.k.a. VARELA, Alex) of Spain, shown as linked to the Comanchero Outlaw Motorcycle Gang. The same action issues Illicit Drugs General License 1, authorizing the wind down of transactions involving certain persons blocked on November 19, 2026, issues Russia-related General License 131L, and amends Frequently Asked Questions 1224 and 1225. The linked Treasury press release of the same date, Treasury Sanctions Major Drug Trafficking Organizations Supporting Terrorist Cartels, cites Executive Order 14059.",
+      "source_url": "https://ofac.treasury.gov/recent-actions/20261119",
+      "source_label": "OFAC recent actions, November 19, 2026 (official listing)",
+      "tags": [
+        "crypto",
+        "sanctions",
+        "ofac",
+        "sdn",
+        "digital-currency-address",
+        "enforcement"
+      ],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "exchanges, custodians, payment processors, sanctions and AML compliance teams"
+    },
+    {
+      "id": "2026-11-19-ofac-southeast-asia-cyber-scam-virtual-currency-fraud",
+      "date": "2026-11-19",
+      "published": "2026-11-19T13:00:00Z",
+      "issuing_body": "Treasury / OFAC",
+      "title": "OFAC designates Southeast Asian scam compound operators, citing virtual currency investment fraud targeting Americans",
+      "facts": "Treasury press release sb0695 of November 19, 2026, Treasury Targets Cyber Scam Operators and Armed Group Facilitators in Southeast Asia, states that OFAC designated three individuals and two affiliated companies under Executive Order 13694, as amended by Executive Orders 13757, 14144 and 14306. The release states that the individuals designated include operators of scam compounds that target Americans through virtual currency investment fraud, that such scam compounds conduct virtual currency investment scams, and that the activity is described in subsection 1(a)(ii) of Executive Order 13694 as further amended. The named targets are Zhao Hui, Bei Fang Bo Lin Construction Decoration Co., Ltd., ZHZ Investment Consulting Co., Ltd., Saw Shwe Wah, described as commander-in-chief of the DKBA, and Saw A One, described as a DKBA commander. The release refers to Cambodia, Burma and the Thai border. The corresponding SDN additions appear on the OFAC recent-actions entry for November 19, 2026 under the program tag CYBER4.",
+      "source_url": "https://home.treasury.gov/news/press-releases/sb0695",
+      "source_label": "U.S. Treasury press release sb0695 (official)",
+      "tags": [
+        "crypto",
+        "sanctions",
+        "ofac",
+        "cyber",
+        "virtual-currency-fraud",
+        "enforcement"
+      ],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "exchanges, custodians, payment processors, fraud and AML compliance teams"
+    },
+    {
+      "id": "2026-11-20-fdic-custodial-deposits-proposed-rule-federal-register",
+      "date": "2026-11-20",
+      "published": "2026-11-20T09:00:00Z",
+      "issuing_body": "FDIC",
+      "title": "FDIC custodial deposits proposed rule published in the Federal Register, comments due January 19, 2027",
+      "facts": "Federal Register document 2026-23669, Custodial Deposits: Implementing the 21st Century ROAD to Housing Act, an FDIC notice of proposed rulemaking, was published on November 20, 2026 at 91 FR 75234. It carries regulation identifier number 3064-AG38 and would amend 12 CFR parts 303 and 337. The record states that the FDIC invites public comment on a proposed rule to amend the brokered deposit regulations to implement section 901 of the 21st Century ROAD to Housing Act with respect to custodial deposits. The record's dates field states that comments must be received no later than January 19, 2027.",
+      "source_url": "https://www.federalregister.gov/api/v1/documents/2026-23669.json",
+      "source_label": "Federal Register document 2026-23669 (official record)",
+      "tags": [
+        "fintech",
+        "payments",
+        "brokered-deposits",
+        "custodial-deposits",
+        "proposed-rule",
+        "federal-register"
+      ],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "banks, bank-fintech partnership programs, deposit platforms, payment processors"
+    },
+    {
+      "id": "2026-11-20-sec-exchange-filings-binary-options-key-performance-indicators",
+      "date": "2026-11-20",
+      "published": "2026-11-20T09:30:00Z",
+      "issuing_body": "SEC",
+      "title": "SEC publishes immediately effective exchange rule filings permitting listing of binary options on key performance indicators",
+      "facts": "Three Federal Register records show SEC notices of filing and immediate effectiveness of proposed rule changes permitting the listing of binary options on key performance indicators. Document 2026-23650, published November 20, 2026 at 91 FR 75386, is the MEMX LLC filing, Release No. 34-106919, File No. SR-MEMX-2026-35. Document 2026-23649, published November 20, 2026 at 91 FR 75361, is the Miami International Securities Exchange, LLC filing, described as covering binary options on key performance indicators reported by certain issuers of stock, Release No. 34-106918, File No. SR-MIAX-2026-45. Document 2026-23427, published November 18, 2026 at 91 FR 74225, is the NYSE Arca, Inc. filing, Release No. 34-106899, File No. SR-NYSEARCA-2026-107. None of the three records carries a comment deadline, an action field or an abstract.",
+      "source_url": "https://www.federalregister.gov/api/v1/documents/2026-23650.json",
+      "source_label": "Federal Register document 2026-23650 (official record)",
+      "tags": [
+        "crypto",
+        "gaming",
+        "binary-options",
+        "event-contracts",
+        "prediction-markets",
+        "exchange-rule-filing",
+        "federal-register"
+      ],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction-market platforms, exchanges, broker-dealers, options market makers"
+    },
+    {
+      "id": "2026-11-18-state-ags-cftc-swap-definition-withdrawal-letter",
+      "date": "2026-11-18",
+      "published": "2026-11-18T17:00:00Z",
+      "issuing_body": "State Attorneys General (Ohio, co-leading 43 states and the District of Columbia)",
+      "title": "43 state attorneys general and the District of Columbia ask the CFTC to withdraw its proposed rule defining sports event contracts as swaps",
+      "facts": "A comment letter dated November 18, 2026, addressed to Christopher Kirkpatrick, Secretary of the CFTC, and captioned as comments on Further Definition of Swap, Inclusions, Docket No. CFTC-2026-21377, 91 Fed. Reg. 66,022, states that it is submitted by Ohio, Kentucky, Maryland, Nevada, New Jersey, New York, Tennessee, Utah, 35 other States, and the District of Columbia. The letter states that the most straightforward answer is that sports bets are not derivatives subject to the CFTC's jurisdiction. It argues that the CFTC lacks the statutory authority to redefine swaps in this way, states that the CFTC has not engaged with the SEC or the Federal Reserve Board as the statute requires, argues that the CFTC's position conflicts with the separate interim final rule at 91 Fed. Reg. 65,969 excluding sportsbook wagers from the definition of swap, and cites Sixth and Ninth Circuit rulings against the CFTC's position. The letter states that the CFTC should withdraw the proposed rule. The accompanying Ohio Attorney General news release of November 18, 2026 describes a bipartisan coalition of 43 state attorneys general and the District of Columbia, co-led by Ohio Attorney General Andy Wilson.",
+      "source_url": "https://www.ohioattorneygeneral.gov/Files/Briefing-Room/News-Releases/Swaps-Comment-Letter-11-18-26.aspx",
+      "source_label": "Multistate attorneys general comment letter, hosted by the Ohio Attorney General (official filing)",
+      "tags": [
+        "gaming",
+        "prediction-markets",
+        "event-contracts",
+        "swap-definition",
+        "state-ag",
+        "rulemaking-comment"
+      ],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction-market platforms, sportsbooks, exchanges, state-licensed gaming operators"
+    },
+    {
+      "id": "2026-11-19-cftc-dcm-product-filings-november-19",
+      "date": "2026-11-19",
+      "published": "2026-11-19T18:00:00Z",
+      "issuing_body": "CFTC",
+      "title": "CFTC product filings dated November 19, 2026 show certified corporate-officer succession swaps and five withdrawn basketball event contracts",
+      "facts": "The CFTC designated contract market product filings listing shows fifteen records dated 11/19/2026 on page one of the listing. Record 68219, organization code CDNA, product styled Will person be the next role at organization, is Type Swap, Status Certified, Category Financial Instrument, Subcategory Other Financial Instrument. Record 68218, also CDNA, Will Ian Buck be the next Chief Executive Officer of NVIDIA Corporation, carries the same type, status, category and subcategory. Record 68211, organization code FEX, Hourly Temp Forecast Contract, is Type Swap, Status Certified, Category Event, Subcategory Weather/Climate. Record 68207, organization code KEX, product US10YPERP, is Type Future, Status Approval Pending (45), Category Financial Instrument, Subcategory Interest Rate. Records 68206, 68205, 68204, 68203 and 68202, all KEX precipitation binary option contracts, are Type Swap (Binary Option), Status Certified, Category Event, Subcategory Weather/Climate. Records 66785, 66792, 67054, 66746 and 66816, all KEX entity-statistic game contracts on international basketball games, are Type Swap (Binary Option), Status Withdrawn, Category Event, Subcategory Binary Option. Record 63534, KEX, US10YPERP, is Type Future, Status Withdrawn. The listing runs to 485 pages and only page one was read, so the record count for the date may be larger.",
+      "source_url": "https://www.cftc.gov/IndustryOversight/IndustryFilings/TradingOrganizationProducts",
+      "source_label": "CFTC designated contract market product filings listing (official)",
+      "tags": [
+        "crypto",
+        "gaming",
+        "prediction-markets",
+        "event-contracts",
+        "self-certification"
+      ],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction-market platforms, designated contract markets, exchanges, product counsel"
+    },
+    {
+      "id": "2026-11-19-doj-georgia-crypto-atm-money-laundering-charges",
+      "date": "2026-11-19",
+      "published": "2026-11-19T22:30:00Z",
+      "issuing_body": "DOJ",
+      "title": "Justice Department charges a Georgia man with international money laundering carried out through cryptocurrency ATMs and cryptocurrency addresses",
+      "facts": "A Department of Justice press release of November 19, 2026, release number 26-1384, states that Younes Moustafa Younes, 34, of Lavonia, Georgia, was charged by criminal complaint in the Middle District of Georgia with one count of international money laundering and one count of destruction of evidence. The release states that he sent more than 26,000 dollars in total, that he sent 16,807 dollars through cryptocurrency transactions using multiple phone numbers and accounts between December 2025 and June 2026, and that he sent approximately 9,206 dollars to cryptocurrency addresses associated with the effort in 11 transactions between December 2021 and April 2022. Photo captions on the release state that images of the defendant were captured by cryptocurrency ATMs during the alleged transfers of funds. The stated statutory maximums are 20 years and a 500,000 dollar fine for international money laundering and 20 years and a 250,000 dollar fine for destruction of evidence, each followed by three years of supervised release. Initial appearance was before U.S. Magistrate Judge Charles Weigle, with preliminary and detention hearings set for November 23 in Macon. The release states that the allegations in a criminal complaint are unproven and that the defendant is presumed innocent.",
+      "source_url": "https://www.justice.gov/opa/pr/northeast-georgia-man-charged-international-money-laundering-and-destroying-evidence-tied-0",
+      "source_label": "U.S. Department of Justice press release 26-1384 (official)",
+      "tags": [
+        "crypto",
+        "crypto-atm",
+        "money-laundering",
+        "enforcement",
+        "doj"
+      ],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "crypto ATM and kiosk operators, money services businesses, AML compliance teams"
+    },
+    {
+      "id": "2026-11-19-doj-edky-money-laundering-guilty-pleas-cryptocurrency",
+      "date": "2026-11-19",
+      "published": "2026-11-19T20:30:00Z",
+      "issuing_body": "DOJ",
+      "title": "Three Mexican nationals plead guilty to a money laundering conspiracy that moved drug proceeds by cryptocurrency or wire transfer",
+      "facts": "A Department of Justice press release of November 19, 2026, release number 26-1383, from the U.S. Attorney's Office for the Eastern District of Kentucky, states that Eliomar Segura Torres, 37, Juan Carlos Michel Martinez, 41, and Manuel Ignacio Correa, 45, pleaded guilty to money laundering conspiracy, and describes Michel Martinez and Correa as money brokers. The release states that the defendants provided instructions to transfer those funds via cryptocurrency or wire transfer and refers to the return of those proceeds via cryptocurrency or wire transfers to Mexico. The drugs referenced are fentanyl, cocaine, heroin and methamphetamine. Each defendant faces a stated maximum of 20 years. Sentencing is set for February 18, 2027 for Segura Torres and Michel Martinez and March 4, 2027 for Correa. The release states the amount laundered only as millions of dollars and gives no specific figure.",
+      "source_url": "https://www.justice.gov/opa/pr/3-mexican-nationals-plead-guilty-laundering-millions-dollars-drug-proceeds-united-states",
+      "source_label": "U.S. Department of Justice press release 26-1383 (official)",
+      "tags": [
+        "crypto",
+        "payments",
+        "money-laundering",
+        "enforcement",
+        "doj"
+      ],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "exchanges, payment processors, money services businesses, AML compliance teams"
+    },
+    {
+      "id": "2026-11-17-cftc-24-7-trading-roundtable-agenda",
+      "date": "2026-11-17",
+      "published": "2026-11-17T16:00:00Z",
+      "issuing_body": "CFTC",
+      "title": "CFTC publishes the agenda for its December 15 roundtable on 24/7 trading, listing tokenization among the topics",
+      "facts": "CFTC Press Release 9327-26 of November 17, 2026, CFTC Announces Agenda for December Roundtable on 24/7 Trading, releases the agenda for an industry roundtable on the viability of derivatives markets moving to 24/7 trading. The roundtable is set for December 15 from 1 to 4 p.m. EST at CFTC Headquarters, Three Lafayette Centre, 1155 21st St., NW, Washington, D.C., and references Press Release No. 9318-26. Listed topics include overnight and weekend trading, tokenization, margin, infrastructure and staffing needs, and operational readiness. The meeting is open to the public and will be livestreamed on CFTC.gov. Chairman Michael S. Selig is quoted saying the CFTC will promote innovation in our derivatives markets in a manner attentive to the nuances of those markets.",
+      "source_url": "https://www.cftc.gov/PressRoom/PressReleases/9327-26",
+      "source_label": "CFTC Press Release 9327-26 (official)",
+      "tags": [
+        "crypto",
+        "tokenization",
+        "market-structure",
+        "roundtable"
+      ],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "designated contract markets, clearing organizations, exchanges, tokenization projects"
+    },
+    {
+      "id": "2026-11-19-senate-banking-sec-nominee-hearing",
+      "date": "2026-11-19",
+      "published": "2026-11-19T15:00:00Z",
+      "issuing_body": "Senate Committee on Banking, Housing, and Urban Affairs",
+      "title": "Senate Banking Committee holds a nomination hearing on SEC Member nominees Kristin N. Johnson and Steven Levine",
+      "facts": "The Senate Banking Committee hearing notice for Thursday, November 19, 2026 at 10:00 AM in Dirksen Senate Office Building 538 states that the committee will meet in executive session to vote on the nominations of Jeremy Wiggins, Matthew Jones, David Slade and Michael Rigas, and will then meet in open session for a hearing on Mark Aesch, Hugo Dante Jr., Rebekah Jurata, Kristin N. Johnson and Steven Levine, the last two as Members of the Securities and Exchange Commission. The notice states no vote result for any nominee.",
+      "source_url": "https://www.banking.senate.gov/hearings/11/12/2026/nomination-hearing",
+      "source_label": "Senate Banking Committee hearing notice (official)",
+      "tags": [
+        "fintech",
+        "crypto",
+        "nominations",
+        "sec",
+        "congress"
+      ],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "exchanges, broker-dealers, digital-asset issuers, compliance and government-affairs teams"
+    }
+  ]
+}
