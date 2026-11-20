@@ -1,8 +1,152 @@
 {
-  "generated": "2026-11-19T22:57:16Z",
+  "generated": "2026-11-20T11:04:31Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 415,
+  "count": 425,
   "items": [
+    {
+      "id": "2026-11-20-sec-exchange-filings-binary-options-key-performance-indicators",
+      "date": "2026-11-20",
+      "published": "2026-11-20T09:30:00Z",
+      "title": "SEC publishes immediately effective exchange rule filings permitting listing of binary options on key performance indicators",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-20-sec-exchange-filings-binary-options-key-performance-indicators",
+      "issuing_body": "SEC",
+      "source_url": "https://www.federalregister.gov/api/v1/documents/2026-23650.json",
+      "source_label": "Federal Register document 2026-23650 (official record)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction-market platforms, exchanges, broker-dealers, options market makers",
+      "tags": [
+        "crypto",
+        "gaming",
+        "binary-options",
+        "event-contracts",
+        "prediction-markets",
+        "exchange-rule-filing",
+        "federal-register"
+      ]
+    },
+    {
+      "id": "2026-11-20-fdic-custodial-deposits-proposed-rule-federal-register",
+      "date": "2026-11-20",
+      "published": "2026-11-20T09:00:00Z",
+      "title": "FDIC custodial deposits proposed rule published in the Federal Register, comments due January 19, 2027",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-20-fdic-custodial-deposits-proposed-rule-federal-register",
+      "issuing_body": "FDIC",
+      "source_url": "https://www.federalregister.gov/api/v1/documents/2026-23669.json",
+      "source_label": "Federal Register document 2026-23669 (official record)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "banks, bank-fintech partnership programs, deposit platforms, payment processors",
+      "tags": [
+        "fintech",
+        "payments",
+        "brokered-deposits",
+        "custodial-deposits",
+        "proposed-rule",
+        "federal-register"
+      ]
+    },
+    {
+      "id": "2026-11-19-doj-georgia-crypto-atm-money-laundering-charges",
+      "date": "2026-11-19",
+      "published": "2026-11-19T22:30:00Z",
+      "title": "Justice Department charges a Georgia man with international money laundering carried out through cryptocurrency ATMs and cryptocurrency addresses",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-19-doj-georgia-crypto-atm-money-laundering-charges",
+      "issuing_body": "DOJ",
+      "source_url": "https://www.justice.gov/opa/pr/northeast-georgia-man-charged-international-money-laundering-and-destroying-evidence-tied-0",
+      "source_label": "U.S. Department of Justice press release 26-1384 (official)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "crypto ATM and kiosk operators, money services businesses, AML compliance teams",
+      "tags": [
+        "crypto",
+        "crypto-atm",
+        "money-laundering",
+        "enforcement",
+        "doj"
+      ]
+    },
+    {
+      "id": "2026-11-19-doj-edky-money-laundering-guilty-pleas-cryptocurrency",
+      "date": "2026-11-19",
+      "published": "2026-11-19T20:30:00Z",
+      "title": "Three Mexican nationals plead guilty to a money laundering conspiracy that moved drug proceeds by cryptocurrency or wire transfer",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-19-doj-edky-money-laundering-guilty-pleas-cryptocurrency",
+      "issuing_body": "DOJ",
+      "source_url": "https://www.justice.gov/opa/pr/3-mexican-nationals-plead-guilty-laundering-millions-dollars-drug-proceeds-united-states",
+      "source_label": "U.S. Department of Justice press release 26-1383 (official)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "exchanges, payment processors, money services businesses, AML compliance teams",
+      "tags": [
+        "crypto",
+        "payments",
+        "money-laundering",
+        "enforcement",
+        "doj"
+      ]
+    },
+    {
+      "id": "2026-11-19-cftc-dcm-product-filings-november-19",
+      "date": "2026-11-19",
+      "published": "2026-11-19T18:00:00Z",
+      "title": "CFTC product filings dated November 19, 2026 show certified corporate-officer succession swaps and five withdrawn basketball event contracts",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-19-cftc-dcm-product-filings-november-19",
+      "issuing_body": "CFTC",
+      "source_url": "https://www.cftc.gov/IndustryOversight/IndustryFilings/TradingOrganizationProducts",
+      "source_label": "CFTC designated contract market product filings listing (official)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction-market platforms, designated contract markets, exchanges, product counsel",
+      "tags": [
+        "crypto",
+        "gaming",
+        "prediction-markets",
+        "event-contracts",
+        "self-certification"
+      ]
+    },
+    {
+      "id": "2026-11-19-senate-banking-sec-nominee-hearing",
+      "date": "2026-11-19",
+      "published": "2026-11-19T15:00:00Z",
+      "title": "Senate Banking Committee holds a nomination hearing on SEC Member nominees Kristin N. Johnson and Steven Levine",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-19-senate-banking-sec-nominee-hearing",
+      "issuing_body": "Senate Committee on Banking, Housing, and Urban Affairs",
+      "source_url": "https://www.banking.senate.gov/hearings/11/12/2026/nomination-hearing",
+      "source_label": "Senate Banking Committee hearing notice (official)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "exchanges, broker-dealers, digital-asset issuers, compliance and government-affairs teams",
+      "tags": [
+        "fintech",
+        "crypto",
+        "nominations",
+        "sec",
+        "congress"
+      ]
+    },
+    {
+      "id": "2026-11-19-ofac-southeast-asia-cyber-scam-virtual-currency-fraud",
+      "date": "2026-11-19",
+      "published": "2026-11-19T13:00:00Z",
+      "title": "OFAC designates Southeast Asian scam compound operators, citing virtual currency investment fraud targeting Americans",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-19-ofac-southeast-asia-cyber-scam-virtual-currency-fraud",
+      "issuing_body": "Treasury / OFAC",
+      "source_url": "https://home.treasury.gov/news/press-releases/sb0695",
+      "source_label": "U.S. Treasury press release sb0695 (official)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "exchanges, custodians, payment processors, fraud and AML compliance teams",
+      "tags": [
+        "crypto",
+        "sanctions",
+        "ofac",
+        "cyber",
+        "virtual-currency-fraud",
+        "enforcement"
+      ]
+    },
     {
       "id": "2026-11-19-mgcb-october-2026-igaming-sports-betting-revenue",
       "date": "2026-11-19",
@@ -111,6 +255,27 @@
         "GENIUS-Act",
         "proposed-rule",
         "federal-register"
+      ]
+    },
+    {
+      "id": "2026-11-19-ofac-counter-narcotics-trx-digital-currency-address",
+      "date": "2026-11-19",
+      "published": "2026-11-19T12:00:00Z",
+      "title": "OFAC counter narcotics designations of November 19, 2026 include a blocked TRX digital currency address",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-19-ofac-counter-narcotics-trx-digital-currency-address",
+      "issuing_body": "Treasury / OFAC",
+      "source_url": "https://ofac.treasury.gov/recent-actions/20261119",
+      "source_label": "OFAC recent actions, November 19, 2026 (official listing)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "exchanges, custodians, payment processors, sanctions and AML compliance teams",
+      "tags": [
+        "crypto",
+        "sanctions",
+        "ofac",
+        "sdn",
+        "digital-currency-address",
+        "enforcement"
       ]
     },
     {
@@ -236,6 +401,27 @@
         "compact-extension",
         "Bureau-of-Indian-Affairs",
         "Federal-Register"
+      ]
+    },
+    {
+      "id": "2026-11-18-state-ags-cftc-swap-definition-withdrawal-letter",
+      "date": "2026-11-18",
+      "published": "2026-11-18T17:00:00Z",
+      "title": "43 state attorneys general and the District of Columbia ask the CFTC to withdraw its proposed rule defining sports event contracts as swaps",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-18-state-ags-cftc-swap-definition-withdrawal-letter",
+      "issuing_body": "State Attorneys General (Ohio, co-leading 43 states and the District of Columbia)",
+      "source_url": "https://www.ohioattorneygeneral.gov/Files/Briefing-Room/News-Releases/Swaps-Comment-Letter-11-18-26.aspx",
+      "source_label": "Multistate attorneys general comment letter, hosted by the Ohio Attorney General (official filing)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction-market platforms, sportsbooks, exchanges, state-licensed gaming operators",
+      "tags": [
+        "gaming",
+        "prediction-markets",
+        "event-contracts",
+        "swap-definition",
+        "state-ag",
+        "rulemaking-comment"
       ]
     },
     {
@@ -413,6 +599,25 @@
         "tokenization",
         "market-structure",
         "derivatives",
+        "roundtable"
+      ]
+    },
+    {
+      "id": "2026-11-17-cftc-24-7-trading-roundtable-agenda",
+      "date": "2026-11-17",
+      "published": "2026-11-17T16:00:00Z",
+      "title": "CFTC publishes the agenda for its December 15 roundtable on 24/7 trading, listing tokenization among the topics",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-17-cftc-24-7-trading-roundtable-agenda",
+      "issuing_body": "CFTC",
+      "source_url": "https://www.cftc.gov/PressRoom/PressReleases/9327-26",
+      "source_label": "CFTC Press Release 9327-26 (official)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "designated contract markets, clearing organizations, exchanges, tokenization projects",
+      "tags": [
+        "crypto",
+        "tokenization",
+        "market-structure",
         "roundtable"
       ]
     },
