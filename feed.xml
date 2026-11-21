@@ -5,8 +5,88 @@
     <link>https://tg3online.github.io/regrisk-radar/</link>
     <description>Daily facts-only regulatory radar — crypto, gaming, payments &amp; fintech. Verified against primary sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Nov 2026 11:04:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 22:59:49 +0000</lastBuildDate>
     <atom:link href="https://tg3online.github.io/regrisk-radar/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SEC publishes MIAX and MEMX filings permitting binary options on issuer key performance indicators, and the permitted underlier table names Coinbase Global and Marathon Digital Holdings bitcoin metrics</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-11-21-sec-miax-memx-binary-kpi-options-coinbase-marathon-bitcoin</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-11-21-sec-miax-memx-binary-kpi-options-coinbase-marathon-bitcoin</guid>
+      <pubDate>Sat, 21 Nov 2026 23:05:00 +0000</pubDate>
+      <category>SEC</category>
+      <description>On November 20, 2026 the SEC published two notices of self-regulatory organization proposed rule changes permitting the listing of binary options overlying key performance indicators reported by certain issuers of stock: Miami International Securities Exchange, LLC, Release No. 34-106918, File No. SR-MIAX-2026-45, at 91 FR 75361, and MEMX LLC, Release No. 34-106919, File No. SR-MEMX-2026-35, at 91 FR 75386. Both were filed on November 9, 2026 and are dated November 17, 2026. The MIAX notice states that binary KPI options are European-style, cash-settled options contracts listed on an underlying KPI of an issuer, that a KPI is a key financial or operating metric disclosed by an issuer in its earnings-related filings on Form 8-K, 10-Q or 10-K, and that the exercise settlement value is the value of the applicable KPI as disclosed in that filing rather than the market price of the issuer&#x27;s stock. The MEMX notice defines the exercise settlement amount as 1 dollar, subject to adjustment. The MIAX filing states that it has become effective pursuant to Section 19(b)(3)(A) of the Act and Rule 19b-4(f)(6) thereunder; MEMX states that it filed the proposal as a non-controversial proposed rule change pursuant to Section 19(b)(3)(A)(iii) and Rule 19b-4(f)(6). The permitted underlier table in both notices covers 23 issuers and includes Coinbase Global, with rows reading Total Trading Volume and Transaction Revenue, and Marathon Digital Holdings, with rows reading Number of Blocks Won (# Bitcoin (BTC)), Energized Hashrate (EH) (# EH/s), Total Bitcoin Holdings (# BTC), BTC Produced (# BTC) and BTC Purchased (# BTC). Both notices cite the Cboe approval order SR-CBOE-2026-061, Release No. 106659, 91 FR 65854 of October 16, 2026, and the MIAX notice states that the NYSE American and NYSE Arca filings were refiled on November 4, 2026. Approximately 34 percent of the MIAX document and 35 percent of the MEMX document were read, covering the full underlier table; position limits and contract multiplier fall outside the portion read and are not stated here.
+
+Primary source: Federal Register document 2026-23649 (SEC, SR-MIAX-2026-45), full text via GovInfo — https://www.govinfo.gov/content/pkg/FR-2026-11-20/pdf/2026-23649.pdf
+
+Relevant to: options exchanges, market makers, crypto exchanges and miners, event-contract and prediction-market platforms
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+    <item>
+      <title>CFTC charges 11 companies and two Indiana executives over a Ponzi scheme that took more than 550 million dollars from at least 2,100 participants</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-11-21-cftc-backward-hat-550-million-ponzi-receiver</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-11-21-cftc-backward-hat-550-million-ponzi-receiver</guid>
+      <pubDate>Sat, 21 Nov 2026 23:05:00 +0000</pubDate>
+      <category>CFTC</category>
+      <description>CFTC Release Number 9328-26 of November 20, 2026 states that the Commission filed a complaint in the United States District Court for the Southern District of Indiana against Phillip Williams and Devin Johnson, described as Indiana residents and executive officers, and against 11 companies which the release says collectively operated as the Backward Hat Common Enterprise: Backward Hat Capital Fund LP, BH Capital Fund I LP, BH Capital Fund III LP, BH Capital Fund IV LP, BHC V LLC, BH Capital Fund VI LP, BH Capital Fund IX LP, Backward Hat Group LLC, BH Capital Fund X LP, BH Capital Fund IX - 2 LP and Backward Hat Capital Management LLC. The release states the defendants operated a Ponzi scheme that received more than 550 million dollars from at least 2,100 participants, that they claimed they would trade leveraged retail foreign currency contracts, known as forex, that they conducted little to no forex trading, that they claimed returns exceeding 6 percent monthly, and that solicitations continued at least through October 2026. It states that a restraining order freezing the assets of the defendants and relief defendants was entered Wednesday, that the court appointed Kevin B. Duff as temporary receiver, and that the complaint seeks restitution, disgorgement, civil monetary penalties, trading and registration bans and a permanent injunction. The release states that the Securities and Exchange Commission filed a civil action and sought an emergency restraining order against Williams, Johnson and several companies in the enterprise, and that the FBI arrested Williams and Johnson on Wednesday. The release does not state a civil action number, a filing date, or the specific Commodity Exchange Act sections charged, and the words digital asset, virtual currency, crypto, token, blockchain and stablecoin do not appear in it.
+
+Primary source: CFTC Release Number 9328-26, November 20, 2026 — https://www.cftc.gov/PressRoom/PressReleases/9328-26
+
+Relevant to: retail forex and futures introducing brokers, fund administrators, compliance and AML teams
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+    <item>
+      <title>New York Attorney General&#x27;s verified petition against KalshiEX LLC seeks a penalty of 100,000 dollars for each offering or attempt to offer sports wagering and alleges account holders aged 18 to 20</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-11-21-ny-ag-kalshiex-petition-unlicensed-gambling-penalty</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-11-21-ny-ag-kalshiex-petition-unlicensed-gambling-penalty</guid>
+      <pubDate>Sat, 21 Nov 2026 23:05:00 +0000</pubDate>
+      <category>New York Attorney General</category>
+      <description>The verified petition in People of the State of New York, by Letitia James, Attorney General of the State of New York, against KalshiEX LLC, posted on the New York Attorney General&#x27;s court-filings surface, is captioned Supreme Court of the State of New York, County of New York. The Index No. line in the posted document is blank. The petition pleads Executive Law 63(12) as the basis for the action and cites N.Y. Const. art. I, section 9, Penal Law sections 225.05, 225.10 and 225.20, Racing Law sections 1367(16)(a), 1367-a(2)(a) and 1367-a(4)(b), 18 U.S.C. 1084(a), Penal Law section 80.10 and CPLR 8303(a)(6). Venue is laid in New York County under CPLR 503 on the ground that the Attorney General&#x27;s New York office and the respondent&#x27;s headquarters are both in New York County. The relief requested includes permanently enjoining Respondent from continuing to operate a gambling business in New York without being licensed, an accounting, restitution, disgorgement and damages, a penalty of three times the respondent&#x27;s gain under Penal Law section 80.10, costs of 2,000 dollars under CPLR 8303(a)(6), and a penalty of 100,000 dollars for each offering or attempt to offer sports wagering. At paragraph 58 the petition alleges that Respondent permits bettors under the age of 21, but at least 18 years of age to open an account, and at paragraph 70 that Respondent does not prohibit bettors between the ages of 18 and 21 from wagering. It alleges social media advertising to New Yorkers, including an Instagram post reading Bet on the NFL, Legal in all 50 states. At paragraphs 8 and 74 it states that Respondent has reported a 22 billion dollar valuation of its gambling business and an annualized transaction volume of 178 billion dollars, both cited to a Kalshi press release. The affirmations are sworn July 31, 2026 and July 14, 2026, and the petition states no filing date. Approximately 72 percent of the document was read.
+
+Primary source: New York Attorney General, verified petition in People of the State of New York v. KalshiEX LLC (court filing posted by the Attorney General) — https://ag.ny.gov/sites/default/files/court-filings/new-york-v-kalshiex-llc-petition-2026.pdf
+
+Relevant to: prediction-market platforms, sportsbooks, exchanges, state licensing and advertising compliance teams
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+    <item>
+      <title>Three outlets report that the Florida Attorney General publicly warned DraftKings over a product called 21 Rivals, with no formal legal step taken</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-11-21-florida-ag-draftkings-21-rivals-casino-warning</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-11-21-florida-ag-draftkings-21-rivals-casino-warning</guid>
+      <pubDate>Sat, 21 Nov 2026 23:05:00 +0000</pubDate>
+      <category>Florida Attorney General</category>
+      <description>The Daily Caller, published November 19, 2026, and the Tampa Free Press, published November 19, 2026 and read in syndication, both report that Florida Attorney General James Uthmeier posted on X on November 18, 2026 about a DraftKings product called 21 Rivals, and both quote him as writing: But if it looks like a casino, takes real money like a casino, and pays out like a casino, it is a casino, followed by: DraftKings will be hearing from us soon. The Tampa Free Press account adds the opening line: It&#x27;s reported that DraftKings is offering a new gambling platform in Florida called 21 Rivals. Deadspin, published November 19, 2026, carries the same two quoted sentences. The Daily Caller reports that Uthmeier did not say what action he planned to take and that his office said Thursday it had no update to share; the Tampa Free Press reports that he did not say which Florida laws the game might break or what action his office plans to take. No report describes a cease and desist letter, a subpoena, a civil investigative demand or a filed complaint, and no report names a Florida statute applied to this product. The Daily Caller describes 21 Rivals as a blackjack-style game in which two players receive the same cards and the one with more chips wins a cash prize, with players starting with 1,000 chips and playing five hands against a simulated dealer within a six-minute window. DraftKings is quoted as saying: 21 Rivals is a peer-to-peer skill-based contest, and we look forward to a dialogue with the AG&#x27;s office. All three reports trace to the same November 18, 2026 post by the Attorney General, which was not retrieved. No release on the Florida Attorney General&#x27;s own newsroom was reachable.
+
+Coverage: The Daily Caller, November 19, 2026 (press coverage; corroborated by Tampa Free Press and Deadspin of the same date) — https://dailycaller.com/2026/11/19/draftkings-calls-it-a-game-of-skill-floridas-attorney-general-calls-it-a-casino/
+
+Relevant to: online gaming and sportsbook operators, skill-contest and sweepstakes platforms, state gaming compliance teams
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+    <item>
+      <title>NYDFS secures 6.75 million dollars in cybersecurity settlements with Rocket Mortgage and Mr. Cooper over multi-factor authentication controls and late incident reporting</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-11-21-nydfs-rocket-mortgage-mr-cooper-675-million-cybersecurity</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-11-21-nydfs-rocket-mortgage-mr-cooper-675-million-cybersecurity</guid>
+      <pubDate>Sat, 21 Nov 2026 23:05:00 +0000</pubDate>
+      <category>NYDFS</category>
+      <description>The New York State Department of Financial Services announced on November 19, 2026 that Rocket Mortgage LLC and Nationstar Mortgage LLC doing business as Mr. Cooper will pay 2 million dollars and 4.75 million dollars respectively in penalties for violating DFS&#x27;s Cybersecurity Regulation, 23 NYCRR Part 500, and that Rocket Mortgage will pay a total of 6.75 million dollars in penalties and undertake remedial measures following its Mr. Cooper acquisition. The release is subtitled Settlements Highlight Importance of Effective Multi-Factor Authentication Controls and Timely Incident Reporting, and states that Mr. Cooper was acquired by Rocket Mortgage during the course of the investigations. It states that regulated entities are required to notify DFS as promptly as possible, and in no event later than 72 hours. As to Rocket Mortgage, the release states that the company failed to report incidents on time on seven occasions, in some cases more than a year after discovery, that in six instances it notified DFS only after DFS found the incidents during an examination, that it did not implement multi-factor authentication or reasonably equivalent access controls, and that it had no secure-disposal policies. As to Mr. Cooper, the release states that the company reported a major incident in November 2023, that threat actors impersonated Mr. Cooper employees on phone calls to obtain temporary passwords from the IT Help Desk and then bypassed multi-factor authentication, that the threat actors stole large amounts of private customer information, and that Mr. Cooper did not complete a comprehensive cybersecurity risk assessment for almost four years. The release states that the regulation was enacted in March 2017 and strengthened in November 2023. It does not state the consent order dates or cite specific Part 500 section numbers.
+
+Primary source: NYDFS press release, November 19, 2026 — https://www.dfs.ny.gov/PR20261119
+
+Relevant to: NYDFS licensees including virtual currency businesses and money transmitters, lenders and servicers, CISOs and incident-response teams
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
     <item>
       <title>Coinbase Derivatives margin filing states the exchange intends to permit payment stablecoins as margin if the SEC, CFTC or Federal Reserve Board amend their rules</title>
       <link>https://tg3online.github.io/regrisk-radar/#2026-11-21-sec-coinbase-derivatives-security-futures-margin-stablecoins</link>

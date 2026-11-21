@@ -1,8 +1,120 @@
 {
-  "generated": "2026-11-21T11:04:16Z",
+  "generated": "2026-11-21T22:59:49Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 431,
+  "count": 436,
   "items": [
+    {
+      "id": "2026-11-21-sec-miax-memx-binary-kpi-options-coinbase-marathon-bitcoin",
+      "date": "2026-11-21",
+      "published": "2026-11-21T23:05:00Z",
+      "title": "SEC publishes MIAX and MEMX filings permitting binary options on issuer key performance indicators, and the permitted underlier table names Coinbase Global and Marathon Digital Holdings bitcoin metrics",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-21-sec-miax-memx-binary-kpi-options-coinbase-marathon-bitcoin",
+      "issuing_body": "SEC",
+      "source_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-20/pdf/2026-23649.pdf",
+      "source_label": "Federal Register document 2026-23649 (SEC, SR-MIAX-2026-45), full text via GovInfo",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "options exchanges, market makers, crypto exchanges and miners, event-contract and prediction-market platforms",
+      "tags": [
+        "crypto",
+        "sec",
+        "sro-rule-filing",
+        "binary-options",
+        "key-performance-indicators",
+        "bitcoin",
+        "mining",
+        "coinbase-global",
+        "marathon-digital"
+      ]
+    },
+    {
+      "id": "2026-11-21-cftc-backward-hat-550-million-ponzi-receiver",
+      "date": "2026-11-21",
+      "published": "2026-11-21T23:05:00Z",
+      "title": "CFTC charges 11 companies and two Indiana executives over a Ponzi scheme that took more than 550 million dollars from at least 2,100 participants",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-21-cftc-backward-hat-550-million-ponzi-receiver",
+      "issuing_body": "CFTC",
+      "source_url": "https://www.cftc.gov/PressRoom/PressReleases/9328-26",
+      "source_label": "CFTC Release Number 9328-26, November 20, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "retail forex and futures introducing brokers, fund administrators, compliance and AML teams",
+      "tags": [
+        "cftc",
+        "enforcement",
+        "ponzi",
+        "retail-forex",
+        "asset-freeze",
+        "receiver",
+        "parallel-sec-action"
+      ]
+    },
+    {
+      "id": "2026-11-21-ny-ag-kalshiex-petition-unlicensed-gambling-penalty",
+      "date": "2026-11-21",
+      "published": "2026-11-21T23:05:00Z",
+      "title": "New York Attorney General's verified petition against KalshiEX LLC seeks a penalty of 100,000 dollars for each offering or attempt to offer sports wagering and alleges account holders aged 18 to 20",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-21-ny-ag-kalshiex-petition-unlicensed-gambling-penalty",
+      "issuing_body": "New York Attorney General",
+      "source_url": "https://ag.ny.gov/sites/default/files/court-filings/new-york-v-kalshiex-llc-petition-2026.pdf",
+      "source_label": "New York Attorney General, verified petition in People of the State of New York v. KalshiEX LLC (court filing posted by the Attorney General)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction-market platforms, sportsbooks, exchanges, state licensing and advertising compliance teams",
+      "tags": [
+        "gaming",
+        "state-ag",
+        "new-york",
+        "kalshi",
+        "prediction-markets",
+        "event-contracts",
+        "sports-wagering",
+        "unlicensed-gambling"
+      ]
+    },
+    {
+      "id": "2026-11-21-florida-ag-draftkings-21-rivals-casino-warning",
+      "date": "2026-11-21",
+      "published": "2026-11-21T23:05:00Z",
+      "title": "Three outlets report that the Florida Attorney General publicly warned DraftKings over a product called 21 Rivals, with no formal legal step taken",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-21-florida-ag-draftkings-21-rivals-casino-warning",
+      "issuing_body": "Florida Attorney General",
+      "source_url": "https://dailycaller.com/2026/11/19/draftkings-calls-it-a-game-of-skill-floridas-attorney-general-calls-it-a-casino/",
+      "source_label": "The Daily Caller, November 19, 2026 (press coverage; corroborated by Tampa Free Press and Deadspin of the same date)",
+      "source_type": "media_coverage",
+      "primary_source_status": "unavailable",
+      "relevant_to": "online gaming and sportsbook operators, skill-contest and sweepstakes platforms, state gaming compliance teams",
+      "tags": [
+        "gaming",
+        "state-ag",
+        "florida",
+        "draftkings",
+        "skill-game",
+        "casino-gaming"
+      ]
+    },
+    {
+      "id": "2026-11-21-nydfs-rocket-mortgage-mr-cooper-675-million-cybersecurity",
+      "date": "2026-11-21",
+      "published": "2026-11-21T23:05:00Z",
+      "title": "NYDFS secures 6.75 million dollars in cybersecurity settlements with Rocket Mortgage and Mr. Cooper over multi-factor authentication controls and late incident reporting",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-21-nydfs-rocket-mortgage-mr-cooper-675-million-cybersecurity",
+      "issuing_body": "NYDFS",
+      "source_url": "https://www.dfs.ny.gov/PR20261119",
+      "source_label": "NYDFS press release, November 19, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "NYDFS licensees including virtual currency businesses and money transmitters, lenders and servicers, CISOs and incident-response teams",
+      "tags": [
+        "fintech",
+        "nydfs",
+        "enforcement",
+        "cybersecurity",
+        "23-nycrr-500",
+        "multi-factor-authentication",
+        "incident-reporting"
+      ]
+    },
     {
       "id": "2026-11-21-sec-coinbase-derivatives-security-futures-margin-stablecoins",
       "date": "2026-11-21",
