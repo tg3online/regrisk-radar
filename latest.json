@@ -1,8 +1,91 @@
 {
-  "generated": "2026-11-20T22:51:03Z",
+  "generated": "2026-11-21T11:04:16Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 427,
+  "count": 431,
   "items": [
+    {
+      "id": "2026-11-21-sec-coinbase-derivatives-security-futures-margin-stablecoins",
+      "date": "2026-11-21",
+      "published": "2026-11-21T11:10:00Z",
+      "title": "Coinbase Derivatives margin filing states the exchange intends to permit payment stablecoins as margin if the SEC, CFTC or Federal Reserve Board amend their rules",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-21-sec-coinbase-derivatives-security-futures-margin-stablecoins",
+      "issuing_body": "SEC",
+      "source_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-20/pdf/2026-23653.pdf",
+      "source_label": "Federal Register document 2026-23653, 91 FR 75421 (govinfo PDF)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "crypto derivatives venues, security futures intermediaries, clearing firms, stablecoin issuers",
+      "tags": [
+        "crypto",
+        "payments",
+        "sec",
+        "security-futures",
+        "margin",
+        "stablecoins",
+        "sro-rule-filing"
+      ]
+    },
+    {
+      "id": "2026-11-21-sec-eight-entities-fake-crypto-platforms-37-million",
+      "date": "2026-11-21",
+      "published": "2026-11-21T11:10:00Z",
+      "title": "SEC sues eight entities over fake crypto asset trading platforms it says took more than $37 million from US investors",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-21-sec-eight-entities-fake-crypto-platforms-37-million",
+      "issuing_body": "SEC",
+      "source_url": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26690",
+      "source_label": "SEC Litigation Release No. 26690",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "crypto exchanges, registered investment advisers, broker-dealers, fraud and compliance teams",
+      "tags": [
+        "crypto",
+        "sec",
+        "enforcement",
+        "fraud",
+        "investment-advisers"
+      ]
+    },
+    {
+      "id": "2026-11-21-cftc-kex-certified-binary-option-event-contracts-consumer-spend",
+      "date": "2026-11-21",
+      "published": "2026-11-21T11:10:00Z",
+      "title": "CFTC product filings dated 11/20/2026 show certified binary option event contracts on consumer card spend, app downloads and online sportsbook advertising spend",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-21-cftc-kex-certified-binary-option-event-contracts-consumer-spend",
+      "issuing_body": "CFTC",
+      "source_url": "https://www.cftc.gov/IndustryOversight/IndustryFilings/TradingOrganizationProducts",
+      "source_label": "CFTC Trading Organization Products filings listing, filings dated 11/20/2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction-market platforms, designated contract markets, sportsbooks, consumer data providers",
+      "tags": [
+        "gaming",
+        "payments",
+        "cftc",
+        "event-contracts",
+        "prediction-markets",
+        "binary-options"
+      ]
+    },
+    {
+      "id": "2026-11-21-sec-backward-hat-capital-emergency-relief-crypto-promise",
+      "date": "2026-11-21",
+      "published": "2026-11-21T11:10:00Z",
+      "title": "SEC obtains a temporary restraining order and asset freeze in an alleged $560 million Ponzi scheme that promised to convert investor funds to crypto assets",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-21-sec-backward-hat-capital-emergency-relief-crypto-promise",
+      "issuing_body": "SEC",
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2026-116-sec-charges-indianapolis-based-backward-hat-capital-its-co-founders-560-million-dollar-offering",
+      "source_label": "SEC Press Release 2026-116",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "crypto asset managers, investment advisers, fund administrators, investor-facing platforms",
+      "tags": [
+        "crypto",
+        "sec",
+        "enforcement",
+        "ponzi",
+        "asset-freeze"
+      ]
+    },
     {
       "id": "2026-11-20-sec-exchange-filings-binary-options-key-performance-indicators",
       "date": "2026-11-20",
