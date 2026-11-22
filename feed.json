@@ -6,6 +6,43 @@
   "description": "Daily facts-only regulatory radar — crypto, gaming, payments & fintech. Verified against primary sources.",
   "items": [
     {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-11-22-ca4-kalshiex-v-martin-maryland-affirmed",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-11-22-ca4-kalshiex-v-martin-maryland-affirmed",
+      "title": "Fourth Circuit affirms denial of KalshiEX injunction against Maryland gaming regulators, per curiam with no majority reasoning",
+      "content_text": "The United States Court of Appeals for the Fourth Circuit decided KalshiEX LLC v. John A. Martin, No. 25-1892, on November 18, 2026, after argument on May 7, 2026. The court affirmed by published per curiam opinion whose operative text states that the judgment of the district court is affirmed, and which gives no reasoning. Judge Gregory and Judge Thacker joined the per curiam and each filed a concurrence, and Judge Benjamin dissented. The appeal was taken from the August 1, 2025 denial of KalshiEX's motion for a preliminary injunction in No. 1:25-cv-01283-ABA in the District of Maryland, before Judge Adam B. Abelson. The named defendants are the Secretary of the Maryland Lottery and Gaming Control Commission and Director of the Maryland Lottery and Gaming Control Agency, other Maryland gaming officials, and the Maryland Attorney General. Judge Gregory's concurrence assumes without deciding that the contracts at issue are swaps and states that KalshiEX has not demonstrated that the Commodity Exchange Act preempts Maryland's sports wagering laws, finding neither impossibility nor obstacle preemption. Amici supporting Maryland included Nevada, Ohio, 36 other states, the District of Columbia, the American Gaming Association and 30 federally recognized tribes. Amici supporting KalshiEX included Paradigm Operations LP and Underdog Sports Holding.\n\nPrimary source: US Court of Appeals for the Fourth Circuit, published opinion in No. 25-1892 (PDF) — https://www.ca4.uscourts.gov/opinions/251892.P.pdf\n\nRelevant to: prediction-market platforms, sports event contract venues, exchanges, state-licensed gaming operators\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-11-22T22:55:00Z",
+      "tags": [
+        "gaming",
+        "prediction-markets",
+        "event-contracts",
+        "courts",
+        "fourth-circuit",
+        "preemption",
+        "commodity-exchange-act",
+        "maryland",
+        "kalshi",
+        "sports-wagering"
+      ]
+    },
+    {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-11-22-ny-ag-tro-request-kalshiex-state-court",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-11-22-ny-ag-tro-request-kalshiex-state-court",
+      "title": "Reporting sets New York Attorney General's restraining order request against KalshiEX for hearing on November 23, 2026",
+      "content_text": "Three separately fetched news outlets report that Justice Melissa Crane of the New York County Supreme Court is set to hear the New York Attorney General's request for a temporary restraining order against KalshiEX LLC at 11:30 a.m. Eastern on November 23, 2026. According to that reporting, the proposed order would bar KalshiEX from operating an unlicensed gambling business within or from New York or to persons in New York, would reach contracts on sports, culture, elections and other events, and would bar trading by users under 21 and advertising on college campuses. The same reporting states that Sean Murphy of Milbank LLP, counsel for KalshiEX, wrote to Justice Crane that the order would shut down a federally regulated exchange for every customer everywhere and would likely force the liquidation of all open positions, and that the Attorney General's office replied by letter that it does not seek to shut down a federally regulated exchange for every customer, everywhere, and that lawful futures and swaps would remain available. The matter returned to the New York County Supreme Court after the United States District Court for the Southern District of New York ordered it remanded on November 19, 2026. No New York state court index number is reported, and the underlying filings were not retrieved for this entry.\n\nCoverage (reporting filing): The Block, coverage reporting on filings in the New York County Supreme Court matter — https://www.theblock.co/news/regulation/2026-11-21-kalshi-faces-monday-hearing-on-new-york-order-it-says-would-shut-down-its-exchange-nationwide-444813\n\nRelevant to: prediction-market platforms, event contract venues, exchanges, operators serving New York customers\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-11-22T22:55:00Z",
+      "tags": [
+        "gaming",
+        "prediction-markets",
+        "event-contracts",
+        "courts",
+        "new-york",
+        "state-ag",
+        "temporary-restraining-order",
+        "kalshi",
+        "state-court"
+      ]
+    },
+    {
       "id": "https://tg3online.github.io/regrisk-radar/#2026-11-22-cboe-bzx-invesco-galaxy-generic-listing-standards",
       "url": "https://tg3online.github.io/regrisk-radar/#2026-11-22-cboe-bzx-invesco-galaxy-generic-listing-standards",
       "title": "Cboe BZX files to move the Invesco Galaxy Bitcoin and Ethereum ETFs onto amended generic listing standards, operative on filing",

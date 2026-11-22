@@ -8,6 +8,55 @@
   },
   "items": [
     {
+      "id": "2026-11-22-ca4-kalshiex-v-martin-maryland-affirmed",
+      "date": "2026-11-22",
+      "published": "2026-11-22T22:55:00Z",
+      "issuing_body": "US Court of Appeals for the Fourth Circuit",
+      "title": "Fourth Circuit affirms denial of KalshiEX injunction against Maryland gaming regulators, per curiam with no majority reasoning",
+      "facts": "The United States Court of Appeals for the Fourth Circuit decided KalshiEX LLC v. John A. Martin, No. 25-1892, on November 18, 2026, after argument on May 7, 2026. The court affirmed by published per curiam opinion whose operative text states that the judgment of the district court is affirmed, and which gives no reasoning. Judge Gregory and Judge Thacker joined the per curiam and each filed a concurrence, and Judge Benjamin dissented. The appeal was taken from the August 1, 2025 denial of KalshiEX's motion for a preliminary injunction in No. 1:25-cv-01283-ABA in the District of Maryland, before Judge Adam B. Abelson. The named defendants are the Secretary of the Maryland Lottery and Gaming Control Commission and Director of the Maryland Lottery and Gaming Control Agency, other Maryland gaming officials, and the Maryland Attorney General. Judge Gregory's concurrence assumes without deciding that the contracts at issue are swaps and states that KalshiEX has not demonstrated that the Commodity Exchange Act preempts Maryland's sports wagering laws, finding neither impossibility nor obstacle preemption. Amici supporting Maryland included Nevada, Ohio, 36 other states, the District of Columbia, the American Gaming Association and 30 federally recognized tribes. Amici supporting KalshiEX included Paradigm Operations LP and Underdog Sports Holding.",
+      "source_url": "https://www.ca4.uscourts.gov/opinions/251892.P.pdf",
+      "source_label": "US Court of Appeals for the Fourth Circuit, published opinion in No. 25-1892 (PDF)",
+      "tags": [
+        "gaming",
+        "prediction-markets",
+        "event-contracts",
+        "courts",
+        "fourth-circuit",
+        "preemption",
+        "commodity-exchange-act",
+        "maryland",
+        "kalshi",
+        "sports-wagering"
+      ],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction-market platforms, sports event contract venues, exchanges, state-licensed gaming operators"
+    },
+    {
+      "id": "2026-11-22-ny-ag-tro-request-kalshiex-state-court",
+      "date": "2026-11-22",
+      "published": "2026-11-22T22:55:00Z",
+      "issuing_body": "New York County Supreme Court; New York State Office of the Attorney General",
+      "title": "Reporting sets New York Attorney General's restraining order request against KalshiEX for hearing on November 23, 2026",
+      "facts": "Three separately fetched news outlets report that Justice Melissa Crane of the New York County Supreme Court is set to hear the New York Attorney General's request for a temporary restraining order against KalshiEX LLC at 11:30 a.m. Eastern on November 23, 2026. According to that reporting, the proposed order would bar KalshiEX from operating an unlicensed gambling business within or from New York or to persons in New York, would reach contracts on sports, culture, elections and other events, and would bar trading by users under 21 and advertising on college campuses. The same reporting states that Sean Murphy of Milbank LLP, counsel for KalshiEX, wrote to Justice Crane that the order would shut down a federally regulated exchange for every customer everywhere and would likely force the liquidation of all open positions, and that the Attorney General's office replied by letter that it does not seek to shut down a federally regulated exchange for every customer, everywhere, and that lawful futures and swaps would remain available. The matter returned to the New York County Supreme Court after the United States District Court for the Southern District of New York ordered it remanded on November 19, 2026. No New York state court index number is reported, and the underlying filings were not retrieved for this entry.",
+      "source_url": "https://www.theblock.co/news/regulation/2026-11-21-kalshi-faces-monday-hearing-on-new-york-order-it-says-would-shut-down-its-exchange-nationwide-444813",
+      "source_label": "The Block, coverage reporting on filings in the New York County Supreme Court matter",
+      "tags": [
+        "gaming",
+        "prediction-markets",
+        "event-contracts",
+        "courts",
+        "new-york",
+        "state-ag",
+        "temporary-restraining-order",
+        "kalshi",
+        "state-court"
+      ],
+      "source_type": "coverage_reporting_filing",
+      "primary_source_status": "cited_by_coverage_not_retrieved",
+      "relevant_to": "prediction-market platforms, event contract venues, exchanges, operators serving New York customers"
+    },
+    {
       "id": "2026-11-22-cboe-bzx-invesco-galaxy-generic-listing-standards",
       "date": "2026-11-22",
       "published": "2026-11-22T11:13:00Z",
