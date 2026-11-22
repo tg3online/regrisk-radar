@@ -1,0 +1,100 @@
+{
+  "entries": [
+    {
+      "id": "2026-11-22-sdny-remand-ny-v-kalshiex",
+      "date": "2026-11-22",
+      "published": "2026-11-22T11:10:00Z",
+      "issuing_body": "U.S. District Court, Southern District of New York",
+      "title": "SDNY remands New York's unlicensed-gambling action against KalshiEX to state court",
+      "facts": "In People of the State of New York, by Letitia James, Attorney General, against KalshiEX LLC, No. 1:26-cv-06550-VSB, United States District Judge Vernon S. Broderick entered an Opinion and Order dated November 19, 2026 granting the Attorney General's motion to remand the action to the Supreme Court of New York, New York County. The order recites that the Attorney General filed in state court on July 31, 2026, that Kalshi removed the same day, and that the motion to remand was filed on August 7, 2026. The order holds that the federal officer removal statute, 28 U.S.C. 1442(a)(1) and (a)(2), does not support removal, and that although the Eighth Cause of Action under the Wire Act necessarily raises a federal issue, the Gunn-Grable test fails on substantiality and on the balance of federal and state judicial responsibilities. The order states: Plaintiff's motion to remand is GRANTED and its request for attorneys' fees and costs is DENIED. It further states: Because I lack subject-matter jurisdiction, I cannot decide Kalshi's motion for a protective order. The order states that the CFTC has not sought to intervene in this action.",
+      "source_url": "https://storage.courtlistener.com/recap/gov.uscourts.nysd.669650/gov.uscourts.nysd.669650.25.0.pdf",
+      "source_label": "Opinion and Order, Document 25, No. 1:26-cv-06550-VSB (S.D.N.Y. Nov. 19, 2026), retrieved from CourtListener RECAP",
+      "tags": [
+        "courts",
+        "sdny",
+        "kalshi",
+        "prediction-markets",
+        "event-contracts",
+        "removal",
+        "remand",
+        "wire-act",
+        "new-york",
+        "gaming"
+      ],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction-market platforms, event-contract exchanges, sports-wagering operators, state-licensed gaming operators"
+    },
+    {
+      "id": "2026-11-22-cftc-emergency-application-denied-kalshi",
+      "date": "2026-11-22",
+      "published": "2026-11-22T11:11:00Z",
+      "issuing_body": "U.S. District Court, Southern District of New York (reported)",
+      "title": "Reported: federal judge denies the CFTC's second emergency application to block New York's Kalshi enforcement action",
+      "facts": "Five independent news outlets report that United States District Judge Lorna Schofield in Manhattan denied the Commodity Futures Trading Commission's emergency application to block the New York Attorney General's enforcement action against Kalshi, from the bench after a telephone hearing on Friday, November 20, 2026. A Reuters report carried by Investing.com reports that the CFTC had not established a likelihood of success on the merits. ABC News quotes the judge as saying: The requested application is denied. The Block reports that this was the CFTC's second emergency bid, the first having been denied by United States District Judge Jed Rakoff on July 31, and FinanceFeeds reports that the July 31 denial was without prejudice. No outlet reports that any restraining order has been granted. The Block reports that New York County Supreme Court Justice Melissa Crane will hear the Attorney General's request for a temporary restraining order at 11:30 a.m. ET on Monday, FinanceFeeds prints that hearing date as November 23, 2026, and FinanceFeeds reports that a preliminary injunction request remains pending. The underlying court ruling has not been retrieved by RegRisk Radar and this entry rests on the coverage cited.",
+      "source_url": "https://www.investing.com/news/stock-market-news/us-judge-rejects-cftc-emergency-bid-to-block-new-york-from-policing-kalshi-5042918",
+      "source_label": "Reuters report carried by Investing.com, November 20, 2026 (coverage; court order not retrieved)",
+      "tags": [
+        "courts",
+        "sdny",
+        "kalshi",
+        "prediction-markets",
+        "event-contracts",
+        "cftc",
+        "temporary-restraining-order",
+        "new-york",
+        "gaming"
+      ],
+      "source_type": "coverage_reporting_filing",
+      "primary_source_status": "cited_by_coverage_not_retrieved",
+      "relevant_to": "prediction-market platforms, event-contract exchanges, designated contract markets, sports-wagering operators"
+    },
+    {
+      "id": "2026-11-22-nydfs-virtual-currency-advertising-guidance",
+      "date": "2026-11-22",
+      "published": "2026-11-22T11:12:00Z",
+      "issuing_body": "NYDFS",
+      "title": "NYDFS industry letter sets advertising and marketing policy requirements for virtual currency licensees",
+      "facts": "The New York State Department of Financial Services published an industry letter dated November 12, 2026, titled Guidance on Advertising and Marketing and tagged Virtual Currency on the Department's industry letters index. The letter is signed by Kaitlin Asrow, Acting Superintendent. It is addressed to All Virtual Currency Business Entities Licensed under 23 NYCRR Part 200 or Chartered as Limited Purpose Trust Companies under the New York Banking Law, and its first footnote describes entities licensed under 23 NYCRR Part 200 as BitLicensees. The letter states: Effective May 12, 2027, policies and procedures consistent with this Guidance must be available for Departmental review. The letter cites 23 NYCRR 200.12(a) for the retention period for policies and 23 NYCRR 200.18 for records, and states that it is not exhaustive and does not limit other laws. The Department's accompanying press release of the same date states that the guidance applies to virtual currency entities licensed or chartered by the Department and that those entities are expected to update their policies by May 10, 2027; the two official pages print different dates and both are reported as published.",
+      "source_url": "https://www.dfs.ny.gov/industry-guidance/industry-letters/il20261110-guidance-on-advertising-and-marketing",
+      "source_label": "NYDFS Industry Letter, November 12, 2026: Guidance on Advertising and Marketing",
+      "tags": [
+        "nydfs",
+        "new-york",
+        "bitlicense",
+        "virtual-currency",
+        "advertising",
+        "marketing",
+        "23-nycrr-200",
+        "crypto"
+      ],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "BitLicensees, New York limited purpose trust companies, crypto exchanges and wallet providers marketing to New York residents, affiliate and influencer marketers"
+    },
+    {
+      "id": "2026-11-22-cboe-bzx-invesco-galaxy-generic-listing-standards",
+      "date": "2026-11-22",
+      "published": "2026-11-22T11:13:00Z",
+      "issuing_body": "SEC",
+      "title": "Cboe BZX files to move the Invesco Galaxy Bitcoin and Ethereum ETFs onto amended generic listing standards, operative on filing",
+      "facts": "The SEC published Federal Register document 2026-23548 on November 19, 2026, titled Self-Regulatory Organizations; Cboe BZX Exchange, Inc.; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend the Invesco Galaxy Bitcoin ETF and the Invesco Galaxy Ethereum ETF. The notice carries Release No. 34-106904 and File No. SR-CboeBZX-2026-093, citation 91 FR 74628 at pages 74628 to 74630, and regulations.gov document SEC-2026-7166-0001. The notice as printed is dated November 16, 2026 and states that the filing was made on November 9, 2026. Item I states that the Exchange proposes to amend the two Trusts so that they can list and trade under the generic listing standards of BZX Rule 14.11(e)(4), under which both Trusts already list by approval order. Item II.A.1 states that the Exchange now proposes to transition the Trusts to operate under the recently approved generic listing standards for Commodity-Based Trust Shares, referred to as Amended Rule 14.11(e)(4), and that each Trust is to comply with the continued listing standards in that rule. The filing was made under Section 19(b)(3)(A) and Rule 19b-4(f)(6), and the notice states that the Commission designates the proposed rule change to be operative upon filing. Item II.C states that the Exchange neither solicited nor received comments. Item IV states that comments should be submitted on or before December 10, 2026.",
+      "source_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-19/pdf/2026-23548.pdf",
+      "source_label": "Federal Register document 2026-23548, 91 FR 74628 (Nov. 19, 2026), retrieved from govinfo",
+      "tags": [
+        "sec",
+        "sro-rule-filing",
+        "immediately-effective",
+        "spot-crypto-etp",
+        "generic-listing-standards",
+        "bitcoin",
+        "ethereum",
+        "cboe-bzx",
+        "crypto"
+      ],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "crypto ETP sponsors and issuers, national securities exchanges, authorized participants, crypto custodians, broker-dealers distributing commodity-based trust shares"
+    }
+  ]
+}
