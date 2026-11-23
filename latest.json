@@ -1,8 +1,72 @@
 {
-  "generated": "2026-11-22T22:45:19Z",
+  "generated": "2026-11-23T11:05:10Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 442,
+  "count": 445,
   "items": [
+    {
+      "id": "2026-11-23-occ-genius-act-stablecoin-information-collections-comment-close",
+      "date": "2026-11-23",
+      "published": "2026-11-23T00:00:00Z",
+      "title": "Comment periods close November 23, 2026 on both OCC GENIUS Act payment stablecoin information collections",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-23-occ-genius-act-stablecoin-information-collections-comment-close",
+      "issuing_body": "Office of the Comptroller of the Currency (OCC), Treasury",
+      "source_url": "https://www.federalregister.gov/documents/2026/10/23/2026-21704/agency-information-collection-activities-proposed-information-collection-submission-for-omb-review",
+      "source_label": "Federal Register documents 2026-21704 and 2026-21705, OCC, published October 23, 2026; records retrieved from the Federal Register documents API at federalregister.gov",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "payment stablecoin issuers, banks and trust companies seeking OCC licensing, payment processors, crypto exchanges and custodians",
+      "tags": [
+        "occ",
+        "genius-act",
+        "stablecoin",
+        "payments",
+        "crypto",
+        "information-collection",
+        "comment-deadline"
+      ]
+    },
+    {
+      "id": "2026-11-23-cftc-part-4-cpo-cta-information-collection-renewal",
+      "date": "2026-11-23",
+      "published": "2026-11-23T00:00:00Z",
+      "title": "CFTC sends its part 4 commodity pool operator and commodity trading advisor information collection to OMB for renewal, comments due December 23, 2026",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-23-cftc-part-4-cpo-cta-information-collection-renewal",
+      "issuing_body": "Commodity Futures Trading Commission (CFTC)",
+      "source_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-23/pdf/2026-23801.pdf",
+      "source_label": "Federal Register document 2026-23801, CFTC, published November 23, 2026, retrieved as the govinfo Federal Register PDF",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "commodity pool operators, commodity trading advisors, futures commission merchants, digital asset fund managers registered with the CFTC",
+      "tags": [
+        "cftc",
+        "information-collection",
+        "commodity-pool-operator",
+        "commodity-trading-advisor",
+        "futures-commission-merchant",
+        "comment-deadline"
+      ]
+    },
+    {
+      "id": "2026-11-23-cftc-part-41-security-futures-information-collection-renewal",
+      "date": "2026-11-23",
+      "published": "2026-11-23T00:00:00Z",
+      "title": "CFTC sends its part 41 security futures products information collection to OMB for renewal, comments due December 23, 2026, affecting two designated contract markets and eight futures commission merchants",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-23-cftc-part-41-security-futures-information-collection-renewal",
+      "issuing_body": "Commodity Futures Trading Commission (CFTC)",
+      "source_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-23/pdf/2026-23800.pdf",
+      "source_label": "Federal Register document 2026-23800, CFTC, published November 23, 2026, retrieved as the govinfo Federal Register PDF, with the comment close date confirmed against the Federal Register documents API record",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "designated contract markets, futures commission merchants, dually registered broker-dealers, security futures venues",
+      "tags": [
+        "cftc",
+        "information-collection",
+        "security-futures-products",
+        "designated-contract-markets",
+        "futures-commission-merchants",
+        "comment-deadline"
+      ]
+    },
     {
       "id": "2026-11-22-ca4-kalshiex-v-martin-maryland-affirmed",
       "date": "2026-11-22",
