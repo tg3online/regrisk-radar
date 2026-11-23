@@ -1,8 +1,97 @@
 {
-  "generated": "2026-11-23T11:05:10Z",
+  "generated": "2026-11-23T23:01:08Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 445,
+  "count": 449,
   "items": [
+    {
+      "id": "2026-11-23-new-york-court-denies-kalshi-temporary-restraining-order",
+      "date": "2026-11-23",
+      "published": "2026-11-23T23:00:00Z",
+      "title": "New York court denies the Attorney General's temporary restraining order motion against Kalshi, with a report-back on 2026-11-30 and a preliminary injunction hearing in early January 2027",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-23-new-york-court-denies-kalshi-temporary-restraining-order",
+      "issuing_body": "New York County Supreme Court (as reported)",
+      "source_url": "https://www.sportsbettingdime.com/news/industry/new-york-judge-denies-states-temporary-restraining-order-motion-against-kalshi/",
+      "source_label": "Sportsbetting Dime report of the 2026-11-23 bench ruling, corroborated by Front Office Sports and Cointelegraph. No court order or docket entry was retrieved, because the ruling was delivered from the bench.",
+      "source_type": "media_coverage",
+      "primary_source_status": "unavailable",
+      "relevant_to": "prediction-market platforms, sports-event-contract venues, licensed sportsbooks, state-licensed gaming operators",
+      "tags": [
+        "gaming",
+        "prediction-markets",
+        "event-contracts",
+        "sports-wagering",
+        "new-york",
+        "state-court",
+        "state-ag",
+        "courts"
+      ]
+    },
+    {
+      "id": "2026-11-23-coinbase-derivatives-security-futures-margin-requirements",
+      "date": "2026-11-23",
+      "published": "2026-11-23T23:00:00Z",
+      "title": "Coinbase Derivatives sets security futures customer margin at no less than 15.05 percent, and states an intention to accept payment stablecoins as margin only if federal regulators first amend their margin rules or grant relief",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-23-coinbase-derivatives-security-futures-margin-requirements",
+      "issuing_body": "SEC",
+      "source_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-20/pdf/2026-23653.pdf",
+      "source_label": "SEC notice, Federal Register of 2026-11-20, document 2026-23653, retrieved in full from the govinfo Federal Register PDF",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "designated contract markets, futures commission merchants, security futures intermediaries, stablecoin issuers, crypto derivatives venues",
+      "tags": [
+        "crypto",
+        "sec",
+        "security-futures",
+        "margin",
+        "payment-stablecoin",
+        "sro-rule-filing",
+        "coinbase-derivatives",
+        "comment-period"
+      ]
+    },
+    {
+      "id": "2026-11-23-sec-backward-hat-capital-offering-fraud-crypto-assets",
+      "date": "2026-11-23",
+      "published": "2026-11-23T23:00:00Z",
+      "title": "SEC charges Backward Hat Capital and its co-founders over a 560 million dollar offering fraud in which investor funds were promised to be converted to crypto assets for FX arbitrage",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-23-sec-backward-hat-capital-offering-fraud-crypto-assets",
+      "issuing_body": "SEC",
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2026-116-sec-charges-indianapolis-based-backward-hat-capital-its-co-founders-560-million-dollar-offering",
+      "source_label": "SEC press release 2026-116 of 2026-11-20, retrieved in full from sec.gov",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "fund managers, retail forex intermediaries, crypto asset platforms, investor-facing fintech distributors",
+      "tags": [
+        "crypto",
+        "sec",
+        "enforcement",
+        "offering-fraud",
+        "retail-forex",
+        "emergency-relief",
+        "courts"
+      ]
+    },
+    {
+      "id": "2026-11-23-nydfs-cybersecurity-alert-agentic-ai-threat-campaigns",
+      "date": "2026-11-23",
+      "published": "2026-11-23T23:00:00Z",
+      "title": "NYDFS issues a cybersecurity alert to all entities it regulates on active threat campaigns using the ARTEX agentic AI framework",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-23-nydfs-cybersecurity-alert-agentic-ai-threat-campaigns",
+      "issuing_body": "NYDFS",
+      "source_url": "https://www.dfs.ny.gov/industry_guidance/industry_letters/20261121-cybersecurity-alert-Artex-AI",
+      "source_label": "NYDFS industry letter of 2026-11-21, retrieved in full from dfs.ny.gov",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "New York licensed financial institutions, virtual currency licensees, limited purpose trust companies, money transmitters",
+      "tags": [
+        "fintech",
+        "nydfs",
+        "cybersecurity",
+        "artificial-intelligence",
+        "new-york",
+        "industry-letter"
+      ]
+    },
     {
       "id": "2026-11-23-occ-genius-act-stablecoin-information-collections-comment-close",
       "date": "2026-11-23",
