@@ -1,0 +1,101 @@
+{
+  "entries": [
+    {
+      "id": "2026-11-24-cftc-final-rule-event-contract-data-reporting",
+      "date": "2026-11-24",
+      "published": "2026-11-24T11:05:00Z",
+      "issuing_body": "CFTC",
+      "title": "CFTC finalises a separate data reporting framework for covered event contracts",
+      "facts": "CFTC release 9330-26 of 2026-11-23 states that the Commission published a final rule, Data Reporting Requirements for Certain Event Contracts, amending 17 CFR parts 15, 16 and 17 and adding a new section 16.03 titled Covered Event Contracts. The retrieved rule document carries RIN 3038-AF73; its DATES section reads, verbatim, The Final Rule is effective [INSERT DATE 60 DAYS AFTER DATE OF PUBLICATION IN THE FEDERAL REGISTER]. The proposal was published 2026-07-01 at 91 FR 40102. Release 9330-26 states the compliance schedule as: sections 16.03(a), (b)(2), (b)(3) and (f), 60 days after Federal Register publication; sections 16.03(b)(1), (c), (d) and (e), the later of 60 days after publication or July 26, 2027; and section 16.03(g), 12 months after publication. The release states that certain reporting markets, futures commission merchants, clearing members and foreign brokers will report these fully collateralized event contracts under parts 15 through 18 instead of the reporting provisions in parts 38, 39, 43 and 45. As of 2026-11-24 the rule had not published in the Federal Register: an agency filtered Federal Register query for CFTC documents published 2026-11-24 returned a count of zero, so no Federal Register citation or calendar effective date exists yet.",
+      "source_url": "https://www.cftc.gov/PressRoom/PressReleases/9330-26",
+      "source_label": "CFTC release 9330-26, 2026-11-23, retrieved in full; final rule document retrieved at cftc.gov/media/15026",
+      "tags": [
+        "event-contracts",
+        "prediction-markets",
+        "final-rule",
+        "data-reporting",
+        "CFTC"
+      ],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "designated contract markets, event contract and prediction market platforms, futures commission merchants, clearing members, foreign brokers"
+    },
+    {
+      "id": "2026-11-24-cftc-staff-advisory-crypto-assets-financial-resources",
+      "date": "2026-11-24",
+      "published": "2026-11-24T11:05:00Z",
+      "issuing_body": "CFTC",
+      "title": "CFTC staff advisory sets haircuts for bitcoin, ether and payment stablecoins held as exchange and clearinghouse financial resources",
+      "facts": "CFTC Letter No. 26-31, dated 2026-11-23 and issued jointly by the Division of Market Oversight and the Division of Clearing and Risk, is addressed to swap execution facilities, designated contract markets and derivatives clearing organizations. It states the Divisions' view that crypto assets may serve as acceptable financial resources under Commission Regulation 37.1301, and the same view for designated contract markets under 38.1101(a)(2) and derivatives clearing organizations under 39.11(a)(2), in each case subject to appropriate haircuts and to the liquidity limitation. It states that each crypto asset must be valued at current market value reduced by haircuts, that for clearing organizations the haircut also reflects liquidity risk, and that the Divisions would not object to a 20 percent minimum haircut for bitcoin and ether and a 2 percent haircut for payment stablecoins, consistent with haircuts staff has indicated it would not object to for futures commission merchant proprietary crypto positions. A crypto asset that is not readily marketable and is not a payment stablecoin would generally require a 100 percent haircut. On the separate liquidity requirement the advisory states that crypto assets, including payment stablecoins, do not qualify for classification as cash for GAAP reporting purposes and do not constitute highly liquid securities, so the three month portion for swap execution facilities and the six month portion for designated contract markets and clearing organizations must be held in other assets meeting the cash and/or highly liquid securities criteria. The advisory states that it represents only the views of the Divisions, does not necessarily represent the views of the Commission, creates no rights and is not a no action position. It is signed by Duncan Hennes, Acting Director, Division of Market Oversight, and Richard Haynes, Acting Director, Division of Clearing and Risk. Bitcoin, ether and payment stablecoins are the only crypto assets named.",
+      "source_url": "https://www.cftc.gov/csl/26-31/download",
+      "source_label": "CFTC Staff Letter No. 26-31, 2026-11-23, retrieved and read in full; announced by CFTC release 9331-26",
+      "tags": [
+        "crypto",
+        "payment-stablecoins",
+        "staff-advisory",
+        "financial-resources",
+        "CFTC"
+      ],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "swap execution facilities, designated contract markets, derivatives clearing organizations, crypto exchanges, stablecoin issuers"
+    },
+    {
+      "id": "2026-11-24-occ-civil-money-penalties-genius-act-not-addressed",
+      "date": "2026-11-24",
+      "published": "2026-11-24T11:05:00Z",
+      "issuing_body": "OCC",
+      "title": "OCC 2026 civil money penalty notice states it does not address the GENIUS Act payment stablecoin penalties",
+      "facts": "Federal Register document 2026-23851, published 2026-11-24, is an OCC rule titled Notification of Inflation Adjustments for Civil Money Penalties, filed under 12 CFR part 19 and signed by Adam J. Cohen, Senior Deputy Comptroller and Chief Counsel. Its DATES section states that the adjusted maximum amounts are applicable to penalties assessed on or after January 10, 2025, for conduct occurring on or after November 2, 2015. The notice cites the GUIDING and Establishing National Innovation for U.S. Stablecoins Act, Public Law 119-27, 139 Stat. 419, at 12 U.S.C. 5901 note for its effective date and at 12 U.S.C. 5905(b)(5) for its civil money penalties, and states in a footnote that that Act has not yet reached its effective date and that its civil money penalty provisions are accordingly not addressed in this notice. No penalty amount in the notice is tied to the payment stablecoin provisions. The notice carries the 2025 penalty levels into 2026 under OMB Memorandum M-26-11 of April 17, 2026, and its tables cover the existing statutory grounds, for example the national bank ground at 12 U.S.C. 93(b), shown at 12,567 for tier 1, 62,829 for tier 2 and 2,513,215 for tier 3.",
+      "source_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-24/pdf/2026-23851.pdf",
+      "source_label": "Federal Register document 2026-23851, OCC, 2026-11-24, retrieved in full via the govinfo PDF mirror",
+      "tags": [
+        "stablecoins",
+        "GENIUS-Act",
+        "civil-money-penalties",
+        "OCC"
+      ],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "payment stablecoin issuers and applicants, national banks, federal savings associations, bank compliance teams"
+    },
+    {
+      "id": "2026-11-24-sec-litigation-release-backward-hat-capital-case-number",
+      "date": "2026-11-24",
+      "published": "2026-11-24T11:05:00Z",
+      "issuing_body": "SEC",
+      "title": "SEC litigation release in the Backward Hat Capital matter gives the Commission's own case number and quantifies the transfers",
+      "facts": "SEC Litigation Release No. 26694 of 2026-11-23 is captioned Securities and Exchange Commission v. Backward Hat Capital Management LLC, TPC MC, LLC d/b/a Traders Point Capital, Phillip P. Williams, Devin A. Johnson, and Joseph Anderson, No. 26-cv-2482-JPH-TAB (S.D. Ind. filed Nov. 17, 2026). The release states that the complaint was filed 2026-11-17 in the Southern District of Indiana and that a temporary restraining order was obtained 2026-11-18 along with an asset freeze, expedited discovery and other emergency relief. It states that about 560 million dollars was raised from more than 2,000 investors since about July 2022, that more than 220 million dollars was transferred to the defendants themselves and that more than 250 million dollars went to earlier investors as Ponzi like payments. It states that Williams and Johnson promised that investor funds would be converted to crypto assets, which were then to be used for foreign exchange arbitrage through an algorithm described as AI driven. The charges are brought under the antifraud provisions of the Securities Act of 1933 and the Securities Exchange Act of 1934 against all defendants and under the Investment Advisers Act of 1940 against Williams and Traders Point Capital; the release prints no section numbers. One individual and several entities are named as relief defendants but are not identified. The release states that parallel actions were filed by the United States Attorney's Office for the Southern District of New York and by the CFTC.",
+      "source_url": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26694",
+      "source_label": "SEC Litigation Release No. 26694, 2026-11-23, retrieved in full",
+      "tags": [
+        "enforcement",
+        "crypto",
+        "SEC",
+        "ponzi"
+      ],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "investment advisers, fund managers marketing crypto strategies, broker dealers, compliance and litigation teams"
+    },
+    {
+      "id": "2026-11-24-sec-miax-binary-options-broad-based-indexes",
+      "date": "2026-11-24",
+      "published": "2026-11-24T11:05:00Z",
+      "issuing_body": "SEC",
+      "title": "MIAX files to list binary options on broad-based indexes on an immediately effective basis",
+      "facts": "Federal Register document 2026-23848, published 2026-11-24 and beginning at 91 FR 75903, is an SEC notice of filing and immediate effectiveness of a proposed rule change by Miami International Securities Exchange LLC, Release No. 34-106944, File No. SR-MIAX-2026-44, dated 2026-11-19 and filed with the Commission 2026-11-12. The notice states that the Exchange proposes to amend its Rules to permit the listing and trading of binary options on broad-based indexes. It amends Chapter XVIII, adds a definition of binary option to Rule 100 which the Exchange states is consistent with the definition in the Options Disclosure Document, adds a new Rule 1818 covering definitions, settlement, exercise and position limits, adds an Interpretation to Rule 521 on obvious errors, and amends Rule 1800 so that Chapter XVIII applies to binary index options. Proposed Rule 1818(b)(1) permits the Exchange to list binary index options on any broad-based index meeting the initial listing criteria in Rule 1802(d), which the notice states includes the B500 Index. The notice states that the payout at expiration of a binary option is an all or nothing occurrence, that binary index options are European style, and that binary options on broad-based indexes are not novel because rules permitting binary options products currently exist on other national securities exchanges including NYSE American LLC. This filing is SR-MIAX-2026-44 and is separate from SR-MIAX-2026-45, the key performance indicator binary option filing published 2026-11-20 at Federal Register 2026-23649. About 54 percent of the notice was retrieved; the position limit tables and any comment deadline fall outside the retrieved portion and are not stated here.",
+      "source_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-24/pdf/2026-23848.pdf",
+      "source_label": "Federal Register document 2026-23848, SEC, 2026-11-24, govinfo PDF mirror, about 54 percent retrieved verbatim",
+      "tags": [
+        "binary-options",
+        "event-contracts",
+        "SEC",
+        "exchange-rule-filing"
+      ],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "options exchanges, market makers, event contract and prediction market platforms, broker dealers"
+    }
+  ]
+}
