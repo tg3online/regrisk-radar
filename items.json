@@ -258,6 +258,53 @@
       "relevant_to": "designated contract markets, futures commission merchants, dually registered broker-dealers, security futures venues"
     },
     {
+      "id": "2026-11-24-ofac-iran-shadow-banking-designations-exchange-houses",
+      "date": "2026-11-24",
+      "published": "2026-11-23T00:00:00Z",
+      "issuing_body": "U.S. Department of the Treasury, Office of Foreign Assets Control",
+      "title": "OFAC adds 8 individuals and 22 entities to the SDN List in an Iran shadow banking action reaching currency exchange houses",
+      "facts": "OFAC's recent actions page for 11/23/2026, titled Iran-related Designations, adds 8 individuals and 22 entities to the Specially Designated Nationals List. The entities are tagged [IRAN-EO13902] with two exceptions: H N B TRADING CO LLC is tagged [SDGT] and [IFSR], and ROBUST TRADING LLC is tagged [IRAN-EO13871]. Listed parties include MELLAT EXCHANGE COMPANY, MINA FASHKI AND PARTNERS EXCHANGE COMPANY and IRAN CENTER FOR EXCHANGE OF CURRENCY AND GOLD, with most entities registered in Dubai, United Arab Emirates and others in Turkey and Hong Kong. No entry on the OFAC action page carries a Digital Currency Address field. The linked Treasury press release of November 23, 2026, Operation Economic Outcast Disrupts Iran's Global Shadow Banking Networks, states that Treasury sanctioned over two dozen Iranian exchange houses, front companies, and key personnel, refers to parties actively involved in money laundering via Iran's shadow banking mechanism and to a network used to facilitate thousands of cross-border payments, worth billions of dollars, and cites authority to prohibit or impose strict conditions on opening or maintaining, in the United States, a correspondent account. The authorities cited are Executive Order 13902, Executive Order 13224 as amended, and Executive Order 13871.",
+      "source_url": "https://home.treasury.gov/news/press-releases/sb0699",
+      "source_label": "U.S. Department of the Treasury press release sb0699, November 23, 2026",
+      "tags": [
+        "sanctions",
+        "ofac",
+        "treasury",
+        "iran",
+        "shadow-banking",
+        "exchange-houses",
+        "correspondent-banking",
+        "payments",
+        "aml"
+      ],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "payment processors, money services businesses, banks and crypto exchanges running sanctions screening"
+    },
+    {
+      "id": "2026-11-24-fincen-bsa-spotlight-iranian-shadow-banking",
+      "date": "2026-11-24",
+      "published": "2026-11-23T00:00:00Z",
+      "issuing_body": "FinCEN",
+      "title": "FinCEN BSA Spotlight identifies about $14.7 billion of activity from January 2025 to August 2026 potentially linked to Iranian shadow banking",
+      "facts": "FinCEN published a Financial Trend Analysis titled Iranian Shadow Banking: Update on Trends in Bank Secrecy Act Data, which describes itself as a BSA Spotlight and a subset of FinCEN's Financial Trend Analysis series. The document identifies approximately $14.7 billion of financial activity from January 2025 to August 2026 potentially linked to Iranian shadow banking. The same figure and period appear in Treasury's announcing press release of November 23, 2026, which is titled Treasury Identifies Nearly $15 Billion in Potential Iranian Shadow Banking. The analysis draws on select Suspicious Activity Reports filed from February 2025 to August 2026 together with reporting from United States financial institutions related to correspondent transactions from specified foreign financial agencies, over a final dataset of 4,983 transactions at a threshold of $500,000 and above. It names the United Arab Emirates, Hong Kong and Singapore as the principal jurisdictions by transaction volume, flags companies registered in the Marshall Islands and the British Virgin Islands as an area of concern, and states that BSA reporting is merely tip and lead information. The document lists four earlier FinCEN publications carrying red flags on Iran-linked actors. It announces no rule, comment period or deadline.",
+      "source_url": "https://www.fincen.gov/sites/default/files/100/FTA-Iran-Shadow-Banking.pdf",
+      "source_label": "FinCEN Financial Trend Analysis, Iranian Shadow Banking: Update on Trends in Bank Secrecy Act Data",
+      "tags": [
+        "fincen",
+        "bsa-aml",
+        "suspicious-activity-reports",
+        "correspondent-banking",
+        "iran",
+        "shadow-banking",
+        "red-flags",
+        "fintech"
+      ],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "banks, money services businesses and fintechs with BSA reporting and correspondent-banking compliance obligations"
+    },
+    {
       "id": "2026-11-22-ca4-kalshiex-v-martin-maryland-affirmed",
       "date": "2026-11-22",
       "published": "2026-11-22T22:55:00Z",
@@ -639,6 +686,29 @@
       "source_type": "primary_source",
       "primary_source_status": "retrieved",
       "relevant_to": "banks, bank-fintech partnership programs, deposit platforms, payment processors"
+    },
+    {
+      "id": "2026-11-24-common-cents-act-signed-ends-penny-production",
+      "date": "2026-11-24",
+      "published": "2026-11-20T00:00:00Z",
+      "issuing_body": "U.S. Congress, House Financial Services Committee",
+      "title": "H.R. 10167, the Common Cents Act, is signed into law and permanently ends production of pennies for general circulation",
+      "facts": "The House Financial Services Committee announced on November 20, 2026 that H.R. 10167, the Common Cents Act, has been signed into law. The committee states that the act permanently ends the production of pennies for general circulation and gives the United States Mint greater flexibility to produce coins more efficiently. The release states that existing pennies remain legal tender and that the Mint may continue producing collectible coins. The committee frames the measure as providing clear legislative guidance for retailers, financial institutions, and consumers and certainty in their cash transactions with customers. The release records that the bill passed the House on September 14, 2026 and the Senate on September 28, 2026, and that an earlier version passed the House Financial Services Committee on July 23, 2025. The release gives no public law number and states no effective or compliance date, and it contains no reference to cash rounding at the point of sale.",
+      "source_url": "https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411256",
+      "source_label": "U.S. House Committee on Financial Services press release, November 20, 2026",
+      "tags": [
+        "congress",
+        "legislation",
+        "signed-into-law",
+        "coinage",
+        "us-mint",
+        "cash",
+        "payments",
+        "hr-10167"
+      ],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "retailers, cash-accepting operators, payment processors and financial institutions"
     },
     {
       "id": "2026-11-19-doj-georgia-crypto-atm-money-laundering-charges",

@@ -5,7 +5,7 @@
     <link>https://tg3online.github.io/regrisk-radar/</link>
     <description>Daily facts-only regulatory radar — crypto, gaming, payments &amp; fintech. Verified against primary sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Nov 2026 11:05:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 22:49:40 +0000</lastBuildDate>
     <atom:link href="https://tg3online.github.io/regrisk-radar/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CFTC finalises a separate data reporting framework for covered event contracts</title>
@@ -194,6 +194,38 @@ RegRisk Radar is regulatory-risk intelligence provided for general informational
 Primary source: Federal Register document 2026-23800, CFTC, published November 23, 2026, retrieved as the govinfo Federal Register PDF, with the comment close date confirmed against the Federal Register documents API record — https://www.govinfo.gov/content/pkg/FR-2026-11-23/pdf/2026-23800.pdf
 
 Relevant to: designated contract markets, futures commission merchants, dually registered broker-dealers, security futures venues
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+    <item>
+      <title>OFAC adds 8 individuals and 22 entities to the SDN List in an Iran shadow banking action reaching currency exchange houses</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-11-24-ofac-iran-shadow-banking-designations-exchange-houses</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-11-24-ofac-iran-shadow-banking-designations-exchange-houses</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <category>U.S. Department of the Treasury, Office of Foreign Assets Control</category>
+      <description>OFAC&#x27;s recent actions page for 11/23/2026, titled Iran-related Designations, adds 8 individuals and 22 entities to the Specially Designated Nationals List. The entities are tagged [IRAN-EO13902] with two exceptions: H N B TRADING CO LLC is tagged [SDGT] and [IFSR], and ROBUST TRADING LLC is tagged [IRAN-EO13871]. Listed parties include MELLAT EXCHANGE COMPANY, MINA FASHKI AND PARTNERS EXCHANGE COMPANY and IRAN CENTER FOR EXCHANGE OF CURRENCY AND GOLD, with most entities registered in Dubai, United Arab Emirates and others in Turkey and Hong Kong. No entry on the OFAC action page carries a Digital Currency Address field. The linked Treasury press release of November 23, 2026, Operation Economic Outcast Disrupts Iran&#x27;s Global Shadow Banking Networks, states that Treasury sanctioned over two dozen Iranian exchange houses, front companies, and key personnel, refers to parties actively involved in money laundering via Iran&#x27;s shadow banking mechanism and to a network used to facilitate thousands of cross-border payments, worth billions of dollars, and cites authority to prohibit or impose strict conditions on opening or maintaining, in the United States, a correspondent account. The authorities cited are Executive Order 13902, Executive Order 13224 as amended, and Executive Order 13871.
+
+Primary source: U.S. Department of the Treasury press release sb0699, November 23, 2026 — https://home.treasury.gov/news/press-releases/sb0699
+
+Relevant to: payment processors, money services businesses, banks and crypto exchanges running sanctions screening
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+    <item>
+      <title>FinCEN BSA Spotlight identifies about $14.7 billion of activity from January 2025 to August 2026 potentially linked to Iranian shadow banking</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-11-24-fincen-bsa-spotlight-iranian-shadow-banking</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-11-24-fincen-bsa-spotlight-iranian-shadow-banking</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <category>FinCEN</category>
+      <description>FinCEN published a Financial Trend Analysis titled Iranian Shadow Banking: Update on Trends in Bank Secrecy Act Data, which describes itself as a BSA Spotlight and a subset of FinCEN&#x27;s Financial Trend Analysis series. The document identifies approximately $14.7 billion of financial activity from January 2025 to August 2026 potentially linked to Iranian shadow banking. The same figure and period appear in Treasury&#x27;s announcing press release of November 23, 2026, which is titled Treasury Identifies Nearly $15 Billion in Potential Iranian Shadow Banking. The analysis draws on select Suspicious Activity Reports filed from February 2025 to August 2026 together with reporting from United States financial institutions related to correspondent transactions from specified foreign financial agencies, over a final dataset of 4,983 transactions at a threshold of $500,000 and above. It names the United Arab Emirates, Hong Kong and Singapore as the principal jurisdictions by transaction volume, flags companies registered in the Marshall Islands and the British Virgin Islands as an area of concern, and states that BSA reporting is merely tip and lead information. The document lists four earlier FinCEN publications carrying red flags on Iran-linked actors. It announces no rule, comment period or deadline.
+
+Primary source: FinCEN Financial Trend Analysis, Iranian Shadow Banking: Update on Trends in Bank Secrecy Act Data — https://www.fincen.gov/sites/default/files/100/FTA-Iran-Shadow-Banking.pdf
+
+Relevant to: banks, money services businesses and fintechs with BSA reporting and correspondent-banking compliance obligations
 
 For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
 
@@ -466,6 +498,22 @@ RegRisk Radar is regulatory-risk intelligence provided for general informational
 Primary source: Federal Register document 2026-23669 (official record) — https://www.federalregister.gov/api/v1/documents/2026-23669.json
 
 Relevant to: banks, bank-fintech partnership programs, deposit platforms, payment processors
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+    <item>
+      <title>H.R. 10167, the Common Cents Act, is signed into law and permanently ends production of pennies for general circulation</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-11-24-common-cents-act-signed-ends-penny-production</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-11-24-common-cents-act-signed-ends-penny-production</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <category>U.S. Congress, House Financial Services Committee</category>
+      <description>The House Financial Services Committee announced on November 20, 2026 that H.R. 10167, the Common Cents Act, has been signed into law. The committee states that the act permanently ends the production of pennies for general circulation and gives the United States Mint greater flexibility to produce coins more efficiently. The release states that existing pennies remain legal tender and that the Mint may continue producing collectible coins. The committee frames the measure as providing clear legislative guidance for retailers, financial institutions, and consumers and certainty in their cash transactions with customers. The release records that the bill passed the House on September 14, 2026 and the Senate on September 28, 2026, and that an earlier version passed the House Financial Services Committee on July 23, 2025. The release gives no public law number and states no effective or compliance date, and it contains no reference to cash rounding at the point of sale.
+
+Primary source: U.S. House Committee on Financial Services press release, November 20, 2026 — https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411256
+
+Relevant to: retailers, cash-accepting operators, payment processors and financial institutions
 
 For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
 

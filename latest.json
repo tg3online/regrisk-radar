@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-24T11:05:42Z",
+  "generated": "2026-11-24T22:49:40Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 454,
+  "count": 457,
   "items": [
     {
       "id": "2026-11-24-cftc-final-rule-event-contract-data-reporting",
@@ -251,6 +251,53 @@
         "designated-contract-markets",
         "futures-commission-merchants",
         "comment-deadline"
+      ]
+    },
+    {
+      "id": "2026-11-24-ofac-iran-shadow-banking-designations-exchange-houses",
+      "date": "2026-11-24",
+      "published": "2026-11-23T00:00:00Z",
+      "title": "OFAC adds 8 individuals and 22 entities to the SDN List in an Iran shadow banking action reaching currency exchange houses",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-24-ofac-iran-shadow-banking-designations-exchange-houses",
+      "issuing_body": "U.S. Department of the Treasury, Office of Foreign Assets Control",
+      "source_url": "https://home.treasury.gov/news/press-releases/sb0699",
+      "source_label": "U.S. Department of the Treasury press release sb0699, November 23, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "payment processors, money services businesses, banks and crypto exchanges running sanctions screening",
+      "tags": [
+        "sanctions",
+        "ofac",
+        "treasury",
+        "iran",
+        "shadow-banking",
+        "exchange-houses",
+        "correspondent-banking",
+        "payments",
+        "aml"
+      ]
+    },
+    {
+      "id": "2026-11-24-fincen-bsa-spotlight-iranian-shadow-banking",
+      "date": "2026-11-24",
+      "published": "2026-11-23T00:00:00Z",
+      "title": "FinCEN BSA Spotlight identifies about $14.7 billion of activity from January 2025 to August 2026 potentially linked to Iranian shadow banking",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-24-fincen-bsa-spotlight-iranian-shadow-banking",
+      "issuing_body": "FinCEN",
+      "source_url": "https://www.fincen.gov/sites/default/files/100/FTA-Iran-Shadow-Banking.pdf",
+      "source_label": "FinCEN Financial Trend Analysis, Iranian Shadow Banking: Update on Trends in Bank Secrecy Act Data",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "banks, money services businesses and fintechs with BSA reporting and correspondent-banking compliance obligations",
+      "tags": [
+        "fincen",
+        "bsa-aml",
+        "suspicious-activity-reports",
+        "correspondent-banking",
+        "iran",
+        "shadow-banking",
+        "red-flags",
+        "fintech"
       ]
     },
     {
@@ -634,6 +681,29 @@
         "custodial-deposits",
         "proposed-rule",
         "federal-register"
+      ]
+    },
+    {
+      "id": "2026-11-24-common-cents-act-signed-ends-penny-production",
+      "date": "2026-11-24",
+      "published": "2026-11-20T00:00:00Z",
+      "title": "H.R. 10167, the Common Cents Act, is signed into law and permanently ends production of pennies for general circulation",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-24-common-cents-act-signed-ends-penny-production",
+      "issuing_body": "U.S. Congress, House Financial Services Committee",
+      "source_url": "https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411256",
+      "source_label": "U.S. House Committee on Financial Services press release, November 20, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "retailers, cash-accepting operators, payment processors and financial institutions",
+      "tags": [
+        "congress",
+        "legislation",
+        "signed-into-law",
+        "coinage",
+        "us-mint",
+        "cash",
+        "payments",
+        "hr-10167"
       ]
     },
     {
