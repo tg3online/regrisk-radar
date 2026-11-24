@@ -1,8 +1,105 @@
 {
-  "generated": "2026-11-23T23:01:08Z",
+  "generated": "2026-11-24T11:05:42Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 449,
+  "count": 454,
   "items": [
+    {
+      "id": "2026-11-24-cftc-final-rule-event-contract-data-reporting",
+      "date": "2026-11-24",
+      "published": "2026-11-24T11:05:00Z",
+      "title": "CFTC finalises a separate data reporting framework for covered event contracts",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-24-cftc-final-rule-event-contract-data-reporting",
+      "issuing_body": "CFTC",
+      "source_url": "https://www.cftc.gov/PressRoom/PressReleases/9330-26",
+      "source_label": "CFTC release 9330-26, 2026-11-23, retrieved in full; final rule document retrieved at cftc.gov/media/15026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "designated contract markets, event contract and prediction market platforms, futures commission merchants, clearing members, foreign brokers",
+      "tags": [
+        "event-contracts",
+        "prediction-markets",
+        "final-rule",
+        "data-reporting",
+        "CFTC"
+      ]
+    },
+    {
+      "id": "2026-11-24-cftc-staff-advisory-crypto-assets-financial-resources",
+      "date": "2026-11-24",
+      "published": "2026-11-24T11:05:00Z",
+      "title": "CFTC staff advisory sets haircuts for bitcoin, ether and payment stablecoins held as exchange and clearinghouse financial resources",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-24-cftc-staff-advisory-crypto-assets-financial-resources",
+      "issuing_body": "CFTC",
+      "source_url": "https://www.cftc.gov/csl/26-31/download",
+      "source_label": "CFTC Staff Letter No. 26-31, 2026-11-23, retrieved and read in full; announced by CFTC release 9331-26",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "swap execution facilities, designated contract markets, derivatives clearing organizations, crypto exchanges, stablecoin issuers",
+      "tags": [
+        "crypto",
+        "payment-stablecoins",
+        "staff-advisory",
+        "financial-resources",
+        "CFTC"
+      ]
+    },
+    {
+      "id": "2026-11-24-occ-civil-money-penalties-genius-act-not-addressed",
+      "date": "2026-11-24",
+      "published": "2026-11-24T11:05:00Z",
+      "title": "OCC 2026 civil money penalty notice states it does not address the GENIUS Act payment stablecoin penalties",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-24-occ-civil-money-penalties-genius-act-not-addressed",
+      "issuing_body": "OCC",
+      "source_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-24/pdf/2026-23851.pdf",
+      "source_label": "Federal Register document 2026-23851, OCC, 2026-11-24, retrieved in full via the govinfo PDF mirror",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "payment stablecoin issuers and applicants, national banks, federal savings associations, bank compliance teams",
+      "tags": [
+        "stablecoins",
+        "GENIUS-Act",
+        "civil-money-penalties",
+        "OCC"
+      ]
+    },
+    {
+      "id": "2026-11-24-sec-litigation-release-backward-hat-capital-case-number",
+      "date": "2026-11-24",
+      "published": "2026-11-24T11:05:00Z",
+      "title": "SEC litigation release in the Backward Hat Capital matter gives the Commission's own case number and quantifies the transfers",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-24-sec-litigation-release-backward-hat-capital-case-number",
+      "issuing_body": "SEC",
+      "source_url": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26694",
+      "source_label": "SEC Litigation Release No. 26694, 2026-11-23, retrieved in full",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "investment advisers, fund managers marketing crypto strategies, broker dealers, compliance and litigation teams",
+      "tags": [
+        "enforcement",
+        "crypto",
+        "SEC",
+        "ponzi"
+      ]
+    },
+    {
+      "id": "2026-11-24-sec-miax-binary-options-broad-based-indexes",
+      "date": "2026-11-24",
+      "published": "2026-11-24T11:05:00Z",
+      "title": "MIAX files to list binary options on broad-based indexes on an immediately effective basis",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-24-sec-miax-binary-options-broad-based-indexes",
+      "issuing_body": "SEC",
+      "source_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-24/pdf/2026-23848.pdf",
+      "source_label": "Federal Register document 2026-23848, SEC, 2026-11-24, govinfo PDF mirror, about 54 percent retrieved verbatim",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "options exchanges, market makers, event contract and prediction market platforms, broker dealers",
+      "tags": [
+        "binary-options",
+        "event-contracts",
+        "SEC",
+        "exchange-rule-filing"
+      ]
+    },
     {
       "id": "2026-11-23-new-york-court-denies-kalshi-temporary-restraining-order",
       "date": "2026-11-23",
