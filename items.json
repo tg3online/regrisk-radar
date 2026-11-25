@@ -105,6 +105,30 @@
       "relevant_to": "options exchanges, market makers, event contract and prediction market platforms, broker dealers"
     },
     {
+      "id": "2026-11-24-dnm-kalshi-tribal-lands-injunction",
+      "date": "2026-11-24",
+      "published": "2026-11-24T09:00:00Z",
+      "issuing_body": "U.S. District Court for the District of New Mexico (reported)",
+      "title": "Reported: federal judge in New Mexico grants four tribes a preliminary injunction requiring Kalshi to block sports event contracts on their lands",
+      "facts": "Legal Sports Report and the Albuquerque Journal report that U.S. District Judge Margaret Strickland granted a preliminary injunction to the Mescalero Apache Tribe and the Pueblos of Isleta, Pojoaque and Sandia, denied KalshiEX's motion to dismiss, and gave Kalshi 14 days to block access to its sports markets on those tribes' lands, finding the tribes likely to succeed on their claims. The Albuquerque Journal reports that the injunction is temporary and ends when the court issues a final order, that it does not unwind event contracts already placed from tribal lands, that Kalshi may comply by geofencing or another mechanism, that the parties are to submit a discovery plan by January 13 and that the next hearing is January 20. Both outlets print the ruling day only as Monday and neither prints a calendar date for it. No case name or docket number is reported, and the court's order itself was not retrieved.",
+      "source_url": "https://www.legalsportsreport.com/288495/new-mexico-tribes-win-injunction-to-halt-kalshis-sports-contracts-on-their-land/",
+      "source_label": "Legal Sports Report, November 24, 2026 (coverage; corroborated by the Albuquerque Journal. Court order not retrieved)",
+      "source_type": "coverage_reporting_filing",
+      "primary_source_status": "cited_by_coverage_not_retrieved",
+      "relevant_to": "prediction-market platforms, sportsbooks, exchanges, tribal gaming operators, geolocation and compliance vendors",
+      "tags": [
+        "gaming",
+        "prediction-markets",
+        "event-contracts",
+        "sports-wagering",
+        "tribal-gaming",
+        "courts",
+        "preliminary-injunction",
+        "new-mexico",
+        "geofencing"
+      ]
+    },
+    {
       "id": "2026-11-23-new-york-court-denies-kalshi-temporary-restraining-order",
       "date": "2026-11-23",
       "published": "2026-11-23T23:00:00Z",
@@ -191,6 +215,49 @@
         "artificial-intelligence",
         "new-york",
         "industry-letter"
+      ]
+    },
+    {
+      "id": "2026-11-23-doj-usdc-binance-forfeiture",
+      "date": "2026-11-23",
+      "published": "2026-11-23T18:17:44Z",
+      "issuing_body": "U.S. Department of Justice",
+      "title": "Justice Department files civil forfeiture claim for more than $1.1 billion in USDC stolen from Binance",
+      "facts": "In press release 26-1400, dated November 23, 2026, the Department of Justice stated that the United States filed a civil claim to forfeit over $1.1 billion of USDC, which the release describes as a stablecoin issued by Circle Internet Financial, LLC, criminally obtained by North Korean actors from Binance. The release states that the assets had previously been subject to a government-requested restraining order following the theft, that the theft occurred on or about October 29, that more than $6 billion in cryptocurrency was stolen from Binance, and that over $2.9 billion worth of cryptocurrency has been recovered from multiple sources since the theft. The release names the Criminal Division and its Computer Crime and Intellectual Property Section, the National Security Division, the FBI, the U.S. Attorney's Office for the District of Columbia, the U.S. Secret Service and IRS Criminal Investigation, and states that the FBI, the U.S. Secret Service and IRS Criminal Investigation are investigating the case. The release names no court and no case number.",
+      "source_url": "https://www.justice.gov/opa/pr/united-states-files-action-recover-more-1-billion-cryptocurrency-assets-stolen-north-korean",
+      "source_label": "U.S. Department of Justice, Office of Public Affairs press release 26-1400",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "stablecoin issuers, exchanges, custodians, payment processors, compliance and sanctions teams",
+      "tags": [
+        "crypto",
+        "stablecoin",
+        "enforcement",
+        "civil-forfeiture",
+        "doj",
+        "sanctions",
+        "north-korea"
+      ]
+    },
+    {
+      "id": "2026-11-23-sec-gtv-media-fair-fund-bond",
+      "date": "2026-11-23",
+      "published": "2026-11-23T12:00:00Z",
+      "issuing_body": "U.S. Securities and Exchange Commission",
+      "title": "SEC reduces Fund Administrator's bond in the GTV Media Fair Fund to about $130.5 million to match residual funds",
+      "facts": "In Release No. 106972 of November 23, 2026, File No. 3-20537, In the Matter of GTV Media Group, Inc., Saraca Media Group, Inc., and Voice of Guo Media, Inc., the SEC's Division of Enforcement, acting under delegated authority and Rule 1105(c) of the Commission's Rules of Practice, 17 C.F.R. 201.1105(c), ordered that the bond for Fund Administrator JND Legal Administration be reduced from $455,439,194.49 to $130,462,061.57. The order states that the Fair Fund held approximately $130,462,061.57 in residual funds as of October 21, 2026. The order's background recites that the respondents solicited individuals to invest in their offering of a digital asset security referred to as either G-Coins or G-Dollars, and cites Section 8A of the Securities Act of 1933 and Section 308(a) of the Sarbanes-Oxley Act of 2002.",
+      "source_url": "https://www.sec.gov/files/litigation/admin/2026/34-106972.pdf",
+      "source_label": "SEC administrative order, Release No. 106972, File No. 3-20537",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "token issuers, digital-asset platforms, claims administrators, securities counsel",
+      "tags": [
+        "crypto",
+        "sec",
+        "digital-asset-security",
+        "fair-fund",
+        "distribution",
+        "administrative-proceeding"
       ]
     },
     {

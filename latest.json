@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-24T22:49:40Z",
+  "generated": "2026-11-25T11:01:00Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 457,
+  "count": 460,
   "items": [
     {
       "id": "2026-11-24-cftc-final-rule-event-contract-data-reporting",
@@ -101,6 +101,30 @@
       ]
     },
     {
+      "id": "2026-11-24-dnm-kalshi-tribal-lands-injunction",
+      "date": "2026-11-24",
+      "published": "2026-11-24T09:00:00Z",
+      "title": "Reported: federal judge in New Mexico grants four tribes a preliminary injunction requiring Kalshi to block sports event contracts on their lands",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-24-dnm-kalshi-tribal-lands-injunction",
+      "issuing_body": "U.S. District Court for the District of New Mexico (reported)",
+      "source_url": "https://www.legalsportsreport.com/288495/new-mexico-tribes-win-injunction-to-halt-kalshis-sports-contracts-on-their-land/",
+      "source_label": "Legal Sports Report, November 24, 2026 (coverage; corroborated by the Albuquerque Journal. Court order not retrieved)",
+      "source_type": "coverage_reporting_filing",
+      "primary_source_status": "cited_by_coverage_not_retrieved",
+      "relevant_to": "prediction-market platforms, sportsbooks, exchanges, tribal gaming operators, geolocation and compliance vendors",
+      "tags": [
+        "gaming",
+        "prediction-markets",
+        "event-contracts",
+        "sports-wagering",
+        "tribal-gaming",
+        "courts",
+        "preliminary-injunction",
+        "new-mexico",
+        "geofencing"
+      ]
+    },
+    {
       "id": "2026-11-23-new-york-court-denies-kalshi-temporary-restraining-order",
       "date": "2026-11-23",
       "published": "2026-11-23T23:00:00Z",
@@ -187,6 +211,49 @@
         "artificial-intelligence",
         "new-york",
         "industry-letter"
+      ]
+    },
+    {
+      "id": "2026-11-23-doj-usdc-binance-forfeiture",
+      "date": "2026-11-23",
+      "published": "2026-11-23T18:17:44Z",
+      "title": "Justice Department files civil forfeiture claim for more than $1.1 billion in USDC stolen from Binance",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-23-doj-usdc-binance-forfeiture",
+      "issuing_body": "U.S. Department of Justice",
+      "source_url": "https://www.justice.gov/opa/pr/united-states-files-action-recover-more-1-billion-cryptocurrency-assets-stolen-north-korean",
+      "source_label": "U.S. Department of Justice, Office of Public Affairs press release 26-1400",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "stablecoin issuers, exchanges, custodians, payment processors, compliance and sanctions teams",
+      "tags": [
+        "crypto",
+        "stablecoin",
+        "enforcement",
+        "civil-forfeiture",
+        "doj",
+        "sanctions",
+        "north-korea"
+      ]
+    },
+    {
+      "id": "2026-11-23-sec-gtv-media-fair-fund-bond",
+      "date": "2026-11-23",
+      "published": "2026-11-23T12:00:00Z",
+      "title": "SEC reduces Fund Administrator's bond in the GTV Media Fair Fund to about $130.5 million to match residual funds",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-23-sec-gtv-media-fair-fund-bond",
+      "issuing_body": "U.S. Securities and Exchange Commission",
+      "source_url": "https://www.sec.gov/files/litigation/admin/2026/34-106972.pdf",
+      "source_label": "SEC administrative order, Release No. 106972, File No. 3-20537",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "token issuers, digital-asset platforms, claims administrators, securities counsel",
+      "tags": [
+        "crypto",
+        "sec",
+        "digital-asset-security",
+        "fair-fund",
+        "distribution",
+        "administrative-proceeding"
       ]
     },
     {

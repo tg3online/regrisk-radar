@@ -5,7 +5,7 @@
     <link>https://tg3online.github.io/regrisk-radar/</link>
     <description>Daily facts-only regulatory radar — crypto, gaming, payments &amp; fintech. Verified against primary sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Nov 2026 22:49:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 11:01:00 +0000</lastBuildDate>
     <atom:link href="https://tg3online.github.io/regrisk-radar/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CFTC finalises a separate data reporting framework for covered event contracts</title>
@@ -88,6 +88,22 @@ For operator-impact analysis and watchlist implications, join RegRisk Radar. htt
 RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
     </item>
     <item>
+      <title>Reported: federal judge in New Mexico grants four tribes a preliminary injunction requiring Kalshi to block sports event contracts on their lands</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-11-24-dnm-kalshi-tribal-lands-injunction</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-11-24-dnm-kalshi-tribal-lands-injunction</guid>
+      <pubDate>Tue, 24 Nov 2026 09:00:00 +0000</pubDate>
+      <category>U.S. District Court for the District of New Mexico (reported)</category>
+      <description>Legal Sports Report and the Albuquerque Journal report that U.S. District Judge Margaret Strickland granted a preliminary injunction to the Mescalero Apache Tribe and the Pueblos of Isleta, Pojoaque and Sandia, denied KalshiEX&#x27;s motion to dismiss, and gave Kalshi 14 days to block access to its sports markets on those tribes&#x27; lands, finding the tribes likely to succeed on their claims. The Albuquerque Journal reports that the injunction is temporary and ends when the court issues a final order, that it does not unwind event contracts already placed from tribal lands, that Kalshi may comply by geofencing or another mechanism, that the parties are to submit a discovery plan by January 13 and that the next hearing is January 20. Both outlets print the ruling day only as Monday and neither prints a calendar date for it. No case name or docket number is reported, and the court&#x27;s order itself was not retrieved.
+
+Coverage (reporting filing): Legal Sports Report, November 24, 2026 (coverage; corroborated by the Albuquerque Journal. Court order not retrieved) — https://www.legalsportsreport.com/288495/new-mexico-tribes-win-injunction-to-halt-kalshis-sports-contracts-on-their-land/
+
+Relevant to: prediction-market platforms, sportsbooks, exchanges, tribal gaming operators, geolocation and compliance vendors
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+    <item>
       <title>New York court denies the Attorney General&#x27;s temporary restraining order motion against Kalshi, with a report-back on 2026-11-30 and a preliminary injunction hearing in early January 2027</title>
       <link>https://tg3online.github.io/regrisk-radar/#2026-11-23-new-york-court-denies-kalshi-temporary-restraining-order</link>
       <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-11-23-new-york-court-denies-kalshi-temporary-restraining-order</guid>
@@ -146,6 +162,38 @@ RegRisk Radar is regulatory-risk intelligence provided for general informational
 Primary source: NYDFS industry letter of 2026-11-21, retrieved in full from dfs.ny.gov — https://www.dfs.ny.gov/industry_guidance/industry_letters/20261121-cybersecurity-alert-Artex-AI
 
 Relevant to: New York licensed financial institutions, virtual currency licensees, limited purpose trust companies, money transmitters
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+    <item>
+      <title>Justice Department files civil forfeiture claim for more than $1.1 billion in USDC stolen from Binance</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-11-23-doj-usdc-binance-forfeiture</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-11-23-doj-usdc-binance-forfeiture</guid>
+      <pubDate>Mon, 23 Nov 2026 18:17:44 +0000</pubDate>
+      <category>U.S. Department of Justice</category>
+      <description>In press release 26-1400, dated November 23, 2026, the Department of Justice stated that the United States filed a civil claim to forfeit over $1.1 billion of USDC, which the release describes as a stablecoin issued by Circle Internet Financial, LLC, criminally obtained by North Korean actors from Binance. The release states that the assets had previously been subject to a government-requested restraining order following the theft, that the theft occurred on or about October 29, that more than $6 billion in cryptocurrency was stolen from Binance, and that over $2.9 billion worth of cryptocurrency has been recovered from multiple sources since the theft. The release names the Criminal Division and its Computer Crime and Intellectual Property Section, the National Security Division, the FBI, the U.S. Attorney&#x27;s Office for the District of Columbia, the U.S. Secret Service and IRS Criminal Investigation, and states that the FBI, the U.S. Secret Service and IRS Criminal Investigation are investigating the case. The release names no court and no case number.
+
+Primary source: U.S. Department of Justice, Office of Public Affairs press release 26-1400 — https://www.justice.gov/opa/pr/united-states-files-action-recover-more-1-billion-cryptocurrency-assets-stolen-north-korean
+
+Relevant to: stablecoin issuers, exchanges, custodians, payment processors, compliance and sanctions teams
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+    <item>
+      <title>SEC reduces Fund Administrator&#x27;s bond in the GTV Media Fair Fund to about $130.5 million to match residual funds</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-11-23-sec-gtv-media-fair-fund-bond</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-11-23-sec-gtv-media-fair-fund-bond</guid>
+      <pubDate>Mon, 23 Nov 2026 12:00:00 +0000</pubDate>
+      <category>U.S. Securities and Exchange Commission</category>
+      <description>In Release No. 106972 of November 23, 2026, File No. 3-20537, In the Matter of GTV Media Group, Inc., Saraca Media Group, Inc., and Voice of Guo Media, Inc., the SEC&#x27;s Division of Enforcement, acting under delegated authority and Rule 1105(c) of the Commission&#x27;s Rules of Practice, 17 C.F.R. 201.1105(c), ordered that the bond for Fund Administrator JND Legal Administration be reduced from $455,439,194.49 to $130,462,061.57. The order states that the Fair Fund held approximately $130,462,061.57 in residual funds as of October 21, 2026. The order&#x27;s background recites that the respondents solicited individuals to invest in their offering of a digital asset security referred to as either G-Coins or G-Dollars, and cites Section 8A of the Securities Act of 1933 and Section 308(a) of the Sarbanes-Oxley Act of 2002.
+
+Primary source: SEC administrative order, Release No. 106972, File No. 3-20537 — https://www.sec.gov/files/litigation/admin/2026/34-106972.pdf
+
+Relevant to: token issuers, digital-asset platforms, claims administrators, securities counsel
 
 For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
 
