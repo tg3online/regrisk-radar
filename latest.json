@@ -1,8 +1,75 @@
 {
-  "generated": "2026-11-25T11:01:00Z",
+  "generated": "2026-11-26T11:08:27Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 460,
+  "count": 467,
   "items": [
+    {
+      "id": "2026-11-26-nyag-novatechfx-judgment",
+      "date": "2026-11-26",
+      "published": "2026-11-25T00:00:00Z",
+      "title": "New York Attorney General obtains a $1.37 billion judgment against the founders of cryptocurrency trading company NovaTechFx",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-26-nyag-novatechfx-judgment",
+      "issuing_body": "New York State Office of the Attorney General",
+      "source_url": "https://ag.ny.gov/press-release/2026/attorney-general-james-wins-13-billion-judgment-against-crypto-scammers-who",
+      "source_label": "New York Attorney General press release (ag.ny.gov)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "crypto trading platforms, exchanges, token issuers, state-licensed firms",
+      "tags": [
+        "state-ag",
+        "new-york",
+        "enforcement",
+        "crypto",
+        "ponzi",
+        "judgment",
+        "industry-ban"
+      ]
+    },
+    {
+      "id": "2026-11-26-kalshi-ny-pi-hearing-january",
+      "date": "2026-11-26",
+      "published": "2026-11-25T00:00:00Z",
+      "title": "Reporting: a preliminary injunction hearing in the New York Attorney General's action against KalshiEX is set for January after the temporary restraining order was denied",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-26-kalshi-ny-pi-hearing-january",
+      "issuing_body": "New York County Supreme Court (reported); New York State Office of the Attorney General",
+      "source_url": "https://www.thelines.com/prediction-markets/industry-news/kalshi-granted-reprieve-in-ny-legal-case/",
+      "source_label": "The Lines, November 25, 2026 (corroborated by iGamingBusiness, November 24, 2026)",
+      "source_type": "coverage_reporting_filing",
+      "primary_source_status": "cited_by_coverage_not_retrieved",
+      "relevant_to": "prediction-market platforms, event-contract exchanges, sportsbooks, gaming operators",
+      "tags": [
+        "kalshi",
+        "prediction-markets",
+        "event-contracts",
+        "new-york",
+        "state-court",
+        "state-ag",
+        "preliminary-injunction",
+        "gaming"
+      ]
+    },
+    {
+      "id": "2026-11-26-doj-ransomware-bitcoin-indictment",
+      "date": "2026-11-26",
+      "published": "2026-11-25T00:00:00Z",
+      "title": "DOJ indicts a data recovery company co-founder over bitcoin ransom payments billed to customers as proprietary decryption",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-26-doj-ransomware-bitcoin-indictment",
+      "issuing_body": "US Department of Justice",
+      "source_url": "https://www.justice.gov/opa/pr/colombian-national-indicted-scheme-defraud-victims-ransomware-attacks",
+      "source_label": "DOJ press release 26-1411 (justice.gov)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "crypto payment processors, custodians, incident-response vendors, compliance teams",
+      "tags": [
+        "doj",
+        "enforcement",
+        "crypto",
+        "bitcoin",
+        "ransomware",
+        "wire-fraud",
+        "indictment"
+      ]
+    },
     {
       "id": "2026-11-24-cftc-final-rule-event-contract-data-reporting",
       "date": "2026-11-24",
@@ -122,6 +189,50 @@
         "preliminary-injunction",
         "new-mexico",
         "geofencing"
+      ]
+    },
+    {
+      "id": "2026-11-26-doj-largest-scam-crackdown",
+      "date": "2026-11-26",
+      "published": "2026-11-24T00:00:00Z",
+      "title": "DOJ announces its largest ever crackdown on scam networks: over 800 defendants, cryptocurrency seizures, and over 4,800 unlicensed money transmitter letters",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-26-doj-largest-scam-crackdown",
+      "issuing_body": "US Department of Justice",
+      "source_url": "https://www.justice.gov/opa/pr/justice-department-announces-largest-ever-crackdown-scammers-targeting-over-800-defendants",
+      "source_label": "DOJ press release 26-1404 (justice.gov)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "exchanges, payment processors, money services businesses, custodians, compliance teams",
+      "tags": [
+        "doj",
+        "enforcement",
+        "crypto",
+        "money-transmission",
+        "payments",
+        "fraud",
+        "asset-forfeiture"
+      ]
+    },
+    {
+      "id": "2026-11-26-fdic-csbs-third-party-standards-council",
+      "date": "2026-11-26",
+      "published": "2026-11-24T00:00:00Z",
+      "title": "FDIC and CSBS announce support for a private Third-Party Assessments and Standards Council setting voluntary standards for products and services provided to banks",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-26-fdic-csbs-third-party-standards-council",
+      "issuing_body": "Conference of State Bank Supervisors; FDIC",
+      "source_url": "https://www.csbs.org/newsroom/fdic-and-csbs-announce-support-third-party-assessments-and-standards-council",
+      "source_label": "CSBS press release (csbs.org)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "fintech companies partnering with banks, bank service providers, sponsor banks, vendor-risk teams",
+      "tags": [
+        "csbs",
+        "fdic",
+        "third-party-risk",
+        "bank-fintech-partnerships",
+        "service-providers",
+        "voluntary-standards",
+        "fintech"
       ]
     },
     {
@@ -365,6 +476,51 @@
         "shadow-banking",
         "red-flags",
         "fintech"
+      ]
+    },
+    {
+      "id": "2026-11-26-kalshi-pauses-utah-operations",
+      "date": "2026-11-26",
+      "published": "2026-11-23T00:00:00Z",
+      "title": "Reporting: KalshiEX paused its Utah operations on November 23, 2026, blocking new contracts for a reported 177,000 Utah users",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-26-kalshi-pauses-utah-operations",
+      "issuing_body": "KalshiEX LLC (reported); Utah Attorney General; US District Court for the District of Utah (reported)",
+      "source_url": "https://www.sltrib.com/news/2026/11/23/kalshi-pauses-operations-utah-amid/",
+      "source_label": "Salt Lake Tribune, November 23, 2026 (corroborated by a Reuters sourced wire report of November 25, 2026)",
+      "source_type": "coverage_reporting_filing",
+      "primary_source_status": "cited_by_coverage_not_retrieved",
+      "relevant_to": "prediction-market platforms, event-contract exchanges, sportsbooks, gaming operators",
+      "tags": [
+        "kalshi",
+        "prediction-markets",
+        "event-contracts",
+        "sports-wagering",
+        "utah",
+        "state-enforcement",
+        "gaming"
+      ]
+    },
+    {
+      "id": "2026-11-26-ny-s10748-futures-act",
+      "date": "2026-11-26",
+      "published": "2026-11-23T00:00:00Z",
+      "title": "New York Senate Bill S10748, the Futures Act, is introduced and referred to the Senate Rules Committee, proposing prediction market consumer protection and taxes on prediction market use",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-26-ny-s10748-futures-act",
+      "issuing_body": "New York State Senate",
+      "source_url": "https://www.nysenate.gov/legislation/bills/2025/S10748",
+      "source_label": "New York State Senate bill page (nysenate.gov)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction-market platforms, event-contract exchanges, sportsbooks, tax and government-affairs teams",
+      "tags": [
+        "legislation",
+        "new-york",
+        "state-legislature",
+        "prediction-markets",
+        "event-contracts",
+        "taxation",
+        "consumer-protection",
+        "gaming"
       ]
     },
     {
