@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-26T11:08:27Z",
+  "generated": "2026-11-26T22:48:32Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 467,
+  "count": 468,
   "items": [
     {
       "id": "2026-11-26-nyag-novatechfx-judgment",
@@ -233,6 +233,30 @@
         "service-providers",
         "voluntary-standards",
         "fintech"
+      ]
+    },
+    {
+      "id": "2026-11-26-utah-ag-motion-dismiss-kalshi-criminal-case",
+      "date": "2026-11-26",
+      "published": "2026-11-24T00:00:00Z",
+      "title": "Utah Attorney General moves to dismiss the 14 criminal charges against Kalshi without prejudice after the platform blocked Utah users",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-26-utah-ag-motion-dismiss-kalshi-criminal-case",
+      "issuing_body": "Utah Attorney General",
+      "source_url": "https://attorneygeneral.utah.gov/utah-dismiss-kalshi-criminal-case/",
+      "source_label": "Utah Attorney General, office statement, November 24, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction-market platforms, event-contract exchanges, sports-wagering operators",
+      "tags": [
+        "utah",
+        "state-ag",
+        "kalshi",
+        "prediction-markets",
+        "event-contracts",
+        "sports-wagering",
+        "criminal-charges",
+        "dismissal-without-prejudice",
+        "gaming"
       ]
     },
     {
