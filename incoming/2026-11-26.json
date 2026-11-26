@@ -1,0 +1,160 @@
+{
+  "entries": [
+    {
+      "id": "2026-11-26-doj-largest-scam-crackdown",
+      "date": "2026-11-26",
+      "published": "2026-11-24T00:00:00Z",
+      "issuing_body": "US Department of Justice",
+      "title": "DOJ announces its largest ever crackdown on scam networks: over 800 defendants, cryptocurrency seizures, and over 4,800 unlicensed money transmitter letters",
+      "facts": "DOJ release 26-1404 of November 24, 2026, issued by the Criminal Division, states that since Executive Order 14390 of March 6, 2026, prosecutors have taken action in over 400 cases against over 800 defendants across 85 judicial districts, with 30 extraditions. The release states that Homeland Security Investigations seized, restrained or recovered over $120 million in proceeds including bank and cryptocurrency accounts; that the State Department froze over $1 billion in stolen cryptocurrency with partner countries; that the Secret Service restrained over $200 million and recovered over $119 million; and that the Postal Inspection Service sent over 4,800 unlicensed money transmitter letters to money mules since March. The release also describes a Cambodia based cryptocurrency investment conspiracy with at least 174 identified US victims and fake cryptocurrency trading platforms operated from Moldova.",
+      "source_url": "https://www.justice.gov/opa/pr/justice-department-announces-largest-ever-crackdown-scammers-targeting-over-800-defendants",
+      "source_label": "DOJ press release 26-1404 (justice.gov)",
+      "tags": [
+        "doj",
+        "enforcement",
+        "crypto",
+        "money-transmission",
+        "payments",
+        "fraud",
+        "asset-forfeiture"
+      ],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "exchanges, payment processors, money services businesses, custodians, compliance teams"
+    },
+    {
+      "id": "2026-11-26-nyag-novatechfx-judgment",
+      "date": "2026-11-26",
+      "published": "2026-11-25T00:00:00Z",
+      "issuing_body": "New York State Office of the Attorney General",
+      "title": "New York Attorney General obtains a $1.37 billion judgment against the founders of cryptocurrency trading company NovaTechFx",
+      "facts": "A release of November 25, 2026 from the New York State Office of the Attorney General states that a court ordered Cynthia Petion and Eddy Petion, founders of the cryptocurrency trading company NovaTechFx, to pay $1,367,023,585 in the matter captioned New York v. Nova Tech Ltd. et al. The release states that the scheme was a cryptocurrency Ponzi scheme that defrauded hundreds of thousands of investors worldwide including 11,000 New Yorkers and targeted Haitian communities; that a default judgment was entered in August 2025 after the founders left the country; that the default judgment banned them from the securities, commodities and cryptocurrency industries; and that the judgment announced now covers damages and disgorgement. The release further states that the Attorney General sued NovaTech and cryptocurrency mining company AWS Mining Pty Ltd. in June 2024, and separately secured nearly $6 million from four other individuals, each permanently banned from the securities, commodities and cryptocurrency industries.",
+      "source_url": "https://ag.ny.gov/press-release/2026/attorney-general-james-wins-13-billion-judgment-against-crypto-scammers-who",
+      "source_label": "New York Attorney General press release (ag.ny.gov)",
+      "tags": [
+        "state-ag",
+        "new-york",
+        "enforcement",
+        "crypto",
+        "ponzi",
+        "judgment",
+        "industry-ban"
+      ],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "crypto trading platforms, exchanges, token issuers, state-licensed firms"
+    },
+    {
+      "id": "2026-11-26-kalshi-pauses-utah-operations",
+      "date": "2026-11-26",
+      "published": "2026-11-23T00:00:00Z",
+      "issuing_body": "KalshiEX LLC (reported); Utah Attorney General; US District Court for the District of Utah (reported)",
+      "title": "Reporting: KalshiEX paused its Utah operations on November 23, 2026, blocking new contracts for a reported 177,000 Utah users",
+      "facts": "The Salt Lake Tribune, published November 23, 2026, reports that KalshiEX LLC told the paper that afternoon it would pause operations in Utah, that new contracts are blocked while users may still exit positions and withdraw funds, and that a Kalshi spokesperson put the number of Utah users at more than 177,000. The same report states that in August Judge Robert J. Shelby ruled against Kalshi in its suit against Utah, holding that the state could enforce its anti-gambling laws against Kalshi's event contracts; that 14 charges including 13 felony counts were brought against co-founders Tarek Mansour and Luana Lopes Lara by Utah Attorney General Derek Brown; and that at a hearing in the CFTC's separate suit against Utah, Judge Shelby issued no formal ruling. A Reuters sourced wire report published November 25, 2026 independently reports the Utah pause, the 177,000 user figure, and that the federal court has not granted the CFTC's emergency request to block Utah's enforcement action. The underlying court filings and the Utah criminal information were not retrieved.",
+      "source_url": "https://www.sltrib.com/news/2026/11/23/kalshi-pauses-operations-utah-amid/",
+      "source_label": "Salt Lake Tribune, November 23, 2026 (corroborated by a Reuters sourced wire report of November 25, 2026)",
+      "tags": [
+        "kalshi",
+        "prediction-markets",
+        "event-contracts",
+        "sports-wagering",
+        "utah",
+        "state-enforcement",
+        "gaming"
+      ],
+      "source_type": "coverage_reporting_filing",
+      "primary_source_status": "cited_by_coverage_not_retrieved",
+      "relevant_to": "prediction-market platforms, event-contract exchanges, sportsbooks, gaming operators"
+    },
+    {
+      "id": "2026-11-26-ny-s10748-futures-act",
+      "date": "2026-11-26",
+      "published": "2026-11-23T00:00:00Z",
+      "issuing_body": "New York State Senate",
+      "title": "New York Senate Bill S10748, the Futures Act, is introduced and referred to the Senate Rules Committee, proposing prediction market consumer protection and taxes on prediction market use",
+      "facts": "New York Senate Bill S10748 of the 2025-2026 Legislative Session was introduced by Senator Jeremy Cooney of the 56th Senate District on November 23, 2026 and referred to the Senate Rules Committee, the last recorded action being referred to rules on that date and the status being in Senate committee. The long title as printed is an act to amend the general business law, in relation to prediction market consumer protection; to amend the state finance law, in relation to establishing the futures fund for early education; to amend the tax law, in relation to establishing taxes related to prediction market use; and to amend the election law, in relation to the use of prediction market platforms in furtherance of election violations. The bill's short title is the Fairness, User Transparency, Universal Pre-Kindergarten, and Responsible Exchange Safeguards Act, also called the Futures Act. The laws affected as printed are General Business Law Article 48-A sections 1820 to 1834, State Finance Law section 99-uu, Tax Law Article 15 sections 330 to 334, sections 698-a and 219-b, and Election Law section 17-172.",
+      "source_url": "https://www.nysenate.gov/legislation/bills/2025/S10748",
+      "source_label": "New York State Senate bill page (nysenate.gov)",
+      "tags": [
+        "legislation",
+        "new-york",
+        "state-legislature",
+        "prediction-markets",
+        "event-contracts",
+        "taxation",
+        "consumer-protection",
+        "gaming"
+      ],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "prediction-market platforms, event-contract exchanges, sportsbooks, tax and government-affairs teams"
+    },
+    {
+      "id": "2026-11-26-kalshi-ny-pi-hearing-january",
+      "date": "2026-11-26",
+      "published": "2026-11-25T00:00:00Z",
+      "issuing_body": "New York County Supreme Court (reported); New York State Office of the Attorney General",
+      "title": "Reporting: a preliminary injunction hearing in the New York Attorney General's action against KalshiEX is set for January after the temporary restraining order was denied",
+      "facts": "Two independently fetched outlets report that after Justice Melissa Crane of the New York County Supreme Court denied the New York Attorney General's request for a temporary restraining order against KalshiEX LLC at a virtual hearing on Monday, November 23, 2026, a preliminary injunction hearing is scheduled for January. The Lines, published November 25, 2026, reports that the judge pushed for age limits on sports contracts for users under 21 and that Kalshi is open to engaging on that point. iGamingBusiness, published November 24, 2026, reports that Justice Crane stated it would be improper for her to grant the order without full briefing, and that the preliminary injunction hearing is planned for early January. The underlying court papers were not retrieved.",
+      "source_url": "https://www.thelines.com/prediction-markets/industry-news/kalshi-granted-reprieve-in-ny-legal-case/",
+      "source_label": "The Lines, November 25, 2026 (corroborated by iGamingBusiness, November 24, 2026)",
+      "tags": [
+        "kalshi",
+        "prediction-markets",
+        "event-contracts",
+        "new-york",
+        "state-court",
+        "state-ag",
+        "preliminary-injunction",
+        "gaming"
+      ],
+      "source_type": "coverage_reporting_filing",
+      "primary_source_status": "cited_by_coverage_not_retrieved",
+      "relevant_to": "prediction-market platforms, event-contract exchanges, sportsbooks, gaming operators"
+    },
+    {
+      "id": "2026-11-26-doj-ransomware-bitcoin-indictment",
+      "date": "2026-11-26",
+      "published": "2026-11-25T00:00:00Z",
+      "issuing_body": "US Department of Justice",
+      "title": "DOJ indicts a data recovery company co-founder over bitcoin ransom payments billed to customers as proprietary decryption",
+      "facts": "DOJ release 26-1411 of November 25, 2026, from the District of Rhode Island with the Criminal Division's Computer Crime and Intellectual Property Section and FBI Boston, states that Juan Ricardo Palacio Escobar, 52, a Colombian national and co-founder of a Florida data recovery company, was indicted on three counts of wire fraud each carrying up to 20 years. The release states that he allegedly claimed to have decryption technology the company did not have, secretly paid ransoms to ransomware actors, and marked those payments up to customers, and that in a June 2026 FBI undercover operation he allegedly paid approximately $6,000 in bitcoin to an undercover ransomware actor while charging the undercover company approximately $13,260. The release states that proceeds allegedly funded several Florida properties, and that he was arrested in Las Vegas on October 22, 2026 and released pretrial on November 20, 2026 under conditions. The charges are allegations.",
+      "source_url": "https://www.justice.gov/opa/pr/colombian-national-indicted-scheme-defraud-victims-ransomware-attacks",
+      "source_label": "DOJ press release 26-1411 (justice.gov)",
+      "tags": [
+        "doj",
+        "enforcement",
+        "crypto",
+        "bitcoin",
+        "ransomware",
+        "wire-fraud",
+        "indictment"
+      ],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "crypto payment processors, custodians, incident-response vendors, compliance teams"
+    },
+    {
+      "id": "2026-11-26-fdic-csbs-third-party-standards-council",
+      "date": "2026-11-26",
+      "published": "2026-11-24T00:00:00Z",
+      "issuing_body": "Conference of State Bank Supervisors; FDIC",
+      "title": "FDIC and CSBS announce support for a private Third-Party Assessments and Standards Council setting voluntary standards for products and services provided to banks",
+      "facts": "A Conference of State Bank Supervisors release of November 24, 2026 states that the FDIC and CSBS announced their support for the Third-Party Assessments and Standards Council, described as a private sector non-profit created to develop voluntary consensus standards and impartial conformity assessments for products and services provided to banks. The release states that the FDIC and state regulators will participate as observers only and will not direct the Council's standards, conduct its assessments or certify service providers; that the Council will establish its own governance and operating processes; and that its standards and assessments will be voluntary so that banks and service providers are not required to use them. The release states that the supporting coalition includes fintech companies and refers to technology partners and specialized service providers. The release states no dates or deadlines.",
+      "source_url": "https://www.csbs.org/newsroom/fdic-and-csbs-announce-support-third-party-assessments-and-standards-council",
+      "source_label": "CSBS press release (csbs.org)",
+      "tags": [
+        "csbs",
+        "fdic",
+        "third-party-risk",
+        "bank-fintech-partnerships",
+        "service-providers",
+        "voluntary-standards",
+        "fintech"
+      ],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "fintech companies partnering with banks, bank service providers, sponsor banks, vendor-risk teams"
+    }
+  ]
+}
