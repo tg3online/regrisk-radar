@@ -5,8 +5,40 @@
     <link>https://tg3online.github.io/regrisk-radar/</link>
     <description>Daily facts-only regulatory radar — crypto, gaming, payments &amp; fintech. Verified against primary sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Nov 2026 22:48:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 11:00:45 +0000</lastBuildDate>
     <atom:link href="https://tg3online.github.io/regrisk-radar/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FDIC publishes its 2026 civil money penalty maximums with no inflation adjustment, and states that GENIUS Act stablecoin penalty provisions are not yet addressed</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-11-27-fdic-2026-civil-money-penalty-notice</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-11-27-fdic-2026-civil-money-penalty-notice</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      <category>Federal Deposit Insurance Corporation</category>
+      <description>The FDIC published a Notice of Inflation Adjustments for Civil Money Penalties in the Federal Register of November 27, 2026, at 91 FR 76769 to 76771, RIN 3064-ZA52, giving notice of its maximum civil money penalties for 2026 under the Federal Civil Penalties Inflation Adjustment Act of 1990 as amended. The notice states that OMB guidance of April 17, 2026, Memorandum M-26-11, provided no updated cost-of-living multiplier because October 2025 CPI-U data was not produced during a government shutdown, that the FDIC therefore retains the amounts from its 2025 notice at 90 FR 3212, and that 2026 is the first year in which adjustments are not required. The notice states that the maximums apply to penalties assessed on or after January 15, 2025 for conduct occurring on or after November 2, 2015. Footnote 7 states that the Guiding and Establishing National Innovation for U.S. Stablecoins Act, Public Law 119-27, has not yet reached its effective date, so its civil money penalty provisions are not addressed in the notice.
+
+Primary source: FDIC notice in the Federal Register, November 27, 2026, via GovInfo — https://www.govinfo.gov/content/pkg/FR-2026-11-27/html/2026-24049.htm
+
+Relevant to: FDIC-supervised banks and their fintech and payments partners, stablecoin issuers tracking GENIUS Act implementation
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+    <item>
+      <title>CFPB and Federal Reserve set the 2027 Regulation Z and Regulation M coverage threshold at 76,300 dollars</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-11-25-cfpb-frb-regulation-z-m-2027-thresholds</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-11-25-cfpb-frb-regulation-z-m-2027-thresholds</guid>
+      <pubDate>Wed, 25 Nov 2026 20:00:00 +0000</pubDate>
+      <category>Consumer Financial Protection Bureau and Federal Reserve Board</category>
+      <description>In a joint press release dated November 25, 2026, the Consumer Financial Protection Bureau and the Federal Reserve Board stated that Regulation Z and Regulation M generally will apply to consumer credit transactions and consumer leases of 76,300 dollars or less in 2027. The release states that the figure reflects the 3.9 percent annual percentage increase in the CPI-W as of June 1, 2026, and that the agencies are required by law to adjust the thresholds annually. The release states that private education loans and loans secured by real property, such as mortgages, remain subject to Regulation Z regardless of amount. The release states that the threshold applies in 2027 and does not state a specific effective date.
+
+Primary source: Federal Reserve Board and CFPB joint press release, November 25, 2026 — https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125b.htm
+
+Relevant to: consumer lenders and lessors, buy-now-pay-later and point-of-sale finance providers, earned-wage-access providers
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
     <item>
       <title>New York Attorney General obtains a $1.37 billion judgment against the founders of cryptocurrency trading company NovaTechFx</title>
       <link>https://tg3online.github.io/regrisk-radar/#2026-11-26-nyag-novatechfx-judgment</link>
@@ -194,6 +226,22 @@ RegRisk Radar is regulatory-risk intelligence provided for general informational
 Primary source: Utah Attorney General, office statement, November 24, 2026 — https://attorneygeneral.utah.gov/utah-dismiss-kalshi-criminal-case/
 
 Relevant to: prediction-market platforms, event-contract exchanges, sports-wagering operators
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</description>
+    </item>
+    <item>
+      <title>California DFPI penalizes Afterpay 2.68 million dollars over buy-now-pay-later loans made without ability-to-repay underwriting</title>
+      <link>https://tg3online.github.io/regrisk-radar/#2026-11-24-dfpi-afterpay-bnpl-ability-to-repay-penalty</link>
+      <guid isPermaLink="false">https://tg3online.github.io/regrisk-radar/#2026-11-24-dfpi-afterpay-bnpl-ability-to-repay-penalty</guid>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+      <category>California Department of Financial Protection and Innovation</category>
+      <description>The California Department of Financial Protection and Innovation stated on November 24, 2026 that it penalized Afterpay US Services, LLC 2.68 million dollars under a consent order for failing to conduct ability-to-repay underwriting on buy-now-pay-later loans made to new customers, in violation of the California Financing Law. The DFPI stated the conduct period ran from January 2020 through March 2022, and that its examination led Afterpay to adopt new underwriting protocols. The press release links a consent order document and states no docket number.
+
+Primary source: California DFPI press release, November 24, 2026 — https://dfpi.ca.gov/press_release/california-penalizes-afterpay-for-illegal-buy-now-pay-later-lending/
+
+Relevant to: buy-now-pay-later and point-of-sale lenders, fintech lending platforms, consumer-credit compliance teams
 
 For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
 

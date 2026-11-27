@@ -1,8 +1,50 @@
 {
-  "generated": "2026-11-26T22:48:32Z",
+  "generated": "2026-11-27T11:00:45Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 468,
+  "count": 471,
   "items": [
+    {
+      "id": "2026-11-27-fdic-2026-civil-money-penalty-notice",
+      "date": "2026-11-27",
+      "published": "2026-11-27T00:00:00Z",
+      "title": "FDIC publishes its 2026 civil money penalty maximums with no inflation adjustment, and states that GENIUS Act stablecoin penalty provisions are not yet addressed",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-27-fdic-2026-civil-money-penalty-notice",
+      "issuing_body": "Federal Deposit Insurance Corporation",
+      "source_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-27/html/2026-24049.htm",
+      "source_label": "FDIC notice in the Federal Register, November 27, 2026, via GovInfo",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "FDIC-supervised banks and their fintech and payments partners, stablecoin issuers tracking GENIUS Act implementation",
+      "tags": [
+        "bank-supervision",
+        "civil-money-penalties",
+        "federal-register",
+        "genius-act",
+        "stablecoin",
+        "fdic"
+      ]
+    },
+    {
+      "id": "2026-11-25-cfpb-frb-regulation-z-m-2027-thresholds",
+      "date": "2026-11-25",
+      "published": "2026-11-25T20:00:00Z",
+      "title": "CFPB and Federal Reserve set the 2027 Regulation Z and Regulation M coverage threshold at 76,300 dollars",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-25-cfpb-frb-regulation-z-m-2027-thresholds",
+      "issuing_body": "Consumer Financial Protection Bureau and Federal Reserve Board",
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125b.htm",
+      "source_label": "Federal Reserve Board and CFPB joint press release, November 25, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "consumer lenders and lessors, buy-now-pay-later and point-of-sale finance providers, earned-wage-access providers",
+      "tags": [
+        "fintech",
+        "consumer-credit",
+        "regulation-z",
+        "regulation-m",
+        "truth-in-lending",
+        "threshold-adjustment"
+      ]
+    },
     {
       "id": "2026-11-26-nyag-novatechfx-judgment",
       "date": "2026-11-26",
@@ -257,6 +299,27 @@
         "criminal-charges",
         "dismissal-without-prejudice",
         "gaming"
+      ]
+    },
+    {
+      "id": "2026-11-24-dfpi-afterpay-bnpl-ability-to-repay-penalty",
+      "date": "2026-11-24",
+      "published": "2026-11-24T00:00:00Z",
+      "title": "California DFPI penalizes Afterpay 2.68 million dollars over buy-now-pay-later loans made without ability-to-repay underwriting",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-24-dfpi-afterpay-bnpl-ability-to-repay-penalty",
+      "issuing_body": "California Department of Financial Protection and Innovation",
+      "source_url": "https://dfpi.ca.gov/press_release/california-penalizes-afterpay-for-illegal-buy-now-pay-later-lending/",
+      "source_label": "California DFPI press release, November 24, 2026",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "buy-now-pay-later and point-of-sale lenders, fintech lending platforms, consumer-credit compliance teams",
+      "tags": [
+        "fintech",
+        "buy-now-pay-later",
+        "consumer-credit",
+        "state-enforcement",
+        "california",
+        "consent-order"
       ]
     },
     {
