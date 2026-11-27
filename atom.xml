@@ -5,7 +5,7 @@
   <id>https://tg3online.github.io/regrisk-radar/</id>
   <link href="https://tg3online.github.io/regrisk-radar/" />
   <link href="https://tg3online.github.io/regrisk-radar/atom.xml" rel="self" type="application/atom+xml" />
-  <updated>2026-11-27T11:00:45Z</updated>
+  <updated>2026-11-27T22:47:43Z</updated>
   <entry>
     <title>FDIC publishes its 2026 civil money penalty maximums with no inflation adjustment, and states that GENIUS Act stablecoin penalty provisions are not yet addressed</title>
     <id>https://tg3online.github.io/regrisk-radar/#2026-11-27-fdic-2026-civil-money-penalty-notice</id>
@@ -86,6 +86,23 @@ RegRisk Radar is regulatory-risk intelligence provided for general informational
 Primary source: DOJ press release 26-1411 (justice.gov) — https://www.justice.gov/opa/pr/colombian-national-indicted-scheme-defraud-victims-ransomware-attacks
 
 Relevant to: crypto payment processors, custodians, incident-response vendors, compliance teams
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</content>
+  </entry>
+  <entry>
+    <title>Four federal banking agencies say they will not pursue enforcement over Bank Secrecy Act reports filed late because of a service disruption</title>
+    <id>https://tg3online.github.io/regrisk-radar/#2026-11-25-banking-agencies-joint-bsa-service-disruption-statement</id>
+    <link href="https://tg3online.github.io/regrisk-radar/#2026-11-25-banking-agencies-joint-bsa-service-disruption-statement" rel="alternate" />
+    <updated>2026-11-25T00:00:00Z</updated>
+    <published>2026-11-25T00:00:00Z</published>
+    <category term="Office of the Comptroller of the Currency; Federal Reserve Board; FDIC; NCUA" />
+    <content type="text">OCC Bulletin 2026-59, dated November 25, 2026, notifies OCC-supervised banks of a Joint Statement of Supervisory Policy for Bank Secrecy Act Reporting in Response to a Service Disruption, dated November 25, 2026 and issued by the Board of Governors of the Federal Reserve System, the FDIC, the NCUA and the OCC. The joint statement states that the agencies will not take supervisory action, including citing a violation of law, or pursue enforcement against a supervised financial institution that, as of November 18, 2026, used Secure Data Transfer Mode to submit reports and that files a Bank Secrecy Act report or a suspicious activity report late because of the disruption, to the extent and for the period of FinCEN&#x27;s related exceptive relief of November 24, 2026, including any later relief addressing the same disruption. The statement adds that institutions should document which submissions were delayed and the dates on which submission was attempted, that all other AML/CFT obligations continue to apply including ongoing monitoring to identify suspicious transactions, that the Financial Institutions Hotline is unaffected and remains available, and that the commitment does not extend to statutes or regulations beyond those specifically addressed. A footnote defines &quot;BSA Reporting&quot; as any reporting obligation under the Bank Secrecy Act and its implementing regulations in chapter X of Title 31 of the Code of Federal Regulations. The bulletin is signed by James M. Gallagher, Senior Deputy Comptroller and Chief National Bank Examiner.
+
+Primary source: OCC Bulletin 2026-59, Notification: Joint Statement of Supervisory Policy (retrieved) — https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-59.html
+
+Relevant to: banks and credit unions filing Bank Secrecy Act reports, their bank-partner fintech and payments programs, and AML compliance teams
 
 For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
 
@@ -256,6 +273,23 @@ RegRisk Radar is regulatory-risk intelligence provided for general informational
 Primary source: California DFPI press release, November 24, 2026 — https://dfpi.ca.gov/press_release/california-penalizes-afterpay-for-illegal-buy-now-pay-later-lending/
 
 Relevant to: buy-now-pay-later and point-of-sale lenders, fintech lending platforms, consumer-credit compliance teams
+
+For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
+
+RegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.</content>
+  </entry>
+  <entry>
+    <title>FinCEN moves Bank Secrecy Act and beneficial ownership filing deadlines to December 30 after a reporting service disruption</title>
+    <id>https://tg3online.github.io/regrisk-radar/#2026-11-24-fincen-bsa-boi-service-disruption-relief</id>
+    <link href="https://tg3online.github.io/regrisk-radar/#2026-11-24-fincen-bsa-boi-service-disruption-relief" rel="alternate" />
+    <updated>2026-11-24T00:00:00Z</updated>
+    <published>2026-11-24T00:00:00Z</published>
+    <category term="Financial Crimes Enforcement Network (FinCEN)" />
+    <content type="text">FinCEN issued Order FIN-2026-R002 on November 24, 2026, granting temporary, limited exceptive relief under 31 U.S.C. 5318(a)(7) and 31 C.F.R. 1010.970 in response to what the order describes as a service disruption hindering filers&#x27; ability to adhere to reporting obligations. The order states that financial institutions that, as of November 18, 2026, used Secure Data Transfer Mode (SDTM) to submit Bank Secrecy Act reports and that are required to file between November 18 and December 29, 2026 are relieved of the requirements to file reports during that period, and must instead submit those reports by no later than December 30, 2026. The order states the same relief and the same December 30, 2026 date for reporting companies required to file a beneficial ownership information report and for individuals required to update a FinCEN identifier under 31 C.F.R. 1010.380. The order states that all other AML/CFT requirements under the Bank Secrecy Act continue to apply, including ongoing monitoring to identify suspicious transactions, that the Financial Institutions Hotline is unaffected by the disruption and remains available to filers needing to expedite suspicious activity information to law enforcement, and that FinCEN may modify or extend the order at its discretion. The order does not define &quot;financial institution&quot; and does not name money services businesses, money transmitters, broker-dealers, casinos, or digital-asset businesses.
+
+Primary source: FinCEN Order FIN-2026-R002 (PDF, retrieved) — https://www.fincen.gov/sites/default/files/100/ORDER-FIN-2026-R002.pdf
+
+Relevant to: BSA filers using Secure Data Transfer Mode, AML compliance teams at payments, fintech and digital-asset firms, and reporting companies with beneficial ownership obligations
 
 For operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/
 

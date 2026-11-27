@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-27T11:00:45Z",
+  "generated": "2026-11-27T22:47:43Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 471,
+  "count": 473,
   "items": [
     {
       "id": "2026-11-27-fdic-2026-civil-money-penalty-notice",
@@ -110,6 +110,34 @@
         "ransomware",
         "wire-fraud",
         "indictment"
+      ]
+    },
+    {
+      "id": "2026-11-25-banking-agencies-joint-bsa-service-disruption-statement",
+      "date": "2026-11-25",
+      "published": "2026-11-25T00:00:00Z",
+      "title": "Four federal banking agencies say they will not pursue enforcement over Bank Secrecy Act reports filed late because of a service disruption",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-25-banking-agencies-joint-bsa-service-disruption-statement",
+      "issuing_body": "Office of the Comptroller of the Currency; Federal Reserve Board; FDIC; NCUA",
+      "source_url": "https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-59.html",
+      "source_label": "OCC Bulletin 2026-59, Notification: Joint Statement of Supervisory Policy (retrieved)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "banks and credit unions filing Bank Secrecy Act reports, their bank-partner fintech and payments programs, and AML compliance teams",
+      "tags": [
+        "occ",
+        "federal-reserve",
+        "fdic",
+        "ncua",
+        "bsa",
+        "aml",
+        "bsa-reporting",
+        "suspicious-activity-reports",
+        "joint-statement",
+        "supervisory-policy",
+        "service-disruption",
+        "payments",
+        "fintech"
       ]
     },
     {
@@ -320,6 +348,33 @@
         "state-enforcement",
         "california",
         "consent-order"
+      ]
+    },
+    {
+      "id": "2026-11-24-fincen-bsa-boi-service-disruption-relief",
+      "date": "2026-11-24",
+      "published": "2026-11-24T00:00:00Z",
+      "title": "FinCEN moves Bank Secrecy Act and beneficial ownership filing deadlines to December 30 after a reporting service disruption",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-24-fincen-bsa-boi-service-disruption-relief",
+      "issuing_body": "Financial Crimes Enforcement Network (FinCEN)",
+      "source_url": "https://www.fincen.gov/sites/default/files/100/ORDER-FIN-2026-R002.pdf",
+      "source_label": "FinCEN Order FIN-2026-R002 (PDF, retrieved)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "BSA filers using Secure Data Transfer Mode, AML compliance teams at payments, fintech and digital-asset firms, and reporting companies with beneficial ownership obligations",
+      "tags": [
+        "fincen",
+        "bsa",
+        "aml",
+        "bsa-reporting",
+        "suspicious-activity-reports",
+        "beneficial-ownership",
+        "corporate-transparency-act",
+        "exceptive-relief",
+        "service-disruption",
+        "compliance-deadline",
+        "payments",
+        "fintech"
       ]
     },
     {

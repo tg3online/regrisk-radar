@@ -117,6 +117,34 @@
       "relevant_to": "crypto payment processors, custodians, incident-response vendors, compliance teams"
     },
     {
+      "id": "2026-11-25-banking-agencies-joint-bsa-service-disruption-statement",
+      "date": "2026-11-25",
+      "published": "2026-11-25T00:00:00Z",
+      "issuing_body": "Office of the Comptroller of the Currency; Federal Reserve Board; FDIC; NCUA",
+      "title": "Four federal banking agencies say they will not pursue enforcement over Bank Secrecy Act reports filed late because of a service disruption",
+      "facts": "OCC Bulletin 2026-59, dated November 25, 2026, notifies OCC-supervised banks of a Joint Statement of Supervisory Policy for Bank Secrecy Act Reporting in Response to a Service Disruption, dated November 25, 2026 and issued by the Board of Governors of the Federal Reserve System, the FDIC, the NCUA and the OCC. The joint statement states that the agencies will not take supervisory action, including citing a violation of law, or pursue enforcement against a supervised financial institution that, as of November 18, 2026, used Secure Data Transfer Mode to submit reports and that files a Bank Secrecy Act report or a suspicious activity report late because of the disruption, to the extent and for the period of FinCEN's related exceptive relief of November 24, 2026, including any later relief addressing the same disruption. The statement adds that institutions should document which submissions were delayed and the dates on which submission was attempted, that all other AML/CFT obligations continue to apply including ongoing monitoring to identify suspicious transactions, that the Financial Institutions Hotline is unaffected and remains available, and that the commitment does not extend to statutes or regulations beyond those specifically addressed. A footnote defines \"BSA Reporting\" as any reporting obligation under the Bank Secrecy Act and its implementing regulations in chapter X of Title 31 of the Code of Federal Regulations. The bulletin is signed by James M. Gallagher, Senior Deputy Comptroller and Chief National Bank Examiner.",
+      "source_url": "https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-59.html",
+      "source_label": "OCC Bulletin 2026-59, Notification: Joint Statement of Supervisory Policy (retrieved)",
+      "tags": [
+        "occ",
+        "federal-reserve",
+        "fdic",
+        "ncua",
+        "bsa",
+        "aml",
+        "bsa-reporting",
+        "suspicious-activity-reports",
+        "joint-statement",
+        "supervisory-policy",
+        "service-disruption",
+        "payments",
+        "fintech"
+      ],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "banks and credit unions filing Bank Secrecy Act reports, their bank-partner fintech and payments programs, and AML compliance teams"
+    },
+    {
       "id": "2026-11-24-cftc-final-rule-event-contract-data-reporting",
       "date": "2026-11-24",
       "published": "2026-11-24T11:05:00Z",
@@ -325,6 +353,33 @@
       "source_type": "primary_source",
       "primary_source_status": "retrieved",
       "relevant_to": "buy-now-pay-later and point-of-sale lenders, fintech lending platforms, consumer-credit compliance teams"
+    },
+    {
+      "id": "2026-11-24-fincen-bsa-boi-service-disruption-relief",
+      "date": "2026-11-24",
+      "published": "2026-11-24T00:00:00Z",
+      "issuing_body": "Financial Crimes Enforcement Network (FinCEN)",
+      "title": "FinCEN moves Bank Secrecy Act and beneficial ownership filing deadlines to December 30 after a reporting service disruption",
+      "facts": "FinCEN issued Order FIN-2026-R002 on November 24, 2026, granting temporary, limited exceptive relief under 31 U.S.C. 5318(a)(7) and 31 C.F.R. 1010.970 in response to what the order describes as a service disruption hindering filers' ability to adhere to reporting obligations. The order states that financial institutions that, as of November 18, 2026, used Secure Data Transfer Mode (SDTM) to submit Bank Secrecy Act reports and that are required to file between November 18 and December 29, 2026 are relieved of the requirements to file reports during that period, and must instead submit those reports by no later than December 30, 2026. The order states the same relief and the same December 30, 2026 date for reporting companies required to file a beneficial ownership information report and for individuals required to update a FinCEN identifier under 31 C.F.R. 1010.380. The order states that all other AML/CFT requirements under the Bank Secrecy Act continue to apply, including ongoing monitoring to identify suspicious transactions, that the Financial Institutions Hotline is unaffected by the disruption and remains available to filers needing to expedite suspicious activity information to law enforcement, and that FinCEN may modify or extend the order at its discretion. The order does not define \"financial institution\" and does not name money services businesses, money transmitters, broker-dealers, casinos, or digital-asset businesses.",
+      "source_url": "https://www.fincen.gov/sites/default/files/100/ORDER-FIN-2026-R002.pdf",
+      "source_label": "FinCEN Order FIN-2026-R002 (PDF, retrieved)",
+      "tags": [
+        "fincen",
+        "bsa",
+        "aml",
+        "bsa-reporting",
+        "suspicious-activity-reports",
+        "beneficial-ownership",
+        "corporate-transparency-act",
+        "exceptive-relief",
+        "service-disruption",
+        "compliance-deadline",
+        "payments",
+        "fintech"
+      ],
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "BSA filers using Secure Data Transfer Mode, AML compliance teams at payments, fintech and digital-asset firms, and reporting companies with beneficial ownership obligations"
     },
     {
       "id": "2026-11-23-new-york-court-denies-kalshi-temporary-restraining-order",
