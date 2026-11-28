@@ -6,6 +6,62 @@
   "description": "Daily facts-only regulatory radar — crypto, gaming, payments & fintech. Verified against primary sources.",
   "items": [
     {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-11-28-cftc-event-contract-data-reporting-effective-january-2027",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-11-28-cftc-event-contract-data-reporting-effective-january-2027",
+      "title": "CFTC event contract data reporting rule set for Federal Register publication, effective January 29, 2027",
+      "content_text": "The Federal Register version of the CFTC final rule Data Reporting Requirements for Certain Event Contracts, RIN 3038-AF73, carries a publication date of November 30, 2026, and its DATES section states: This rule is effective January 29, 2027. The rule adds section 16.03, Covered Event Contracts, to part 16 of the CFTC regulations and requires certain reporting markets, futures commission merchants, clearing members and foreign brokers to report covered event contracts under parts 15 through 18 rather than under the swap reporting rules in parts 38, 39, 43 and 45. The rule also provides that a designated contract market must publish time-and-sales data on its website, including the trade timestamp, the contract ticker symbol, and the quantity and price in US dollars. The CFTC announced the rule in press release 9330-26 on November 23, 2026; the compliance dates in that announcement are stated relative to Federal Register publication rather than as calendar dates.\n\nPrimary source: Federal Register via GovInfo - CFTC final rule, FR Doc. 2026-24209, RIN 3038-AF73 (PDF) — https://www.govinfo.gov/content/pkg/FR-2026-11-30/pdf/2026-24209.pdf\n\nRelevant to: designated contract markets, event-contract and prediction-market platforms, futures commission merchants, clearing members\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-11-28T10:56:53Z",
+      "tags": [
+        "cftc",
+        "event-contracts",
+        "prediction-markets",
+        "final-rule",
+        "data-reporting"
+      ]
+    },
+    {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-11-28-sec-cboe-binary-equity-options-sr-cboe-2026-087",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-11-28-sec-cboe-binary-equity-options-sr-cboe-2026-087",
+      "title": "Cboe files immediately effective rules to list binary options on individual stocks and ETFs",
+      "content_text": "SEC Release No. 34-106980, File No. SR-CBOE-2026-087, is a notice of filing and immediate effectiveness of a Cboe Exchange proposed rule change to permit the listing of binary options overlying individual stocks, exchange-traded funds and exchange-traded notes, which the filing calls binary equity options. The notice states that Cboe rules already permit binary options on broad-based indexes, the Cboe Magnificent 10 Index and KPIs. The filing was made on November 13, 2026, noticed on November 24, 2026, and carries a Federal Register publication date of November 30, 2026 at 91 FR 77242. It adds a new Chapter 4, Section J, comprising Rules 4.90 through 4.94, and defines a binary option as a cash-settled option contract having an exercise settlement amount that is established at the creation of the option, with an exercise settlement amount of 100 US dollars and a multiplier of 100. The contracts are European-style, cash-settled and P.M.-settled using the closing price of the underlying on the expiration day, with five consecutive weekly expirations. New Rule 8.36(a)(4) sets a position limit of 25,000 standard option contracts on the same side of the market, and Rule 4.91(a) listing criteria include a minimum market capitalization of 290 billion US dollars for individual stocks together with volume and price tests.\n\nPrimary source: SEC - Release No. 34-106980, File No. SR-CBOE-2026-087 (PDF) — https://www.sec.gov/files/rules/sro/cboe/2026/34-106980.pdf\n\nRelevant to: options exchanges, broker-dealers, binary-options and prediction-market platforms\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-11-28T10:56:53Z",
+      "tags": [
+        "sec",
+        "cboe",
+        "binary-options",
+        "sro-filing",
+        "exchange-listing"
+      ]
+    },
+    {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-11-28-eia-form-872-data-center-survey-cryptocurrency-mines",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-11-28-eia-form-872-data-center-survey-cryptocurrency-mines",
+      "title": "EIA proposes a new data center energy survey that names cryptocurrency mines among facilities potentially in scope",
+      "content_text": "The Energy Information Administration published a notice on November 27, 2026 proposing a new Form EIA-872, the Data Center Energy Consumption Survey, to collect facility-level energy consumption and energy-related physical and operational characteristics from all US data centers with a design capacity of at least 1 megawatt. The notice states that in-scope facilities may include cryptocurrency mines, but that such facilities which do not meet the definition and the capacity threshold are excluded. Under the proposal, EIA sends a questionnaire to each company with at least one data center, and the company lists its data center facilities and reports each facility with at least 1 megawatt of IT design capacity. The notice estimates 1,400 respondents and 12,200 burden hours, states that EIA is not collecting confidential business information about the customers those facilities serve, and sets comments due no later than January 26, 2027.\n\nPrimary source: Federal Register via GovInfo - EIA notice, FR Doc. 2026-24077 (PDF) — https://www.govinfo.gov/content/pkg/FR-2026-11-27/pdf/2026-24077.pdf\n\nRelevant to: cryptocurrency mining operators, data center operators, energy-intensive compute facilities\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-11-28T10:56:53Z",
+      "tags": [
+        "crypto",
+        "crypto-mining",
+        "eia",
+        "information-collection",
+        "energy"
+      ]
+    },
+    {
+      "id": "https://tg3online.github.io/regrisk-radar/#2026-11-28-ndcal-robinhood-sports-event-contract-arbitration-denied",
+      "url": "https://tg3online.github.io/regrisk-radar/#2026-11-28-ndcal-robinhood-sports-event-contract-arbitration-denied",
+      "title": "Outlets report a federal judge denied Robinhood's bid to arbitrate sports event contract claims",
+      "content_text": "As reported by Finance Magnates on November 26, 2026 and by the Daily Caller News Foundation on November 27, 2026, US District Judge Edward Chen of the Northern District of California denied Robinhood's motion to compel arbitration as to 10 of the 11 named plaintiffs in four consolidated cases concerning sports event contracts. Finance Magnates quotes the judge as concluding that what the parties agreed to arbitrate were disputes about contracts regulated by the CFTC. The Daily Caller News Foundation quotes the order as stating that sports bets offered by Robinhood do not constitute contracts within the meaning of the Agreement and fall outside the scope of the arbitration agreement, and that gambling contracts are outside the scope of CFTC regulation. Both outlets report that the judge stated he was not ruling on the merits and directed the parties to file a status report within two weeks. Neither outlet prints a calendar date for the ruling, describing it only as issued on a Wednesday, and the underlying court order was not retrieved for this entry.\n\nCoverage (reporting filing): Finance Magnates (trade press coverage; underlying court order not retrieved) — https://www.financemagnates.com/fintech/robinhood-must-fight-sports-betting-lawsuit-in-court-after-arbitration-bid-fails/\n\nRelevant to: prediction-market platforms, sports event contract operators, brokerages offering event contracts\n\nFor operator-impact analysis and watchlist implications, join RegRisk Radar. https://regriskradar.beehiiv.com/\n\nRegRisk Radar is regulatory-risk intelligence provided for general informational purposes only. It is not legal advice and does not create an attorney-client relationship; it is not investment, tax, or financial advice. Regulatory matters are fact-specific and change quickly — consult qualified counsel about your situation. Primary sources are linked; verify before acting.",
+      "date_published": "2026-11-28T10:56:53Z",
+      "tags": [
+        "prediction-markets",
+        "event-contracts",
+        "sports-betting",
+        "arbitration",
+        "litigation"
+      ]
+    },
+    {
       "id": "https://tg3online.github.io/regrisk-radar/#2026-11-27-fdic-2026-civil-money-penalty-notice",
       "url": "https://tg3online.github.io/regrisk-radar/#2026-11-27-fdic-2026-civil-money-penalty-notice",
       "title": "FDIC publishes its 2026 civil money penalty maximums with no inflation adjustment, and states that GENIUS Act stablecoin penalty provisions are not yet addressed",

@@ -1,8 +1,88 @@
 {
-  "generated": "2026-11-27T22:47:43Z",
+  "generated": "2026-11-28T11:03:45Z",
   "site": "https://tg3online.github.io/regrisk-radar/",
-  "count": 473,
+  "count": 477,
   "items": [
+    {
+      "id": "2026-11-28-cftc-event-contract-data-reporting-effective-january-2027",
+      "date": "2026-11-28",
+      "published": "2026-11-28T10:56:53Z",
+      "title": "CFTC event contract data reporting rule set for Federal Register publication, effective January 29, 2027",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-28-cftc-event-contract-data-reporting-effective-january-2027",
+      "issuing_body": "Commodity Futures Trading Commission",
+      "source_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-30/pdf/2026-24209.pdf",
+      "source_label": "Federal Register via GovInfo - CFTC final rule, FR Doc. 2026-24209, RIN 3038-AF73 (PDF)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "designated contract markets, event-contract and prediction-market platforms, futures commission merchants, clearing members",
+      "tags": [
+        "cftc",
+        "event-contracts",
+        "prediction-markets",
+        "final-rule",
+        "data-reporting"
+      ]
+    },
+    {
+      "id": "2026-11-28-sec-cboe-binary-equity-options-sr-cboe-2026-087",
+      "date": "2026-11-28",
+      "published": "2026-11-28T10:56:53Z",
+      "title": "Cboe files immediately effective rules to list binary options on individual stocks and ETFs",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-28-sec-cboe-binary-equity-options-sr-cboe-2026-087",
+      "issuing_body": "Securities and Exchange Commission",
+      "source_url": "https://www.sec.gov/files/rules/sro/cboe/2026/34-106980.pdf",
+      "source_label": "SEC - Release No. 34-106980, File No. SR-CBOE-2026-087 (PDF)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "options exchanges, broker-dealers, binary-options and prediction-market platforms",
+      "tags": [
+        "sec",
+        "cboe",
+        "binary-options",
+        "sro-filing",
+        "exchange-listing"
+      ]
+    },
+    {
+      "id": "2026-11-28-eia-form-872-data-center-survey-cryptocurrency-mines",
+      "date": "2026-11-28",
+      "published": "2026-11-28T10:56:53Z",
+      "title": "EIA proposes a new data center energy survey that names cryptocurrency mines among facilities potentially in scope",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-28-eia-form-872-data-center-survey-cryptocurrency-mines",
+      "issuing_body": "Energy Information Administration",
+      "source_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-27/pdf/2026-24077.pdf",
+      "source_label": "Federal Register via GovInfo - EIA notice, FR Doc. 2026-24077 (PDF)",
+      "source_type": "primary_source",
+      "primary_source_status": "retrieved",
+      "relevant_to": "cryptocurrency mining operators, data center operators, energy-intensive compute facilities",
+      "tags": [
+        "crypto",
+        "crypto-mining",
+        "eia",
+        "information-collection",
+        "energy"
+      ]
+    },
+    {
+      "id": "2026-11-28-ndcal-robinhood-sports-event-contract-arbitration-denied",
+      "date": "2026-11-28",
+      "published": "2026-11-28T10:56:53Z",
+      "title": "Outlets report a federal judge denied Robinhood's bid to arbitrate sports event contract claims",
+      "permalink": "https://tg3online.github.io/regrisk-radar/#2026-11-28-ndcal-robinhood-sports-event-contract-arbitration-denied",
+      "issuing_body": "US District Court for the Northern District of California (as reported)",
+      "source_url": "https://www.financemagnates.com/fintech/robinhood-must-fight-sports-betting-lawsuit-in-court-after-arbitration-bid-fails/",
+      "source_label": "Finance Magnates (trade press coverage; underlying court order not retrieved)",
+      "source_type": "coverage_reporting_filing",
+      "primary_source_status": "cited_by_coverage_not_retrieved",
+      "relevant_to": "prediction-market platforms, sports event contract operators, brokerages offering event contracts",
+      "tags": [
+        "prediction-markets",
+        "event-contracts",
+        "sports-betting",
+        "arbitration",
+        "litigation"
+      ]
+    },
     {
       "id": "2026-11-27-fdic-2026-civil-money-penalty-notice",
       "date": "2026-11-27",
